@@ -1,0 +1,140 @@
+{
+	"UI.stat.HP": {
+		"en": "HP",
+		"fr": "PV",
+	},
+	"UI.stat.MP": {
+		"en": "MP",
+		"fr": "PM",
+	},
+	"UI.stat.EXP": {
+		"en": "EXP",
+		"fr": "EXP",
+	},
+	"UI.stat.ATK": {
+		"en": "Attack",
+		"fr": "Attaque",
+		"es": "Ataque",
+		"ch": "攻击",
+		"kr": "공격",
+	},
+	"UI.stat.ATK.short": {
+		"en": "ATK",
+		"fr": "ATQ",
+		"es": "ATQ",
+		"ch": "攻击",
+		"kr": "공격",
+	},
+	"UI.stat.DEF": {
+		"en": "Defence",
+		"fr": "Défense",
+		"ch": "防御",
+		"kr": "방어",
+	},
+	"UI.stat.DEF.short": {
+		"en": "DEF",
+		"fr": "DEF",
+	},
+	"UI.stat.ENHCDMG": {
+		"en": "Enhanced Damage",
+		"fr": "Dégâts Améliorés",
+	},
+	"UI.stat.ENHCDMG.short": {
+		"en": "ENHC DMG",
+		"fr": "DGTS AML",
+	},
+	"UI.stat.DMGRD": {
+		"en": "Damage Reduction",
+		"fr": "Réduction de dégâts",
+	},
+	"UI.stat.DMGRD.short": {
+		"en": "DMG RD",
+		"fr": "RD DGTS",
+	},
+	"UI.stat.ATKSPD": {
+		"en": "Attack Speed",
+		"fr": "Vittesse d'attaque",
+		"es": "Velocidad de ataque",
+		"ch": "攻击速度",
+		"kr": "공격 속도",
+	},
+	"UI.stat.ATKSPD.short": {
+		"en": "ATK SPD",
+		"fr": "VIT ATK",
+		"es": "ATQ VEL",
+		"ch": "攻击速度",
+		"kr": "공격 속도",
+	},
+	"UI.stat.SKILLENHC": {
+		"en": "Skill Enhanced",
+		"fr": "Compétence améliorée",
+	},
+	"UI.stat.SKILLENHC.short": {
+		"en": "Skill ENHC",
+		"fr": "Comp AML",
+	},
+	"UI.stat.ACC": {
+		"en": "Accuracy",
+		"fr": "Précision",
+	},
+	"UI.stat.ACC.short": {
+		"en": "ACC",
+		"fr": "PRE",
+	},
+	"UI.stat.SKILLACC": {
+		"en": "Skill Accuracy",
+		"fr": "Précision Compétence",
+	},
+	"UI.stat.SKILLACC.short": {
+		"en": "Skill ACC",
+		"fr": "PRE Comp",
+	},
+	"UI.stat.EVA": {
+		"en": "Evasion",
+		"fr": "Esquive",
+	},
+	"UI.stat.EVA.short": {
+		"en": "EVA",
+		"fr": "ESQ",
+	},
+	"UI.stat.SKILLEVA": {
+		"en": "Skill Evasion",
+		"fr": "Esquive Compétence",
+	},
+	"UI.stat.SKILLEVA.short": {
+		"en": "Skill EVA",
+		"fr": "ESQ Comp",
+	},
+	"UI.stat.CRITACC": {
+		"en": "Crit Accuracy",
+		"fr": "Précision Critique",
+	},
+	"UI.stat.CRITACC.short": {
+		"en": "CRIT ACC",
+		"fr": "PRE CRIT",
+	},
+	"UI.stat.SKILLCRITACC": {
+		"en": "Skill Crit Accuracy",
+		"fr": "Précision Compétence Critique",
+	},
+	"UI.stat.SKILLCRITACC.short": {
+		"en": "Skill CRIT ACC",
+		"fr": "PRE Comp CRIT",
+	},
+	"UI.stat.CRITEVA": {
+		"en": "Crit Evasion",
+		"fr": "Esquive Critique",
+	},
+	"UI.stat.CRITEVA.short": {
+		"en": "CRIT EVA",
+		"fr": "ESQ CRIT",
+	},
+	"UI.stat.SKILLCRITEVA": {
+		"en": "Skill Crit Evasion",
+		"fr": "Esquive Compétence Critique",
+	},
+	"UI.stat.SKILLCRITEVA.short": {
+		"en": "Skill CRIT EVA",
+		"fr": "ESQ Comp CRIT",
+	}
+}
