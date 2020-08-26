@@ -136,5 +136,41 @@
 	"UI.stat.SKILLCRITEVA.short": {
 		"en": "Skill CRIT EVA",
 		"fr": "ESQ Comp CRIT",
+	},
+	"UI.stat.CRITENCH": {
+		"en": "Crit Enhanced",
+	},
+	"UI.stat.CRITENCH.short": {
+		"en": "CRIT ENCH",
+	},
+	"UI.stat.SKILLCRITENCH": {
+		"en": "Skill Crit Enhanced",
+	},
+	"UI.stat.SKILLCRITENCH.short": {
+		"en": "Skill CRIT ENCH",
+	},
+	"UI.stat.CRITRD": {
+		"en": "Crit Reduction",
+	},
+	"UI.stat.CRITRD.short": {
+		"en": "CRIT RD",
+	},
+	"UI.stat.SKILLCRITRD": {
+		"en": "Skill Crit Reduction",
+	},
+	"UI.stat.SKILLCRITRD.short": {
+		"en": "Skill CRIT RD",
+	},
+	"UI.stat.HOLYATK": {
+		"en": "Holy Attack",
+	},
+	"UI.stat.HOLYATK.short": {
+		"en": "Holy ATK",
+	},
+	"UI.stat.LUCK": {
+		"en": "Luck",
+	},
+	"UI.stat.LUCK.short": {
+		"en": "Luck",
 	}
 }
