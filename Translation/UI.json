@@ -1,4 +1,71 @@
 {
+	"":{},
+	
+	"UI.chat.whisper_to":{
+		"en": "You say to %s",
+		"fr": "Vous dites à %s",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.whisper_from":{
+		"en": "%s says",
+		"fr": "%s vous dit",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	
+	"UI.chat.channel.local":{
+		"en": "Local",
+		"fr": "Local",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.channel.world":{
+		"en": "World",
+		"fr": "Monde",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.channel.notice":{
+		"en": "Notice",
+		"fr": "Annonce",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.channel.whisper":{
+		"en": "PM",
+		"fr": "MP",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.channel.guild":{
+		"en": "Guild",
+		"fr": "Guilde",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.channel.group":{
+		"en": "Group",
+		"fr": "Groupe",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"UI.chat.channel.system":{
+		"en": "System",
+		"fr": "Système",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	
 	"UI.stat.HP": {
 		"en": "HP",
 		"fr": "PV",
