@@ -1,6 +1,4 @@
 {
-	"":{},
-	
 	"UI.chat.whisper_to":{
 		"en": "You say to %s",
 		"fr": "Vous dites à %s",
@@ -86,6 +84,13 @@
 		"es": "  ",
 		"ch": "经验值",
 		"kr": "  ",
+	},
+	"UI.stat.SPD": {
+		"en": "SPD",
+		"fr": "VIT",
+		"es": "",
+		"ch": "",
+		"kr": "",
 	},
 	"UI.stat.ATK": {
 		"en": "Attack",
