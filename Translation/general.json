@@ -13,4 +13,25 @@
 		"ch": "",
 		"kr": "",
 	},
+	"general.CURRENCY.GOLD":{
+		"en": "Gold",
+		"fr": "Or",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"general.CURRENCY.TOKEN":{
+		"en": "Token",
+		"fr": "",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"general.CURRENCY.COUPON":{
+		"en": "Coupon",
+		"fr": "",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
 }
