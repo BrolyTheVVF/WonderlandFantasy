@@ -48,4 +48,18 @@
 		"ch": "",
 		"kr": "",
 	},
+	"general.quest.getReward":{
+		"en": "Get Reward",
+		"fr": "",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"general.quest.reward":{
+		"en": "Quest Reward",
+		"fr": "",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
 }
