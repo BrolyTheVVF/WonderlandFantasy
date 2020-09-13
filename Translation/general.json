@@ -34,4 +34,18 @@
 		"ch": "",
 		"kr": "",
 	},
+	"general.POINT.EXP":{
+		"en": "Exp",
+		"fr": "",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
+	"general.POINT.MAGIPOINT":{
+		"en": "Magipoint",
+		"fr": "",
+		"es": "",
+		"ch": "",
+		"kr": "",
+	},
 }
