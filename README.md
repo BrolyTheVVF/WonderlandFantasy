@@ -21,4 +21,5 @@ ar - Arabic
 it - Italian
 pl - Polish
 th - Thai
+id - Indonesian
 
