@@ -15,6 +15,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FIRE_BOLT.description":{
 		"en": "Strikes a single target with a fire bolt, dealing massive damage.",
@@ -32,6 +33,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FIRE_BOLT.effect":{
 		"en": "Inflicts {0}% damage and additional {1} skill damage",
@@ -49,6 +51,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.MAGIC_BOLT.name":{
@@ -67,6 +70,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.MAGIC_BOLT.description":{
 		"en": "Launches multiple bolts at the target, dealing magic damage.",
@@ -84,6 +88,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.MAGIC_BOLT.effect":{
 		"en": "Launch 3 bolts to deal {0}% more damage and aditional {1} skill damage.",
@@ -101,6 +106,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.ENERGY.name":{
@@ -119,6 +125,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.ENERGY.description":{
 		"en": "Increases mage's max MP.",
@@ -136,6 +143,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.ENERGY.effect":{
 		"en": "Increases base MP by {0}%",
@@ -153,6 +161,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.METEOR_DROP.name":{
@@ -171,6 +180,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.METEOR_DROP.description":{
 		"en": "Deals AOE by manipulating destructive meteors",
@@ -188,6 +198,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.METEOR_DROP.effect":{
 		"en": "Each stacked attack deals {0}% Damage",
@@ -205,6 +216,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.AWAKEN.name":{
@@ -223,6 +235,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.AWAKEN.description":{
 		"en": "Recovers MP Swiftly",
@@ -240,6 +253,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.AWAKEN.effect":{
 		"en": "Recover MP by {0}",
@@ -257,6 +271,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.THUNDER.name":{
@@ -275,6 +290,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.THUNDER.description":{
 		"en": "Strikes a single target heavily with thunder...",
@@ -292,6 +308,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.THUNDER.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -309,6 +326,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.FIRE_WALL.name":{
@@ -327,6 +345,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FIRE_WALL.description":{
 		"en": "Harms and slows down enemies in the area of effect by conjuring flames.",
@@ -344,6 +363,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FIRE_WALL.effect":{
 		"en": "Deals {0}% damage and an additional {1} Skill damage each second. Lasts 15 sec.",
@@ -361,6 +381,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.FREEZE.name":{
@@ -379,6 +400,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FREEZE.description":{
 		"en": "Freezes the target. Target is unfrozen when it takes damage.",
@@ -396,6 +418,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FREEZE.effect":{
 		"en": "Deals {0}% damage and freezes the target for {1} seconds.",
@@ -413,6 +436,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.MAGIC_MASTERY.name":{
@@ -431,6 +455,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.MAGIC_MASTERY.description":{
 		"en": "Increases Magic Crit Chance and Crit damage.",
@@ -448,6 +473,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.MAGIC_MASTERY.effect":{
 		"en": "Increases skill Crit Chance by {0}%. Also increases Skill Crit damage by {1}%.",
@@ -465,6 +491,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.MAGIC_SHIELD.name":{
@@ -483,6 +510,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.MAGIC_SHIELD.description":{
 		"en": "Creates a magic shield to absorb incoming damage.",
@@ -500,6 +528,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.MAGIC_SHIELD.effect":{
 		"en": "Magic shield absorbs {0} incoming damage. Lasts up to 20 sec.",
@@ -517,6 +546,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.SILENCE_CURSE.name":{
@@ -535,6 +565,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.SILENCE_CURSE.description":{
 		"en": "Attacks the target, disabling it from using skills.",
@@ -552,6 +583,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.SILENCE_CURSE.effect":{
 		"en": "Inflicting {0}% more damage and an additional {1} Skill damage. Lasts {2} sec.",
@@ -569,6 +601,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.mage.FROST_BREATH.name":{
@@ -587,6 +620,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FROST_BREATH.description":{
 		"en": "Causes massive damage to all enemies in the area of effect. Deals additional damage to frozen targets.",
@@ -604,6 +638,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.mage.FROST_BREATH.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -621,6 +656,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	
@@ -640,6 +676,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.TRIPLE_SHOT.description":{
 		"en": "Shoots at a single target to deal serious damage.",
@@ -657,6 +694,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.TRIPLE_SHOT.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -674,6 +712,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.POISON_ARROW.name":{
@@ -692,6 +731,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.POISON_ARROW.description":{
 		"en": "Poisons the target and slows it down.",
@@ -709,6 +749,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.POISON_ARROW.effect":{
 		"en": "Lowers target's SPD by {0}%. Target takes {1}% more damage and an additional {2} Skill damage over 4 sec.",
@@ -726,6 +767,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.EAGLE_EYE.name":{
@@ -744,6 +786,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.EAGLE_EYE.description":{
 		"en": "Provides the Ranger with an Attack Increase to distant targets.",
@@ -761,6 +804,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.EAGLE_EYE.effect":{
 		"en": "Common attacks deal {0}% Enhanced Damage to targets more than 8 yrds from you.",
@@ -778,6 +822,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.CHARGED_SHOT.name":{
@@ -796,6 +841,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.CHARGED_SHOT.description":{
 		"en": "Strikes the enemy with charged arrows.",
@@ -813,6 +859,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.CHARGED_SHOT.effect":{
 		"en": "Each stacked attack deals {0}% damage.",
@@ -830,6 +877,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.HASTE.name":{
@@ -848,6 +896,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.HASTE.description":{
 		"en": "Increases Ranger's Movement Speed.",
@@ -865,6 +914,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.HASTE.effect":{
 		"en": "Lasts {0} sec. Increases SPD by {1}.",
@@ -882,6 +932,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.MULTI_ARROW.name":{
@@ -900,6 +951,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.MULTI_ARROW.description":{
 		"en": "Shoots multiple arrows to attack all enemies in a certain range.",
@@ -917,6 +969,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.MULTI_ARROW.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -934,6 +987,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.CRACK_SHOT.name":{
@@ -952,6 +1006,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.CRACK_SHOT.description":{
 		"en": "Increases Ranger's Attack Speed for a short period of time, during which the Ranger cannot move.",
@@ -969,6 +1024,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.CRACK_SHOT.effect":{
 		"en": "Lasts {0} sec. Increases ATK SPD by {1}. Effect disappears after {2} attacks.",
@@ -986,6 +1042,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.EVASION.name":{
@@ -1004,6 +1061,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.EVASION.description":{
 		"en": "Enhances Ranger's evasive maneuvers.",
@@ -1021,6 +1079,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.EVASION.effect":{
 		"en": "Increases Evasion and Skill Evasion by {0}%. Lasts 6 sec.",
@@ -1038,6 +1097,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.PRECISION.name":{
@@ -1056,6 +1116,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.PRECISION.description":{
 		"en": "Increases Ranger's Crit Chance and Attack Range. Passive.",
@@ -1073,6 +1134,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.PRECISION.effect":{
 		"en": "Increases Crit Chance by {0}%. Increases Attack Range by {1} yrds.",
@@ -1090,6 +1152,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.PARALYZE_TRAP.name":{
@@ -1108,6 +1171,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.PARALYZE_TRAP.description":{
 		"en": "Confines the enemy to a trap.",
@@ -1125,6 +1189,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.PARALYZE_TRAP.effect":{
 		"en": "Trap lasts 15 sec. Paralyzes the target for {0} sec.",
@@ -1142,6 +1207,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.HOMING_ARROW.name":{
@@ -1160,6 +1226,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.HOMING_ARROW.description":{
 		"en": "Instantly shoots multiple homing arrows at a single target, dealing a large amount of damage.",
@@ -1177,6 +1244,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.HOMING_ARROW.effect":{
 		"en": "Inflicts {0}% more DMG and an additional {1} Skill DMG.",
@@ -1194,6 +1262,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.ranger.IMPACT_SHOT.name":{
@@ -1212,6 +1281,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.IMPACT_SHOT.description":{
 		"en": "Knocks the target back with powerful shots. Has a better chance to Paralyze the target for 3 seconds as skill levels.",
@@ -1229,6 +1299,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.ranger.IMPACT_SHOT.effect":{
 		"en": "Deals {0} Skill DMG. Knock-back distance: {1}.",
@@ -1246,6 +1317,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	
@@ -1265,6 +1337,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.SLAM.description":{
 		"en": "Attack a target with your weapon, dealing massive damage.",
@@ -1282,6 +1355,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.SLAM.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -1299,6 +1373,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.AIR_SLASH.name":{
@@ -1317,6 +1392,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.AIR_SLASH.description":{
 		"en": "Approach a target instantly to deliver a devastating strike.",
@@ -1334,6 +1410,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.AIR_SLASH.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage. Range: {2} yds.",
@@ -1351,6 +1428,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.TENACITY.name":{
@@ -1369,6 +1447,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.TENACITY.description":{
 		"en": "Increases Warrior’s max HP, for better survivability against monsters.",
@@ -1386,6 +1465,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.TENACITY.effect":{
 		"en": "Increases Warrior's base HP by {0}%",
@@ -1403,6 +1483,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.PITCH.name":{
@@ -1421,6 +1502,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.PITCH.description":{
 		"en": "Strikes target with a heavy ranged attack.",
@@ -1438,6 +1520,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.PITCH.effect":{
 		"en": "Each stacked attack deals {0}% damage",
@@ -1455,6 +1538,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.BASH.name":{
@@ -1473,6 +1557,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.BASH.description":{
 		"en": "Deals damage to the target and slows it down.",
@@ -1490,6 +1575,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.BASH.effect":{
 		"en": "Inflicts {0} Skill damage. Lowers target's SPD by {1}% for {2} sec.",
@@ -1507,6 +1593,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.WAR_CRY.name":{
@@ -1525,6 +1612,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.WAR_CRY.description":{
 		"en": "Taunts nearby enemies and lowers their Defense. Causes high threat against certain monsters. Suitable for tanking.",
@@ -1542,6 +1630,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.WAR_CRY.effect":{
 		"en": "Causes {0} Skill damage to nearby enemies. Lowers enemies DMG RD by {1}%. Lasts {2} sec.",
@@ -1559,6 +1648,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.SURGE.name":{
@@ -1577,6 +1667,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.SURGE.description":{
 		"en": "Attacks enemies in a line in front of you.",
@@ -1594,6 +1685,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.SURGE.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage",
@@ -1611,6 +1703,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.BLOCK.name":{
@@ -1629,6 +1722,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.BLOCK.description":{
 		"en": "Warrior takes less damage from the next couple attacks.",
@@ -1646,6 +1740,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.BLOCK.effect":{
 		"en": "Increases DMG RD by {0}%. Character blocks 2 incoming attacks within 5 sec.",
@@ -1663,6 +1758,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.CRIT_ENHANCE.name":{
@@ -1681,6 +1777,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.CRIT_ENHANCE.description":{
 		"en": "Increases the amount of Crit damage dealt.",
@@ -1698,6 +1795,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.CRIT_ENHANCE.effect":{
 		"en": "Increases a Warrior's Common Attack Crit Damage by {0}%",
@@ -1715,6 +1813,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.CRIT_SLASH.name":{
@@ -1733,6 +1832,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.CRIT_SLASH.description":{
 		"en": "Increases the Crit Chance of your next common attack.",
@@ -1750,6 +1850,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.CRIT_SLASH.effect":{
 		"en": "Increases Crit Chance and Hit Chance by {0}% for next 3 common attacks. Lasts up to {1} sec.",
@@ -1767,6 +1868,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.RAGE.name":{
@@ -1785,6 +1887,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.RAGE.description":{
 		"en": "Activates a Warrior’s rage.",
@@ -1802,6 +1905,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.RAGE.effect":{
 		"en": "Cooldown: {0} sec. Greatly enhances combat efficiency for {1} sec. Increases SPD by 30% and ATK SPD by 100%",
@@ -1819,6 +1923,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"skills.warrior.TERMINATE.name":{
@@ -1837,6 +1942,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.TERMINATE.description":{
 		"en": "An ultimate strike that deals a high amount of damage to one target.",
@@ -1854,6 +1960,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"skills.warrior.TERMINATE.effect":{
 		"en": "Inflicts {0}% more DMG and an additional {1} Skill DMG",
@@ -1871,5 +1978,6 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 }
