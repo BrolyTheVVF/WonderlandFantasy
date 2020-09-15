@@ -15,6 +15,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.whisper_from":{
 		"en": "%s says",
@@ -32,6 +33,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"UI.chat.channel.local":{
@@ -50,6 +52,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.channel.world":{
 		"en": "World",
@@ -67,6 +70,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.channel.notice":{
 		"en": "Notice",
@@ -84,6 +88,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.channel.whisper":{
 		"en": "PM",
@@ -101,6 +106,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.channel.guild":{
 		"en": "Guild",
@@ -118,6 +124,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.channel.group":{
 		"en": "Group",
@@ -135,6 +142,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.chat.channel.system":{
 		"en": "System",
@@ -152,6 +160,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	
 	"UI.stat.HP": {
@@ -170,6 +179,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.MP": {
 		"en": "MP",
@@ -187,6 +197,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.EXP": {
 		"en": "EXP",
@@ -204,6 +215,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SPD": {
 		"en": "SPD",
@@ -221,6 +233,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ATK": {
 		"en": "Attack",
@@ -238,6 +251,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ATK.short": {
 		"en": "ATK",
@@ -255,6 +269,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.DEF": {
 		"en": "Defence",
@@ -272,6 +287,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.DEF.short": {
 		"en": "DEF",
@@ -289,6 +305,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ENHCDMG": {
 		"en": "Enhanced Damage",
@@ -306,6 +323,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ENHCDMG.short": {
 		"en": "ENHC DMG",
@@ -323,6 +341,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.DMGRD": {
 		"en": "Damage Reduction",
@@ -340,6 +359,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.DMGRD.short": {
 		"en": "DMG RD",
@@ -357,6 +377,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ATKSPD": {
 		"en": "Attack Speed",
@@ -374,6 +395,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ATKSPD.short": {
 		"en": "ATK SPD",
@@ -391,6 +413,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLENHC": {
 		"en": "Skill Enhanced",
@@ -408,6 +431,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLENHC.short": {
 		"en": "Skill ENHC",
@@ -425,6 +449,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ACC": {
 		"en": "Accuracy",
@@ -442,6 +467,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.ACC.short": {
 		"en": "ACC",
@@ -459,6 +485,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLACC": {
 		"en": "Skill Accuracy",
@@ -476,6 +503,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLACC.short": {
 		"en": "Skill ACC",
@@ -493,6 +521,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.EVA": {
 		"en": "Evasion",
@@ -510,6 +539,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.EVA.short": {
 		"en": "EVA",
@@ -527,6 +557,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLEVA": {
 		"en": "Skill Evasion",
@@ -544,6 +575,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLEVA.short": {
 		"en": "Skill EVA",
@@ -561,6 +593,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITACC": {
 		"en": "Crit Accuracy",
@@ -578,6 +611,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITACC.short": {
 		"en": "CRIT ACC",
@@ -595,6 +629,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITACC": {
 		"en": "Skill Crit Accuracy",
@@ -612,6 +647,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITACC.short": {
 		"en": "Skill CRIT ACC",
@@ -629,6 +665,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITEVA": {
 		"en": "Crit Evasion",
@@ -646,6 +683,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITEVA.short": {
 		"en": "CRIT EVA",
@@ -663,6 +701,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITEVA": {
 		"en": "Skill Crit Evasion",
@@ -680,6 +719,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITEVA.short": {
 		"en": "Skill CRIT EVA",
@@ -697,6 +737,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITENCH": {
 		"en": "Crit Enhanced",
@@ -714,6 +755,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITENCH.short": {
 		"en": "CRIT ENCH",
@@ -731,6 +773,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITENCH": {
 		"en": "Skill Crit Enhanced",
@@ -748,6 +791,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITENCH.short": {
 		"en": "Skill CRIT ENCH",
@@ -765,6 +809,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITRD": {
 		"en": "Crit Reduction",
@@ -782,6 +827,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.CRITRD.short": {
 		"en": "CRIT RD",
@@ -799,6 +845,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITRD": {
 		"en": "Skill Crit Reduction",
@@ -816,6 +863,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.SKILLCRITRD.short": {
 		"en": "Skill CRIT RD",
@@ -833,6 +881,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.HOLYATK": {
 		"en": "Holy Attack",
@@ -850,6 +899,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.HOLYATK.short": {
 		"en": "Holy ATK",
@@ -867,6 +917,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.LUCK": {
 		"en": "Luck",
@@ -884,6 +935,7 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	},
 	"UI.stat.LUCK.short": {
 		"en": "Luck",
@@ -901,5 +953,6 @@
 		"it": "",
 		"pl": "",
 		"th": "",
+		"id": "",
 	}
 }
