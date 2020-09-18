@@ -2,7 +2,7 @@
 	"general.guild":{
 		"en": "Guild",
 		"fr": "Guilde",
-		"es": "","Gremio",
+		"es": "Gremio",
 		"ch": "",
 		"kr": "",
 		"ru": "",
@@ -20,7 +20,7 @@
 	"general.group":{
 		"en": "Group",
 		"fr": "Groupe",
-		"es": "","Grupo",
+		"es": "Grupo",
 		"ch": "",
 		"kr": "",
 		"ru": "",
@@ -38,7 +38,7 @@
 	"general.CURRENCY.GOLD":{
 		"en": "Gold",
 		"fr": "Or",
-		"es": "","Oro",
+		"es": "Oro",
 		"ch": "",
 		"kr": "",
 		"ru": "",
@@ -55,7 +55,7 @@
 	},
 	"general.CURRENCY.TOKEN":{
 		"en": "Token",
-		"fr": "","Jeton",
+		"fr": "Jeton",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -73,8 +73,8 @@
 	},
 	"general.CURRENCY.COUPON":{
 		"en": "Coupon",
-		"fr": "","Coupon",
-		"es": "","cupón",
+		"fr": "Coupon",
+		"es": "Cupón",
 		"ch": "",
 		"kr": "",
 		"ru": "",
@@ -91,8 +91,8 @@
 	},
 	"general.POINT.EXP":{
 		"en": "Exp",
-		"fr": "","Exp",
-		"es": "","Exp",
+		"fr": "Exp",
+		"es": "Exp",
 		"ch": "",
 		"kr": "",
 		"ru": "",
@@ -127,8 +127,8 @@
 	},
 	"general.quest.getReward":{
 		"en": "Get Reward",
-		"fr": "","Obtenir la récompense",
-		"es": "","obtener la recompensa",
+		"fr": "Obtenir la récompense",
+		"es": "Obtener la recompensa",
 		"ch": "",
 		"kr": "",
 		"ru": "",
@@ -145,7 +145,7 @@
 	},
 	"general.quest.reward":{
 		"en": "Quest Reward",
-		"fr": "","récompense de quête",
+		"fr": "Récompense de quête",
 		"es": "",
 		"ch": "",
 		"kr": "",
