@@ -108,7 +108,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.chat.channel.guild": {
+	"UI.chat.channel.guild":{
 		"en": "Guild",
 		"fr": "Guilde",
 		"es": "",
@@ -163,7 +163,7 @@
 		"id": "",
 	},
 	
-	"UI.stat.HP": {
+	"UI.stat.HP":{
 		"en": "HP",
 		"fr": "PV",
 		"es": "PV",
@@ -181,7 +181,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.MP": {
+	"UI.stat.MP":{
 		"en": "MP",
 		"fr": "PM",
 		"es": "",
@@ -199,7 +199,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.EXP": {
+	"UI.stat.EXP":{
 		"en": "EXP",
 		"fr": "EXP",
 		"es": "",
@@ -217,7 +217,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SPD": {
+	"UI.stat.SPD":{
 		"en": "SPD",
 		"fr": "VIT",
 		"es": "",
@@ -235,7 +235,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ATK": {
+	"UI.stat.ATK":{
 		"en": "Attack",
 		"fr": "Attaque",
 		"es": "Ataque",
@@ -253,7 +253,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ATK.short": {
+	"UI.stat.ATK.short":{
 		"en": "ATK",
 		"fr": "ATQ",
 		"es": "ATQ",
@@ -271,7 +271,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.DEF": {
+	"UI.stat.DEF":{
 		"en": "Defence",
 		"fr": "Défense",
 		"es": "Defensa",
@@ -289,7 +289,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.DEF.short": {
+	"UI.stat.DEF.short":{
 		"en": "DEF",
 		"fr": "DEF",
 		"es": "DEF",
@@ -307,7 +307,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ENHCDMG": {
+	"UI.stat.ENHCDMG":{
 		"en": "Enhanced Damage",
 		"fr": "Dégâts Améliorés",
 		"es": "Daño mejorado",
@@ -325,7 +325,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ENHCDMG.short": {
+	"UI.stat.ENHCDMG.short":{
 		"en": "ENHC DMG",
 		"fr": "DGTS AML",
 		"es": "",
@@ -343,7 +343,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.DMGRD": {
+	"UI.stat.DMGRD":{
 		"en": "Damage Reduction",
 		"fr": "Réduction de dégâts",
 		"es": "Reducción del daño",
@@ -361,7 +361,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.DMGRD.short": {
+	"UI.stat.DMGRD.short":{
 		"en": "DMG RD",
 		"fr": "RD DGTS",
 		"es": "",
@@ -379,7 +379,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ATKSPD": {
+	"UI.stat.ATKSPD":{
 		"en": "Attack Speed",
 		"fr": "Vittesse d'attaque",
 		"es": "Velocidad de ataque",
@@ -397,7 +397,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ATKSPD.short": {
+	"UI.stat.ATKSPD.short":{
 		"en": "ATK SPD",
 		"fr": "VIT ATK",
 		"es": "ATQ VEL",
@@ -415,7 +415,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLENHC": {
+	"UI.stat.SKILLENHC":{
 		"en": "Skill Enhanced",
 		"fr": "Compétence améliorée",
 		"es": "Habilidad mejorada",
@@ -433,7 +433,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLENHC.short": {
+	"UI.stat.SKILLENHC.short":{
 		"en": "Skill ENHC",
 		"fr": "Comp AML",
 		"es": "",
@@ -451,7 +451,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ACC": {
+	"UI.stat.ACC":{
 		"en": "Accuracy",
 		"fr": "Précision",
 		"es": "Exactitud",
@@ -469,7 +469,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.ACC.short": {
+	"UI.stat.ACC.short":{
 		"en": "ACC",
 		"fr": "PRE",
 		"es": "",
@@ -487,7 +487,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLACC": {
+	"UI.stat.SKILLACC":{
 		"en": "Skill Accuracy",
 		"fr": "Précision Compétence",
 		"es": "Precisión de habilidad",
@@ -505,7 +505,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLACC.short": {
+	"UI.stat.SKILLACC.short":{
 		"en": "Skill ACC",
 		"fr": "PRE Comp",
 		"es": "",
@@ -523,7 +523,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.EVA": {
+	"UI.stat.EVA":{
 		"en": "Evasion",
 		"fr": "Esquive",
 		"es": "Evasión",
@@ -541,7 +541,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.EVA.short": {
+	"UI.stat.EVA.short":{
 		"en": "EVA",
 		"fr": "ESQ",
 		"es": "",
@@ -559,7 +559,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLEVA": {
+	"UI.stat.SKILLEVA":{
 		"en": "Skill Evasion",
 		"fr": "Esquive Compétence",
 		"es": "Evasión de habilidades",
@@ -577,7 +577,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLEVA.short": {
+	"UI.stat.SKILLEVA.short":{
 		"en": "Skill EVA",
 		"fr": "ESQ Comp",
 		"es": "",
@@ -595,7 +595,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITACC": {
+	"UI.stat.CRITACC":{
 		"en": "Crit Accuracy",
 		"fr": "Précision Critique",
 		"es": "Precisión crítica",
@@ -613,7 +613,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITACC.short": {
+	"UI.stat.CRITACC.short":{
 		"en": "CRIT ACC",
 		"fr": "PRE CRIT",
 		"es": "",
@@ -631,7 +631,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITACC": {
+	"UI.stat.SKILLCRITACC":{
 		"en": "Skill Crit Accuracy",
 		"fr": "Précision Compétence Critique",
 		"es": "Precisión crítica de habilidad",
@@ -649,7 +649,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITACC.short": {
+	"UI.stat.SKILLCRITACC.short":{
 		"en": "Skill CRIT ACC",
 		"fr": "PRE Comp CRIT",
 		"es": "",
@@ -667,7 +667,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITEVA": {
+	"UI.stat.CRITEVA":{
 		"en": "Crit Evasion",
 		"fr": "Esquive Critique",
 		"es": "Evasión de críticos",
@@ -685,7 +685,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITEVA.short": {
+	"UI.stat.CRITEVA.short":{
 		"en": "CRIT EVA",
 		"fr": "ESQ CRIT",
 		"es": "",
@@ -703,7 +703,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITEVA": {
+	"UI.stat.SKILLCRITEVA":{
 		"en": "Skill Crit Evasion",
 		"fr": "Esquive Compétence Critique",
 		"es": "Evasión de críticos de habilidad",
@@ -721,7 +721,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITEVA.short": {
+	"UI.stat.SKILLCRITEVA.short":{
 		"en": "Skill CRIT EVA",
 		"fr": "ESQ Comp CRIT",
 		"es": "",
@@ -739,7 +739,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITENCH": {
+	"UI.stat.CRITENCH":{
 		"en": "Crit Enhanced",
 		"fr": "Amélioration Critique",
 		"es": "Crit mejorado",
@@ -757,7 +757,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITENCH.short": {
+	"UI.stat.CRITENCH.short":{
 		"en": "CRIT ENCH",
 		"fr": "",
 		"es": "",
@@ -775,7 +775,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITENCH": {
+	"UI.stat.SKILLCRITENCH":{
 		"en": "Skill Crit Enhanced",
 		"fr": "Compétence Critique Ameliorée",
 		"es": "Habilidad crítica mejorada",
@@ -793,7 +793,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITENCH.short": {
+	"UI.stat.SKILLCRITENCH.short":{
 		"en": "Skill CRIT ENCH",
 		"fr": "",
 		"es": "",
@@ -811,7 +811,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITRD": {
+	"UI.stat.CRITRD":{
 		"en": "Crit Reduction",
 		"fr": "Reduction Critique",
 		"es": "Reducción de críticos",
@@ -829,7 +829,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.CRITRD.short": {
+	"UI.stat.CRITRD.short":{
 		"en": "CRIT RD",
 		"fr": "",
 		"es": "",
@@ -847,7 +847,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITRD": {
+	"UI.stat.SKILLCRITRD":{
 		"en": "Skill Crit Reduction",
 		"fr": "Reduction Compétence Critique",
 		"es": "Reducción de críticos de habilidad",
@@ -865,7 +865,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.SKILLCRITRD.short": {
+	"UI.stat.SKILLCRITRD.short":{
 		"en": "Skill CRIT RD",
 		"fr": "",
 		"es": "",
@@ -883,7 +883,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.HOLYATK": {
+	"UI.stat.HOLYATK":{
 		"en": "Holy Attack",
 		"fr": "Attaque sacrée",
 		"es": "Ataque sagrado",
@@ -901,7 +901,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.HOLYATK.short": {
+	"UI.stat.HOLYATK.short":{
 		"en": "Holy ATK",
 		"fr": "",
 		"es": "",
@@ -919,7 +919,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.LUCK": {
+	"UI.stat.LUCK":{
 		"en": "Luck",
 		"fr": "Chance",
 		"es": "Suerte",
@@ -937,7 +937,7 @@
 		"th": "",
 		"id": "",
 	},
-	"UI.stat.LUCK.short": {
+	"UI.stat.LUCK.short":{
 		"en": "Luck",
 		"fr": "",
 		"es": "",
@@ -954,5 +954,5 @@
 		"pl": "",
 		"th": "",
 		"id": "",
-	}
+	},
 }
