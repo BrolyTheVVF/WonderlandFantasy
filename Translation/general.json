@@ -1,11 +1,11 @@
-{
-	"general.guild":{
+﻿{
+	"general.guild": {
 		"en": "Guild",
 		"fr": "Guilde",
 		"es": "Gremio",
 		"ch": "",
 		"kr": "",
-		"ru": "Ãèëüäèÿ",
+		"ru": "Гильдия",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -15,15 +15,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.group":{
+	"general.group": {
 		"en": "Group",
 		"fr": "Groupe",
 		"es": "Grupo",
 		"ch": "",
 		"kr": "",
-		"ru": "Ãðóïïà",
+		"ru": "Группа",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -33,15 +33,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.CURRENCY.GOLD":{
+	"general.CURRENCY.GOLD": {
 		"en": "Gold",
 		"fr": "Or",
 		"es": "Oro",
 		"ch": "",
 		"kr": "",
-		"ru": "Çîëîòî",
+		"ru": "Золото",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -51,15 +51,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.CURRENCY.TOKEN":{
+	"general.CURRENCY.TOKEN": {
 		"en": "Token",
 		"fr": "Jeton",
 		"es": "",
 		"ch": "",
 		"kr": "",
-		"ru": "Æåòîíû",
+		"ru": "",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -69,15 +69,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.CURRENCY.COUPON":{
+	"general.CURRENCY.COUPON": {
 		"en": "Coupon",
 		"fr": "Coupon",
-		"es": "CupÃ³n",
+		"es": "Cupón",
 		"ch": "",
 		"kr": "",
-		"ru": "Êóïîíû",
+		"ru": "Купон",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -87,15 +87,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.POINT.EXP":{
+	"general.POINT.EXP": {
 		"en": "Exp",
 		"fr": "Exp",
 		"es": "Exp",
 		"ch": "",
 		"kr": "",
-		"ru": "Îïûò",
+		"ru": "Опыт",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -105,15 +105,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.POINT.MAGIPOINT":{
+	"general.POINT.MAGIPOINT": {
 		"en": "Magipoint",
 		"fr": "",
 		"es": "",
 		"ch": "",
 		"kr": "",
-		"ru": "Î÷êè íàâûêîâ",
+		"ru": "Магипоинт",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -123,15 +123,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.quest.getReward":{
+	"general.quest.getReward": {
 		"en": "Get Reward",
-		"fr": "Obtenir la rÃ©compense",
+		"fr": "Obtenir la récompense",
 		"es": "Obtener la recompensa",
 		"ch": "",
 		"kr": "",
-		"ru": "Ïîëó÷èòü íàãðàäó",
+		"ru": "Получить вознаграждение",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -141,15 +141,15 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
+		"id": ""
 	},
-	"general.quest.reward":{
+	"general.quest.reward": {
 		"en": "Quest Reward",
-		"fr": "RÃ©compense de quÃªte",
+		"fr": "Récompense de quête",
 		"es": "",
 		"ch": "",
 		"kr": "",
-		"ru": "Íàãðàäà çà çàäàíèå",
+		"ru": "Награда за задание",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -159,6 +159,6 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": "",
-	}, 
+		"id": ""
+	}
 }
