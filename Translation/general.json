@@ -2,7 +2,7 @@
 	"general.guild":{
 		"en": "Guild",
 		"fr": "Guilde",
-		"es": "",
+		"es": "Gremio",
 		"ch": "",
 		"kr": "",
 		"ru": "Гильдия",
@@ -20,7 +20,7 @@
 	"general.group":{
 		"en": "Group",
 		"fr": "Groupe",
-		"es": "",
+		"es": "Grupo",
 		"ch": "",
 		"kr": "",
 		"ru": "Группа",
@@ -38,7 +38,7 @@
 	"general.CURRENCY.GOLD":{
 		"en": "Gold",
 		"fr": "Or",
-		"es": "",
+		"es": "Oro",
 		"ch": "",
 		"kr": "",
 		"ru": "Золото",
@@ -55,7 +55,7 @@
 	},
 	"general.CURRENCY.TOKEN":{
 		"en": "Token",
-		"fr": "",
+		"fr": "Jeton",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -73,8 +73,8 @@
 	},
 	"general.CURRENCY.COUPON":{
 		"en": "Coupon",
-		"fr": "",
-		"es": "",
+		"fr": "Coupon",
+		"es": "CupГіn",
 		"ch": "",
 		"kr": "",
 		"ru": "Купоны",
@@ -91,8 +91,8 @@
 	},
 	"general.POINT.EXP":{
 		"en": "Exp",
-		"fr": "",
-		"es": "",
+		"fr": "Exp",
+		"es": "Exp",
 		"ch": "",
 		"kr": "",
 		"ru": "Опыт",
@@ -127,8 +127,8 @@
 	},
 	"general.quest.getReward":{
 		"en": "Get Reward",
-		"fr": "",
-		"es": "",
+		"fr": "Obtenir la rГ©compense",
+		"es": "Obtener la recompensa",
 		"ch": "",
 		"kr": "",
 		"ru": "Получить награду",
@@ -145,7 +145,7 @@
 	},
 	"general.quest.reward":{
 		"en": "Quest Reward",
-		"fr": "",
+		"fr": "RГ©compense de quГЄte",
 		"es": "",
 		"ch": "",
 		"kr": "",
