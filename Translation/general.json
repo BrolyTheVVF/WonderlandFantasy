@@ -1,5 +1,5 @@
 ﻿{
-	"general.guild": {
+	"general.guild":{
 		"en": "Guild",
 		"fr": "Guilde",
 		"es": "Gremio",
@@ -15,9 +15,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.group": {
+	"general.group":{
 		"en": "Group",
 		"fr": "Groupe",
 		"es": "Grupo",
@@ -33,9 +33,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.CURRENCY.GOLD": {
+	"general.CURRENCY.GOLD":{
 		"en": "Gold",
 		"fr": "Or",
 		"es": "Oro",
@@ -51,9 +51,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.CURRENCY.TOKEN": {
+	"general.CURRENCY.TOKEN":{
 		"en": "Token",
 		"fr": "Jeton",
 		"es": "",
@@ -69,9 +69,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.CURRENCY.COUPON": {
+	"general.CURRENCY.COUPON":{
 		"en": "Coupon",
 		"fr": "Coupon",
 		"es": "Cupón",
@@ -87,9 +87,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.POINT.EXP": {
+	"general.POINT.EXP":{
 		"en": "Exp",
 		"fr": "Exp",
 		"es": "Exp",
@@ -105,9 +105,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.POINT.MAGIPOINT": {
+	"general.POINT.MAGIPOINT":{
 		"en": "Magipoint",
 		"fr": "",
 		"es": "",
@@ -123,9 +123,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.quest.getReward": {
+	"general.quest.getReward":{
 		"en": "Get Reward",
 		"fr": "Obtenir la récompense",
 		"es": "Obtener la recompensa",
@@ -141,9 +141,9 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	},
-	"general.quest.reward": {
+	"general.quest.reward":{
 		"en": "Quest Reward",
 		"fr": "Récompense de quête",
 		"es": "",
@@ -159,6 +159,6 @@
 		"it": "",
 		"pl": "",
 		"th": "",
-		"id": ""
+		"id": "",
 	}
 }
