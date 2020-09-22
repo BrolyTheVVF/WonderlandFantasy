@@ -1,7 +1,7 @@
 {
 	"skills.mage.FIRE_BOLT.name":{
 		"en": "Fire Bolt",
-		"fr": "",
+		"fr": "Boule de feu",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -19,7 +19,7 @@
 	},
 	"skills.mage.FIRE_BOLT.description":{
 		"en": "Strikes a single target with a fire bolt, dealing massive damage.",
-		"fr": "",
+		"fr": "Frappe une seule cible avec une boule de feu et inflige des dégâts massifs.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -37,7 +37,7 @@
 	},
 	"skills.mage.FIRE_BOLT.effect":{
 		"en": "Inflicts {0}% damage and additional {1} skill damage",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts et {1} dégâts de compétences additionnels",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -56,7 +56,7 @@
 	
 	"skills.mage.MAGIC_BOLT.name":{
 		"en": "Magic Bolt",
-		"fr": "",
+		"fr": "Missile Magique",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -74,7 +74,7 @@
 	},
 	"skills.mage.MAGIC_BOLT.description":{
 		"en": "Launches multiple bolts at the target, dealing magic damage.",
-		"fr": "",
+		"fr": "Lance plusieurs missiles magiques a la cible, causant des dégâts magiques",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -92,7 +92,7 @@
 	},
 	"skills.mage.MAGIC_BOLT.effect":{
 		"en": "Launch 3 bolts to deal {0}% more damage and aditional {1} skill damage.",
-		"fr": "",
+		"fr": "Lance 3 missiles Infligeant {0}% de dégâts plus {1} dégâts de compétences additionnels",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -111,7 +111,7 @@
 	
 	"skills.mage.ENERGY.name":{
 		"en": "Energy",
-		"fr": "",
+		"fr": "Énergie Magique",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -129,7 +129,7 @@
 	},
 	"skills.mage.ENERGY.description":{
 		"en": "Increases mage's max MP.",
-		"fr": "",
+		"fr": "Augmente le PM max du mage",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -147,7 +147,7 @@
 	},
 	"skills.mage.ENERGY.effect":{
 		"en": "Increases base MP by {0}%",
-		"fr": "",
+		"fr": "Augmente les PM de {0}%",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -166,7 +166,7 @@
 	
 	"skills.mage.METEOR_DROP.name":{
 		"en": "Meteor Drop",
-		"fr": "",
+		"fr": "Lapidation",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -184,7 +184,7 @@
 	},
 	"skills.mage.METEOR_DROP.description":{
 		"en": "Deals AOE by manipulating destructive meteors",
-		"fr": "",
+		"fr": "Créer un AOE en manipulant des météores destructrices",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -202,7 +202,7 @@
 	},
 	"skills.mage.METEOR_DROP.effect":{
 		"en": "Each stacked attack deals {0}% Damage",
-		"fr": "",
+		"fr": "Chaque attaque Inflige {0}% de dégâts",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -221,7 +221,7 @@
 	
 	"skills.mage.AWAKEN.name":{
 		"en": "Awaken",
-		"fr": "",
+		"fr": "Réveil",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -239,7 +239,7 @@
 	},
 	"skills.mage.AWAKEN.description":{
 		"en": "Recovers MP Swiftly",
-		"fr": "",
+		"fr": "Récupère rapidement des PM",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -257,7 +257,7 @@
 	},
 	"skills.mage.AWAKEN.effect":{
 		"en": "Recover MP by {0}",
-		"fr": "",
+		"fr": "Récupère {0} PM",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -276,7 +276,7 @@
 	
 	"skills.mage.THUNDER.name":{
 		"en": "Thunder",
-		"fr": "",
+		"fr": "Éclair",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -294,7 +294,7 @@
 	},
 	"skills.mage.THUNDER.description":{
 		"en": "Strikes a single target heavily with thunder...",
-		"fr": "",
+		"fr": "Frappe fortement une cible unique avec la foudre",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -312,7 +312,7 @@
 	},
 	"skills.mage.THUNDER.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
-		"fr": "",
+		"fr": "Inflige {0}% dégâts et {1} dégâts de compétences additionnels",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -331,7 +331,7 @@
 	
 	"skills.mage.FIRE_WALL.name":{
 		"en": "Fire Wall",
-		"fr": "",
+		"fr": "Mur de feu",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -349,7 +349,7 @@
 	},
 	"skills.mage.FIRE_WALL.description":{
 		"en": "Harms and slows down enemies in the area of effect by conjuring flames.",
-		"fr": "",
+		"fr": "Blesse et ralentit les ennemis dans la zone d'effet en conjurant des flammes",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -367,7 +367,7 @@
 	},
 	"skills.mage.FIRE_WALL.effect":{
 		"en": "Deals {0}% damage and an additional {1} Skill damage each second. Lasts 15 sec.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts et {1} dégâts additionnels par seconde. Dure 15 secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -386,7 +386,7 @@
 	
 	"skills.mage.FREEZE.name":{
 		"en": "Freeze",
-		"fr": "",
+		"fr": "Gel",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -404,7 +404,7 @@
 	},
 	"skills.mage.FREEZE.description":{
 		"en": "Freezes the target. Target is unfrozen when it takes damage.",
-		"fr": "",
+		"fr": "Gel la cible. La cible se dégel quand elle prend des dégâts",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -422,7 +422,7 @@
 	},
 	"skills.mage.FREEZE.effect":{
 		"en": "Deals {0}% damage and freezes the target for {1} seconds.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts et gèle la cible pendant {1} secondes",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -441,7 +441,7 @@
 	
 	"skills.mage.MAGIC_MASTERY.name":{
 		"en": "Magic Mastery",
-		"fr": "",
+		"fr": "Contrôle Magique",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -459,7 +459,7 @@
 	},
 	"skills.mage.MAGIC_MASTERY.description":{
 		"en": "Increases Magic Crit Chance and Crit damage.",
-		"fr": "",
+		"fr": "Augment la fréquence et les dégâts des coups critiques",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -477,7 +477,7 @@
 	},
 	"skills.mage.MAGIC_MASTERY.effect":{
 		"en": "Increases skill Crit Chance by {0}%. Also increases Skill Crit damage by {1}%.",
-		"fr": "",
+		"fr": "Augmente les chances de causer des dégâts de compétences critiques de [0}%. Augmente aussi les dégâts de compétences critique de {1}%.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -496,7 +496,7 @@
 	
 	"skills.mage.MAGIC_SHIELD.name":{
 		"en": "Magic Shield",
-		"fr": "",
+		"fr": "Bouclier Magique",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -514,7 +514,7 @@
 	},
 	"skills.mage.MAGIC_SHIELD.description":{
 		"en": "Creates a magic shield to absorb incoming damage.",
-		"fr": "",
+		"fr": "Créer un bouclier magique qui absorbe les dégâts",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -532,7 +532,7 @@
 	},
 	"skills.mage.MAGIC_SHIELD.effect":{
 		"en": "Magic shield absorbs {0} incoming damage. Lasts up to 20 sec.",
-		"fr": "",
+		"fr": "Le bouclier magique absorbe {0} dégâts. Il dure pendant 20 secondes",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -551,7 +551,7 @@
 	
 	"skills.mage.SILENCE_CURSE.name":{
 		"en": "Silence Curse",
-		"fr": "",
+		"fr": "Silence",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -569,7 +569,7 @@
 	},
 	"skills.mage.SILENCE_CURSE.description":{
 		"en": "Attacks the target, disabling it from using skills.",
-		"fr": "",
+		"fr": "Attaque la cible, l’empêchant d'utiliser des compétences.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -587,7 +587,7 @@
 	},
 	"skills.mage.SILENCE_CURSE.effect":{
 		"en": "Inflicting {0}% more damage and an additional {1} Skill damage. Lasts {2} sec.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts et {1} dégâts de compétences additionnels. Dure {2} secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -606,7 +606,7 @@
 	
 	"skills.mage.FROST_BREATH.name":{
 		"en": "Frost Breath",
-		"fr": "",
+		"fr": "Rugissement Glacé",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -624,7 +624,7 @@
 	},
 	"skills.mage.FROST_BREATH.description":{
 		"en": "Causes massive damage to all enemies in the area of effect. Deals additional damage to frozen targets.",
-		"fr": "",
+		"fr": "Inflige des dégâts massifs à tout les ennemis dans la zone d'effet. Ingluge des dégâts additionnels aux cibles gelés.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -642,7 +642,7 @@
 	},
 	"skills.mage.FROST_BREATH.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
-		"fr": "",
+		"fr": "Inflige {0}% dégâts et {1} dégâts de compétences additionnels.",
 		"es": "",
 		"ch": "",
 		"kr": "",
