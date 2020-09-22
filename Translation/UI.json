@@ -759,7 +759,7 @@
 	},
 	"UI.stat.CRITENCH.short":{
 		"en": "CRIT ENCH",
-		"fr": "",
+		"fr": "AML CRIT",
 		"es": "",
 		"ch": "暴击增强",
 		"kr": "",
@@ -795,7 +795,7 @@
 	},
 	"UI.stat.SKILLCRITENCH.short":{
 		"en": "Skill CRIT ENCH",
-		"fr": "",
+		"fr": "AML Comp CRIT",
 		"es": "",
 		"ch": "技能暴击增强",
 		"kr": "",
@@ -831,7 +831,7 @@
 	},
 	"UI.stat.CRITRD.short":{
 		"en": "CRIT RD",
-		"fr": "",
+		"fr": "RD CRIT",
 		"es": "",
 		"ch": "暴击减免",
 		"kr": "",
@@ -867,7 +867,7 @@
 	},
 	"UI.stat.SKILLCRITRD.short":{
 		"en": "Skill CRIT RD",
-		"fr": "",
+		"fr": "RD Comp CRIT",
 		"es": "",
 		"ch": "技能暴击减免",
 		"kr": "",
@@ -903,7 +903,7 @@
 	},
 	"UI.stat.HOLYATK.short":{
 		"en": "Holy ATK",
-		"fr": "",
+		"fr": "ATK Sacrée",
 		"es": "",
 		"ch": "神圣攻击",
 		"kr": "",
@@ -939,7 +939,7 @@
 	},
 	"UI.stat.LUCK.short":{
 		"en": "Luck",
-		"fr": "",
+		"fr": "Chance",
 		"es": "",
 		"ch": "幸运值",
 		"kr": "",
