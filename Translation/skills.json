@@ -74,7 +74,7 @@
 	},
 	"skills.mage.MAGIC_BOLT.description":{
 		"en": "Launches multiple bolts at the target, dealing magic damage.",
-		"fr": "Lance plusieurs missiles magiques a la cible, causant des dégâts magiques",
+		"fr": "Lance plusieurs missiles magiques à la cible, causant des dégâts magiques",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -92,7 +92,7 @@
 	},
 	"skills.mage.MAGIC_BOLT.effect":{
 		"en": "Launch 3 bolts to deal {0}% more damage and aditional {1} skill damage.",
-		"fr": "Lance 3 missiles Infligeant {0}% de dégâts plus {1} dégâts de compétences additionnels",
+		"fr": "Lance 3 missiles infligeant {0}% de dégâts plus {1} dégâts de compétences additionnels",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -129,7 +129,7 @@
 	},
 	"skills.mage.ENERGY.description":{
 		"en": "Increases mage's max MP.",
-		"fr": "Augmente le PM max du mage",
+		"fr": "Augmente les PM max du mage",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -202,7 +202,7 @@
 	},
 	"skills.mage.METEOR_DROP.effect":{
 		"en": "Each stacked attack deals {0}% Damage",
-		"fr": "Chaque attaque Inflige {0}% de dégâts",
+		"fr": "Chaque attaque inflige {0}% de dégâts",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -294,7 +294,7 @@
 	},
 	"skills.mage.THUNDER.description":{
 		"en": "Strikes a single target heavily with thunder...",
-		"fr": "Frappe fortement une cible unique avec la foudre",
+		"fr": "Fais s'abbatre sur une cible unique un éclair foudroyant",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -349,7 +349,7 @@
 	},
 	"skills.mage.FIRE_WALL.description":{
 		"en": "Harms and slows down enemies in the area of effect by conjuring flames.",
-		"fr": "Blesse et ralentit les ennemis dans la zone d'effet en conjurant des flammes",
+		"fr": "Blesse et ralentit les ennemis dans la zone d'effet en invoquant des flammes",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -459,7 +459,7 @@
 	},
 	"skills.mage.MAGIC_MASTERY.description":{
 		"en": "Increases Magic Crit Chance and Crit damage.",
-		"fr": "Augment la fréquence et les dégâts des coups critiques",
+		"fr": "Augmente la chance et les dégâts des coups critiques",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -477,7 +477,7 @@
 	},
 	"skills.mage.MAGIC_MASTERY.effect":{
 		"en": "Increases skill Crit Chance by {0}%. Also increases Skill Crit damage by {1}%.",
-		"fr": "Augmente les chances de causer des dégâts de compétences critiques de [0}%. Augmente aussi les dégâts de compétences critique de {1}%.",
+		"fr": "Augmente les chances de causer des dégâts de compétences critiques de {0}%. Augmente aussi les dégâts de compétences critique de {1}%.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -624,7 +624,7 @@
 	},
 	"skills.mage.FROST_BREATH.description":{
 		"en": "Causes massive damage to all enemies in the area of effect. Deals additional damage to frozen targets.",
-		"fr": "Inflige des dégâts massifs à tout les ennemis dans la zone d'effet. Ingluge des dégâts additionnels aux cibles gelés.",
+		"fr": "Inflige des dégâts massifs à tous les ennemis dans la zone d'effet. Inglige des dégâts additionnels aux cibles gelés.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -662,7 +662,7 @@
 	
 	"skills.ranger.TRIPLE_SHOT.name":{
 		"en": "Triple Shot",
-		"fr": "",
+		"fr": "Triple coup",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -680,7 +680,7 @@
 	},
 	"skills.ranger.TRIPLE_SHOT.description":{
 		"en": "Shoots at a single target to deal serious damage.",
-		"fr": "",
+		"fr": "Inflige d'importants dégâts à une cible unique.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -698,7 +698,7 @@
 	},
 	"skills.ranger.TRIPLE_SHOT.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
-		"fr": "",
+		"fr": "Inflige {0}% dégâts et {1} dégâts de compétences additionnels.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -717,7 +717,7 @@
 	
 	"skills.ranger.POISON_ARROW.name":{
 		"en": "Poison Arrow",
-		"fr": "",
+		"fr": "Flèche empoisonnée",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -735,7 +735,7 @@
 	},
 	"skills.ranger.POISON_ARROW.description":{
 		"en": "Poisons the target and slows it down.",
-		"fr": "",
+		"fr": "Empoisonne la cible et la ralenti.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -753,7 +753,7 @@
 	},
 	"skills.ranger.POISON_ARROW.effect":{
 		"en": "Lowers target's SPD by {0}%. Target takes {1}% more damage and an additional {2} Skill damage over 4 sec.",
-		"fr": "",
+		"fr": "Ralenti la vitesse de la cible de {0}%. Inflige {1}% de dégâts et {1} dégâts de compétences additionnels pendant 4 secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -772,7 +772,7 @@
 	
 	"skills.ranger.EAGLE_EYE.name":{
 		"en": "Eagle Eye",
-		"fr": "",
+		"fr": "Oeil d'aigle",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -790,7 +790,7 @@
 	},
 	"skills.ranger.EAGLE_EYE.description":{
 		"en": "Provides the Ranger with an Attack Increase to distant targets.",
-		"fr": "",
+		"fr": "Permet à l'Archer d'occasionner plus de dégâts aux cibles éloignées.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -808,7 +808,7 @@
 	},
 	"skills.ranger.EAGLE_EYE.effect":{
 		"en": "Common attacks deal {0}% Enhanced Damage to targets more than 8 yrds from you.",
-		"fr": "",
+		"fr": "Les attaques normales infligent {0}% de dégâts supplémentaires aux cibles à plus de 8 mètres.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -827,7 +827,7 @@
 	
 	"skills.ranger.CHARGED_SHOT.name":{
 		"en": "Charged Shot",
-		"fr": "",
+		"fr": "Tir chargé",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -845,7 +845,7 @@
 	},
 	"skills.ranger.CHARGED_SHOT.description":{
 		"en": "Strikes the enemy with charged arrows.",
-		"fr": "",
+		"fr": "Frappe la cible avec une flèche chargée.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -863,7 +863,7 @@
 	},
 	"skills.ranger.CHARGED_SHOT.effect":{
 		"en": "Each stacked attack deals {0}% damage.",
-		"fr": "",
+		"fr": "Chaque flèche chargée augmente les dégâts de {0}%.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -882,7 +882,7 @@
 	
 	"skills.ranger.HASTE.name":{
 		"en": "Haste",
-		"fr": "",
+		"fr": "Hâte",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -900,7 +900,7 @@
 	},
 	"skills.ranger.HASTE.description":{
 		"en": "Increases Ranger's Movement Speed.",
-		"fr": "",
+		"fr": "Augmente la vitesse de déplacement de l'Archer.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -918,7 +918,7 @@
 	},
 	"skills.ranger.HASTE.effect":{
 		"en": "Lasts {0} sec. Increases SPD by {1}.",
-		"fr": "",
+		"fr": "Pendant {0} secondes. Augmente la VIT de {1}.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -937,7 +937,7 @@
 	
 	"skills.ranger.MULTI_ARROW.name":{
 		"en": "Multi-Arrow",
-		"fr": "",
+		"fr": "Flèche multiple",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -955,7 +955,7 @@
 	},
 	"skills.ranger.MULTI_ARROW.description":{
 		"en": "Shoots multiple arrows to attack all enemies in a certain range.",
-		"fr": "",
+		"fr": "Tir plusieurs flèches, attaquant les ennemis à une certaine portée.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -973,7 +973,7 @@
 	},
 	"skills.ranger.MULTI_ARROW.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts supplémentaires et {1} dégâts de compétences additionnels.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -992,7 +992,7 @@
 	
 	"skills.ranger.CRACK_SHOT.name":{
 		"en": "Crack Shot",
-		"fr": "",
+		"fr": "Tir rapide",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1010,7 +1010,7 @@
 	},
 	"skills.ranger.CRACK_SHOT.description":{
 		"en": "Increases Ranger's Attack Speed for a short period of time, during which the Ranger cannot move.",
-		"fr": "",
+		"fr": "Augmente la vitesse d'attaque de l'Archer pendant une courte période. Période durant laquelle l'Archer ne peut pas bouger.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1028,7 +1028,7 @@
 	},
 	"skills.ranger.CRACK_SHOT.effect":{
 		"en": "Lasts {0} sec. Increases ATK SPD by {1}. Effect disappears after {2} attacks.",
-		"fr": "",
+		"fr": "Pendant {0} secondes. Augmente la VIT d'ATQ de {1}. L'effet se dissipe après {2} attaques.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1047,7 +1047,7 @@
 
 	"skills.ranger.EVASION.name":{
 		"en": "Evasion",
-		"fr": "",
+		"fr": "Evasion",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1065,7 +1065,7 @@
 	},
 	"skills.ranger.EVASION.description":{
 		"en": "Enhances Ranger's evasive maneuvers.",
-		"fr": "",
+		"fr": "Améliore l'évasion de l'Archer.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1083,7 +1083,7 @@
 	},
 	"skills.ranger.EVASION.effect":{
 		"en": "Increases Evasion and Skill Evasion by {0}%. Lasts 6 sec.",
-		"fr": "",
+		"fr": "Augmente l'Evasion et l'Evasion des compétences de {0}%. Dure 6 secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1102,7 +1102,7 @@
 	
 	"skills.ranger.PRECISION.name":{
 		"en": "Precision",
-		"fr": "",
+		"fr": "Présicion",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1120,7 +1120,7 @@
 	},
 	"skills.ranger.PRECISION.description":{
 		"en": "Increases Ranger's Crit Chance and Attack Range. Passive.",
-		"fr": "",
+		"fr": "Augmente les chances de critique et la portée d'attaque de l'Archer. Passif.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1138,7 +1138,7 @@
 	},
 	"skills.ranger.PRECISION.effect":{
 		"en": "Increases Crit Chance by {0}%. Increases Attack Range by {1} yrds.",
-		"fr": "",
+		"fr": "Augmente les chances de critique de {0}%. Augmente la portée d'attaque de {1} mètres.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1157,7 +1157,7 @@
 
 	"skills.ranger.PARALYZE_TRAP.name":{
 		"en": "Paralyze Trap",
-		"fr": "",
+		"fr": "Corona",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1175,7 +1175,7 @@
 	},
 	"skills.ranger.PARALYZE_TRAP.description":{
 		"en": "Confines the enemy to a trap.",
-		"fr": "",
+		"fr": "Confine l'ennemi au même endroit.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1193,7 +1193,7 @@
 	},
 	"skills.ranger.PARALYZE_TRAP.effect":{
 		"en": "Trap lasts 15 sec. Paralyzes the target for {0} sec.",
-		"fr": "",
+		"fr": "Le piège dure 15 secondes. Paralyse la cible pendant {0} secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1212,7 +1212,7 @@
 
 	"skills.ranger.HOMING_ARROW.name":{
 		"en": "Homing Arrow",
-		"fr": "",
+		"fr": "Flèches guidées",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1230,7 +1230,7 @@
 	},
 	"skills.ranger.HOMING_ARROW.description":{
 		"en": "Instantly shoots multiple homing arrows at a single target, dealing a large amount of damage.",
-		"fr": "",
+		"fr": "Tire instantanément plusieurs flèches guidées sur une seule cible, infligeant d'importants dégâts.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1248,7 +1248,7 @@
 	},
 	"skills.ranger.HOMING_ARROW.effect":{
 		"en": "Inflicts {0}% more DMG and an additional {1} Skill DMG.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts supplémentaires et {1} dégâts de compétences additionnels.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1267,7 +1267,7 @@
 	
 	"skills.ranger.IMPACT_SHOT.name":{
 		"en": "Impact Shot",
-		"fr": "",
+		"fr": "Tir de recul",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1285,7 +1285,7 @@
 	},
 	"skills.ranger.IMPACT_SHOT.description":{
 		"en": "Knocks the target back with powerful shots. Has a better chance to Paralyze the target for 3 seconds as skill levels.",
-		"fr": "",
+		"fr": "Repousse la cible avec des tirs puissants. Peut paralyser la cible pendant 3 secondes, à mesure que le niveau de compétence augmente, le risque de paralysie augmente.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1303,7 +1303,7 @@
 	},
 	"skills.ranger.IMPACT_SHOT.effect":{
 		"en": "Deals {0} Skill DMG. Knock-back distance: {1}.",
-		"fr": "",
+		"fr": "Inflige {0} dégâts de compétence. Distance de recul: {1}.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1323,7 +1323,7 @@
 	
 	"skills.warrior.SLAM.name":{
 		"en": "Slam",
-		"fr": "",
+		"fr": "Découpeur",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1341,7 +1341,7 @@
 	},
 	"skills.warrior.SLAM.description":{
 		"en": "Attack a target with your weapon, dealing massive damage.",
-		"fr": "",
+		"fr": "Attaque la cible avec l'arme, lui infligeant des dégâts massifs",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1359,7 +1359,7 @@
 	},
 	"skills.warrior.SLAM.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts supplémentaires et {1} dégâts de compétences additionnels.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1378,7 +1378,7 @@
 
 	"skills.warrior.AIR_SLASH.name":{
 		"en": "Air Slash",
-		"fr": "",
+		"fr": "Tornade",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1396,7 +1396,7 @@
 	},
 	"skills.warrior.AIR_SLASH.description":{
 		"en": "Approach a target instantly to deliver a devastating strike.",
-		"fr": "",
+		"fr": "Approche une cible instantanément pour lancer une frappe dévastatrice.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1414,7 +1414,7 @@
 	},
 	"skills.warrior.AIR_SLASH.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage. Range: {2} yds.",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts supplémentaires et {1} dégâts de compétences additionnels. Portée : {2} mètres.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1433,7 +1433,7 @@
 
 	"skills.warrior.TENACITY.name":{
 		"en": "Tenacity",
-		"fr": "",
+		"fr": "Tenacité",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1451,7 +1451,7 @@
 	},
 	"skills.warrior.TENACITY.description":{
 		"en": "Increases Warrior’s max HP, for better survivability against monsters.",
-		"fr": "",
+		"fr": "Augmente les PV maximum du Guerrier.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1468,8 +1468,8 @@
 		"id": "",
 	},
 	"skills.warrior.TENACITY.effect":{
-		"en": "Increases Warrior's base HP by {0}%",
-		"fr": "",
+		"en": "Increases Warrior's base HP by {0}%.",
+		"fr": "Aumente les PV de base de {0}%.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1488,7 +1488,7 @@
 	
 	"skills.warrior.PITCH.name":{
 		"en": "Pitch",
-		"fr": "",
+		"fr": "Rafale",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1506,11 +1506,11 @@
 	},
 	"skills.warrior.PITCH.description":{
 		"en": "Strikes target with a heavy ranged attack.",
-		"fr": "",
+		"fr": "Frappe la cible avec une puissante attaque à distance",
 		"es": "",
 		"ch": "",
 		"kr": "",
-		"ru": "Strikes target with a heavy ranged attack",
+		"ru": "Поразите цель мощной атакой дальнего боя.",
 		"tr": "",
 		"de": "",
 		"ja": "",
@@ -1524,7 +1524,7 @@
 	},
 	"skills.warrior.PITCH.effect":{
 		"en": "Each stacked attack deals {0}% damage",
-		"fr": "",
+		"fr": "Chaque attaque cumulée inflige {0}% de dégâts.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1543,7 +1543,7 @@
 
 	"skills.warrior.BASH.name":{
 		"en": "Bash",
-		"fr": "",
+		"fr": "Entaille",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1561,7 +1561,7 @@
 	},
 	"skills.warrior.BASH.description":{
 		"en": "Deals damage to the target and slows it down.",
-		"fr": "",
+		"fr": "Inflige des dégâts à la cible et la ralentit.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1579,7 +1579,7 @@
 	},
 	"skills.warrior.BASH.effect":{
 		"en": "Inflicts {0} Skill damage. Lowers target's SPD by {1}% for {2} sec.",
-		"fr": "",
+		"fr": "Inflige {0} dégâts de compétence. Baisse la VIT de la cible de {1}% durant {2} secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1598,7 +1598,7 @@
 	
 	"skills.warrior.WAR_CRY.name":{
 		"en": "War Cry",
-		"fr": "",
+		"fr": "Cris de guerre",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1616,7 +1616,7 @@
 	},
 	"skills.warrior.WAR_CRY.description":{
 		"en": "Taunts nearby enemies and lowers their Defense. Causes high threat against certain monsters. Suitable for tanking.",
-		"fr": "",
+		"fr": "Provoque les ennemis proches et réduit leur défense. Provoque une agression sur les monstres dans la zone d'effet.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1634,7 +1634,7 @@
 	},
 	"skills.warrior.WAR_CRY.effect":{
 		"en": "Causes {0} Skill damage to nearby enemies. Lowers enemies DMG RD by {1}%. Lasts {2} sec.",
-		"fr": "",
+		"fr": "Inflige {0} dégâts de compétence aux ennemis proches. Réduit la résistance aux dégâts de l'ennemi de {1}%. Dure {2} secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1653,7 +1653,7 @@
 
 	"skills.warrior.SURGE.name":{
 		"en": "Surge",
-		"fr": "",
+		"fr": "Lame verticale",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1664,14 +1664,14 @@
 		"pt": "",
 		"vi": "",
 		"ar": "",
-		"it": "",
+		"it": "",<
 		"pl": "",
 		"th": "",
 		"id": "",
 	},
 	"skills.warrior.SURGE.description":{
 		"en": "Attacks enemies in a line in front of you.",
-		"fr": "",
+		"fr": "Attaque les ennemis dans une ligne devant vous.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1689,7 +1689,7 @@
 	},
 	"skills.warrior.SURGE.effect":{
 		"en": "Inflicts {0}% more damage and an additional {1} Skill damage",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts supplémentaires et {1} dégâts de compétence supplémentaires.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1708,7 +1708,7 @@
 
 	"skills.warrior.BLOCK.name":{
 		"en": "Block",
-		"fr": "",
+		"fr": "Parade",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1726,7 +1726,7 @@
 	},
 	"skills.warrior.BLOCK.description":{
 		"en": "Warrior takes less damage from the next couple attacks.",
-		"fr": "",
+		"fr": "Le Guerrier subit moins de dégâts lors des deux prochaines attaques.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1744,7 +1744,7 @@
 	},
 	"skills.warrior.BLOCK.effect":{
 		"en": "Increases DMG RD by {0}%. Character blocks 2 incoming attacks within 5 sec.",
-		"fr": "",
+		"fr": "Augmente la résistance aux dégâts de {0}%. Le personnage bloque 2 attaques entrantes dans les 5 secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1763,7 +1763,7 @@
 	
 	"skills.warrior.CRIT_ENHANCE.name":{
 		"en": "Crit Enhance",
-		"fr": "",
+		"fr": "Gonflette",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1781,7 +1781,7 @@
 	},
 	"skills.warrior.CRIT_ENHANCE.description":{
 		"en": "Increases the amount of Crit damage dealt.",
-		"fr": "",
+		"fr": "Augmente la quantité de dégâts critiques infligés.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1799,7 +1799,7 @@
 	},
 	"skills.warrior.CRIT_ENHANCE.effect":{
 		"en": "Increases a Warrior's Common Attack Crit Damage by {0}%",
-		"fr": "",
+		"fr": "Augmente les dégâts d'attaque critique globaux du guerrier de {0}%.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1818,7 +1818,7 @@
 	
 	"skills.warrior.CRIT_SLASH.name":{
 		"en": "Crit Slash",
-		"fr": "",
+		"fr": "Puissance",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1836,7 +1836,7 @@
 	},
 	"skills.warrior.CRIT_SLASH.description":{
 		"en": "Increases the Crit Chance of your next common attack.",
-		"fr": "",
+		"fr": "Augmente les chances de critique de votre prochaine attaque commune.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1854,7 +1854,7 @@
 	},
 	"skills.warrior.CRIT_SLASH.effect":{
 		"en": "Increases Crit Chance and Hit Chance by {0}% for next 3 common attacks. Lasts up to {1} sec.",
-		"fr": "",
+		"fr": "Augmente la chance de critique et la chance de toucher de {0}% pour les 3 prochaines attaques communes. Dure jusqu'à {1} s.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1873,7 +1873,7 @@
 
 	"skills.warrior.RAGE.name":{
 		"en": "Rage",
-		"fr": "",
+		"fr": "Rage",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1891,7 +1891,7 @@
 	},
 	"skills.warrior.RAGE.description":{
 		"en": "Activates a Warrior’s rage.",
-		"fr": "",
+		"fr": "Active la fureur du Guerrier.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1909,7 +1909,7 @@
 	},
 	"skills.warrior.RAGE.effect":{
 		"en": "Cooldown: {0} sec. Greatly enhances combat efficiency for {1} sec. Increases SPD by 30% and ATK SPD by 100%",
-		"fr": "",
+		"fr": "Temps de recharge: {0} secondes. Augmente la vitesse de 30% et la vitesse d'attaque de 100%. Dure {1} secondes.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1928,7 +1928,7 @@
 	
 	"skills.warrior.TERMINATE.name":{
 		"en": "Terminate",
-		"fr": "",
+		"fr": "Destruction",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1946,7 +1946,7 @@
 	},
 	"skills.warrior.TERMINATE.description":{
 		"en": "An ultimate strike that deals a high amount of damage to one target.",
-		"fr": "",
+		"fr": "Une frappe ultime qui inflige une grande quantité de dégâts à une cible.",
 		"es": "",
 		"ch": "",
 		"kr": "",
@@ -1964,7 +1964,7 @@
 	},
 	"skills.warrior.TERMINATE.effect":{
 		"en": "Inflicts {0}% more DMG and an additional {1} Skill DMG",
-		"fr": "",
+		"fr": "Inflige {0}% de dégâts supplémentaires et {1} dégâts de compétences supplémentaires.",
 		"es": "",
 		"ch": "",
 		"kr": "",
