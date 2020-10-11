@@ -325,7 +325,7 @@
     },
     "UI.stat.ENHCDMG.short":{
         "en":"ENHC DMG",
-        "fr":"DGTS AML",
+        "fr":"DGTS AM",
         "es":"",
         "ch":"伤害增强",
         "kr":"",
@@ -433,7 +433,7 @@
     },
     "UI.stat.SKILLENHC.short":{
         "en":"Skill ENHC",
-        "fr":"Comp AML",
+        "fr":"Comp AM",
         "es":"",
         "ch":"技能增强",
         "kr":"",
@@ -757,7 +757,7 @@
     },
     "UI.stat.CRITENCH.short":{
         "en":"CRIT ENCH",
-        "fr":"AML CRIT",
+        "fr":"AM CRIT",
         "es":"",
         "ch":"暴击增强",
         "kr":"",
@@ -793,7 +793,7 @@
     },
     "UI.stat.SKILLCRITENCH.short":{
         "en":"Skill CRIT ENCH",
-        "fr":"AML Comp CRIT",
+        "fr":"AM Comp CRIT",
         "es":"",
         "ch":"技能暴击增强",
         "kr":"",
