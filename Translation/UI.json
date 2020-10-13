@@ -1403,6 +1403,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.bag.capacity":{
+        "en":"Bag Capacity",
+        "fr":"Capacitée",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "ja":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.bag.button.sort":{
         "en":"Sort",
         "fr":"Tri",
