@@ -788,8 +788,8 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"Peningkatan Critical Skill",
-        "id":""
+        "th":"",
+        "id":"Peningkatan Critical Skill"
     },
     "UI.stat.SKILLCRITENCH.short":{
         "en":"Skill CRIT ENCH",
@@ -828,7 +828,7 @@
         "id":"Pengurangan Critical"
     },
     "UI.stat.CRITRD.short":{
-        "en":"c",
+        "en":"CRIT RD",
         "fr":"RD CRIT",
         "es":"",
         "ch":"暴击减免",
@@ -843,7 +843,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Skill CRIT ENCH"
+        "id":"CRIT RD"
     },
     "UI.stat.SKILLCRITRD":{
         "en":"Skill Crit Reduction",
