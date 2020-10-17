@@ -15,7 +15,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bola Api"
     },
     "skills.mage.FIRE_BOLT.description":{
         "en":"Strikes a single target with a fire bolt, dealing massive damage.",
@@ -33,7 +33,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyerang satu target dengan Bola Api, memberikan kerusakan besar."
     },
     "skills.mage.FIRE_BOLT.effect":{
         "en":"Inflicts {0}% damage and additional {1} skill damage.",
@@ -51,7 +51,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Memberikan {0}% kerusakan dan {1} kerusakan skill tambahan."
     },
     "skills.mage.MAGIC_BOLT.name":{
         "en":"Magic Bolt",
@@ -69,7 +69,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bola Sihir"
     },
     "skills.mage.MAGIC_BOLT.description":{
         "en":"Launches multiple bolts at the target, dealing magic damage.",
@@ -87,7 +87,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meluncurkan beberapa Bola Sihir pada target, memberikan kerusakan sihir."
     },
     "skills.mage.MAGIC_BOLT.effect":{
         "en":"Launch 3 bolts to deal {0}% more damage and aditional {1} skill damage.",
@@ -105,7 +105,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meluncurkan 3 Bola Sihir untuk menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.mage.ENERGY.name":{
         "en":"Energy",
@@ -123,7 +123,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Energi"
     },
     "skills.mage.ENERGY.description":{
         "en":"Increases mage's max MP.",
@@ -141,7 +141,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menambahkan MP Player."
     },
     "skills.mage.ENERGY.effect":{
         "en":"Increases base MP by {0}%",
@@ -159,7 +159,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan MP sebanyak {0}%"
     },
     "skills.mage.METEOR_DROP.name":{
         "en":"Meteor Drop",
@@ -177,7 +177,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meteor Jatuh"
     },
     "skills.mage.METEOR_DROP.description":{
         "en":"Deals AOE by manipulating destructive meteors",
@@ -195,7 +195,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Memberikan serangan AOE dengan kerusakan destruktif dari meteor."
     },
     "skills.mage.METEOR_DROP.effect":{
         "en":"Each stacked attack deals {0}% Damage",
@@ -213,7 +213,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Setiap serangan yang ditumpuk menimbulkan {0}% kerusakan."
     },
     "skills.mage.AWAKEN.name":{
         "en":"Awaken",
@@ -231,7 +231,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Regenerasi"
     },
     "skills.mage.AWAKEN.description":{
         "en":"Recovers MP Swiftly",
@@ -249,7 +249,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meregenerasi MP dengan cepat."
     },
     "skills.mage.AWAKEN.effect":{
         "en":"Recover MP by {0}",
@@ -267,7 +267,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meregenerasi MP per- {0}"
     },
     "skills.mage.THUNDER.name":{
         "en":"Thunder",
@@ -285,7 +285,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Guntur"
     },
     "skills.mage.THUNDER.description":{
         "en":"Strikes a single target heavily with thunder...",
@@ -303,7 +303,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyerang satu target dengan kuat menggunakan Guntur."
     },
     "skills.mage.THUNDER.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -321,7 +321,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.mage.FIRE_WALL.name":{
         "en":"Fire Wall",
@@ -339,7 +339,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Dinding Api"
     },
     "skills.mage.FIRE_WALL.description":{
         "en":"Harms and slows down enemies in the area of effect by conjuring flames.",
@@ -357,7 +357,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Melukai dan memperlambat musuh di area yang terkena efek api."
     },
     "skills.mage.FIRE_WALL.effect":{
         "en":"Deals {0}% damage and an additional {1} Skill damage each second. Lasts 15 sec.",
@@ -375,7 +375,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan. Selama 15 detik"
     },
     "skills.mage.FREEZE.name":{
         "en":"Freeze",
@@ -393,7 +393,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Membekukan"
     },
     "skills.mage.FREEZE.description":{
         "en":"Freezes the target. Target is unfrozen when it takes damage.",
@@ -411,7 +411,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Membekukan target. Target tidak dibekukan jika terkena serangan"
     },
     "skills.mage.FREEZE.effect":{
         "en":"Deals {0}% damage and freezes the target for {1} seconds.",
@@ -429,7 +429,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan dan membekukan target selama {1} detik."
     },
     "skills.mage.MAGIC_MASTERY.name":{
         "en":"Magic Mastery",
@@ -447,7 +447,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penguasaan Sihir"
     },
     "skills.mage.MAGIC_MASTERY.description":{
         "en":"Increases Magic Crit Chance and Crit damage.",
@@ -465,7 +465,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Magic Crit Chance dan Crit damage."
     },
     "skills.mage.MAGIC_MASTERY.effect":{
         "en":"Increases skill Crit Chance by {0}%. Also increases Skill Crit damage by {1}%.",
@@ -483,7 +483,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Skill Crit Chanche sebesar {0}%. Juga meningkatkan kerusakan Crit Skill sebesar {1}%."
     },
     "skills.mage.MAGIC_SHIELD.name":{
         "en":"Magic Shield",
@@ -501,7 +501,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perisai Sihir"
     },
     "skills.mage.MAGIC_SHIELD.description":{
         "en":"Creates a magic shield to absorb incoming damage.",
@@ -519,7 +519,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menciptakan Perisai Sihir untuk menyerap serangan yang diterima."
     },
     "skills.mage.MAGIC_SHIELD.effect":{
         "en":"Magic shield absorbs {0} incoming damage. Lasts up to 20 sec.",
@@ -537,7 +537,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perisai sihir menyerap sebanyak {0} setiap kerusakan yang masuk. Berlangsung selama 20 detik."
     },
     "skills.mage.SILENCE_CURSE.name":{
         "en":"Silence Curse",
@@ -555,7 +555,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lumpuh"
     },
     "skills.mage.SILENCE_CURSE.description":{
         "en":"Attacks the target, disabling it from using skills.",
@@ -573,7 +573,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Melumpuhkan serangan target, target tak bisa menggunakan skill."
     },
     "skills.mage.SILENCE_CURSE.effect":{
         "en":"Inflicting {0}% more damage and an additional {1} Skill damage. Lasts {2} sec.",
@@ -591,7 +591,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan. Selama {2} detik."
     },
     "skills.mage.FROST_BREATH.name":{
         "en":"Frost Breath",
@@ -609,7 +609,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Nafas Beku"
     },
     "skills.mage.FROST_BREATH.description":{
         "en":"Causes massive damage to all enemies in the area of effect. Deals additional damage to frozen targets.",
@@ -627,7 +627,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyebabkan serangan AOE pada musuh. Memberikan kerusakan tambahan pada target yang dibekukan."
     },
     "skills.mage.FROST_BREATH.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -645,7 +645,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.ranger.TRIPLE_SHOT.name":{
         "en":"Triple Shot",
@@ -663,7 +663,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Triple Shot!"
     },
     "skills.ranger.TRIPLE_SHOT.description":{
         "en":"Shoots at a single target to deal serious damage.",
@@ -681,7 +681,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menembakan 3 panah pada satu target dan menimbulkan kerusakan serius."
     },
     "skills.ranger.TRIPLE_SHOT.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -699,7 +699,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.ranger.POISON_ARROW.name":{
         "en":"Poison Arrow",
@@ -717,7 +717,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Panah Beracun"
     },
     "skills.ranger.POISON_ARROW.description":{
         "en":"Poisons the target and slows it down.",
@@ -735,7 +735,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meracuni target dan memperlambatnya."
     },
     "skills.ranger.POISON_ARROW.effect":{
         "en":"Lowers target's SPD by {0}%. Target takes {1}% more damage and an additional {2} Skill damage over 4 sec.",
@@ -753,7 +753,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menurunkan SPD target sebesar {0}%. Target menerima {1}% lebih banyak kerusakan dan {2} kerusakan skill tambahan selama 4 detik. "
     },
     "skills.ranger.EAGLE_EYE.name":{
         "en":"Eagle Eye",
@@ -771,7 +771,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mata Elang"
     },
     "skills.ranger.EAGLE_EYE.description":{
         "en":"Provides the Ranger with an Attack Increase to distant targets.",
@@ -789,7 +789,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Memberi Pemanah Peningkatan Serangan ke target yang jauh."
     },
     "skills.ranger.EAGLE_EYE.effect":{
         "en":"Common attacks deal {0}% Enhanced Damage to targets more than 8 yrds from you.",
@@ -807,7 +807,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serangan biasa menimbulkan {0}% Kerusakan ditingkatkan ke target dari jarak 8 meter dari Anda"
     },
     "skills.ranger.CHARGED_SHOT.name":{
         "en":"Charged Shot",
@@ -825,7 +825,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tembakan Beruntun"
     },
     "skills.ranger.CHARGED_SHOT.description":{
         "en":"Strikes the enemy with charged arrows.",
@@ -843,7 +843,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyerang musuh dengan panah yang kuat"
     },
     "skills.ranger.CHARGED_SHOT.effect":{
         "en":"Each stacked attack deals {0}% damage.",
@@ -861,7 +861,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Setiap serangan yang ditumpuk Menimbulkan {0}% kerusakan "
     },
     "skills.ranger.HASTE.name":{
         "en":"Haste",
@@ -879,7 +879,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Peningkatan Kecepatan"
     },
     "skills.ranger.HASTE.description":{
         "en":"Increases Ranger's Movement Speed.",
@@ -897,7 +897,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan gerakan Player"
     },
     "skills.ranger.HASTE.effect":{
         "en":"Lasts {0} sec. Increases SPD by {1}.",
@@ -915,7 +915,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kecepatan meningkat selama {0} detik. Kecepatan mengingkat sebanyak {1}."
     },
     "skills.ranger.MULTI_ARROW.name":{
         "en":"Multi-Arrow",
@@ -933,7 +933,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Panah Beruntun"
     },
     "skills.ranger.MULTI_ARROW.description":{
         "en":"Shoots multiple arrows to attack all enemies in a certain range.",
@@ -951,7 +951,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menembakkan banyak anak panah untuk menyerang semua musuh dalam jarak tertentu."
     },
     "skills.ranger.MULTI_ARROW.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -969,7 +969,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.ranger.CRACK_SHOT.name":{
         "en":"Crack Shot",
@@ -987,7 +987,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penembak Jitu"
     },
     "skills.ranger.CRACK_SHOT.description":{
         "en":"Increases Ranger's Attack Speed for a short period of time, during which the Ranger cannot move.",
@@ -1005,7 +1005,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Kecepatan Serangan Player untuk waktu yang singkat, selama skill aktif, Player tidak bisa bergerak."
     },
     "skills.ranger.CRACK_SHOT.effect":{
         "en":"Lasts {0} sec. Increases ATK SPD by {1}. Effect disappears after {2} attacks.",
@@ -1023,7 +1023,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Berlangsung selama {0} detik. Meningkatkan ATK SPD sebanyak {1}. Efek menghilang setelah {2} serangan."
     },
     "skills.ranger.EVASION.name":{
         "en":"Evasion",
@@ -1041,7 +1041,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menghindar"
     },
     "skills.ranger.EVASION.description":{
         "en":"Enhances Ranger's evasive maneuvers.",
@@ -1059,7 +1059,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan kemampuan menghindar Player."
     },
     "skills.ranger.EVASION.effect":{
         "en":"Increases Evasion and Skill Evasion by {0}%. Lasts 6 sec.",
@@ -1077,7 +1077,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Evasion dan Skill Evasion sebesar {0}%. Durasi 6 detik."
     },
     "skills.ranger.PRECISION.name":{
         "en":"Precision",
@@ -1095,7 +1095,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Presisi"
     },
     "skills.ranger.PRECISION.description":{
         "en":"Increases Ranger's Crit Chance and Attack Range. Passive.",
@@ -1113,7 +1113,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Critical Chance Player dan Jarak Serangan Player. Skill Pasif."
     },
     "skills.ranger.PRECISION.effect":{
         "en":"Increases Crit Chance by {0}%. Increases Attack Range by {1} yrds.",
@@ -1131,7 +1131,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Crit Chance sebesar {0}%. Meningkatkan Jarak Serangan selama {1} meter."
     },
     "skills.ranger.PARALYZE_TRAP.name":{
         "en":"Paralyze Trap",
@@ -1149,7 +1149,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perangkap"
     },
     "skills.ranger.PARALYZE_TRAP.description":{
         "en":"Confines the enemy to a trap.",
@@ -1167,7 +1167,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Membuat musuh masuk ke dalam perangkap."
     },
     "skills.ranger.PARALYZE_TRAP.effect":{
         "en":"Trap lasts 15 sec. Paralyzes the target for {0} sec.",
@@ -1185,7 +1185,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perangkap berlangsung selama 15 detik. Melumpuhkan target selama {0} detik."
     },
     "skills.ranger.HOMING_ARROW.name":{
         "en":"Homing Arrow",
@@ -1203,7 +1203,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Panah Homing"
     },
     "skills.ranger.HOMING_ARROW.description":{
         "en":"Instantly shoots multiple homing arrows at a single target, dealing a large amount of damage.",
@@ -1221,7 +1221,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Secara instan menembakkan beberapa panah pelacak pada satu target, menimbulkan sejumlah besar kerusakan."
     },
     "skills.ranger.HOMING_ARROW.effect":{
         "en":"Inflicts {0}% more DMG and an additional {1} Skill DMG.",
@@ -1239,7 +1239,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.ranger.IMPACT_SHOT.name":{
         "en":"Impact Shot",
@@ -1257,7 +1257,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Panah Penghancur"
     },
     "skills.ranger.IMPACT_SHOT.description":{
         "en":"Knocks the target back with powerful shots. Has a better chance to Paralyze the target for 3 seconds as skill levels.",
@@ -1275,7 +1275,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pukul mundur target dengan tembakan kuat. Memiliki peluang lebih baik untuk melumpuhkan target selama 3 detik peluang meningkat seiring level skill bertambah."
     },
     "skills.ranger.IMPACT_SHOT.effect":{
         "en":"Deals {0} Skill DMG. Knock-back distance: {1}.",
@@ -1293,7 +1293,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyebabkan {0} Skill DMG. Jarak knock-back: {1}."
     },
     "skills.warrior.SLAM.name":{
         "en":"Slam",
@@ -1311,7 +1311,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Banting"
     },
     "skills.warrior.SLAM.description":{
         "en":"Attack a target with your weapon, dealing massive damage.",
@@ -1329,7 +1329,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serang target dengan senjata, menimbulkan kerusakan besar."
     },
     "skills.warrior.SLAM.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage.",
@@ -1347,7 +1347,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.warrior.AIR_SLASH.name":{
         "en":"Air Slash",
@@ -1365,7 +1365,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Air Slash"
     },
     "skills.warrior.AIR_SLASH.description":{
         "en":"Approach a target instantly to deliver a devastating strike.",
@@ -1383,7 +1383,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mendekati target secara instan untuk memberikan serangan yang destruktif."
     },
     "skills.warrior.AIR_SLASH.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage. Range: {2} yds.",
@@ -1401,7 +1401,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan. Jarak: {2} meter."
     },
     "skills.warrior.TENACITY.name":{
         "en":"Tenacity",
@@ -1419,7 +1419,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"KEGIGIHAN"
     },
     "skills.warrior.TENACITY.description":{
         "en":"Increases Warrior’s max HP, for better survivability against monsters.",
@@ -1437,7 +1437,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menambahkan HP Player, untuk kemampuan bertahan yang lebih baik melawan monster."
     },
     "skills.warrior.TENACITY.effect":{
         "en":"Increases Warrior's base HP by {0}%.",
@@ -1455,7 +1455,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan HP dasar Warrior sebanyak {0}%."
     },
     "skills.warrior.PITCH.name":{
         "en":"Pitch",
@@ -1473,7 +1473,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pitch"
     },
     "skills.warrior.PITCH.description":{
         "en":"Strikes target with a heavy ranged attack.",
@@ -1491,7 +1491,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyerang target dengan serangan jarak jauh yang berat."
     },
     "skills.warrior.PITCH.effect":{
         "en":"Each stacked attack deals {0}% damage",
@@ -1509,7 +1509,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Setiap serangan yang ditumpuk menimbulkan {0}% kerusakan"
     },
     "skills.warrior.BASH.name":{
         "en":"Bash",
@@ -1527,7 +1527,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bash"
     },
     "skills.warrior.BASH.description":{
         "en":"Deals damage to the target and slows it down.",
@@ -1545,7 +1545,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Memberikan kerusakan pada target dan memperlambatnya."
     },
     "skills.warrior.BASH.effect":{
         "en":"Inflicts {0} Skill damage. Lowers target's SPD by {1}% for {2} sec.",
@@ -1563,7 +1563,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0} Kerusakan keterampilan. Menurunkan SPD target sebesar {1}% selama {2} dtk."
     },
     "skills.warrior.WAR_CRY.name":{
         "en":"War Cry",
@@ -1581,7 +1581,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Seruan Perang"
     },
     "skills.warrior.WAR_CRY.description":{
         "en":"Taunts nearby enemies and lowers their Defense. Causes high threat against certain monsters. Suitable for tanking.",
@@ -1599,7 +1599,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Berteriak pada musuh di sekitar dan menurunkan Pertahanan mereka. Menyebabkan ancaman tinggi terhadap monster tertentu. Cocok untuk tanking."
     },
     "skills.warrior.WAR_CRY.effect":{
         "en":"Causes {0} Skill damage to nearby enemies. Lowers enemies DMG RD by {1}%. Lasts {2} sec.",
@@ -1617,7 +1617,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyebabkan {0} Kerusakan skill pada musuh di sekitar. Menurunkan DMG RD musuh sebanyak {1}%. Berlangsung selama {2} detik."
     },
     "skills.warrior.SURGE.name":{
         "en":"Surge",
@@ -1635,7 +1635,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serangan Vertikal"
     },
     "skills.warrior.SURGE.description":{
         "en":"Attacks enemies in a line in front of you.",
@@ -1653,7 +1653,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyerang musuh di garis depan Anda."
     },
     "skills.warrior.SURGE.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage",
@@ -1671,7 +1671,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     },
     "skills.warrior.BLOCK.name":{
         "en":"Block",
@@ -1689,7 +1689,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tangkis"
     },
     "skills.warrior.BLOCK.description":{
         "en":"Warrior takes less damage from the next couple attacks.",
@@ -1707,7 +1707,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Player menerima lebih sedikit kerusakan dari serangan pasangan berikutnya."
     },
     "skills.warrior.BLOCK.effect":{
         "en":"Increases DMG RD by {0}%. Character blocks 2 incoming attacks within 5 sec.",
@@ -1725,7 +1725,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan DMG RD sebanyak {0}%. Player memblokir 2 serangan yang diterima dalam 5 detik."
     },
     "skills.warrior.CRIT_ENHANCE.name":{
         "en":"Crit Enhance",
@@ -1743,7 +1743,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Peningkatan Crit"
     },
     "skills.warrior.CRIT_ENHANCE.description":{
         "en":"Increases the amount of Crit damage dealt.",
@@ -1761,7 +1761,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan jumlah kerusakan Crit."
     },
     "skills.warrior.CRIT_ENHANCE.effect":{
         "en":"Increases a Warrior's Common Attack Crit Damage by {0}%",
@@ -1779,7 +1779,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Critical Serangan biasa Player sebesar {0}%"
     },
     "skills.warrior.CRIT_SLASH.name":{
         "en":"Crit Slash",
@@ -1797,7 +1797,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Critical Slash"
     },
     "skills.warrior.CRIT_SLASH.description":{
         "en":"Increases the Crit Chance of your next common attack.",
@@ -1815,7 +1815,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan kesempatan untuk Critical dari serangan biasa berikutnya."
     },
     "skills.warrior.CRIT_SLASH.effect":{
         "en":"Increases Crit Chance and Hit Chance by {0}% for next 3 common attacks. Lasts up to {1} sec.",
@@ -1833,7 +1833,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan peluang Critical dan peluang Hit sebesar {0}% untuk 3 serangan biasa berikutnya. Berlangsung hingga {1} detik."
     },
     "skills.warrior.RAGE.name":{
         "en":"Rage",
@@ -1851,7 +1851,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Amarah"
     },
     "skills.warrior.RAGE.description":{
         "en":"Activates a Warrior’s rage.",
@@ -1869,7 +1869,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Amarah sang Prajurit."
     },
     "skills.warrior.RAGE.effect":{
         "en":"Cooldown: {0} sec. Greatly enhances combat efficiency for {1} sec. Increases SPD by 30% and ATK SPD by 100%",
@@ -1887,7 +1887,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cooldown: {0} dtk. Meningkatkan efisiensi pertempuran dengan drastis selama {1} detik. Meningkatkan SPD sebanyak 30% dan ATK SPD sebanyak 100%"
     },
     "skills.warrior.TERMINATE.name":{
         "en":"Terminate",
@@ -1905,7 +1905,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penghancuran"
     },
     "skills.warrior.TERMINATE.description":{
         "en":"An ultimate strike that deals a high amount of damage to one target.",
@@ -1923,7 +1923,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serangan pamungkas yang menghasilkan kerusakan tinggi pada satu target."
     },
     "skills.warrior.TERMINATE.effect":{
         "en":"Inflicts {0}% more DMG and an additional {1} Skill DMG",
@@ -1941,6 +1941,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menimbulkan {0}% kerusakan tambahan dan {1} kerusakan skill tambahan."
     }
 }
