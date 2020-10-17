@@ -15,7 +15,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Katakan kepadanya% s"
     },
     "UI.chat.whisper_from":{
         "en":"%s says",
@@ -33,7 +33,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"%s seperti itu"
     },
     "UI.chat.channel.local":{
         "en":"Local",
@@ -51,7 +51,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lokal"
     },
     "UI.chat.channel.world":{
         "en":"World",
@@ -69,7 +69,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Dunia"
     },
     "UI.chat.channel.notice":{
         "en":"Notice",
@@ -87,7 +87,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pemberitahuan"
     },
     "UI.chat.channel.whisper":{
         "en":"PM",
@@ -105,7 +105,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"PM"
     },
     "UI.chat.channel.guild":{
         "en":"Guild",
@@ -123,7 +123,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Guild"
     },
     "UI.chat.channel.group":{
         "en":"Group",
@@ -141,7 +141,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Grup"
     },
     "UI.chat.channel.system":{
         "en":"System",
@@ -159,7 +159,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sistem"
     },
     "UI.stat.HP":{
         "en":"HP",
@@ -177,7 +177,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"HP"
     },
     "UI.stat.MP":{
         "en":"MP",
@@ -195,7 +195,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"MP"
     },
     "UI.stat.EXP":{
         "en":"EXP",
@@ -213,7 +213,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"EXP"
     },
     "UI.stat.SPD":{
         "en":"SPD",
@@ -231,7 +231,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"SPD"
     },
     "UI.stat.ATK":{
         "en":"Attack",
@@ -249,7 +249,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serangan"
     },
     "UI.stat.ATK.short":{
         "en":"ATK",
@@ -267,7 +267,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"ATK"
     },
     "UI.stat.DEF":{
         "en":"Defence",
@@ -285,7 +285,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pertahanan"
     },
     "UI.stat.DEF.short":{
         "en":"DEF",
@@ -303,7 +303,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"DEF"
     },
     "UI.stat.ENHCDMG":{
         "en":"Enhanced Damage",
@@ -321,7 +321,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serangan Tambahan"
     },
     "UI.stat.ENHCDMG.short":{
         "en":"ENHC DMG",
@@ -339,7 +339,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"ENHC DMG"
     },
     "UI.stat.DMGRD":{
         "en":"Damage Reduction",
@@ -357,7 +357,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pengurangan Serangan"
     },
     "UI.stat.DMGRD.short":{
         "en":"DMG RD",
@@ -375,7 +375,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"DMG RD"
     },
     "UI.stat.ATKSPD":{
         "en":"Attack Speed",
@@ -393,7 +393,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kecepatan Serangan"
     },
     "UI.stat.ATKSPD.short":{
         "en":"ATK SPD",
@@ -411,7 +411,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"ATK SPD"
     },
     "UI.stat.SKILLENHC":{
         "en":"Skill Enhanced",
@@ -429,7 +429,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Peningkatan Skill"
     },
     "UI.stat.SKILLENHC.short":{
         "en":"Skill ENHC",
@@ -447,7 +447,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill ENHC"
     },
     "UI.stat.ACC":{
         "en":"Accuracy",
@@ -465,7 +465,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ketepatan"
     },
     "UI.stat.ACC.short":{
         "en":"ACC",
@@ -483,7 +483,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"ACC"
     },
     "UI.stat.SKILLACC":{
         "en":"Skill Accuracy",
@@ -501,7 +501,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ketepatan Skill"
     },
     "UI.stat.SKILLACC.short":{
         "en":"Skill ACC",
@@ -519,7 +519,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill ACC"
     },
     "UI.stat.EVA":{
         "en":"Evasion",
@@ -537,7 +537,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menghindar"
     },
     "UI.stat.EVA.short":{
         "en":"EVA",
@@ -555,7 +555,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"EVA"
     },
     "UI.stat.SKILLEVA":{
         "en":"Skill Evasion",
@@ -573,7 +573,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menghindari Skill"
     },
     "UI.stat.SKILLEVA.short":{
         "en":"Skill EVA",
@@ -591,7 +591,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill EVA"
     },
     "UI.stat.CRITACC":{
         "en":"Crit Accuracy",
@@ -609,7 +609,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ketepatan Critical"
     },
     "UI.stat.CRITACC.short":{
         "en":"CRIT ACC",
@@ -627,7 +627,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"CRIT ACC"
     },
     "UI.stat.SKILLCRITACC":{
         "en":"Skill Crit Accuracy",
@@ -645,7 +645,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ketepatan Critical Skill"
     },
     "UI.stat.SKILLCRITACC.short":{
         "en":"Skill CRIT ACC",
@@ -663,7 +663,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill CRIT ACC"
     },
     "UI.stat.CRITEVA":{
         "en":"Crit Evasion",
@@ -681,7 +681,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menghindari Critical"
     },
     "UI.stat.CRITEVA.short":{
         "en":"CRIT EVA",
@@ -699,7 +699,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"CRIT EVA"
     },
     "UI.stat.SKILLCRITEVA":{
         "en":"Skill Crit Evasion",
@@ -717,7 +717,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menghindari Critical Skill"
     },
     "UI.stat.SKILLCRITEVA.short":{
         "en":"Skill CRIT EVA",
@@ -735,7 +735,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill CRIT EVA"
     },
     "UI.stat.CRITENCH":{
         "en":"Crit Enhanced",
@@ -753,7 +753,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Peningkatan Crit"
     },
     "UI.stat.CRITENCH.short":{
         "en":"CRIT ENCH",
@@ -771,7 +771,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"CRIT ENCH"
     },
     "UI.stat.SKILLCRITENCH":{
         "en":"Skill Crit Enhanced",
@@ -788,7 +788,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"Peningkatan Critical Skill",
         "id":""
     },
     "UI.stat.SKILLCRITENCH.short":{
@@ -807,7 +807,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill CRIT ENCH"
     },
     "UI.stat.CRITRD":{
         "en":"Crit Reduction",
@@ -825,10 +825,10 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pengurangan Critical"
     },
     "UI.stat.CRITRD.short":{
-        "en":"CRIT RD",
+        "en":"c",
         "fr":"RD CRIT",
         "es":"",
         "ch":"暴击减免",
@@ -843,7 +843,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill CRIT ENCH"
     },
     "UI.stat.SKILLCRITRD":{
         "en":"Skill Crit Reduction",
@@ -861,7 +861,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pengurangan Critical Skill"
     },
     "UI.stat.SKILLCRITRD.short":{
         "en":"Skill CRIT RD",
@@ -879,7 +879,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill CRIT RD"
     },
     "UI.stat.HOLYATK":{
         "en":"Holy Attack",
@@ -897,7 +897,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Serangan Holy"
     },
     "UI.stat.HOLYATK.short":{
         "en":"Holy ATK",
@@ -915,7 +915,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Holy ATK"
     },
     "UI.stat.LUCK":{
         "en":"Luck",
@@ -933,7 +933,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Keberuntungan"
     },
     "UI.stat.LUCK.short":{
         "en":"Luck",
@@ -951,7 +951,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Luck"
     },
     "UI.windows.quest-list.title":{
         "en":"Quest",
@@ -969,7 +969,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi"
     },
     "UI.windows.quest-list.tab.growth":{
         "en":"Growth",
@@ -987,7 +987,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pertumbuhan"
     },
     "UI.windows.quest-list.tab.available":{
         "en":"Available",
@@ -1005,7 +1005,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tersedia"
     },
     "UI.windows.quest-list.objective":{
         "en":"Quest Objective",
@@ -1023,7 +1023,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tujuan Misi"
     },
     "UI.windows.quest-list.reward":{
         "en":"Quest Reward",
@@ -1041,7 +1041,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Hadiah Misi"
     },
     "UI.windows.quest-list.description":{
         "en":"Quest Description",
@@ -1059,7 +1059,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Deskripsi"
     },
     "UI.windows.quest-list.done":{
         "en":"DONE",
@@ -1077,7 +1077,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Selesai"
     },
     "UI.windows.quest.type.main":{
         "en":"Main Quest",
@@ -1095,7 +1095,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi Utama"
     },
     "UI.windows.quest.type.secondary":{
         "en":"Secondary Quest",
@@ -1113,7 +1113,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi Sampingan"
     },
     "UI.windows.quest.type.talent":{
         "en":"Talent Quest",
@@ -1131,7 +1131,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi Bakat"
     },
     "UI.windows.quest.type.daily":{
         "en":"Daily Quest",
@@ -1149,7 +1149,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi Harian"
     },
     "UI.windows.quest.type.guild":{
         "en":"Guild Quest",
@@ -1167,7 +1167,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi Guild"
     },
     "UI.windows.character.title":{
         "en":"Character",
@@ -1185,7 +1185,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Karakter"
     },
     "UI.windows.character.tab.gear":{
         "en":"Gear",
@@ -1203,7 +1203,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Peralatan"
     },
     "UI.windows.character.tab.blessing":{
         "en":"Blessing",
@@ -1221,7 +1221,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Berkat"
     },
     "UI.windows.character.tab.valor":{
         "en":"Valor",
@@ -1239,7 +1239,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Keberanian"
     },
     "UI.windows.character.tab.element":{
         "en":"Element",
@@ -1257,7 +1257,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Elemen"
     },
     "UI.windows.bag.title":{
         "en":"Bag",
@@ -1275,7 +1275,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Inventori"
     },
     "UI.windows.bag.tab.all":{
         "en":"All",
@@ -1293,7 +1293,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Semua"
     },
     "UI.windows.bag.tab.gear":{
         "en":"Gear",
@@ -1311,7 +1311,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Peralatan"
     },
     "UI.windows.bag.tab.potion":{
         "en":"Potion",
@@ -1329,7 +1329,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Potion"
     },
     "UI.windows.bag.tab.materials":{
         "en":"Matl.",
@@ -1347,7 +1347,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Matrl."
     },
     "UI.windows.bag.tab.spirit":{
         "en":"Spirit",
@@ -1365,7 +1365,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Roh"
     },
     "UI.windows.bag.tab.quest":{
         "en":"Quest",
@@ -1383,7 +1383,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi"
     },
     "UI.windows.bag.tab.misc":{
         "en":"Misc",
@@ -1401,7 +1401,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misc"
     },
     "UI.windows.bag.capacity":{
         "en":"Bag Capacity",
@@ -1419,7 +1419,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kapasitas"
     },
     "UI.windows.bag.button.sort":{
         "en":"Sort",
@@ -1437,7 +1437,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sort"
     },
     "UI.windows.bag.button.split":{
         "en":"Split",
@@ -1455,7 +1455,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Split"
     },
 	"UI.windows.bag.button.fortification":{
         "en":"Fort.",
@@ -1473,7 +1473,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perkuat"
     },
 	"UI.windows.bag.button.bulksale":{
         "en":"Bulk Sale",
@@ -1491,7 +1491,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penjualan Masal"
     },
 	"UI.windows.bag.button.vend":{
         "en":"Vend",
@@ -1509,7 +1509,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Berjualan"
     },
 	"UI.windows.bag.button.buytoken":{
         "en":"Charge",
@@ -1527,7 +1527,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Charge"
     },
 	"UI.windows.bag.button.locked":{
         "en":"[Lock]",
@@ -1545,6 +1545,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"[Terkunci]"
     }
 }
