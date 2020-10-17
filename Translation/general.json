@@ -161,24 +161,6 @@
         "th":"",
         "id":"Magipoint"
     },
-    "general.POINT.MAGIPOINTS":{
-        "en":"Magipoints",
-        "fr":"",
-        "es":"",
-        "ch":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "ja":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":"Jumlah"
-    },
     "general.quest.getReward":{
         "en":"Get Reward",
         "fr":"Obtenir la récompense",
