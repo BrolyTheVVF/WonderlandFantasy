@@ -15,7 +15,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Letak item"
     },
     "tooltip.item.class":{
         "en":"Required Class",
@@ -33,7 +33,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Class yang dibutuhkah"
     },
     "tooltip.item.gender":{
         "en":"Required Gender",
@@ -51,7 +51,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jenis Kelamin"
     },
     "tooltip.item.level":{
         "en":"Required Lv",
@@ -69,6 +69,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Level yg dibutuhkan"
     }
 }
