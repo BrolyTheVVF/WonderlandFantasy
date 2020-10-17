@@ -15,7 +15,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm"
     },
     "item.type.body":{
         "en":"Armor",
@@ -33,7 +33,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah"
     },
     "item.type.hand":{
         "en":"Hand",
@@ -51,7 +51,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Main"
     },
     "item.type.weapon":{
         "en":"Weapon",
@@ -69,7 +69,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Senjata"
     },
     "item.type.foot":{
         "en":"Foot",
@@ -87,7 +87,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kaki"
     },
     "item.type.neck":{
         "en":"Neck",
@@ -105,7 +105,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung"
     },
     "item.type.ring":{
         "en":"Ring",
@@ -123,7 +123,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin"
     },
     "item.type.belt":{
         "en":"Belt",
@@ -141,7 +141,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk"
     },
     "item.type.back":{
         "en":"Cape",
@@ -159,7 +159,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mantel"
     },
     "item.type.mount":{
         "en":"Mount",
@@ -177,7 +177,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tunggangan"
     },
     "item.type.spirit":{
         "en":"Spirit",
@@ -195,7 +195,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Roh"
     },
     "item.type.book":{
         "en":"Book",
@@ -213,7 +213,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Buku"
     },
     "item.type.spirit-book":{
         "en":"Spirit Book",
@@ -231,7 +231,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Roh Buku"
     },
     "item.type.potion":{
         "en":"Potion",
@@ -249,7 +249,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Potion"
     },
     "item.type.essence":{
         "en":"Essence",
@@ -267,7 +267,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Essence"
     },
     "item.type.wings":{
         "en":"Wings",
@@ -285,7 +285,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sayap"
     },
     "item.type.hair":{
         "en":"Hair",
@@ -303,7 +303,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Rambut"
     },
     "item.type.quest":{
         "en":"Quest",
@@ -321,7 +321,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Misi"
     },
     "item.type.misc":{
         "en":"Misc",
@@ -339,6 +339,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lainnya"
     }
 }
