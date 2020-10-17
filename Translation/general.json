@@ -15,7 +15,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Guild"
     },
     "general.group":{
         "en":"Group",
@@ -33,7 +33,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Grup"
     },
     "general.CURRENCY.GOLD":{
         "en":"Gold",
@@ -51,7 +51,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Emas"
     },
     "general.CURRENCY.TOKEN":{
         "en":"Token",
@@ -69,7 +69,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Token"
     },
     "general.CURRENCY.TOKENS":{
         "en":"Tokens",
@@ -87,7 +87,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jumlah"
     },
     "general.CURRENCY.COUPON":{
         "en":"Coupon",
@@ -105,7 +105,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tiket"
     },
     "general.CURRENCY.COUPONS":{
         "en":"Coupons",
@@ -123,7 +123,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jumlah"
     },
     "general.POINT.EXP":{
         "en":"Exp",
@@ -141,7 +141,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Exp"
     },
     "general.POINT.MAGIPOINT":{
         "en":"Magipoint",
@@ -159,7 +159,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Magipoint"
     },
     "general.POINT.MAGIPOINTS":{
         "en":"Magipoints",
@@ -177,7 +177,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jumlah"
     },
     "general.quest.getReward":{
         "en":"Get Reward",
@@ -195,7 +195,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ambil Hadiah"
     },
     "general.quest.reward":{
         "en":"Quest Reward",
@@ -213,7 +213,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Hadiah Misi"
     },
     "general.class.warrior":{
         "en":"Warrior",
@@ -231,7 +231,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Prajurit"
     },
     "general.class.ranger":{
         "en":"Ranger",
@@ -249,7 +249,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pemanah"
     },
     "general.class.mage":{
         "en":"Mage",
@@ -267,7 +267,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penyihir"
     },
     "general.gender.m":{
         "en":"M",
@@ -285,7 +285,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"L"
     },
     "general.gender.w":{
         "en":"F",
@@ -303,7 +303,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"P"
     },
     "general.level":{
         "en":"Level",
@@ -321,7 +321,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Level"
     },
     "general.level.short":{
         "en":"Lv.",
@@ -339,7 +339,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lv."
     },
     "general.bind.boe":{
         "en":"Bind on Equip",
@@ -357,7 +357,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kunci Peralatan"
     },
     "general.bind.bop":{
         "en":"Bind on Pickup",
@@ -375,7 +375,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kunci Item"
     },
     "general.bind.bound":{
         "en":"Bound",
@@ -393,6 +393,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Terikat"
     }
 }
