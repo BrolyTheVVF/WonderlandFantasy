@@ -1081,7 +1081,7 @@
     },
     "skills.ranger.PRECISION.name":{
         "en":"Precision",
-        "fr":"Présicion",
+        "fr":"Précision",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1135,7 +1135,7 @@
     },
     "skills.ranger.PARALYZE_TRAP.name":{
         "en":"Paralyze Trap",
-        "fr":"Corona",
+        "fr":"Piège paralysant",
         "es":"",
         "ch":"",
         "kr":"",
