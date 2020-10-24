@@ -1602,6 +1602,24 @@
         "id":""
     },
 	"UI.windows.minimap.line":{
+        "en":"Line",
+        "fr":"Ligne",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+	"UI.windows.minimap.line.short":{
         "en":"Ln",
         "fr":"Ln",
         "es":"",
