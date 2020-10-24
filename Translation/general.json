@@ -376,5 +376,41 @@
         "pl":"",
         "th":"",
         "id":"Terikat"
+    },
+    "general.pvpmode.peace":{
+        "en":"Peace",
+        "fr":"Paix",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "general.pvpmode.pk":{
+        "en":"PK",
+        "fr":"PVP",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
