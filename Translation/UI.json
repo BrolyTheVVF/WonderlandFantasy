@@ -1457,7 +1457,7 @@
         "th":"",
         "id":"Split"
     },
-	"UI.windows.bag.button.fortification":{
+    "UI.windows.bag.button.fortification":{
         "en":"Fort.",
         "fr":"Fort.",
         "es":"",
@@ -1475,7 +1475,7 @@
         "th":"",
         "id":"Perkuat"
     },
-	"UI.windows.bag.button.bulksale":{
+    "UI.windows.bag.button.bulksale":{
         "en":"Bulk Sale",
         "fr":"Vente Lot",
         "es":"",
@@ -1493,7 +1493,7 @@
         "th":"",
         "id":"Penjualan Masal"
     },
-	"UI.windows.bag.button.vend":{
+    "UI.windows.bag.button.vend":{
         "en":"Vend",
         "fr":"Vendre",
         "es":"",
@@ -1511,7 +1511,7 @@
         "th":"",
         "id":"Berjualan"
     },
-	"UI.windows.bag.button.buytoken":{
+    "UI.windows.bag.button.buytoken":{
         "en":"Charge",
         "fr":"Rech.",
         "es":"",
@@ -1529,7 +1529,7 @@
         "th":"",
         "id":"Charge"
     },
-	"UI.windows.bag.button.locked":{
+    "UI.windows.bag.button.locked":{
         "en":"[Lock]",
         "fr":"[Verr]",
         "es":"",
@@ -1547,7 +1547,7 @@
         "th":"",
         "id":"[Terkunci]"
     },
-	"UI.windows.revive.normal":{
+    "UI.windows.revive.normal":{
         "en":"Manual",
         "fr":"Manuel",
         "es":"",
@@ -1565,7 +1565,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.revive.gold":{
+    "UI.windows.revive.gold":{
         "en":"Gold",
         "fr":"Or",
         "es":"",
@@ -1583,7 +1583,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.revive.item":{
+    "UI.windows.revive.item":{
         "en":"Item",
         "fr":"Objet",
         "es":"",
@@ -1601,7 +1601,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.minimap.line":{
+    "UI.windows.minimap.line":{
         "en":"Line",
         "fr":"Ligne",
         "es":"",
@@ -1619,7 +1619,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.minimap.line.short":{
+    "UI.windows.minimap.line.short":{
         "en":"Ln",
         "fr":"Ln",
         "es":"",
@@ -1637,7 +1637,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.title":{
+    "UI.windows.craft.title":{
         "en":"Craft",
         "fr":"Artisanat",
         "es":"",
@@ -1655,7 +1655,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.tab.weapon":{
+    "UI.windows.craft.tab.weapon":{
         "en":"Weapon",
         "fr":"Arme",
         "es":"",
@@ -1673,7 +1673,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.tab.armor":{
+    "UI.windows.craft.tab.armor":{
         "en":"Armor",
         "fr":"Armure",
         "es":"",
@@ -1691,7 +1691,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.tab.jewelry":{
+    "UI.windows.craft.tab.jewelry":{
         "en":"Jewelry",
         "fr":"Bijoux",
         "es":"",
@@ -1709,7 +1709,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.tab.potions":{
+    "UI.windows.craft.tab.potions":{
         "en":"Potions",
         "fr":"Potions",
         "es":"",
@@ -1727,7 +1727,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.tab.mount":{
+    "UI.windows.craft.tab.mount":{
         "en":"Mount",
         "fr":"Monture",
         "es":"",
@@ -1745,7 +1745,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.craft.tab.wings":{
+    "UI.windows.craft.tab.wings":{
         "en":"Wings",
         "fr":"Ailes",
         "es":"",
