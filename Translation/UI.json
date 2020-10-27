@@ -1437,7 +1437,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Sort"
+        "id":"Sortir"
     },
     "UI.windows.bag.button.split":{
         "en":"Split",
@@ -1455,7 +1455,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Split"
+        "id":"Pisah"
     },
     "UI.windows.bag.button.fortification":{
         "en":"Fort.",
@@ -1491,7 +1491,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Penjualan Masal"
+        "id":"Penjualan Massal"
     },
     "UI.windows.bag.button.vend":{
         "en":"Vend",
@@ -1527,7 +1527,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Charge"
+        "id":"Top Up"
     },
     "UI.windows.bag.button.locked":{
         "en":"[Lock]",
@@ -1563,7 +1563,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Manual"
     },
     "UI.windows.revive.gold":{
         "en":"Gold",
@@ -1581,7 +1581,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Emas"
     },
     "UI.windows.revive.item":{
         "en":"Item",
@@ -1599,7 +1599,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Item"
     },
     "UI.windows.minimap.line":{
         "en":"Line",
@@ -1617,7 +1617,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zona"
     },
     "UI.windows.minimap.line.short":{
         "en":"Ln",
@@ -1635,7 +1635,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zn"
     },
     "UI.windows.craft.title":{
         "en":"Craft",
@@ -1653,7 +1653,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kerajinan"
     },
     "UI.windows.craft.tab.weapon":{
         "en":"Weapon",
@@ -1671,7 +1671,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Senjata"
     },
     "UI.windows.craft.tab.armor":{
         "en":"Armor",
@@ -1689,7 +1689,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah"
     },
     "UI.windows.craft.tab.jewelry":{
         "en":"Jewelry",
@@ -1707,7 +1707,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perhiasan"
     },
     "UI.windows.craft.tab.potions":{
         "en":"Potions",
@@ -1725,7 +1725,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan"
     },
     "UI.windows.craft.tab.mount":{
         "en":"Mount",
@@ -1743,7 +1743,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tunggangan"
     },
     "UI.windows.craft.tab.wings":{
         "en":"Wings",
@@ -1761,6 +1761,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sayap"
     }
 }
