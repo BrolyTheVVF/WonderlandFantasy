@@ -141,7 +141,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Menambahkan MP Player."
+        "id":"Menambahkan Mana Player."
     },
     "skills.mage.ENERGY.effect":{
         "en":"Increases base MP by {0}%",
@@ -159,7 +159,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan MP sebanyak {0}%"
+        "id":"Meningkatkan Mana sebanyak {0}%"
     },
     "skills.mage.METEOR_DROP.name":{
         "en":"Meteor Drop",
@@ -267,7 +267,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meregenerasi MP per- {0}"
+        "id":"Meregenerasi Mana per- {0}"
     },
     "skills.mage.THUNDER.name":{
         "en":"Thunder",
@@ -1419,7 +1419,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"KEGIGIHAN"
+        "id":"Kegigihan"
     },
     "skills.warrior.TENACITY.description":{
         "en":"Increases Warrior’s max HP, for better survivability against monsters.",
@@ -1797,7 +1797,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Critical Slash"
+        "id":"Tebasan Kritikal"
     },
     "skills.warrior.CRIT_SLASH.description":{
         "en":"Increases the Crit Chance of your next common attack.",
