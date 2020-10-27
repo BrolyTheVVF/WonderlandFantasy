@@ -51,7 +51,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Main"
+        "id":"Sarung tangan"
     },
     "item.type.weapon":{
         "en":"Weapon",
@@ -249,7 +249,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Potion"
+        "id":"Ramuan"
     },
     "item.type.essence":{
         "en":"Essence",
@@ -267,7 +267,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Essence"
+        "id":"Esensi"
     },
     "item.type.wings":{
         "en":"Wings",
