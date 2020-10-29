@@ -1852,5 +1852,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.craft.btn.start":{
+        "en":"Start",
+        "fr":"Débuter",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.craft.btn.stop":{
+        "en":"Stop",
+        "fr":"Arreter",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
