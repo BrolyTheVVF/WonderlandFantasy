@@ -412,5 +412,41 @@
         "pl":"",
         "th":"",
         "id":"PK"
+    },
+    "general.item.sell.confirm.title":{
+        "en":"Sell {0}",
+        "fr":"Vendre {0}",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+	"general.item.sell.confirm":{
+        "en":"Confirm sale {0} to get {1} Gold ?",
+        "fr":"Confirmer vendre {0} pour obtenir {1} Or ?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
