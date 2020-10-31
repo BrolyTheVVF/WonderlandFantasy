@@ -1779,7 +1779,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"kerajinan"
     },
     "UI.windows.craft.type.mod":{
         "en":"Mod",
@@ -1797,7 +1797,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Perubahan"
     },
     "UI.windows.craft.cost.material":{
         "en":"Material Cost",
@@ -1815,7 +1815,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Biaya Material"
     },
     "UI.windows.craft.cost.gold":{
         "en":"Material Cost",
@@ -1833,7 +1833,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Biaya Material"
     },
     "UI.windows.craft.exp":{
         "en":"Craft EXP",
@@ -1851,7 +1851,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Buat EXP"
     },
     "UI.windows.craft.btn.start":{
         "en":"Start",
@@ -1869,7 +1869,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mulai"
     },
     "UI.windows.craft.btn.stop":{
         "en":"Stop",
@@ -1887,6 +1887,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Stop"
     }
 }
