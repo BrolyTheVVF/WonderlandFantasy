@@ -1818,8 +1818,8 @@
         "id":"Biaya Material"
     },
     "UI.windows.craft.cost.gold":{
-        "en":"Material Cost",
-        "fr":"Matériaux Requis",
+        "en":"Gold Cost",
+        "fr":"Or Requis",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1833,7 +1833,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Biaya Material"
+        "id":"Biaya Emas"
     },
     "UI.windows.craft.exp":{
         "en":"Craft EXP",
