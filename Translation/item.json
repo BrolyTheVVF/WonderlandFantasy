@@ -2,7 +2,7 @@
     "item.type.head":{
         "en":"Helmet",
         "fr":"Casque",
-        "es":"",
+        "es":"Casco",
         "ch":"",
         "kr":"",
         "ru":"Шлем",
@@ -20,7 +20,7 @@
     "item.type.body":{
         "en":"Armor",
         "fr":"Armure",
-        "es":"",
+        "es":"Armadura",
         "ch":"",
         "kr":"",
         "ru":"Броня",
@@ -38,7 +38,7 @@
     "item.type.hand":{
         "en":"Hand",
         "fr":"Main",
-        "es":"",
+        "es":"Guantes",
         "ch":"",
         "kr":"",
         "ru":"Руки",
@@ -56,7 +56,7 @@
     "item.type.weapon":{
         "en":"Weapon",
         "fr":"Arme",
-        "es":"",
+        "es":"Arma",
         "ch":"",
         "kr":"",
         "ru":"Оружие",
@@ -74,7 +74,7 @@
     "item.type.foot":{
         "en":"Foot",
         "fr":"Pieds",
-        "es":"",
+        "es":"Botas",
         "ch":"",
         "kr":"",
         "ru":"Ноги",
@@ -92,7 +92,7 @@
     "item.type.neck":{
         "en":"Neck",
         "fr":"Collier",
-        "es":"",
+        "es":"Collar",
         "ch":"",
         "kr":"",
         "ru":"Шея",
@@ -110,7 +110,7 @@
     "item.type.ring":{
         "en":"Ring",
         "fr":"Anneau",
-        "es":"",
+        "es":"Anillos",
         "ch":"",
         "kr":"",
         "ru":"Кольцо",
@@ -128,7 +128,7 @@
     "item.type.belt":{
         "en":"Belt",
         "fr":"Ceinture",
-        "es":"",
+        "es":"Cinturon",
         "ch":"",
         "kr":"",
         "ru":"Пояс",
@@ -146,7 +146,7 @@
     "item.type.back":{
         "en":"Cape",
         "fr":"Cape",
-        "es":"",
+        "es":"Capa",
         "ch":"",
         "kr":"",
         "ru":"Плащ",
@@ -164,7 +164,7 @@
     "item.type.mount":{
         "en":"Mount",
         "fr":"Monture",
-        "es":"",
+        "es":"Montura",
         "ch":"",
         "kr":"",
         "ru":"Ездовой",
@@ -182,7 +182,7 @@
     "item.type.spirit":{
         "en":"Spirit",
         "fr":"Esprit",
-        "es":"",
+        "es":"Espiritu",
         "ch":"",
         "kr":"",
         "ru":"Дух",
@@ -200,7 +200,7 @@
     "item.type.book":{
         "en":"Book",
         "fr":"Livre",
-        "es":"",
+        "es":"Libro",
         "ch":"",
         "kr":"",
         "ru":"Книга",
@@ -218,7 +218,7 @@
     "item.type.spirit-book":{
         "en":"Spirit Book",
         "fr":"Livre d'esprit",
-        "es":"",
+        "es":"Libro de Spiritu",
         "ch":"",
         "kr":"",
         "ru":"Книга Духов",
@@ -236,7 +236,7 @@
     "item.type.potion":{
         "en":"Potion",
         "fr":"Potion",
-        "es":"",
+        "es":"Pocion",
         "ch":"",
         "kr":"",
         "ru":"Зелье",
@@ -254,7 +254,7 @@
     "item.type.essence":{
         "en":"Essence",
         "fr":"Essence",
-        "es":"",
+        "es":"Esencia",
         "ch":"",
         "kr":"",
         "ru":"Эссенция",
@@ -272,7 +272,7 @@
     "item.type.wings":{
         "en":"Wings",
         "fr":"Ailes",
-        "es":"",
+        "es":"Alas",
         "ch":"",
         "kr":"",
         "ru":"Крылья",
@@ -290,7 +290,7 @@
     "item.type.hair":{
         "en":"Hair",
         "fr":"Cheuveux",
-        "es":"",
+        "es":"Cabello",
         "ch":"",
         "kr":"",
         "ru":"Прическа",
@@ -308,7 +308,7 @@
     "item.type.quest":{
         "en":"Quest",
         "fr":"Quête",
-        "es":"",
+        "es":"Mision",
         "ch":"",
         "kr":"",
         "ru":"Квест",
@@ -326,7 +326,7 @@
     "item.type.misc":{
         "en":"Misc",
         "fr":"Divers",
-        "es":"",
+        "es":"Misc",
         "ch":"",
         "kr":"",
         "ru":"Разное",
