@@ -2,7 +2,7 @@
     "tooltip.item.position":{
         "en":"Gear Position",
         "fr":"Emplacement",
-        "es":"",
+        "es":"Posicion",
         "ch":"",
         "kr":"",
         "ru":"Слот Экипировки",
@@ -20,7 +20,7 @@
     "tooltip.item.class":{
         "en":"Required Class",
         "fr":"Classe Requise",
-        "es":"",
+        "es":"Clase",
         "ch":"",
         "kr":"",
         "ru":"Требуемый Класс",
@@ -38,7 +38,7 @@
     "tooltip.item.gender":{
         "en":"Required Gender",
         "fr":"Genre Requis",
-        "es":"",
+        "es":"Sexo",
         "ch":"",
         "kr":"",
         "ru":"Требуемый Пол",
@@ -56,7 +56,7 @@
     "tooltip.item.level":{
         "en":"Required Lv",
         "fr":"Niveau Requis",
-        "es":"",
+        "es":"Nivel",
         "ch":"",
         "kr":"",
         "ru":"Требуемый уровень",
