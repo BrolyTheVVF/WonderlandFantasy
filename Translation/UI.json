@@ -325,7 +325,7 @@
     },
     "UI.stat.ENHCDMG.short":{
         "en":"ENHC DMG",
-        "fr":"DGTS AML",
+        "fr":"DGTS AM",
         "es":"",
         "ch":"伤害增强",
         "kr":"",
@@ -433,7 +433,7 @@
     },
     "UI.stat.SKILLENHC.short":{
         "en":"Skill ENHC",
-        "fr":"Comp AML",
+        "fr":"Comp AM",
         "es":"",
         "ch":"技能增强",
         "kr":"",
