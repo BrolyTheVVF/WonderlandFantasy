@@ -38,7 +38,7 @@
     "UI.chat.channel.local":{
         "en":"Local",
         "fr":"Local",
-        "es":"",
+        "es":"Local",
         "ch":"",
         "kr":"",
         "ru":"Локальный",
@@ -56,7 +56,7 @@
     "UI.chat.channel.world":{
         "en":"World",
         "fr":"Monde",
-        "es":"",
+        "es":"Mundo",
         "ch":"",
         "kr":"",
         "ru":"Мировой",
@@ -74,7 +74,7 @@
     "UI.chat.channel.notice":{
         "en":"Notice",
         "fr":"Annonce",
-        "es":"",
+        "es":"Anuncio",
         "ch":"",
         "kr":"",
         "ru":"Уведомления",
@@ -92,7 +92,7 @@
     "UI.chat.channel.whisper":{
         "en":"PM",
         "fr":"MP",
-        "es":"",
+        "es":"MP",
         "ch":"",
         "kr":"",
         "ru":"Личный",
@@ -110,7 +110,7 @@
     "UI.chat.channel.guild":{
         "en":"Guild",
         "fr":"Guilde",
-        "es":"",
+        "es":"Gremio",
         "ch":"",
         "kr":"",
         "ru":"Гильдия",
@@ -128,7 +128,7 @@
     "UI.chat.channel.group":{
         "en":"Group",
         "fr":"Groupe",
-        "es":"",
+        "es":"Grupo",
         "ch":"",
         "kr":"",
         "ru":"Группа",
@@ -146,7 +146,7 @@
     "UI.chat.channel.system":{
         "en":"System",
         "fr":"Système",
-        "es":"",
+        "es":"Sistema",
         "ch":"",
         "kr":"",
         "ru":"Система",
@@ -182,7 +182,7 @@
     "UI.stat.MP":{
         "en":"MP",
         "fr":"PM",
-        "es":"",
+        "es":"MP",
         "ch":"魔法值",
         "kr":"",
         "ru":"Мана",
@@ -200,7 +200,7 @@
     "UI.stat.EXP":{
         "en":"EXP",
         "fr":"EXP",
-        "es":"",
+        "es":"EXP",
         "ch":"经验值",
         "kr":"",
         "ru":"ОПТ",
@@ -218,7 +218,7 @@
     "UI.stat.SPD":{
         "en":"SPD",
         "fr":"VIT",
-        "es":"",
+        "es":"SPD",
         "ch":"",
         "kr":"",
         "ru":"Скорость",
@@ -542,7 +542,7 @@
     "UI.stat.EVA.short":{
         "en":"EVA",
         "fr":"ESQ",
-        "es":"",
+        "es":"EVA",
         "ch":"闪避",
         "kr":"",
         "ru":"УКЛ",
@@ -563,8 +563,8 @@
         "es":"Evasión de habilidades",
         "ch":"技能闪避",
         "kr":"스킬 회피",
-        "ru":"",
         "tr":"Уклониене от навыка",
+        "ru":"",
         "de":"",
         "jp":"",
         "pt":"",
@@ -829,7 +829,7 @@
     },
     "UI.stat.CRITRD.short":{
         "en":"CRIT RD",
-        "fr":"RD CRIT",
+        "fr":"RD CRI",
         "es":"",
         "ch":"暴击减免",
         "kr":"",
@@ -938,7 +938,7 @@
     "UI.stat.LUCK.short":{
         "en":"Luck",
         "fr":"Chance",
-        "es":"",
+        "es":"Suerte",
         "ch":"幸运值",
         "kr":"",
         "ru":"УДАЧА",
