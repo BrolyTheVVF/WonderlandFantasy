@@ -564,6 +564,7 @@
         "ch":"技能闪避",
         "kr":"스킬 회피",
         "tr":"Уклониене от навыка",
+        "ru":"",
         "de":"",
         "jp":"",
         "pt":"",
@@ -756,7 +757,7 @@
     },
     "UI.stat.CRITENCH.short":{
         "en":"CRIT ENCH",
-        "fr":" ",
+        "fr":"AM CRIT",
         "es":"",
         "ch":"暴击增强",
         "kr":"",
@@ -792,7 +793,7 @@
     },
     "UI.stat.SKILLCRITENCH.short":{
         "en":"Skill CRIT ENCH",
-        "fr":" ",
+        "fr":"AM Comp CRIT",
         "es":"",
         "ch":"技能暴击增强",
         "kr":"",
@@ -828,7 +829,7 @@
     },
     "UI.stat.CRITRD.short":{
         "en":"CRIT RD",
-        "fr":" ",
+        "fr":"RD CRI",
         "es":"",
         "ch":"暴击减免",
         "kr":"",
@@ -864,7 +865,7 @@
     },
     "UI.stat.SKILLCRITRD.short":{
         "en":"Skill CRIT RD",
-        "fr":" ",
+        "fr":"RD Comp CRIT",
         "es":"",
         "ch":"技能暴击减免",
         "kr":"",
@@ -900,7 +901,7 @@
     },
     "UI.stat.HOLYATK.short":{
         "en":"Holy ATK",
-        "fr":" ",
+        "fr":"ATK Sacrée",
         "es":"",
         "ch":"神圣攻击",
         "kr":"",
@@ -936,7 +937,7 @@
     },
     "UI.stat.LUCK.short":{
         "en":"Luck",
-        "fr":" ",
+        "fr":"Chance",
         "es":"Suerte",
         "ch":"幸运值",
         "kr":"",
