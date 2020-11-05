@@ -110,7 +110,7 @@
     "general.CURRENCY.COUPONS":{
         "en":"Coupons",
         "fr":"Coupons",
-        "es":"",
+        "es":"Cupones",
         "ch":"",
         "kr":"",
         "ru":"Купоны",
@@ -146,7 +146,7 @@
     "general.POINT.MAGIPOINT":{
         "en":"Magipoint",
         "fr":"Magie noire",
-        "es":"",
+        "es":"Puntos Magicos",
         "ch":"",
         "kr":"",
         "ru":"Магипоинт",
@@ -182,7 +182,7 @@
     "general.quest.reward":{
         "en":"Quest Reward",
         "fr":"Récompense de quête",
-        "es":"",
+        "es":"Recompensa de misión",
         "ch":"",
         "kr":"",
         "ru":"Награда за задание",
@@ -200,7 +200,7 @@
     "general.class.warrior":{
         "en":"Warrior",
         "fr":"Guerrier",
-        "es":"",
+        "es":"Guerrero",
         "ch":"",
         "kr":"",
         "ru":"Воин",
@@ -218,7 +218,7 @@
     "general.class.ranger":{
         "en":"Ranger",
         "fr":"Archer",
-        "es":"",
+        "es":"Arquero",
         "ch":"",
         "kr":"",
         "ru":"Лучник",
@@ -236,7 +236,7 @@
     "general.class.mage":{
         "en":"Mage",
         "fr":"Mage",
-        "es":"",
+        "es":"Mago",
         "ch":"",
         "kr":"",
         "ru":"Маг",
@@ -254,7 +254,7 @@
     "general.gender.m":{
         "en":"M",
         "fr":"H",
-        "es":"",
+        "es":"H",
         "ch":"",
         "kr":"",
         "ru":"М",
@@ -272,7 +272,7 @@
     "general.gender.w":{
         "en":"F",
         "fr":"F",
-        "es":"",
+        "es":"M",
         "ch":"",
         "kr":"",
         "ru":"Ж",
@@ -290,7 +290,7 @@
     "general.level":{
         "en":"Level",
         "fr":"Niveau",
-        "es":"",
+        "es":"Nivel",
         "ch":"",
         "kr":"",
         "ru":"Уровень",
@@ -308,7 +308,7 @@
     "general.level.short":{
         "en":"Lv.",
         "fr":"Nv.",
-        "es":"",
+        "es":"Nv",
         "ch":"",
         "kr":"",
         "ru":"Ур.",
@@ -326,7 +326,7 @@
     "general.bind.boe":{
         "en":"Bind on Equip",
         "fr":"Lié quand Équipé",
-        "es":"",
+        "es":"Enlazar al Equipar",
         "ch":"",
         "kr":"",
         "ru":"Привязывается при экипировке",
@@ -344,7 +344,7 @@
     "general.bind.bop":{
         "en":"Bind on Pickup",
         "fr":"Lié quand Ramassé",
-        "es":"",
+        "es":"Enlazar al recoger",
         "ch":"",
         "kr":"",
         "ru":"Привязывается при поднятии",
@@ -362,7 +362,7 @@
     "general.bind.bound":{
         "en":"Bound",
         "fr":"Lié",
-        "es":"",
+        "es":"Unido",
         "ch":"",
         "kr":"",
         "ru":"Привязан",
@@ -380,7 +380,7 @@
     "general.pvpmode.peace":{
         "en":"Peace",
         "fr":"Paix",
-        "es":"",
+        "es":"Paz",
         "ch":"",
         "kr":"",
         "ru":"Мирный",
@@ -398,7 +398,7 @@
     "general.pvpmode.pk":{
         "en":"PK",
         "fr":"PVP",
-        "es":"",
+        "es":"PVP",
         "ch":"",
         "kr":"",
         "ru":"ПВП",
@@ -416,7 +416,7 @@
     "general.item.sell.confirm.title":{
         "en":"Sell {0}",
         "fr":"Vendre {0}",
-        "es":"",
+        "es":"Vender {0}",
         "ch":"",
         "kr":"",
         "ru":"Продать {0}",
@@ -434,7 +434,7 @@
 	"general.item.sell.confirm":{
         "en":"Confirm sale {0} to get {1} Gold ?",
         "fr":"Confirmer vendre {0} pour obtenir {1} Or ?",
-        "es":"",
+        "es":"¿Confirmar venta {0} para obtener {1} oro?",
         "ch":"",
         "kr":"",
         "ru":"Поддтверждаете продажу {0} за {1} золота?",
@@ -452,7 +452,7 @@
 	"general.buy":{
         "en":"Buy",
         "fr":"Acheter",
-        "es":"",
+        "es":"Comprar",
         "ch":"",
         "kr":"",
         "ru":"",
