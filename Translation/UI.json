@@ -1905,7 +1905,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Konfirmasi"
     },
     "UI.windows.confirm":{
         "en":"Confirm",
@@ -1923,7 +1923,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ya"
     },
     "UI.windows.confirm.close":{
         "en":"Close",
@@ -1941,7 +1941,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tutup"
     },
     "UI.windows.fair.title":{
         "en":"Fair",
@@ -1959,7 +1959,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Adil"
     },
     "UI.windows.fair.tab.goldshop":{
         "en":"Gold Shop",
@@ -1977,7 +1977,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Toko Emas"
     },
     "UI.windows.fair.tab.consign":{
         "en":"Consign.",
@@ -1995,7 +1995,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menyerahkan"
     },
     "UI.windows.fair.tab.ench":{
         "en":"Ench.",
@@ -2013,6 +2013,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lelang"
     }
 }
