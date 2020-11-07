@@ -431,7 +431,7 @@
         "th":"",
         "id":""
     },
-	"general.item.sell.confirm":{
+    "general.item.sell.confirm":{
         "en":"Confirm sale {0} to get {1} Gold ?",
         "fr":"Confirmer vendre {0} pour obtenir {1} Or ?",
         "es":"¿Confirmar venta {0} para obtener {1} oro?",
@@ -449,7 +449,7 @@
         "th":"",
         "id":""
     },
-	"general.buy":{
+    "general.buy":{
         "en":"Buy",
         "fr":"Acheter",
         "es":"Comprar",
@@ -461,6 +461,24 @@
         "jp":"",
         "pt":"",
         "vi":"Mua",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "general.cost.none":{
+        "en":"No cost",
+        "fr":"Aucun coût",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
