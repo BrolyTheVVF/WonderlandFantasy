@@ -36,8 +36,8 @@
         "id":"Zirah"
     },
     "item.type.hand":{
-        "en":"Hand",
-        "fr":"Main",
+        "en":"Gloves",
+        "fr":"Gants",
         "es":"Guantes",
         "ch":"",
         "kr":"",
@@ -72,8 +72,8 @@
         "id":"Senjata"
     },
     "item.type.foot":{
-        "en":"Foot",
-        "fr":"Pieds",
+        "en":"Boots",
+        "fr":"Bottes",
         "es":"Botas",
         "ch":"",
         "kr":"",
@@ -90,7 +90,7 @@
         "id":"Kaki"
     },
     "item.type.neck":{
-        "en":"Neck",
+        "en":"Necklace",
         "fr":"Collier",
         "es":"Collar",
         "ch":"",
