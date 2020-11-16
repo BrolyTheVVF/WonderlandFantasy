@@ -74,7 +74,7 @@
     "tooltip.skill.passive":{
         "en":"Passive",
         "fr":"Passif",
-        "es":"",
+        "es":"Pasivo",
         "ch":"",
         "kr":"",
         "ru":"Пассивный",
@@ -92,7 +92,7 @@
     "tooltip.skill.cooldown":{
         "en":"{0} sec cooldown",
         "fr":"{0} sec de recharge",
-        "es":"",
+        "es":"{0} sec para Utilizar",
         "ch":"",
         "kr":"",
         "ru":"{0} сек перезарядка",
@@ -110,7 +110,7 @@
     "tooltip.skill.instant":{
         "en":"Instant",
         "fr":"Instantané",
-        "es":"",
+        "es":"Instantáneo",
         "ch":"",
         "kr":"",
         "ru":"Мгновенный",
