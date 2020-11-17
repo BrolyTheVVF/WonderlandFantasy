@@ -429,7 +429,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jual {0}"
     },
     "general.item.sell.confirm":{
         "en":"Confirm sale {0} to get {1} Gold ?",
@@ -447,7 +447,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Konfirmasi penjualan {0} untuk mendapatkan {1} Emas?"
     },
     "general.buy":{
         "en":"Buy",
@@ -465,7 +465,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Membeli"
     },
     "general.cost.none":{
         "en":"No cost",
@@ -483,7 +483,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tanpa biaya"
     },
     "general.distanceunit":{
         "en":"Yard",
@@ -501,7 +501,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jarak unit"
     },
     "general.time.second":{
         "en":"Second",
@@ -519,7 +519,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Detik"
     },
     "general.time.second.short":{
         "en":"Sec",
@@ -537,7 +537,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Dtk"
     },
     "general.time.minute":{
         "en":"Minute",
@@ -555,7 +555,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menit"
     },
     "general.time.minute.short":{
         "en":"Min",
@@ -573,6 +573,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mnt"
     }
 }
