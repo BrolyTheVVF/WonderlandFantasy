@@ -2031,7 +2031,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Keterampilan"
     },
     "UI.windows.skills.tab.skill":{
         "en":"Skill",
@@ -2049,7 +2049,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Keterampilan"
     },
     "UI.windows.skills.tab.talent":{
         "en":"Talent",
@@ -2067,7 +2067,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bakat"
     },
     "UI.windows.skills.tab.talentskill":{
         "en":"Talent's Skills",
@@ -2085,6 +2085,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Keterampilan Bakat"
     }
 }
