@@ -181,7 +181,7 @@
     },
     "skills.mage.METEOR_DROP.description":{
         "en":"Deals AOE by manipulating destructive meteors",
-        "fr":"Créer un AOE en manipulant des météores destructrices.",
+        "fr":"Créer un AOE en manipulant des météores destructeurs.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -199,7 +199,7 @@
     },
     "skills.mage.METEOR_DROP.effect":{
         "en":"Each stacked attack deals {0}% Damage",
-        "fr":"Chaque attaque inflige {0}% de dégâts.",
+        "fr":"Chaques attaques infligent {0}% de dégâts.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -325,7 +325,7 @@
     },
     "skills.mage.FIRE_WALL.name":{
         "en":"Fire Wall",
-        "fr":"Mur de feu",
+        "fr":"Mur de Feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -397,7 +397,7 @@
     },
     "skills.mage.FREEZE.description":{
         "en":"Freezes the target. Target is unfrozen when it takes damage.",
-        "fr":"Gel la cible. La cible se dégel quand elle prend des dégâts.",
+        "fr":"Gel la cible. La cible se dégèle quand elle prend des dégâts.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -649,7 +649,7 @@
     },
     "skills.ranger.TRIPLE_SHOT.name":{
         "en":"Triple Shot",
-        "fr":"Triple coup",
+        "fr":"Coup Triple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -757,7 +757,7 @@
     },
     "skills.ranger.EAGLE_EYE.name":{
         "en":"Eagle Eye",
-        "fr":"Oeil d'aigle",
+        "fr":"Oeil d'Aigle",
         "es":"",
         "ch":"",
         "kr":"",
@@ -811,7 +811,7 @@
     },
     "skills.ranger.CHARGED_SHOT.name":{
         "en":"Charged Shot",
-        "fr":"Tir chargé",
+        "fr":"Tir Chargé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -919,7 +919,7 @@
     },
     "skills.ranger.MULTI_ARROW.name":{
         "en":"Multi-Arrow",
-        "fr":"Flèche multiple",
+        "fr":"Flèche Multiple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -937,7 +937,7 @@
     },
     "skills.ranger.MULTI_ARROW.description":{
         "en":"Shoots multiple arrows to attack all enemies in a certain range.",
-        "fr":"Tir plusieurs flèches, attaquant les ennemis à une certaine portée.",
+        "fr":"Tire plusieurs flèches, attaquant les ennemis à une certaine portée.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1135,7 +1135,7 @@
     },
     "skills.ranger.PARALYZE_TRAP.name":{
         "en":"Paralyze Trap",
-        "fr":"Piège paralysant",
+        "fr":"Piège Paralysant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1189,7 +1189,7 @@
     },
     "skills.ranger.HOMING_ARROW.name":{
         "en":"Homing Arrow",
-        "fr":"Flèches guidées",
+        "fr":"Flèches Guidées",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1243,7 +1243,7 @@
     },
     "skills.ranger.IMPACT_SHOT.name":{
         "en":"Impact Shot",
-        "fr":"Tir de recul",
+        "fr":"Tir de Recul",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1297,7 +1297,7 @@
     },
     "skills.warrior.SLAM.name":{
         "en":"Slam",
-        "fr":"Découpeur",
+        "fr":"Coup Puissant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1351,7 +1351,7 @@
     },
     "skills.warrior.AIR_SLASH.name":{
         "en":"Air Slash",
-        "fr":"Tornade",
+        "fr":"Coup Brise-Ailes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1567,7 +1567,7 @@
     },
     "skills.warrior.WAR_CRY.name":{
         "en":"War Cry",
-        "fr":"Cris de guerre",
+        "fr":"Cri de Guerre",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1621,7 +1621,7 @@
     },
     "skills.warrior.SURGE.name":{
         "en":"Surge",
-        "fr":"Lame verticale",
+        "fr":"Lame Verticale",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1729,7 +1729,7 @@
     },
     "skills.warrior.CRIT_ENHANCE.name":{
         "en":"Crit Enhance",
-        "fr":"Gonflette",
+        "fr":"Augmentation Critique",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1783,7 +1783,7 @@
     },
     "skills.warrior.CRIT_SLASH.name":{
         "en":"Crit Slash",
-        "fr":"Puissance",
+        "fr":"Lame Critique",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1837,7 +1837,7 @@
     },
     "skills.warrior.RAGE.name":{
         "en":"Rage",
-        "fr":"Rage",
+        "fr":"Fureur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1891,7 +1891,7 @@
     },
     "skills.warrior.TERMINATE.name":{
         "en":"Terminate",
-        "fr":"Destruction",
+        "fr":"Frappe Mortelle",
         "es":"",
         "ch":"",
         "kr":"",
