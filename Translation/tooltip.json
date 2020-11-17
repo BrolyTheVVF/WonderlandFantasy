@@ -87,7 +87,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pasif"
     },
     "tooltip.skill.cooldown":{
         "en":"{0} sec cooldown",
@@ -105,7 +105,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"CD {0} detik "
     },
     "tooltip.skill.instant":{
         "en":"Instant",
@@ -123,6 +123,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Instan"
     }
 }
