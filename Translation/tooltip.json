@@ -71,6 +71,24 @@
         "th":"",
         "id":"Level yg dibutuhkan"
     },
+    "tooltip.item.ench-stats":{
+        "en":"ENCH Stats",
+        "fr":"AMELIO Stats",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "tooltip.skill.passive":{
         "en":"Passive",
         "fr":"Passif",
