@@ -595,7 +595,7 @@
     },
     "skills.mage.FROST_BREATH.name":{
         "en":"Frost Breath",
-        "fr":"Rugissement Glacé",
+        "fr":"Souffle Glacé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -757,7 +757,7 @@
     },
     "skills.ranger.EAGLE_EYE.name":{
         "en":"Eagle Eye",
-        "fr":"Oeil d'Aigle",
+        "fr":"Oeil de Faucon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -973,7 +973,7 @@
     },
     "skills.ranger.CRACK_SHOT.name":{
         "en":"Crack Shot",
-        "fr":"Tir rapide",
+        "fr":"Coup de feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1027,7 +1027,7 @@
     },
     "skills.ranger.EVASION.name":{
         "en":"Evasion",
-        "fr":"Evasion",
+        "fr":"Esquive",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1351,7 +1351,7 @@
     },
     "skills.warrior.AIR_SLASH.name":{
         "en":"Air Slash",
-        "fr":"Coup Brise-Ailes",
+        "fr":"Tranche",
         "es":"",
         "ch":"",
         "kr":"",
