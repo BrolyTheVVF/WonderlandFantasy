@@ -7,7 +7,7 @@
         "kr":"",
         "ru":"Шлем",
         "tr":"",
-        "de":"",
+        "de":"Helm",
         "jp":"",
         "pt":"",
         "vi":"Nón",
@@ -25,7 +25,7 @@
         "kr":"",
         "ru":"Броня",
         "tr":"",
-        "de":"",
+        "de":"Rüstung",
         "jp":"",
         "pt":"",
         "vi":"Giáp",
@@ -43,7 +43,7 @@
         "kr":"",
         "ru":"Руки",
         "tr":"",
-        "de":"",
+        "de":"Handschuhe",
         "jp":"",
         "pt":"",
         "vi":"Găng",
@@ -61,7 +61,7 @@
         "kr":"",
         "ru":"Оружие",
         "tr":"",
-        "de":"",
+        "de":"Waffe",
         "jp":"",
         "pt":"",
         "vi":"Vũ khí",
@@ -79,7 +79,7 @@
         "kr":"",
         "ru":"Ноги",
         "tr":"",
-        "de":"",
+        "de":"Stiefel",
         "jp":"",
         "pt":"",
         "vi":"Giày",
@@ -97,7 +97,7 @@
         "kr":"",
         "ru":"Шея",
         "tr":"",
-        "de":"",
+        "de":"Halskette",
         "jp":"",
         "pt":"",
         "vi":"Dây chuyền",
@@ -110,12 +110,12 @@
     "item.type.ring":{
         "en":"Ring",
         "fr":"Anneau",
-        "es":"Anillos",
+        "es":"Anillo",
         "ch":"",
         "kr":"",
         "ru":"Кольцо",
         "tr":"",
-        "de":"",
+        "de":"Ring",
         "jp":"",
         "pt":"",
         "vi":"Nhẫn",
@@ -128,12 +128,12 @@
     "item.type.belt":{
         "en":"Belt",
         "fr":"Ceinture",
-        "es":"Cinturon",
+        "es":"Cinturón",
         "ch":"",
         "kr":"",
         "ru":"Пояс",
         "tr":"",
-        "de":"",
+        "de":"Gürtel",
         "jp":"",
         "pt":"",
         "vi":"Đai lưng",
@@ -151,7 +151,7 @@
         "kr":"",
         "ru":"Плащ",
         "tr":"",
-        "de":"",
+        "de":"Kap",
         "jp":"",
         "pt":"",
         "vi":"Áo choàng",
@@ -169,7 +169,7 @@
         "kr":"",
         "ru":"Ездовой",
         "tr":"",
-        "de":"",
+        "de":"Mount",
         "jp":"",
         "pt":"",
         "vi":"Thú cưỡi",
@@ -182,12 +182,12 @@
     "item.type.spirit":{
         "en":"Spirit",
         "fr":"Esprit",
-        "es":"Espiritu",
+        "es":"Espíritu",
         "ch":"",
         "kr":"",
         "ru":"Дух",
         "tr":"",
-        "de":"",
+        "de":"Geist",
         "jp":"",
         "pt":"",
         "vi":"Tinh linh",
@@ -205,7 +205,7 @@
         "kr":"",
         "ru":"Книга",
         "tr":"",
-        "de":"",
+        "de":"Buch",
         "jp":"",
         "pt":"",
         "vi":"Sách",
@@ -218,12 +218,12 @@
     "item.type.spirit-book":{
         "en":"Spirit Book",
         "fr":"Livre d'esprit",
-        "es":"Libro de Spiritu",
+        "es":"Libro del espíritu",
         "ch":"",
         "kr":"",
         "ru":"Книга Духов",
         "tr":"",
-        "de":"",
+        "de":"Geistliches Buch",
         "jp":"",
         "pt":"",
         "vi":"Sách tinh linh",
@@ -241,7 +241,7 @@
         "kr":"",
         "ru":"Зелье",
         "tr":"",
-        "de":"",
+        "de":"Zaubertrank",
         "jp":"",
         "pt":"",
         "vi":"Thuốc",
@@ -259,7 +259,7 @@
         "kr":"",
         "ru":"Эссенция",
         "tr":"",
-        "de":"",
+        "de":"Essenz",
         "jp":"",
         "pt":"",
         "vi":"Sao",
@@ -295,7 +295,7 @@
         "kr":"",
         "ru":"Прическа",
         "tr":"",
-        "de":"",
+        "de":"Haare",
         "jp":"",
         "pt":"",
         "vi":"Tóc",
@@ -313,7 +313,7 @@
         "kr":"",
         "ru":"Квест",
         "tr":"",
-        "de":"",
+        "de":"Suche",
         "jp":"",
         "pt":"",
         "vi":"Nhiệm vụ",
@@ -331,7 +331,7 @@
         "kr":"",
         "ru":"Разное",
         "tr":"",
-        "de":"",
+        "de":"Sonstiges",
         "jp":"",
         "pt":"",
         "vi":"Linh tinh",
@@ -343,13 +343,13 @@
     },
     "item.100.name":{
         "en":"Trial Blade",
-        "fr":"",
-        "es":"",
+        "fr":"Epee d'entrainement",
+        "es":"Hoja de prueba",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Probe-Klinge",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -361,13 +361,13 @@
     },
     "item.101.name":{
         "en":"Beginner's Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epee de débutant",
+        "es":"Espada del principiante",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Schwert für Anfänger",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -379,13 +379,13 @@
     },
     "item.102.name":{
         "en":"Mithral Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epée Mithral",
+        "es":"Espada Mithral",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Mithral-Schwert",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -397,13 +397,13 @@
     },
     "item.103.name":{
         "en":"Valiant Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epée vaillante",
+        "es":"Espada Valiante",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Tapferes-Schwert",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -416,12 +416,12 @@
     "item.104.name":{
         "en":"Desert Blade",
         "fr":"Lame du désert",
-        "es":"",
+        "es":"Desert Blade",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Wüstenklinge",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -434,12 +434,12 @@
     "item.105.name":{
         "en":"Harnes Sword",
         "fr":"Épée d'Harnes",
-        "es":"",
+        "es":"Espada de Harnes",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Schwert de Harnes",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -451,13 +451,13 @@
     },
     "item.106.name":{
         "en":"Halo Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epée Halo",
+        "es":"Espada luminosa",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Leuchtendes Schwert",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -469,13 +469,13 @@
     },
     "item.107.name":{
         "en":"Abadon Wicked Blade",
-        "fr":"",
-        "es":"",
+        "fr":"Lame méchante d'Abadon",
+        "es":"Cuchilla malvada de Abadón",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Abadon Böse Klinge",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -487,13 +487,13 @@
     },
     "item.108.name":{
         "en":"Destined Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epée de la Destinée",
+        "es":"Espada Destinada",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Bestimmtes Schwert",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -505,13 +505,13 @@
     },
     "item.109.name":{
         "en":"Rebirth Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epée de la Renaissance",
+        "es":"Espada del Renacimiento",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Schwert der Wiedergeburt",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -523,13 +523,13 @@
     },
     "item.110.name":{
         "en":"Dabura Sword",
-        "fr":"",
-        "es":"",
+        "fr":"Epée de Dabura",
+        "es":"Espada Dabura",
         "ch":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"",
+        "de":"Dabura-Schwert",
         "jp":"",
         "pt":"",
         "vi":"",
@@ -541,7 +541,7 @@
     },
     "item.200.name":{
         "en":"Simple Shortbow",
-        "fr":"",
+        "fr":"Simple Arc court",
         "es":"",
         "ch":"",
         "kr":"",
@@ -559,7 +559,7 @@
     },
     "item.201.name":{
         "en":"Precise Bow",
-        "fr":"",
+        "fr":"Arc précis",
         "es":"",
         "ch":"",
         "kr":"",
@@ -577,7 +577,7 @@
     },
     "item.202.name":{
         "en":"Ironarm Longbow",
-        "fr":"",
+        "fr":"Arc en fer",
         "es":"",
         "ch":"",
         "kr":"",
@@ -595,7 +595,7 @@
     },
     "item.203.name":{
         "en":"Raider's Longbow",
-        "fr":"",
+        "fr":"Arc long de Bandit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -613,7 +613,7 @@
     },
     "item.204.name":{
         "en":"Protecting Bow",
-        "fr":"",
+        "fr":"Arc protecteur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -631,7 +631,7 @@
     },
     "item.205.name":{
         "en":"Harnes Longbow",
-        "fr":"",
+        "fr":"Arc d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -649,7 +649,7 @@
     },
     "item.206.name":{
         "en":"Halo Longbow",
-        "fr":"",
+        "fr":"Arc long Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -667,7 +667,7 @@
     },
     "item.207.name":{
         "en":"Abadon Longbow",
-        "fr":"",
+        "fr":"Arc long d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -685,7 +685,7 @@
     },
     "item.208.name":{
         "en":"Destined Longbow",
-        "fr":"",
+        "fr":"Arc long de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -703,7 +703,7 @@
     },
     "item.209.name":{
         "en":"Rebirth Longbow",
-        "fr":"",
+        "fr":"Arc long de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -721,7 +721,7 @@
     },
     "item.210.name":{
         "en":"Dabura Bow",
-        "fr":"",
+        "fr":"Arc de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -739,7 +739,7 @@
     },
     "item.300.name":{
         "en":"Disciple's Staff",
-        "fr":"",
+        "fr":"Bâton du Disciple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -757,7 +757,7 @@
     },
     "item.301.name":{
         "en":"Wizard Wand",
-        "fr":"",
+        "fr":"Baguette du Sorcier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -775,7 +775,7 @@
     },
     "item.302.name":{
         "en":"Azure Staff",
-        "fr":"",
+        "fr":"Bâton Azure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -793,7 +793,7 @@
     },
     "item.303.name":{
         "en":"Scarlet Staff",
-        "fr":"",
+        "fr":"Bâton Ecarlate",
         "es":"",
         "ch":"",
         "kr":"",
@@ -811,7 +811,7 @@
     },
     "item.304.name":{
         "en":"Forest Staff",
-        "fr":"",
+        "fr":"Bâton Forestier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -829,7 +829,7 @@
     },
     "item.305.name":{
         "en":"Harnes Staff",
-        "fr":"",
+        "fr":"Bâton d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -847,7 +847,7 @@
     },
     "item.306.name":{
         "en":"Halo Staff",
-        "fr":"",
+        "fr":"Bâton Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -865,7 +865,7 @@
     },
     "item.307.name":{
         "en":"Abadon Wand",
-        "fr":"",
+        "fr":"Baguette d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -883,7 +883,7 @@
     },
     "item.308.name":{
         "en":"Destined Wand",
-        "fr":"",
+        "fr":"Bâton de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -901,7 +901,7 @@
     },
     "item.309.name":{
         "en":"Rebirth Staff",
-        "fr":"",
+        "fr":"Bâton de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -919,7 +919,7 @@
     },
     "item.310.name":{
         "en":"Dabura Staff",
-        "fr":"",
+        "fr":"Bâton de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -937,7 +937,7 @@
     },
     "item.400.name":{
         "en":"Disciple Shirt",
-        "fr":"",
+        "fr":"Chemise du Disciple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -955,7 +955,7 @@
     },
     "item.401.name":{
         "en":"Hardskin Chestguard",
-        "fr":"",
+        "fr":"Plastron peau dure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -973,7 +973,7 @@
     },
     "item.402.name":{
         "en":"Viper Outerwear",
-        "fr":"",
+        "fr":"Armure vipère",
         "es":"",
         "ch":"",
         "kr":"",
@@ -991,7 +991,7 @@
     },
     "item.403.name":{
         "en":"Night Stalker",
-        "fr":"",
+        "fr":"Traqueur nocturne",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1009,7 +1009,7 @@
     },
     "item.404.name":{
         "en":"Puppet Armor",
-        "fr":"",
+        "fr":"Armure marionnette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1027,7 +1027,7 @@
     },
     "item.405.name":{
         "en":"Harnes Armor",
-        "fr":"",
+        "fr":"Armure d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1045,7 +1045,7 @@
     },
     "item.406.name":{
         "en":"Halo Armor",
-        "fr":"",
+        "fr":"Armure Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1063,7 +1063,7 @@
     },
     "item.407.name":{
         "en":"Abadon Armor",
-        "fr":"",
+        "fr":"Armure d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1081,7 +1081,7 @@
     },
     "item.408.name":{
         "en":"Destined Armor",
-        "fr":"",
+        "fr":"Armure de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1099,7 +1099,7 @@
     },
     "item.409.name":{
         "en":"Rebirth Armor",
-        "fr":"",
+        "fr":"Armure de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1117,7 +1117,7 @@
     },
     "item.410.name":{
         "en":"Dabura Armor",
-        "fr":"",
+        "fr":"Armure de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1135,7 +1135,7 @@
     },
     "item.500.name":{
         "en":"Disciple's Hairband",
-        "fr":"",
+        "fr":"Bandeau du Disciple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1153,7 +1153,7 @@
     },
     "item.501.name":{
         "en":"Safety Helmet",
-        "fr":"",
+        "fr":"Casque de sécurité",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1171,7 +1171,7 @@
     },
     "item.502.name":{
         "en":"Black Helmet",
-        "fr":"",
+        "fr":"Casque noir",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1189,7 +1189,7 @@
     },
     "item.503.name":{
         "en":"Pharaoh Mask",
-        "fr":"",
+        "fr":"Masque du Pharaon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1207,7 +1207,7 @@
     },
     "item.504.name":{
         "en":"Nature Helmet",
-        "fr":"",
+        "fr":"Casque naturel",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1225,7 +1225,7 @@
     },
     "item.505.name":{
         "en":"Harnes Helmet",
-        "fr":"",
+        "fr":"Heaume d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1243,7 +1243,7 @@
     },
     "item.506.name":{
         "en":"Halo Helmet",
-        "fr":"",
+        "fr":"Casque Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1261,7 +1261,7 @@
     },
     "item.507.name":{
         "en":"Abadon Helmet",
-        "fr":"",
+        "fr":"Heaume d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1279,7 +1279,7 @@
     },
     "item.508.name":{
         "en":"Destined Helmet",
-        "fr":"",
+        "fr":"Heaume de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1297,7 +1297,7 @@
     },
     "item.509.name":{
         "en":"Rebirth Helmet",
-        "fr":"",
+        "fr":"Casque de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1315,7 +1315,7 @@
     },
     "item.510.name":{
         "en":"Dabura Helmet",
-        "fr":"",
+        "fr":"Heaume de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1333,7 +1333,7 @@
     },
     "item.600.name":{
         "en":"Crude Ring",
-        "fr":"",
+        "fr":"Anneau brut",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1351,7 +1351,7 @@
     },
     "item.601.name":{
         "en":"Sweet Seal",
-        "fr":"",
+        "fr":"Sceau agréable",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1369,7 +1369,7 @@
     },
     "item.602.name":{
         "en":"Wicked Fingerband",
-        "fr":"",
+        "fr":"Méchant bracelet",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1387,7 +1387,7 @@
     },
     "item.603.name":{
         "en":"Shining Ring",
-        "fr":"",
+        "fr":"Anneau brillant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1405,7 +1405,7 @@
     },
     "item.604.name":{
         "en":"Inherited Signet",
-        "fr":"",
+        "fr":"Signet héréditaire",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1423,7 +1423,7 @@
     },
     "item.605.name":{
         "en":"Harnes Ring",
-        "fr":"",
+        "fr":"Bague d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1441,7 +1441,7 @@
     },
     "item.606.name":{
         "en":"Halo Ring",
-        "fr":"",
+        "fr":"Anneau Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1459,7 +1459,7 @@
     },
     "item.607.name":{
         "en":"Abadon Ring",
-        "fr":"",
+        "fr":"Chevalière d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1477,7 +1477,7 @@
     },
     "item.608.name":{
         "en":"Destined Band",
-        "fr":"",
+        "fr":"Bague de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1495,7 +1495,7 @@
     },
     "item.609.name":{
         "en":"Rebirth Ring",
-        "fr":"",
+        "fr":"Anneau de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1513,7 +1513,7 @@
     },
     "item.610.name":{
         "en":"Dabura Ring",
-        "fr":"",
+        "fr":"Bague de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1531,7 +1531,7 @@
     },
     "item.700.name":{
         "en":"Wood Choker",
-        "fr":"",
+        "fr":"Collier en bois",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1549,7 +1549,7 @@
     },
     "item.701.name":{
         "en":"Silver Amulet",
-        "fr":"",
+        "fr":"Amulette en argent",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1567,7 +1567,7 @@
     },
     "item.702.name":{
         "en":"Hearty Pendant",
-        "fr":"",
+        "fr":"Pendentif chaleureux",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1585,7 +1585,7 @@
     },
     "item.703.name":{
         "en":"Firecore Necklace",
-        "fr":"",
+        "fr":"Collier avec noyau enflammé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1603,7 +1603,7 @@
     },
     "item.704.name":{
         "en":"Dreamsky Necklace",
-        "fr":"",
+        "fr":"Collier ciel de rêve",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1621,7 +1621,7 @@
     },
     "item.705.name":{
         "en":"Harnes Necklace",
-        "fr":"",
+        "fr":"Collier d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1639,7 +1639,7 @@
     },
     "item.706.name":{
         "en":"Halo Necklace",
-        "fr":"",
+        "fr":"Collier Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1657,7 +1657,7 @@
     },
     "item.707.name":{
         "en":"Abadon Necklace",
-        "fr":"",
+        "fr":"Collier d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1675,7 +1675,7 @@
     },
     "item.708.name":{
         "en":"Destined Necklace",
-        "fr":"",
+        "fr":"Parure de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1693,7 +1693,7 @@
     },
     "item.709.name":{
         "en":"Rebirth Necklace",
-        "fr":"",
+        "fr":"Collier de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1711,7 +1711,7 @@
     },
     "item.710.name":{
         "en":"Dabura Necklace",
-        "fr":"",
+        "fr":"Collier de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1729,7 +1729,7 @@
     },
     "item.800.name":{
         "en":"Disciple Galoshes",
-        "fr":"",
+        "fr":"Galoches du Disciple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1765,7 +1765,7 @@
     },
     "item.802.name":{
         "en":"Devil Boots",
-        "fr":"",
+        "fr":"Bottes du Diable",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1783,7 +1783,7 @@
     },
     "item.803.name":{
         "en":"Patrollel Boots",
-        "fr":"",
+        "fr":"Bottines de patrouille",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1801,7 +1801,7 @@
     },
     "item.804.name":{
         "en":"Emperor Boots",
-        "fr":"",
+        "fr":"Brodequin de l'Empereur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1819,7 +1819,7 @@
     },
     "item.805.name":{
         "en":"Harnes Shoes",
-        "fr":"",
+        "fr":"Santiag d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1837,7 +1837,7 @@
     },
     "item.806.name":{
         "en":"Halo Shoes",
-        "fr":"",
+        "fr":"Chaussures Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1855,7 +1855,7 @@
     },
     "item.807.name":{
         "en":"Abadon Boots",
-        "fr":"",
+        "fr":"Bottillons d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1873,7 +1873,7 @@
     },
     "item.808.name":{
         "en":"Destined Boots",
-        "fr":"",
+        "fr":"Bottines de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1891,7 +1891,7 @@
     },
     "item.809.name":{
         "en":"Rebirth Boots",
-        "fr":"",
+        "fr":"Bottes de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1909,7 +1909,7 @@
     },
     "item.810.name":{
         "en":"Dabura Boots",
-        "fr":"",
+        "fr":"Bottes de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1927,7 +1927,7 @@
     },
     "item.900.name":{
         "en":"Disciple Sash",
-        "fr":"",
+        "fr":"Ceinture du Disciple",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1945,7 +1945,7 @@
     },
     "item.901.name":{
         "en":"Naga Sash",
-        "fr":"",
+        "fr":"Ceinture Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1963,7 +1963,7 @@
     },
     "item.902.name":{
         "en":"Padilla Sash",
-        "fr":"",
+        "fr":"Ceinturon Padilla",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1981,7 +1981,7 @@
     },
     "item.903.name":{
         "en":"Coral Belt",
-        "fr":"",
+        "fr":"Ceinture de corail",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1999,7 +1999,7 @@
     },
     "item.904.name":{
         "en":"Viper Spirit Sash",
-        "fr":"",
+        "fr":"Ceinture de l'Esprit de la Vipère",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2017,7 +2017,7 @@
     },
     "item.905.name":{
         "en":"Harnes Belt",
-        "fr":"",
+        "fr":"Ceinture d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2035,7 +2035,7 @@
     },
     "item.906.name":{
         "en":"Halo Belt",
-        "fr":"",
+        "fr":"Ceinture Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2053,7 +2053,7 @@
     },
     "item.907.name":{
         "en":"Abadon Belt",
-        "fr":"",
+        "fr":"Ceinture d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2071,7 +2071,7 @@
     },
     "item.908.name":{
         "en":"Destined Belt",
-        "fr":"",
+        "fr":"Ceinture de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2089,7 +2089,7 @@
     },
     "item.909.name":{
         "en":"Rebirth Belt",
-        "fr":"",
+        "fr":"Ceinture de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2107,7 +2107,7 @@
     },
     "item.910.name":{
         "en":"Dabura Belt",
-        "fr":"",
+        "fr":"Ceinture de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2125,7 +2125,7 @@
     },
     "item.1000.name":{
         "en":"Thickskin Cloak",
-        "fr":"",
+        "fr":"Manteau en peau de bête",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2143,7 +2143,7 @@
     },
     "item.1001.name":{
         "en":"Prum Mantle",
-        "fr":"",
+        "fr":"Manteau de prunier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2161,7 +2161,7 @@
     },
     "item.1002.name":{
         "en":"Rainbow Cloak",
-        "fr":"",
+        "fr":"Cape Arc-en-ciel",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2179,7 +2179,7 @@
     },
     "item.1003.name":{
         "en":"Gentle Cloak",
-        "fr":"",
+        "fr":"Manteau protecteur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2197,7 +2197,7 @@
     },
     "item.1004.name":{
         "en":"Firesoul Cloak",
-        "fr":"",
+        "fr":"Manteau âme de feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2215,7 +2215,7 @@
     },
     "item.1005.name":{
         "en":"Harnes Cape",
-        "fr":"",
+        "fr":"Cape d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2233,7 +2233,7 @@
     },
     "item.1006.name":{
         "en":"Halo Cape",
-        "fr":"",
+        "fr":"Cape Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2251,7 +2251,7 @@
     },
     "item.1007.name":{
         "en":"Abadon Cape",
-        "fr":"",
+        "fr":"Cape d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2269,7 +2269,7 @@
     },
     "item.1008.name":{
         "en":"Destined Cape",
-        "fr":"",
+        "fr":"Cape de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2287,7 +2287,7 @@
     },
     "item.1009.name":{
         "en":"Rebirth Cape",
-        "fr":"",
+        "fr":"Cape de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2305,7 +2305,7 @@
     },
     "item.1010.name":{
         "en":"Dabura Cape",
-        "fr":"",
+        "fr":"Cape de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2323,7 +2323,7 @@
     },
     "item.1100.name":{
         "en":"Thinskin Gloves",
-        "fr":"",
+        "fr":"Gants en peau de bête",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2341,7 +2341,7 @@
     },
     "item.1101.name":{
         "en":"Hardskin Gloves",
-        "fr":"",
+        "fr":"Gants protecteurs",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2359,7 +2359,7 @@
     },
     "item.1102.name":{
         "en":"Purple Gloves",
-        "fr":"",
+        "fr":"Gants pourpres",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2377,7 +2377,7 @@
     },
     "item.1103.name":{
         "en":"Mummy Handwraps",
-        "fr":"",
+        "fr":"Bandelettes de Mommie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2395,7 +2395,7 @@
     },
     "item.1104.name":{
         "en":"Dole Gloves",
-        "fr":"",
+        "fr":"Gants d'une Dole",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2413,7 +2413,7 @@
     },
     "item.1105.name":{
         "en":"Harnes Handwraps",
-        "fr":"",
+        "fr":"Bandelettes d'Harnes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2431,7 +2431,7 @@
     },
     "item.1106.name":{
         "en":"Halo Handwraps",
-        "fr":"",
+        "fr":"Bandelettes Halo",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2449,7 +2449,7 @@
     },
     "item.1107.name":{
         "en":"Abadon Handwraps",
-        "fr":"",
+        "fr":"Bandelettes d'Abadon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2467,7 +2467,7 @@
     },
     "item.1108.name":{
         "en":"Destined Gloves",
-        "fr":"",
+        "fr":"Gants de la Destinée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2485,7 +2485,7 @@
     },
     "item.1109.name":{
         "en":"Rebirth Handwraps",
-        "fr":"",
+        "fr":"Bandelettes de la Renaissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2503,7 +2503,7 @@
     },
     "item.1110.name":{
         "en":"Dabura Gloves",
-        "fr":"",
+        "fr":"Gants de Dabura",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2521,7 +2521,7 @@
     },
     "item.6000.name":{
         "en":"Christmas Hat B",
-        "fr":"",
+        "fr":"Chapeau de Noël B",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2539,7 +2539,7 @@
     },
     "item.7000.name":{
         "en":"Minor Healing Potion",
-        "fr":"",
+        "fr":"Potion de guérison Mineure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2557,7 +2557,7 @@
     },
     "item.7001.name":{
         "en":"Lesser Healing Potion",
-        "fr":"",
+        "fr":"Moyenne Potion de guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2575,7 +2575,7 @@
     },
     "item.7002.name":{
         "en":"Healing Potion",
-        "fr":"",
+        "fr":"Potion de guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2593,7 +2593,7 @@
     },
     "item.7003.name":{
         "en":"Greater Healing Potion",
-        "fr":"",
+        "fr":"Grande Potion de guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2611,7 +2611,7 @@
     },
     "item.7004.name":{
         "en":"Superior Healing Potion",
-        "fr":"",
+        "fr":"Potion de guérison Supérieure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2629,7 +2629,7 @@
     },
     "item.7005.name":{
         "en":"Major Healing Potion",
-        "fr":"",
+        "fr":"Potion de guérison Majeure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2647,7 +2647,7 @@
     },
     "item.7006.name":{
         "en":"Super Healing Potion",
-        "fr":"",
+        "fr":"Super Potion de guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2665,7 +2665,7 @@
     },
     "item.7007.name":{
         "en":"Ultimate Healing Potion",
-        "fr":"",
+        "fr":"Potion de guérison Ultime",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2683,7 +2683,7 @@
     },
     "item.7008.name":{
         "en":"Endless Healing Potion",
-        "fr":"",
+        "fr":"Potion de guérison Infinie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2701,7 +2701,7 @@
     },
     "item.7050.name":{
         "en":"Instant Healing Flask",
-        "fr":"",
+        "fr":"Flacon de guérison instantanée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2719,7 +2719,7 @@
     },
     "item.7051.name":{
         "en":"Instant Greater Healing Flask",
-        "fr":"",
+        "fr":"Grand flacon de guérison instantanée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2737,7 +2737,7 @@
     },
     "item.7052.name":{
         "en":"Instant Major Healing Flask",
-        "fr":"",
+        "fr":"Flacon de guérison instantanée Majeur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2755,7 +2755,7 @@
     },
     "item.7053.name":{
         "en":"Instant Quick Healing Flask",
-        "fr":"",
+        "fr":"Flacon de guérison instantanée rapide",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2773,7 +2773,7 @@
     },
     "item.7054.name":{
         "en":"Instant Adv. Healing Flask",
-        "fr":"",
+        "fr":"Flacon de guérison instantanée avancé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2791,7 +2791,7 @@
     },
     "item.7100.name":{
         "en":"Magic Potion",
-        "fr":"",
+        "fr":"Potion de mana",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2809,7 +2809,7 @@
     },
     "item.7101.name":{
         "en":"Greater Magic Potion",
-        "fr":"",
+        "fr":"Grande Potion de mana",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2827,7 +2827,7 @@
     },
     "item.7102.name":{
         "en":"Major Magic Potion",
-        "fr":"",
+        "fr":"Potion de mana Majeure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2845,7 +2845,7 @@
     },
     "item.7150.name":{
         "en":"Instant Magic Flask",
-        "fr":"",
+        "fr":"Flacon de mana instantané",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2863,7 +2863,7 @@
     },
     "item.7151.name":{
         "en":"Greater Instant Magic Flask",
-        "fr":"",
+        "fr":"Grand Flacon de mana instantané",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3421,7 +3421,7 @@
     },
     "item.10100.name":{
         "en":"Goblin Stick",
-        "fr":"",
+        "fr":"Bâton de Goblin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3439,7 +3439,7 @@
     },
     "item.11000.name":{
         "en":"Energy Essence (Minor)",
-        "fr":"",
+        "fr":"Essence d'Energie (Mineure)",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3457,7 +3457,7 @@
     },
     "item.11001.name":{
         "en":"Energy Essence (Medium)",
-        "fr":"",
+        "fr":"Essence d'Energie (Moyenne)",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3475,7 +3475,7 @@
     },
     "item.11002.name":{
         "en":"Energy Essence (Major)",
-        "fr":"",
+        "fr":"Essence d'Energie (Majeure)",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3493,7 +3493,7 @@
     },
     "item.11100.name":{
         "en":"Life Source I",
-        "fr":"",
+        "fr":"Source de Vie I",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3511,7 +3511,7 @@
     },
     "item.11101.name":{
         "en":"Life Source II",
-        "fr":"",
+        "fr":"Source de Vie II",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3529,7 +3529,7 @@
     },
     "item.11102.name":{
         "en":"Life Source III",
-        "fr":"",
+        "fr":"Source de Vie III",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3547,7 +3547,7 @@
     },
     "item.11103.name":{
         "en":"Mana Source I",
-        "fr":"",
+        "fr":"Source de Mana I",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3565,7 +3565,7 @@
     },
     "item.11104.name":{
         "en":"Mana Source II",
-        "fr":"",
+        "fr":"Source de Mana II",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3583,7 +3583,7 @@
     },
     "item.11105.name":{
         "en":"Mana Source III",
-        "fr":"",
+        "fr":"Source de Mana III",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3601,7 +3601,7 @@
     },
     "item.12000.name":{
         "en":"Repair Stone",
-        "fr":"",
+        "fr":"Pierre de répération",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3619,7 +3619,7 @@
     },
     "item.12001.name":{
         "en":"Town Portal Scroll",
-        "fr":"",
+        "fr":"Parchemin Portail de la ville",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3637,7 +3637,7 @@
     },
     "item.12002.name":{
         "en":"Multi-use Rope",
-        "fr":"",
+        "fr":"Corde multi-usages",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3655,7 +3655,7 @@
     },
     "item.13000.name":{
         "en":"Skill Book [Slam]",
-        "fr":"",
+        "fr":"Livre de sort [Coup Puissant]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3673,7 +3673,7 @@
     },
     "item.13001.name":{
         "en":"Skill Book [Air Slash]",
-        "fr":"",
+        "fr":"Livre de sort [Tranche]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3691,7 +3691,7 @@
     },
     "item.13002.name":{
         "en":"Skill Book [Tenacity]",
-        "fr":"",
+        "fr":"Livre de sort [Tenacité]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3709,7 +3709,7 @@
     },
     "item.13003.name":{
         "en":"Skill Book [Pitch]",
-        "fr":"",
+        "fr":"Livre de sort [Rafale]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3727,7 +3727,7 @@
     },
     "item.13004.name":{
         "en":"Skill Book [Bash]",
-        "fr":"",
+        "fr":"Livre de sort [Entaille]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3745,7 +3745,7 @@
     },
     "item.13005.name":{
         "en":"Skill Book [War Cry]",
-        "fr":"",
+        "fr":"Livre de sort [Cri de guerre]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3763,7 +3763,7 @@
     },
     "item.13006.name":{
         "en":"Skill Book [Surge]",
-        "fr":"",
+        "fr":"Livre de sort [Lame verticale]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3781,7 +3781,7 @@
     },
     "item.13007.name":{
         "en":"Skill Book [Block]",
-        "fr":"",
+        "fr":"Livre de sort [Parade]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3799,7 +3799,7 @@
     },
     "item.13008.name":{
         "en":"Skill Book [Crit Enhance]",
-        "fr":"",
+        "fr":"Livre de sort [Augmentation Critique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3817,7 +3817,7 @@
     },
     "item.13009.name":{
         "en":"Skill Book [Crit Slash]",
-        "fr":"",
+        "fr":"Livre de sort [Lame Critique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3835,7 +3835,7 @@
     },
     "item.13010.name":{
         "en":"Skill Book [Rage]",
-        "fr":"",
+        "fr":"Livre de sort [Rage]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3853,7 +3853,7 @@
     },
     "item.13011.name":{
         "en":"Skill Book [Terminate]",
-        "fr":"",
+        "fr":"Livre de sort [Frappe mortelle]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3871,7 +3871,7 @@
     },
     "item.13012.name":{
         "en":"Skill Book [Triple Shot]",
-        "fr":"",
+        "fr":"Livre de sort [Salve triple]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3889,7 +3889,7 @@
     },
     "item.13013.name":{
         "en":"Skill Book [Poison Arrow]",
-        "fr":"",
+        "fr":"Livre de sort [Flèche empoisonnée]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3907,7 +3907,7 @@
     },
     "item.13014.name":{
         "en":"Skill Book [Eagle Eye]",
-        "fr":"",
+        "fr":"Livre de sort [Oeil de Faucon]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3925,7 +3925,7 @@
     },
     "item.13015.name":{
         "en":"Skill Book [Charged Shot]",
-        "fr":"",
+        "fr":"Livre de sort [Tir explosif]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3943,7 +3943,7 @@
     },
     "item.13016.name":{
         "en":"Skill Book [Haste]",
-        "fr":"",
+        "fr":"Livre de sort [Hâte]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3961,7 +3961,7 @@
     },
     "item.13017.name":{
         "en":"Skill Book [Multi Arrow]",
-        "fr":"",
+        "fr":"Livre de sort [Salve multiple]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3979,7 +3979,7 @@
     },
     "item.13018.name":{
         "en":"Skill Book [Crack Shot]",
-        "fr":"",
+        "fr":"Livre de sort [Coup de feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3997,7 +3997,7 @@
     },
     "item.13019.name":{
         "en":"Skill Book [Evasion]",
-        "fr":"",
+        "fr":"Livre de sort [Esquive]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4015,7 +4015,7 @@
     },
     "item.13020.name":{
         "en":"Skill Book [Precision]",
-        "fr":"",
+        "fr":"Livre de sort [Précision]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4032,8 +4032,8 @@
         "id":""
     },
     "item.13021.name":{
-        "en":"Skill Book [Paralyse]",
-        "fr":"",
+        "en":"Skill Book [Paralyze Trap]",
+        "fr":"Livre de sort [Piège paralysant]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4051,7 +4051,7 @@
     },
     "item.13022.name":{
         "en":"Skill Book [Homing Arrow]",
-        "fr":"",
+        "fr":"Livre de sort [Salve de rejet]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4069,7 +4069,7 @@
     },
     "item.13023.name":{
         "en":"Skill Book [Impact Shot]",
-        "fr":"",
+        "fr":"Livre de sort [Flèche impactante]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4105,7 +4105,7 @@
     },
     "item.13025.name":{
         "en":"Skill Book [Magic Bolt]",
-        "fr":"",
+        "fr":"Livre de sort [Boule de feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4123,7 +4123,7 @@
     },
     "item.13026.name":{
         "en":"Skill Book [Energy]",
-        "fr":"",
+        "fr":"Livre de sort [Energie]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4141,7 +4141,7 @@
     },
     "item.13027.name":{
         "en":"Skill Book [Meteor Drop]",
-        "fr":"",
+        "fr":"Livre de sort [Lapidation]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4159,7 +4159,7 @@
     },
     "item.13028.name":{
         "en":"Skill Book [Awaken]",
-        "fr":"",
+        "fr":"Livre de sort [Réveil]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4177,7 +4177,7 @@
     },
     "item.13029.name":{
         "en":"Skill Book [Thunder]",
-        "fr":"",
+        "fr":"Livre de sort [Eclair]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4195,7 +4195,7 @@
     },
     "item.13030.name":{
         "en":"Skill Book [Fire Wall]",
-        "fr":"",
+        "fr":"Livre de sort [Mur de feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4213,7 +4213,7 @@
     },
     "item.13031.name":{
         "en":"Skill Book [Freeze]",
-        "fr":"",
+        "fr":"Livre de sort [Gel]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4231,7 +4231,7 @@
     },
     "item.13032.name":{
         "en":"Skill Book [Magic Mastery]",
-        "fr":"",
+        "fr":"Livre de sort [Contrôle magique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4249,7 +4249,7 @@
     },
     "item.13033.name":{
         "en":"Skill Book [Magic Shield]",
-        "fr":"",
+        "fr":"Livre de sort [Bouclier magique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4267,7 +4267,7 @@
     },
     "item.13034.name":{
         "en":"Skill Book [Silence Curse]",
-        "fr":"",
+        "fr":"Livre de sort [Silence]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4285,7 +4285,7 @@
     },
     "item.13035.name":{
         "en":"Skill Book [Frost Breath]",
-        "fr":"",
+        "fr":"Livre de sort [Souffle glaçé]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4322,7 +4322,7 @@
     "item.20001.name":{
         "en":"Rhum",
         "goldValue":1,
-        "fr":"",
+        "fr":"Rhum",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4340,7 +4340,7 @@
     },
     "item.20002.name":{
         "en":"True Sight Potion",
-        "fr":"",
+        "fr":"Potion de cécité",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4358,7 +4358,7 @@
     },
     "item.20003.name":{
         "en":"Purity potion",
-        "fr":"",
+        "fr":"Potion de pureté",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4376,7 +4376,7 @@
     },
     "item.20004.name":{
         "en":"Mother Brand Carpet",
-        "fr":"",
+        "fr":"Tapis de marque mère",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4394,7 +4394,7 @@
     },
     "item.20005.name":{
         "en":"Margaretta Sandwich",
-        "fr":"",
+        "fr":"Swandich Margaretta",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4412,7 +4412,7 @@
     },
     "item.20006.name":{
         "en":"Pig Tongue Interpreter",
-        "fr":"",
+        "fr":"Interprète en langue porcine",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4430,7 +4430,7 @@
     },
     "item.20007.name":{
         "en":"Kommi's New Drug",
-        "fr":"",
+        "fr":"Nouvelle drogue de Kommi",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4484,7 +4484,7 @@
     },
     "item.40000.name":{
         "en":"Strawberry",
-        "fr":"",
+        "fr":"Framboise",
         "es":"",
         "ch":"",
         "kr":"",
