@@ -161,6 +161,24 @@
         "th":"",
         "id":"Sistem"
     },
+    "UI.chat.btn.send":{
+        "en":"Send",
+        "fr":"Envoyer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.HP":{
         "en":"HP",
         "fr":"PV",
