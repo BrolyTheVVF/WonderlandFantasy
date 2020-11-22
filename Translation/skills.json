@@ -2016,7 +2016,7 @@
         "id":""
     },
     "skills.SOUL_GATHERING.amountLeft":{
-        "en":"Amount Left: {0} sec",
+        "en":"Amount Left: {0}",
         "fr":"Âmes Restante: {0}",
         "es":"",
         "ch":"",
