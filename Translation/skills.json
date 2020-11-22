@@ -1996,5 +1996,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "skills.SOUL_GATHERING.timeLeft":{
+        "en":"Time Left: {0} sec",
+        "fr":"Temps Restant: {0} sec",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "skills.SOUL_GATHERING.amountLeft":{
+        "en":"Amount Left: {0} sec",
+        "fr":"Âmes Restante: {0}",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
