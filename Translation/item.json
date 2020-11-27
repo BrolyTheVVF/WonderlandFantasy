@@ -4087,7 +4087,7 @@
     },
     "item.13024.name":{
         "en":"Skill Book [Fire Bolt]",
-        "fr":"",
+        "fr":"Livre de sort [Boule de feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4446,8 +4446,8 @@
         "id":""
     },
     "item.30000.name":{
-        "en":"qi00059",
-        "fr":"",
+        "en":"Wild Fruits",
+        "fr":"Fruits Sauvages",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4464,8 +4464,8 @@
         "id":""
     },
     "item.30001.name":{
-        "en":"i00008",
-        "fr":"",
+        "en":"Dubious Letter",
+        "fr":"Lettre Douteuse",
         "es":"",
         "ch":"",
         "kr":"",
