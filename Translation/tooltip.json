@@ -160,5 +160,41 @@
         "pl":"",
         "th":"",
         "id":"Instan"
+    },
+    "tooltip.player-menu.set-as-target":{
+        "en":"Set as Target",
+        "fr":"Cibler",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "tooltip.player-menu.whisper":{
+        "en":"Whisper",
+        "fr":"Chuchoter",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
