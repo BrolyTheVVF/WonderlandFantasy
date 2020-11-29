@@ -2035,7 +2035,7 @@
     },
 	"skills.TRIAL_OF_STAMINA.name":{
         "en":"Trial of Stamina",
-        "fr":"",
+        "fr":"Épreuve d'endurance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2089,7 +2089,7 @@
     },
 	"skills.TRIAL_OF_POWER.name":{
         "en":"Trial of Power",
-        "fr":"",
+        "fr":"Épreuve de puissance",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2143,7 +2143,7 @@
     },
     "skills.TRIAL_OF_HEALTH.name":{
         "en":"Trial of Health",
-        "fr":"",
+        "fr":"Épreuve de Vie",
         "es":"",
         "ch":"",
         "kr":"",
