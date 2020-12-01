@@ -87,7 +87,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Status Properti"
     },
     "tooltip.item.ench-stats":{
         "en":"ENCH Stats",
@@ -105,7 +105,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Status ENCH"
     },
     "tooltip.skill.passive":{
         "en":"Passive",
@@ -177,7 +177,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tetapkan sebagai Target"
     },
     "tooltip.player-menu.whisper":{
         "en":"Whisper",
@@ -195,6 +195,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Whisper"
     }
 }
