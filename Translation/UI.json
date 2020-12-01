@@ -123,7 +123,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Guild"
+        "id":"Guild "
     },
     "UI.chat.channel.group":{
         "en":"Group",
@@ -177,7 +177,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kirim"
     },
     "UI.stat.HP":{
         "en":"HP",
