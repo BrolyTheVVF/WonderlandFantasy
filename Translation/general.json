@@ -483,7 +483,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menerima"
     },
     "general.cancel":{
         "en":"Cancel",
@@ -501,7 +501,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Membatalkan"
     },
     "general.cost.none":{
         "en":"No cost",
