@@ -1959,7 +1959,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pengumpulan jiwa"
     },
     "skills.SOUL_GATHERING.description-1":{
         "en":"Activate Soul Gathering. Can see the target's soul while killing monsters. Looting soul provides EXP. And also picking up souls of the same color in a row will increase the EXP benefit.",
@@ -1977,7 +1977,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Aktifkan Soul Gathering. Dapat melihat jiwa target sambil membunuh monster. Looting soul memberikan EXP. Dan juga mengambil jiwa dengan warna yang sama berturut-turut akan meningkatkan keuntungan EXP."
     },
     "skills.SOUL_GATHERING.description-2":{
         "en":"Can be used up to 3 times a day",
@@ -1995,7 +1995,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bisa digunakan hingga 3 kali sehari"
     },
     "skills.SOUL_GATHERING.timeLeft":{
         "en":"Time Left: {0} sec",
@@ -2013,7 +2013,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Waktu Tersisa: {0} dtk"
     },
     "skills.SOUL_GATHERING.amountLeft":{
         "en":"Amount Left: {0}",
@@ -2031,7 +2031,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jumlah Tersisa: {0}"
     },
 	"skills.TRIAL_OF_STAMINA.name":{
         "en":"Trial of Stamina",
@@ -2049,7 +2049,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tes ketahanan"
     },
     "skills.TRIAL_OF_STAMINA.description":{
         "en":"",
