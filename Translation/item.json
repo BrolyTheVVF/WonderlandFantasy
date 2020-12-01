@@ -357,7 +357,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Percobaan"
     },
     "item.101.name":{
         "en":"Beginner's Sword",
@@ -375,7 +375,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Pemula"
     },
     "item.102.name":{
         "en":"Mithral Sword",
@@ -393,7 +393,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Mithral"
     },
     "item.103.name":{
         "en":"Valiant Sword",
@@ -411,7 +411,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Valiant"
     },
     "item.104.name":{
         "en":"Desert Blade",
@@ -429,7 +429,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pisau Desert"
     },
     "item.105.name":{
         "en":"Harnes Sword",
@@ -447,7 +447,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Harnes"
     },
     "item.106.name":{
         "en":"Halo Sword",
@@ -465,7 +465,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Halo"
     },
     "item.107.name":{
         "en":"Abadon Wicked Blade",
@@ -483,7 +483,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pisau Jahat Abadon"
     },
     "item.108.name":{
         "en":"Destined Sword",
@@ -501,7 +501,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Takdir"
     },
     "item.109.name":{
         "en":"Rebirth Sword",
@@ -519,7 +519,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Kebangkitan"
     },
     "item.110.name":{
         "en":"Dabura Sword",
@@ -537,7 +537,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pedang Dabura"
     },
     "item.200.name":{
         "en":"Simple Shortbow",
@@ -555,7 +555,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur sederhana"
     },
     "item.201.name":{
         "en":"Precise Bow",
@@ -573,7 +573,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur Presisi"
     },
     "item.202.name":{
         "en":"Ironarm Longbow",
@@ -591,7 +591,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur panjang TanganBesi"
     },
     "item.203.name":{
         "en":"Raider's Longbow",
@@ -609,7 +609,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur panjang Raider"
     },
     "item.204.name":{
         "en":"Protecting Bow",
@@ -627,7 +627,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur Pelindung"
     },
     "item.205.name":{
         "en":"Harnes Longbow",
@@ -645,7 +645,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur panjang Harnes"
     },
     "item.206.name":{
         "en":"Halo Longbow",
@@ -663,7 +663,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur panjang Halo"
     },
     "item.207.name":{
         "en":"Abadon Longbow",
@@ -681,7 +681,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur panjang Abadon"
     },
     "item.208.name":{
         "en":"Destined Longbow",
@@ -699,7 +699,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur Takdir"
     },
     "item.209.name":{
         "en":"Rebirth Longbow",
@@ -717,7 +717,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur Panjang Kebangkitan"
     },
     "item.210.name":{
         "en":"Dabura Bow",
@@ -735,7 +735,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Busur Dabura"
     },
     "item.300.name":{
         "en":"Disciple's Staff",
@@ -753,7 +753,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Pemula"
     },
     "item.301.name":{
         "en":"Wizard Wand",
@@ -771,7 +771,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat Penyihir"
     },
     "item.302.name":{
         "en":"Azure Staff",
@@ -789,7 +789,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Azure"
     },
     "item.303.name":{
         "en":"Scarlet Staff",
@@ -807,7 +807,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Scaralet"
     },
     "item.304.name":{
         "en":"Forest Staff",
@@ -825,7 +825,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Alam"
     },
     "item.305.name":{
         "en":"Harnes Staff",
@@ -843,7 +843,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Harnes"
     },
     "item.306.name":{
         "en":"Halo Staff",
@@ -861,7 +861,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Halo"
     },
     "item.307.name":{
         "en":"Abadon Wand",
@@ -879,7 +879,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Abadon"
     },
     "item.308.name":{
         "en":"Destined Wand",
@@ -897,7 +897,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat Takdir"
     },
     "item.309.name":{
         "en":"Rebirth Staff",
@@ -915,7 +915,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat Sihir Kebangkitan"
     },
     "item.310.name":{
         "en":"Dabura Staff",
@@ -933,7 +933,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat sihir Dabura"
     },
     "item.400.name":{
         "en":"Disciple Shirt",
@@ -951,7 +951,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Baju Murid"
     },
     "item.401.name":{
         "en":"Hardskin Chestguard",
@@ -969,7 +969,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Pelindung Kulit Keras"
     },
     "item.402.name":{
         "en":"Viper Outerwear",
@@ -987,7 +987,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Viper"
     },
     "item.403.name":{
         "en":"Night Stalker",
@@ -1005,7 +1005,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Night Stalker"
     },
     "item.404.name":{
         "en":"Puppet Armor",
@@ -1023,7 +1023,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Puppet"
     },
     "item.405.name":{
         "en":"Harnes Armor",
@@ -1041,7 +1041,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Harnes"
     },
     "item.406.name":{
         "en":"Halo Armor",
@@ -1059,7 +1059,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Halo"
     },
     "item.407.name":{
         "en":"Abadon Armor",
@@ -1077,7 +1077,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Abadon"
     },
     "item.408.name":{
         "en":"Destined Armor",
@@ -1095,7 +1095,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Takdir"
     },
     "item.409.name":{
         "en":"Rebirth Armor",
@@ -1113,7 +1113,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kebangkitan Zirah"
     },
     "item.410.name":{
         "en":"Dabura Armor",
@@ -1131,7 +1131,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Zirah Dabura"
     },
     "item.500.name":{
         "en":"Disciple's Hairband",
@@ -1144,12 +1144,12 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Băng đô Disciple ",
+        "vi":"Băng đô Disciple",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ikat Kepala Murid"
     },
     "item.501.name":{
         "en":"Safety Helmet",
@@ -1167,7 +1167,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm keselamatan"
     },
     "item.502.name":{
         "en":"Black Helmet",
@@ -1185,7 +1185,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Hitam"
     },
     "item.503.name":{
         "en":"Pharaoh Mask",
@@ -1203,7 +1203,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Topeng Firaun"
     },
     "item.504.name":{
         "en":"Nature Helmet",
@@ -1221,7 +1221,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Alam"
     },
     "item.505.name":{
         "en":"Harnes Helmet",
@@ -1239,7 +1239,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Harnes"
     },
     "item.506.name":{
         "en":"Halo Helmet",
@@ -1257,7 +1257,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Halo"
     },
     "item.507.name":{
         "en":"Abadon Helmet",
@@ -1275,7 +1275,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Abadon"
     },
     "item.508.name":{
         "en":"Destined Helmet",
@@ -1293,7 +1293,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Takdir"
     },
     "item.509.name":{
         "en":"Rebirth Helmet",
@@ -1311,7 +1311,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kebangkitan Helm"
     },
     "item.510.name":{
         "en":"Dabura Helmet",
@@ -1329,7 +1329,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Helm Dabura"
     },
     "item.600.name":{
         "en":"Crude Ring",
@@ -1347,7 +1347,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Mentah"
     },
     "item.601.name":{
         "en":"Sweet Seal",
@@ -1365,7 +1365,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Anjing Laut"
     },
     "item.602.name":{
         "en":"Wicked Fingerband",
@@ -1383,7 +1383,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin jahat"
     },
     "item.603.name":{
         "en":"Shining Ring",
@@ -1401,7 +1401,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Berkilau"
     },
     "item.604.name":{
         "en":"Inherited Signet",
@@ -1419,7 +1419,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Warisan"
     },
     "item.605.name":{
         "en":"Harnes Ring",
@@ -1437,7 +1437,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Harnes"
     },
     "item.606.name":{
         "en":"Halo Ring",
@@ -1455,7 +1455,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Halo"
     },
     "item.607.name":{
         "en":"Abadon Ring",
@@ -1473,7 +1473,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Abadon"
     },
     "item.608.name":{
         "en":"Destined Band",
@@ -1491,7 +1491,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Takdir"
     },
     "item.609.name":{
         "en":"Rebirth Ring",
@@ -1509,7 +1509,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Kebangkitan"
     },
     "item.610.name":{
         "en":"Dabura Ring",
@@ -1527,7 +1527,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Cincin Dabura"
     },
     "item.700.name":{
         "en":"Wood Choker",
@@ -1545,7 +1545,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung kayu"
     },
     "item.701.name":{
         "en":"Silver Amulet",
@@ -1563,7 +1563,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jimat perak"
     },
     "item.702.name":{
         "en":"Hearty Pendant",
@@ -1581,7 +1581,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Liontin Hati"
     },
     "item.703.name":{
         "en":"Firecore Necklace",
@@ -1599,7 +1599,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Inti Api"
     },
     "item.704.name":{
         "en":"Dreamsky Necklace",
@@ -1617,7 +1617,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Dreamsky"
     },
     "item.705.name":{
         "en":"Harnes Necklace",
@@ -1635,7 +1635,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Harnes"
     },
     "item.706.name":{
         "en":"Halo Necklace",
@@ -1653,7 +1653,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Halo"
     },
     "item.707.name":{
         "en":"Abadon Necklace",
@@ -1671,7 +1671,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Abadon"
     },
     "item.708.name":{
         "en":"Destined Necklace",
@@ -1689,7 +1689,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Takdir"
     },
     "item.709.name":{
         "en":"Rebirth Necklace",
@@ -1707,7 +1707,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Kebangkitan"
     },
     "item.710.name":{
         "en":"Dabura Necklace",
@@ -1725,7 +1725,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kalung Dabura"
     },
     "item.800.name":{
         "en":"Disciple Galoshes",
@@ -1743,7 +1743,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Pemula"
     },
     "item.801.name":{
         "en":"Fantastic Sandals",
@@ -1761,7 +1761,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sandal yang fantastis"
     },
     "item.802.name":{
         "en":"Devil Boots",
@@ -1779,7 +1779,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Iblis"
     },
     "item.803.name":{
         "en":"Patrollel Boots",
@@ -1797,7 +1797,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Patroli"
     },
     "item.804.name":{
         "en":"Emperor Boots",
@@ -1815,7 +1815,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Kaisar"
     },
     "item.805.name":{
         "en":"Harnes Shoes",
@@ -1833,7 +1833,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Harnes"
     },
     "item.806.name":{
         "en":"Halo Shoes",
@@ -1851,7 +1851,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Halo"
     },
     "item.807.name":{
         "en":"Abadon Boots",
@@ -1869,7 +1869,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Abadon"
     },
     "item.808.name":{
         "en":"Destined Boots",
@@ -1887,7 +1887,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Takdir"
     },
     "item.809.name":{
         "en":"Rebirth Boots",
@@ -1905,7 +1905,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kebangkitan Sepatu"
     },
     "item.810.name":{
         "en":"Dabura Boots",
@@ -1923,7 +1923,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sepatu Dabura"
     },
     "item.900.name":{
         "en":"Disciple Sash",
@@ -1941,7 +1941,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Pemula"
     },
     "item.901.name":{
         "en":"Naga Sash",
@@ -1959,7 +1959,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Naga"
     },
     "item.902.name":{
         "en":"Padilla Sash",
@@ -1977,7 +1977,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Padilla"
     },
     "item.903.name":{
         "en":"Coral Belt",
@@ -1995,7 +1995,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Karang"
     },
     "item.904.name":{
         "en":"Viper Spirit Sash",
@@ -2013,7 +2013,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Viper"
     },
     "item.905.name":{
         "en":"Harnes Belt",
@@ -2031,7 +2031,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Harnes"
     },
     "item.906.name":{
         "en":"Halo Belt",
@@ -2049,7 +2049,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Halo"
     },
     "item.907.name":{
         "en":"Abadon Belt",
@@ -2067,7 +2067,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Abadon"
     },
     "item.908.name":{
         "en":"Destined Belt",
@@ -2085,7 +2085,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Takdir"
     },
     "item.909.name":{
         "en":"Rebirth Belt",
@@ -2103,7 +2103,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Kebangkitan"
     },
     "item.910.name":{
         "en":"Dabura Belt",
@@ -2121,7 +2121,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sabuk Dabura"
     },
     "item.1000.name":{
         "en":"Thickskin Cloak",
@@ -2139,7 +2139,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Kulit"
     },
     "item.1001.name":{
         "en":"Prum Mantle",
@@ -2157,7 +2157,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mantel plum"
     },
     "item.1002.name":{
         "en":"Rainbow Cloak",
@@ -2175,7 +2175,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Pelangi"
     },
     "item.1003.name":{
         "en":"Gentle Cloak",
@@ -2193,7 +2193,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Lembut"
     },
     "item.1004.name":{
         "en":"Firesoul Cloak",
@@ -2211,7 +2211,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Jiwa Api"
     },
     "item.1005.name":{
         "en":"Harnes Cape",
@@ -2229,7 +2229,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Harnes"
     },
     "item.1006.name":{
         "en":"Halo Cape",
@@ -2247,7 +2247,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Halo"
     },
     "item.1007.name":{
         "en":"Abadon Cape",
@@ -2265,7 +2265,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Abadon"
     },
     "item.1008.name":{
         "en":"Destined Cape",
@@ -2283,7 +2283,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Takdir"
     },
     "item.1009.name":{
         "en":"Rebirth Cape",
@@ -2301,7 +2301,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Kebangkitan"
     },
     "item.1010.name":{
         "en":"Dabura Cape",
@@ -2319,7 +2319,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Jubah Dabura"
     },
     "item.1100.name":{
         "en":"Thinskin Gloves",
@@ -2337,7 +2337,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Tipis"
     },
     "item.1101.name":{
         "en":"Hardskin Gloves",
@@ -2355,7 +2355,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Keras"
     },
     "item.1102.name":{
         "en":"Purple Gloves",
@@ -2373,7 +2373,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Ungu"
     },
     "item.1103.name":{
         "en":"Mummy Handwraps",
@@ -2391,7 +2391,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Mumi"
     },
     "item.1104.name":{
         "en":"Dole Gloves",
@@ -2409,7 +2409,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Dole"
     },
     "item.1105.name":{
         "en":"Harnes Handwraps",
@@ -2427,7 +2427,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Harnes"
     },
     "item.1106.name":{
         "en":"Halo Handwraps",
@@ -2445,7 +2445,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Halo"
     },
     "item.1107.name":{
         "en":"Abadon Handwraps",
@@ -2463,7 +2463,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Abadon"
     },
     "item.1108.name":{
         "en":"Destined Gloves",
@@ -2481,7 +2481,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Takdir"
     },
     "item.1109.name":{
         "en":"Rebirth Handwraps",
@@ -2499,7 +2499,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Kebangkitan"
     },
     "item.1110.name":{
         "en":"Dabura Gloves",
@@ -2517,7 +2517,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sarung tangan Dabura"
     },
     "item.6000.name":{
         "en":"Christmas Hat B",
@@ -2535,7 +2535,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Topi Natal B"
     },
     "item.7000.name":{
         "en":"Minor Healing Potion",
@@ -2553,7 +2553,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Kecil"
     },
     "item.7001.name":{
         "en":"Lesser Healing Potion",
@@ -2571,7 +2571,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Sedang"
     },
     "item.7002.name":{
         "en":"Healing Potion",
@@ -2589,7 +2589,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan"
     },
     "item.7003.name":{
         "en":"Greater Healing Potion",
@@ -2607,7 +2607,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Hebat"
     },
     "item.7004.name":{
         "en":"Superior Healing Potion",
@@ -2625,7 +2625,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Tinggi"
     },
     "item.7005.name":{
         "en":"Major Healing Potion",
@@ -2643,7 +2643,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Besar"
     },
     "item.7006.name":{
         "en":"Super Healing Potion",
@@ -2661,7 +2661,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Super"
     },
     "item.7007.name":{
         "en":"Ultimate Healing Potion",
@@ -2679,7 +2679,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Ultimate"
     },
     "item.7008.name":{
         "en":"Endless Healing Potion",
@@ -2697,7 +2697,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penyembuhan Tak terbatas"
     },
     "item.7050.name":{
         "en":"Instant Healing Flask",
@@ -2715,7 +2715,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penyembuhan Instan"
     },
     "item.7051.name":{
         "en":"Instant Greater Healing Flask",
@@ -2733,7 +2733,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penyembuhan Instan Hebat"
     },
     "item.7052.name":{
         "en":"Instant Major Healing Flask",
@@ -2751,7 +2751,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penyembuhan Instan Besar"
     },
     "item.7053.name":{
         "en":"Instant Quick Healing Flask",
@@ -2769,7 +2769,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penyembuhan Instan Cepat"
     },
     "item.7054.name":{
         "en":"Instant Adv. Healing Flask",
@@ -2787,7 +2787,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Penyembuhan Instan Tingkat Lanjut"
     },
     "item.7100.name":{
         "en":"Magic Potion",
@@ -2805,7 +2805,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Mana"
     },
     "item.7101.name":{
         "en":"Greater Magic Potion",
@@ -2823,7 +2823,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Mana Hebat"
     },
     "item.7102.name":{
         "en":"Major Magic Potion",
@@ -2841,7 +2841,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Mana Besar"
     },
     "item.7150.name":{
         "en":"Instant Magic Flask",
@@ -2859,7 +2859,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Mana Instan"
     },
     "item.7151.name":{
         "en":"Greater Instant Magic Flask",
@@ -2877,7 +2877,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Instan Hebat"
     },
     "item.10001.name":{
         "en":"Yellow Celebeam Powder",
@@ -2895,7 +2895,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bubuk Celebeam Kuning"
     },
     "item.10002.name":{
         "en":"Red Celebeam Powder",
@@ -2913,7 +2913,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bubuk Celebeam Merah"
     },
     "item.10003.name":{
         "en":"Blue Celebeam Powder",
@@ -2931,7 +2931,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bubuk Celebeam Biru"
     },
     "item.10004.name":{
         "en":"Cracked Yellow Celebeam",
@@ -2949,7 +2949,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Retakan Celebeam Kuning"
     },
     "item.10005.name":{
         "en":"Cracked Red Celebeam",
@@ -2967,7 +2967,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Retakan Celebeam Merah"
     },
     "item.10006.name":{
         "en":"Cracked Blue Celebeam",
@@ -2985,7 +2985,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Retakan Celebeam Biru"
     },
     "item.10007.name":{
         "en":"Crude Yellow Celebeam",
@@ -3003,7 +3003,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mentahan Celebeam Kuning"
     },
     "item.10008.name":{
         "en":"Crude Red Celebeam",
@@ -3021,7 +3021,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mentahan Celebeam Merah"
     },
     "item.10009.name":{
         "en":"Crude Blue Celebeam",
@@ -3039,7 +3039,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mentahan Celebeam Biru"
     },
     "item.10010.name":{
         "en":"Yellow Celebeam",
@@ -3057,7 +3057,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Kuning"
     },
     "item.10011.name":{
         "en":"Red Celebeam",
@@ -3075,7 +3075,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Merah"
     },
     "item.10012.name":{
         "en":"Blue Celebeam",
@@ -3093,7 +3093,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Biru"
     },
     "item.10013.name":{
         "en":"Perfect Yellow Celebeam",
@@ -3111,7 +3111,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Kuning Sempurna"
     },
     "item.10014.name":{
         "en":"Perfect Red Celebeam",
@@ -3129,7 +3129,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Merah Sempurna"
     },
     "item.10015.name":{
         "en":"Perfect Blue Celebeam",
@@ -3147,7 +3147,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Biru Sempurna"
     },
     "item.10016.name":{
         "en":"Glittery Yellow Celebeam",
@@ -3165,7 +3165,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kilauan Celebeam Kuning"
     },
     "item.10017.name":{
         "en":"Glittery Red Celebeam",
@@ -3183,7 +3183,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kilauan Celebeam Merah"
     },
     "item.10018.name":{
         "en":"Glittery Blue Celebeam",
@@ -3201,7 +3201,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Kilauan Celebeam Biru"
     },
     "item.10019.name":{
         "en":"Glorious Yellow Celebeam",
@@ -3219,7 +3219,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Kuning Mulia"
     },
     "item.10020.name":{
         "en":"Glorious Red Celebeam",
@@ -3237,7 +3237,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Merah Mulia"
     },
     "item.10021.name":{
         "en":"Glorious Blue Celebeam",
@@ -3255,7 +3255,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Biru Mulia"
     },
     "item.10022.name":{
         "en":"Dazzling Yellow Celebeam",
@@ -3273,7 +3273,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Kuning yang Mempesona"
     },
     "item.10023.name":{
         "en":"Dazzling Red Celebeam",
@@ -3291,7 +3291,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Merah yang Mempesona"
     },
     "item.10024.name":{
         "en":"Dazzling Blue Celebeam",
@@ -3309,7 +3309,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Biru yang Mempesona"
     },
     "item.10025.name":{
         "en":"Ultimate Yellow Celebeam",
@@ -3327,7 +3327,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Terakhir Kuning"
     },
     "item.10026.name":{
         "en":"Ultimate Red Celebeam",
@@ -3345,7 +3345,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Terakhir Merah"
     },
     "item.10027.name":{
         "en":"Ultimate Blue Celebeam",
@@ -3363,7 +3363,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Celebeam Terakhir Biru"
     },
     "item.10028.name":{
         "en":"Yellow Topaz",
@@ -3381,7 +3381,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Batu Topas Kuning"
     },
     "item.10029.name":{
         "en":"Red Topaz",
@@ -3399,7 +3399,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Batu Topas Merah"
     },
     "item.10030.name":{
         "en":"Blue Topaz",
@@ -3417,7 +3417,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Batu Topas Biru"
     },
     "item.10100.name":{
         "en":"Goblin Stick",
@@ -3435,7 +3435,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tongkat Goblin"
     },
     "item.11000.name":{
         "en":"Energy Essence (Minor)",
@@ -3453,7 +3453,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Esensi Energi (Kecil)"
     },
     "item.11001.name":{
         "en":"Energy Essence (Medium)",
@@ -3471,7 +3471,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Esensi Energi (Sedang)"
     },
     "item.11002.name":{
         "en":"Energy Essence (Major)",
@@ -3489,7 +3489,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Esensi Energi (Besar)"
     },
     "item.11100.name":{
         "en":"Life Source I",
@@ -3507,7 +3507,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sumber Kehidupan I"
     },
     "item.11101.name":{
         "en":"Life Source II",
@@ -3525,7 +3525,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sumber Kehidupan II"
     },
     "item.11102.name":{
         "en":"Life Source III",
@@ -3543,7 +3543,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sumber Kehidupan III"
     },
     "item.11103.name":{
         "en":"Mana Source I",
@@ -3561,7 +3561,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sumber Mana I"
     },
     "item.11104.name":{
         "en":"Mana Source II",
@@ -3579,7 +3579,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sumber Mana II"
     },
     "item.11105.name":{
         "en":"Mana Source III",
@@ -3597,7 +3597,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Sumber Mana III"
     },
     "item.12000.name":{
         "en":"Repair Stone",
@@ -3615,7 +3615,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Batu Perbaikan"
     },
     "item.12001.name":{
         "en":"Town Portal Scroll",
@@ -3633,7 +3633,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Teleportasi Kota"
     },
     "item.12002.name":{
         "en":"Multi-use Rope",
@@ -3651,7 +3651,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tali Serbaguna"
     },
     "item.13000.name":{
         "en":"Skill Book [Slam]",
@@ -3669,7 +3669,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Buku Keterampilan [Banting]"
     },
     "item.13001.name":{
         "en":"Skill Book [Air Slash]",
@@ -3687,7 +3687,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Buku Keterampilan [Air Slash]"
     },
     "item.13002.name":{
         "en":"Skill Book [Tenacity]",
@@ -3705,7 +3705,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Kegigihan]"
     },
     "item.13003.name":{
         "en":"Skill Book [Pitch]",
@@ -3723,7 +3723,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Pitch]"
     },
     "item.13004.name":{
         "en":"Skill Book [Bash]",
@@ -3741,7 +3741,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Bash]"
     },
     "item.13005.name":{
         "en":"Skill Book [War Cry]",
@@ -3759,7 +3759,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Seruan Perang]"
     },
     "item.13006.name":{
         "en":"Skill Book [Surge]",
@@ -3777,7 +3777,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Serangan Vertikal]"
     },
     "item.13007.name":{
         "en":"Skill Book [Block]",
@@ -3795,7 +3795,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Tangkis]"
     },
     "item.13008.name":{
         "en":"Skill Book [Crit Enhance]",
@@ -3813,7 +3813,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Peningkatan Crit]"
     },
     "item.13009.name":{
         "en":"Skill Book [Crit Slash]",
@@ -3831,7 +3831,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Tebasan Kritikal]"
     },
     "item.13010.name":{
         "en":"Skill Book [Rage]",
@@ -3849,7 +3849,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Amarah]"
     },
     "item.13011.name":{
         "en":"Skill Book [Terminate]",
@@ -3867,7 +3867,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Amarah]"
     },
     "item.13012.name":{
         "en":"Skill Book [Triple Shot]",
@@ -3885,7 +3885,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Penghancuran]"
     },
     "item.13013.name":{
         "en":"Skill Book [Poison Arrow]",
@@ -3903,7 +3903,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Penghancuran]"
     },
     "item.13014.name":{
         "en":"Skill Book [Eagle Eye]",
@@ -3921,7 +3921,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Mata Elang]"
     },
     "item.13015.name":{
         "en":"Skill Book [Charged Shot]",
@@ -3939,7 +3939,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Tembakan Beruntun]"
     },
     "item.13016.name":{
         "en":"Skill Book [Haste]",
@@ -3957,7 +3957,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Peningkatan Kecepatan]"
     },
     "item.13017.name":{
         "en":"Skill Book [Multi Arrow]",
@@ -3975,7 +3975,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Panah Beruntun]"
     },
     "item.13018.name":{
         "en":"Skill Book [Crack Shot]",
@@ -3993,7 +3993,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Penembak Jitu]"
     },
     "item.13019.name":{
         "en":"Skill Book [Evasion]",
@@ -4011,7 +4011,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Menghindar]"
     },
     "item.13020.name":{
         "en":"Skill Book [Precision]",
@@ -4029,7 +4029,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Presisi]"
     },
     "item.13021.name":{
         "en":"Skill Book [Paralyze Trap]",
@@ -4047,7 +4047,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Perangkap]"
     },
     "item.13022.name":{
         "en":"Skill Book [Homing Arrow]",
@@ -4065,7 +4065,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Panah Homing]"
     },
     "item.13023.name":{
         "en":"Skill Book [Impact Shot]",
@@ -4083,7 +4083,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Panah Penghancur]"
     },
     "item.13024.name":{
         "en":"Skill Book [Fire Bolt]",
@@ -4101,7 +4101,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Bola Api]"
     },
     "item.13025.name":{
         "en":"Skill Book [Magic Bolt]",
@@ -4119,7 +4119,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Bola Sihir]"
     },
     "item.13026.name":{
         "en":"Skill Book [Energy]",
@@ -4137,7 +4137,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Energi]"
     },
     "item.13027.name":{
         "en":"Skill Book [Meteor Drop]",
@@ -4155,7 +4155,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Meteor Jatuh]"
     },
     "item.13028.name":{
         "en":"Skill Book [Awaken]",
@@ -4173,7 +4173,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Regenerasi]"
     },
     "item.13029.name":{
         "en":"Skill Book [Thunder]",
@@ -4191,7 +4191,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Guntur]"
     },
     "item.13030.name":{
         "en":"Skill Book [Fire Wall]",
@@ -4209,7 +4209,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Dinding Api]"
     },
     "item.13031.name":{
         "en":"Skill Book [Freeze]",
@@ -4227,7 +4227,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Membekukan]"
     },
     "item.13032.name":{
         "en":"Skill Book [Magic Mastery]",
@@ -4245,7 +4245,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Penguasaan Sihir]"
     },
     "item.13033.name":{
         "en":"Skill Book [Magic Shield]",
@@ -4263,7 +4263,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Perisai Sihir]"
     },
     "item.13034.name":{
         "en":"Skill Book [Silence Curse]",
@@ -4281,7 +4281,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Lumpuh]"
     },
     "item.13035.name":{
         "en":"Skill Book [Frost Breath]",
@@ -4299,7 +4299,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Skill Book [Nafas Beku]"
     },
     "item.20000.name":{
         "en":"Military Food",
@@ -4317,7 +4317,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Makanan Militer"
     },
     "item.20001.name":{
         "en":"Rhum",
@@ -4335,7 +4335,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Rum"
     },
     "item.20002.name":{
         "en":"True Sight Potion",
@@ -4353,7 +4353,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Penglihatan"
     },
     "item.20003.name":{
         "en":"Purity potion",
@@ -4371,7 +4371,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ramuan Kemurnian"
     },
     "item.20004.name":{
         "en":"Mother Brand Carpet",
@@ -4389,7 +4389,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Karpet Buatan Ibu"
     },
     "item.20005.name":{
         "en":"Margaretta Sandwich",
@@ -4407,7 +4407,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Roti Lapis Margaret"
     },
     "item.20006.name":{
         "en":"Pig Tongue Interpreter",
@@ -4425,7 +4425,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lidah Babi Penerjemah"
     },
     "item.20007.name":{
         "en":"Kommi's New Drug",
@@ -4443,7 +4443,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Obat Baru milik Kommi"
     },
     "item.30000.name":{
         "en":"Wild Fruits",
@@ -4461,7 +4461,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Buah Liar"
     },
     "item.30001.name":{
         "en":"Dubious Letter",
@@ -4479,7 +4479,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Surat Meragukan"
     },
     "item.40000.name":{
         "en":"Strawberry",
@@ -4497,6 +4497,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Strawberry"
     }
 }
