@@ -2049,7 +2049,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Tes ketahanan"
+        "id":"Ujian ketahanan"
     },
     "skills.TRIAL_OF_STAMINA.effect":{
         "en":"",
@@ -2085,7 +2085,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ujian Kekuatan"
     },
     "skills.TRIAL_OF_POWER.effect":{
         "en":"",
@@ -2121,7 +2121,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Ujian Kehidupan"
     },
     "skills.TRIAL_OF_HEALTH.effect":{
         "en":"Increases Health.<br>Passive. Increases {0} HP.",
@@ -2139,6 +2139,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meningkatkan Kesehatan. <br> Pasif. Meningkatkan {0} HP."
     }
 }
