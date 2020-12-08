@@ -1925,6 +1925,24 @@
         "th":"",
         "id":"Konfirmasi"
     },
+    "UI.windows.accept":{
+        "en":"Accept",
+        "fr":"Accepter",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.confirm":{
         "en":"Confirm",
         "fr":"Confirmer",
