@@ -35,6 +35,24 @@
         "th":"",
         "id":"Grup"
     },
+    "general.group.receive-request":{
+        "en":"Player [{0}] has sent you a group request",
+        "fr":"Le joueur [{0}] vous à envoyer une demande de groupe",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.CURRENCY.GOLD":{
         "en":"Gold",
         "fr":"Or",
