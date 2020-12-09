@@ -213,7 +213,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Undang Grup"
     },
     "tooltip.player-menu.group-set-new-leader":{
         "en":"Set new leader",
@@ -231,7 +231,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Tetapkan pemimpin baru"
     },
     "tooltip.player-menu.group-expel":{
         "en":"Expel from group",
@@ -249,6 +249,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Keluarkan dari grup"
     }
 }
