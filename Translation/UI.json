@@ -1923,7 +1923,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Konfirmasi"
+        "id":"Kotak Konfirmasi"
     },
     "UI.windows.accept":{
         "en":"Accept",
@@ -1941,7 +1941,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Menerima"
     },
     "UI.windows.confirm":{
         "en":"Confirm",
@@ -1959,7 +1959,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Ya"
+        "id":"Konfirmasi"
     },
     "UI.windows.confirm.close":{
         "en":"Close",
