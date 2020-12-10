@@ -2052,8 +2052,8 @@
         "id":"Ujian ketahanan"
     },
     "skills.TRIAL_OF_STAMINA.effect":{
-        "en":"",
-        "fr":"",
+        "en":"Increases defense.<br>Passive. Increases {0} defense.",
+        "fr":"Augmente la défense.<br>Passif. Augmente {0} défense.",
         "es":"",
         "ch":"",
         "kr":"",
