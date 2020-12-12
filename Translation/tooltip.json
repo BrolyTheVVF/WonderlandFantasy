@@ -197,6 +197,24 @@
         "th":"",
         "id":"Whisper"
     },
+    "tooltip.player-menu.copy-name":{
+        "en":"Copy name",
+        "fr":"Copier le nom",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "tooltip.player-menu.group-invite-to-join":{
         "en":"Invite Group",
         "fr":"Inviter Groupe",
