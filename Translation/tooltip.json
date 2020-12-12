@@ -250,5 +250,23 @@
         "pl":"",
         "th":"",
         "id":"Keluarkan dari grup"
+    },
+    "tooltip.player-menu.group-lean":{
+        "en":"Leave group",
+        "fr":"Partir du groupe",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
