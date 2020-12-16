@@ -286,5 +286,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "tooltip.player-menu.group-disband":{
+        "en":"Disband group",
+        "fr":"Disoudre le groupe",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
