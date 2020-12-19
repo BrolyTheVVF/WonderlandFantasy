@@ -213,7 +213,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Salin nama"
     },
     "tooltip.player-menu.group-invite-to-join":{
         "en":"Invite Group",
@@ -285,7 +285,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Meninggalkan grup"
     },
     "tooltip.player-menu.group-disband":{
         "en":"Disband group",
@@ -303,6 +303,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Bubarkan grup"
     }
 }
