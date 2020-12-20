@@ -2088,8 +2088,8 @@
         "id":"Ujian Kekuatan"
     },
     "skills.TRIAL_OF_POWER.effect":{
-        "en":"",
-        "fr":"",
+        "en":"Increases Attack.<br>Passive. Increases {0} ATK.",
+        "fr":"Augmente l'Attaque.<br>Passif. Augmente {0} ATQ",
         "es":"",
         "ch":"",
         "kr":"",
