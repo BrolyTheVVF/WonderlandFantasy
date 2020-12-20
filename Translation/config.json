@@ -17,6 +17,24 @@
         "th":"",
         "id":""
     },
+	"config.sound.graphics":{
+        "en":"Graphics",
+        "fr":"Graphiques",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "config.sound.volume.ambient":{
         "en":"Volume of ambience",
         "fr":"Volume des ambiances",
