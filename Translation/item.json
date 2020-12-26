@@ -4498,5 +4498,41 @@
         "pl":"",
         "th":"",
         "id":"Strawberry"
+    },
+    "item.40001.name":{
+        "en":"Honey",
+        "fr":"Miel",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.40002.name":{
+        "en":"Four-leafed Flower",
+        "fr":"Trèfle à quatre feuilles",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
