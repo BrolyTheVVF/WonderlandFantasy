@@ -53,6 +53,24 @@
         "th":"",
         "id":""
     },
+    "event.btn.introduction":{
+        "en":"Intro.",
+        "fr":"Intro.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "event.lava-core.title":{
         "en":"Lava Core X 10",
         "fr":"Coeur de lave X 10",
