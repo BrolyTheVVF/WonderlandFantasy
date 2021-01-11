@@ -179,6 +179,24 @@
         "th":"",
         "id":"Magipoint"
     },
+    "general.quest.new":{
+        "en":"New",
+        "fr":"Nouvelle",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.quest.getReward":{
         "en":"Get Reward",
         "fr":"Obtenir la récompense",
