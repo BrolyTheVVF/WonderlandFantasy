@@ -16,7 +16,7 @@ locale["map.Treefolk Town.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Kota Treefolk"
 };
 locale["map.Slime Plain.name"] = {
 	"en": "Slime Plain",
@@ -34,7 +34,7 @@ locale["map.Slime Plain.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Dataran Slime"
 };
 locale["map.Beast Woods.name"] = {
 	"en": "Beast Woods",
@@ -52,7 +52,7 @@ locale["map.Beast Woods.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Beast Woods"
 };
 locale["map.Lahm Shore.name"] = {
 	"en": "Lahm Shore",
@@ -70,7 +70,7 @@ locale["map.Lahm Shore.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Pantai Lahm"
 };
 locale["map.Sacred Wilderness.name"] = {
 	"en": "Sacred Wilderness",
@@ -88,7 +88,7 @@ locale["map.Sacred Wilderness.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Hutan Belantara Suci"
 };
 locale["map.Road of Triumph.name"] = {
 	"en": "Road of Triumph",
@@ -106,7 +106,7 @@ locale["map.Road of Triumph.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Jalan Kemenangan"
 };
 locale["map.Cain Kingdom.name"] = {
 	"en": "Cain Kingdom",
@@ -124,7 +124,7 @@ locale["map.Cain Kingdom.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Kerajaan Cain"
 };
 locale["map.Cathedral.name"] = {
 	"en": "Cathedral",
@@ -142,7 +142,7 @@ locale["map.Cathedral.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Katedral"
 };
 locale["map.Molten Arena.name"] = {
 	"en": "Molten Arena",
@@ -160,7 +160,7 @@ locale["map.Molten Arena.name"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Molten Arena"
 };
 
 
