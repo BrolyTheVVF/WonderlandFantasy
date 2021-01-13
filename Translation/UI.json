@@ -2157,7 +2157,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Event"
     },
     "UI.windows.events.tab.daily":{
         "en":"Daily",
@@ -2175,7 +2175,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Harian"
     },
     "UI.windows.events.tab.weekly":{
         "en":"Weekly",
@@ -2193,7 +2193,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Mingguan"
     },
     "UI.windows.events.tab.other":{
         "en":"Other",
@@ -2211,6 +2211,6 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":""
+        "id":"Lain"
     }
 }
