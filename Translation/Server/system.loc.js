@@ -16,7 +16,7 @@ locale["system.chat.notInGuild"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda harus berada di serikat untuk menggunakan saluran ini."
 };
 locale["system.chat.notInGroup"] = {
 	"en": "Your must be in a group to use this channel.",
@@ -34,7 +34,7 @@ locale["system.chat.notInGroup"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda harus berada dalam grup untuk menggunakan saluran ini."
 };
 locale["system.chat.selectValidChannel"] = {
 	"en": "You must select a valid channel",
@@ -52,7 +52,7 @@ locale["system.chat.selectValidChannel"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda harus memilih saluran yang valid"
 };
 locale["system.chat.whisperTargetNotFound"] = {
 	"en": "The user you are trying to whisper to does not exists or is not online",
@@ -70,7 +70,7 @@ locale["system.chat.whisperTargetNotFound"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Pengguna yang ingin Anda PM tidak ada atau tidak online"
 };
 locale["system.chat.messageTooLong"] = {
 	"en": "Your message cannot exceed 512 characters",
@@ -88,7 +88,7 @@ locale["system.chat.messageTooLong"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Pesan Anda tidak boleh lebih dari 512 karakter"
 };
 locale["system.chat.userWasBannedSuccess"] = {
 	"en": "User [{0}] has been successfully banned",
@@ -106,7 +106,7 @@ locale["system.chat.userWasBannedSuccess"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Player [{0}] berhasil diblokir"
 };
 locale["system.chat.userWasUnbannedSuccess"] = {
 	"en": "User [{0}] has been successfully unbanned",
@@ -124,7 +124,7 @@ locale["system.chat.userWasUnbannedSuccess"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Berhasil membatalkan blokir pengguna [{0}] "
 };
 locale["system.chat.bannedForIndefiniteTime"] = {
 	"en": "You have been banned for an indefinite time for the following reason: {0}",
@@ -142,7 +142,7 @@ locale["system.chat.bannedForIndefiniteTime"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda telah diblokir untuk waktu yang tidak terbatas karena alasan berikut: {0}"
 };
 locale["system.chat.bannedForDefiniteTime"] = {
 	"en": "You have been banned for {0} for the following reason: {1}",
@@ -160,7 +160,7 @@ locale["system.chat.bannedForDefiniteTime"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda telah diblokir karena {0} karena alasan berikut: {1}"
 };
 locale["system.chat.unbanned"] = {
 	"en": "You have been unbanned",
@@ -178,7 +178,7 @@ locale["system.chat.unbanned"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda telah dibatalkan pemblokirannya"
 };
 
 locale["group.request.mustBeLeader"] = {
@@ -197,7 +197,7 @@ locale["group.request.mustBeLeader"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda harus menjadi pemimpin grup untuk mengirim permintaan grup"
 };
 locale["group.request.alreadyRequested"] = {
 	"en":"The user already has another group request pending",
@@ -215,7 +215,7 @@ locale["group.request.alreadyRequested"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Pengguna sudah memiliki permintaan dari grup lain"
 };
 locale["group.request.alreadyInGroup"] = {
 	"en":"The user is already in a group",
@@ -233,7 +233,7 @@ locale["group.request.alreadyInGroup"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Pengguna sudah ada di grup"
 };
 locale["group.request.selfAlreadyInGroup"] = {
 	"en":"You are already in a group",
@@ -251,7 +251,7 @@ locale["group.request.selfAlreadyInGroup"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda sudah berada di grup"
 };
 locale["group.request.invalidRequest"] = {
 	"en":"This group request is not valid anymore",
@@ -269,7 +269,7 @@ locale["group.request.invalidRequest"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Permintaan grup ini tidak valid lagi"
 };
 locale["group.request.hasNoRequest"] = {
 	"en":"You don't have any pending group request",
@@ -287,7 +287,7 @@ locale["group.request.hasNoRequest"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Anda tidak memiliki permintaan grup"
 };
 locale["group.request.hasBeenSent"] = {
 	"en":"<i><b>A group request has been sent to {0}</b></i>",
@@ -305,7 +305,7 @@ locale["group.request.hasBeenSent"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "<i><b>Permintaan grup telah dikirim ke {0}</b></i>"
 };
 locale["group.request.criticalError"] = {
 	"en":"A critical error occured in the group request system. Please try again later.",
@@ -323,7 +323,7 @@ locale["group.request.criticalError"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Kesalahan terjadi dalam sistem permintaan grup. Silakan coba lagi nanti."
 };
 locale["group.request.groupIsFull"] = {
 	"en":"This group is already full.",
@@ -341,7 +341,7 @@ locale["group.request.groupIsFull"] = {
 	"it": "",
 	"pl": "",
 	"th": "",
-	"id": ""
+	"id": "Grup ini sudah penuh."
 };
 
 exports.locale = locale;
