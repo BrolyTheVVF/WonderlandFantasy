@@ -741,7 +741,7 @@ locale["quest.9.texts.description"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Việc chế tạo sẽ tốn 3 trong 5 nguyên liệu để hoàn thành một vũ khí. Chúng ta chỉ cần thu thập một trong đống đấy rồi sau đó là thu thập nguyên liệu tiếp theo.",
-	"ar": "
+	"ar": "",
 	"it": "",
 	"pl": "",
 	"th": "",
