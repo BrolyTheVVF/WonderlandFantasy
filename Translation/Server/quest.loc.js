@@ -795,7 +795,7 @@ locale["quest.10.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Những thành phần nguyên liệu cuối cùng có thể lấy từ" <span class='text-link' data-target-type='mob' data-target-id='10'>Kẻ Trộm Yêu Tinh</span>.Tìm Gậy Yêu Tinh và báo cáo về cho <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"vi": "Những thành phần nguyên liệu cuối cùng có thể lấy từ <span class='text-link' data-target-type='mob' data-target-id='10'>Kẻ Trộm Yêu Tinh</span>.Tìm Gậy Yêu Tinh và báo cáo về cho <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
