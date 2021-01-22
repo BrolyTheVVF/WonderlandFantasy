@@ -1843,6 +1843,79 @@ locale["quest.23.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.24.name"] = {
+	"en": "Light of the Kingdom (3)",
+	"fr": "Lumière du Royaume (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.24.texts.objective"] = {
+	"en": "You have helped <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Now go to Cain Kingdom and visit the <span class='text-link' data-target-type='npc' data-target-id='100024'>Old King</span>.",
+	"fr": "Vous avez aidé <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Maintenant, allez à la Cathédrale et parlez au <span class='text-link' data-target-type='npc' data-target-id='100024'>Vieux Roi</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.24.texts.description"] = {
+	"en": "I can manage the rest. Don't forget to visit the King.",
+	"fr": "Je peut m'occuper du reste. N'oubiez pas de rendre visite au Roi.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.24.texts.returnPopupMain"] = {
+	"en": "Ha, you must be the new officer! Keros has mentioned you.",
+	"fr": "Ha, vous devez être le nouvel officier! Keros m'a parler de vous.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
