@@ -1989,6 +1989,79 @@ locale["quest.25.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.26.name"] = {
+	"en": "Light of the Kingdom (5)",
+	"fr": "Lumière du Royaume (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.26.texts.objective"] = {
+	"en": "Listen to the <span class='text-link' data-target-type='npc' data-target-id='100025'>Bishop</span>.",
+	"fr": "Ecouter l'<span class='text-link' data-target-type='npc' data-target-id='100025'>Évêque</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.26.texts.description"] = {
+	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Serenia. In the end, Bur borrowed from the elemental Power of Serenia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
+	"fr": "Il y a bien longtemps, le Dieu de la Création Bur et le Dieu maléfique Harlan ont mené une guerre épique en Serenia. Au final, Bur emprunta la puissance des éléments de Serenia et créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Bur cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.26.texts.returnPopupMain"] = {
+	"en": "Pray with us. The demon horde will not last long.",
+	"fr": "Priez avec nous. La horde de démons ne tiendras pas longtemps.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
