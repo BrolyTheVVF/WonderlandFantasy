@@ -1140,6 +1140,24 @@ locale["npc.100025.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100026.name"] = {
+	"en": "Samhan",
+	"fr": "Samhan",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999999.name"] = {
