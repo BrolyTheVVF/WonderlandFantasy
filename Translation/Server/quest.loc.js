@@ -2062,6 +2062,79 @@ locale["quest.26.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.27.name"] = {
+	"en": "Light of the Kingdom (6)",
+	"fr": "Lumière du Royaume (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.27.texts.objective"] = {
+	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samham</span> to know more about the situation.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100026'>Samham</span> pour en savoir plus sur la situation.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.27.texts.description"] = {
+	"en": "After Harlan gained his consciousness back, the world has suffered many disasters, The Cain Kingdom is not spared either. Please talk to the Grand Knight for more details.",
+	"fr": "Une fois qu'Harlan ait récupéré sa conscience, le monde a subi de nombreuses catastrophes, et le Royaume de Kane n'est pas non plus épargné. Parlez au grand chevalier pour plus de détails.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.27.texts.returnPopupMain"] = {
+	"en": "Greetings, adventurer! We are having a difficult time. To the South in Lahm Coast area, the fish are attacking. To the North, in the Calebeam Cave we have cave-ins. To the West in the King's graves, there are rumors of hauntings. May Bur protects us.",
+	"fr": "Bienvenu aventurier! Nous traversons une période difficile. Au sud, dans les Rive de Lahm, les poissons nous attaquent. Au nord, dans les Caves de Celebeam il y a des éboulements. À l'ouest, dans les catacombes royales, les rumeurs disent que l'endroit serait hanté. Que Bur nous protège.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
