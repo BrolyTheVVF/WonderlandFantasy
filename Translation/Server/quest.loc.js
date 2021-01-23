@@ -1916,6 +1916,79 @@ locale["quest.24.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.25.name"] = {
+	"en": "Light of the Kingdom (4)",
+	"fr": "Lumière du Royaume (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.25.texts.objective"] = {
+	"en": "Go visit the <span class='text-link' data-target-type='npc' data-target-id='100025'>Bishop</span>.",
+	"fr": "Allez rendre visite à l'<span class='text-link' data-target-type='npc' data-target-id='100021'>Évêque</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.25.texts.description"] = {
+	"en": "Welcome to Cain dear adventurer. The Kingdom needs more warriors like you. You have done an exellent job so far, however the tasks might become way more difficult from now on, if you are ready to face trouble, visit the Bishop.",
+	"fr": "Bienvenue a Kane cher aventurier. Le royaume a besoin de plus de guerier comme vous. Vous avez fait un excelent travail jusque la, toutefois, la tache pourrait devenir plus dificile a partir de maintenant, si vous êtes pret a faire face aux problèmes, rendez visite a l'Évêque.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.25.texts.returnPopupMain"] = {
+	"en": "First, let me tell you about the war between the gods and the devils.",
+	"fr": "Tout d'abord, laissez-moi vous parler de la guerre entre les dieux et les démons.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
