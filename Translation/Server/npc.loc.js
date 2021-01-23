@@ -1122,6 +1122,24 @@ locale["npc.100024.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100025.name"] = {
+	"en": "Bishop",
+	"fr": "Évêque",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999999.name"] = {
