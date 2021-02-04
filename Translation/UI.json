@@ -1565,6 +1565,24 @@
         "th":"",
         "id":"[Terkunci]"
     },
+    "UI.windows.stash.title":{
+        "en":"Stash",
+        "fr":"Réserve",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.revive.normal":{
         "en":"Manual",
         "fr":"Manuel",
