@@ -2230,5 +2230,23 @@
         "pl":"",
         "th":"",
         "id":"Lain"
+    },
+    "UI.windows.map.title.worldmap":{
+        "en":"World Map",
+        "fr":"Carte du Monde",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
