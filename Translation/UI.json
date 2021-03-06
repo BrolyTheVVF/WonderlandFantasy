@@ -2248,5 +2248,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.map.btn.worldMap":{
+        "en":"World Map",
+        "fr":"Carte du Monde",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.map.btn.currentMap":{
+        "en":"Current Map",
+        "fr":"Carte Actuelle",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
