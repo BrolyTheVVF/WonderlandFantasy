@@ -1138,7 +1138,7 @@ locale["quest.14.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Jetzt kannst du von Treefolk Town aus aufbrechen. Ritter Keros befindet sich im Süden in 'Lahm Küste' und bekämpft dort diese Nagarians. Er braucht etwas Hilfe.<br>Keros ist bekannt für sein schlechten Temperament. Also pass auf was du sagst!"   ",
+	"de": "Jetzt kannst du von Treefolk Town aus aufbrechen. Ritter Keros befindet sich im Süden in 'Lahm Küste' und bekämpft dort diese Nagarians. Er braucht etwas Hilfe.<br>Keros ist bekannt für sein schlechten Temperament. Also pass auf was du sagst!",
 	"jp": "",
 	"pt": "",
 	"vi": "",
