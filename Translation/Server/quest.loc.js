@@ -2135,6 +2135,152 @@ locale["quest.27.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.28.name"] = {
+	"en": "Light of the Kingdom (7)",
+	"fr": "Lumière du Royaume (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.28.texts.objective"] = {
+	"en": "Get familiar with the city. Find the Grocer <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span><",
+	"fr": "Familiarisez-vous avec la ville. Trouvez l'épicière <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.28.texts.description"] = {
+	"en": "You have been in the kingdom for quite a while. Why not get familiar with it a bit. You better start with the grocer.",
+	"fr": "Vous êtes dans le royaume depuis un bon bout de temps. Pourquoi ne pas vous y familiariser un peu. Vous feriez mieux de commencer par trouver l'épicière.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.28.texts.returnPopupMain"] = {
+	"en": "What do you want Stranger?<br>I am a grocer here, selling basic weapons and armors, as well as potions. You can also sell your useless stuff for cash.<br>However, now I am totally out of job. Nothing for sale and nothing I would buy.",
+	"fr": "Que voulez-vous étranger?<br>Je suis l'épicière du coin, je vend des armes et armures basiques, et des potions. Vous pouvez aussi me vendre vos trucs inutiles.<br>Cependant, actuellement je suis sans emploi. Rien à vendre et rien à acheter.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.29.name"] = {
+	"en": "Light of the Kingdom (8)",
+	"fr": "Lumière du Royaume (8)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.29.texts.objective"] = {
+	"en": "Get familiar with the city. Find the <span class='text-link' data-target-type='npc' data-target-id='100028'>Stashkeeper</span><",
+	"fr": "Familiarisez-vous avec la ville. Trouvez le <span class='text-link' data-target-type='npc' data-target-id='100028'>Gardien de la réserve</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.29.texts.description"] = {
+	"en": "If you feel your bag isn't big enough, you should find a Stashkeeper.",
+	"fr": "Si votre sac n'est pas assez grand, vous devriez trouver un Gardien de la réserve.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.29.texts.returnPopupMain"] = {
+	"en": "Want to keep something safe? My job is to provide storage services for all adventurers. You can keep your redundant or important items here.<br>The most important thing of all, the service is for free!",
+	"fr": "Vous voulez garder quelque chose en sécurité? Mon travail est de procurer un service de stockage a tout les aventurier. Vous pouvez conserver vos objets redondants ou importants ici.<br>Et le plus important, c'est que ce service est gratuit!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
