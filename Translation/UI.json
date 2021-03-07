@@ -2284,5 +2284,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.checkgear.title":{
+        "en":"{0}'s Gears Info",
+        "fr":"Equipement de {0}",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
