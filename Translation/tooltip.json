@@ -304,5 +304,23 @@
         "pl":"",
         "th":"",
         "id":"Bubarkan grup"
+    },
+    "tooltip.player-menu.check-gear":{
+        "en":"Check Gear",
+        "fr":"Inspecter",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
