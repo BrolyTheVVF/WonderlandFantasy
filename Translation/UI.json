@@ -2303,7 +2303,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.guild.name":{
+    "UI.windows.guild.title":{
         "en":"Guild",
         "fr":"Guilde",
         "es":"",
@@ -2321,7 +2321,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.guild.grade.leader":{
+    "UI.windows.guild.grade.leader":{
         "en":"Guild Leader",
         "fr":"Chef",
         "es":"",
@@ -2339,7 +2339,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.guild.grade.viceLeader":{
+    "UI.windows.guild.grade.viceLeader":{
         "en":"Vice Leader",
         "fr":"Sous-Chef",
         "es":"",
@@ -2357,7 +2357,7 @@
         "th":"",
         "id":""
     },
-	"UI.windows.guild.grade.officer":{
+    "UI.windows.guild.grade.officer":{
         "en":"Officer",
         "fr":"Officier",
         "es":"",
