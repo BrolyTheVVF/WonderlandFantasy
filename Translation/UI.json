@@ -2392,5 +2392,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.guild.table.guildName":{
+        "en":"Guild Name",
+        "fr":"Nom",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.guild.table.guildLeader":{
+        "en":"Guild Leader",
+        "fr":"Chef de Guild",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
