@@ -397,5 +397,23 @@ locale["guild.creation.invalidName"] = {
 	"th": "",
 	"id": ""
 };
+locale["guild.creation.alreadyInGuild"] = {
+	"en":"You already are in a guild, you cannot create a new one.",
+	"fr":"Vous êtes déjà dans une guilde, vous ne pouvez pas en créer une nouvelle.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
