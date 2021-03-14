@@ -343,5 +343,59 @@ locale["group.request.groupIsFull"] = {
 	"th": "",
 	"id": "Grup ini sudah penuh."
 };
+locale["guild.creation.mustBeLevel"] = {
+	"en":"You must be level {0} to create a guild.",
+	"fr":"Vous devez être niveau {0} pour créer une guilde",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["guild.creation.notEnoughGold"] = {
+	"en":"You must have {0} gold to create a guild.",
+	"fr":"Vous devez avoir {0} pièce d'or pour créer une guilde",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["guild.creation.invalidName"] = {
+	"en":"Invalid guild name. Your guild name must be between 1 and 16 characters.",
+	"fr":"Nom de guilde invalide. Votre nom de guilde doit contenir entre 1 et 16 caractères.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
