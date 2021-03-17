@@ -415,5 +415,23 @@ locale["guild.creation.alreadyInGuild"] = {
 	"th": "",
 	"id": ""
 };
+locale["guild.creation.nameInUsed"] = {
+	"en":"Another guild is already using this name.",
+	"fr":"une autre guild utilise déjà ce nom.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
