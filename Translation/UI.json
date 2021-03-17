@@ -2464,5 +2464,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.guild.table.members.donatedGold":{
+        "en":"Donated Gold",
+        "fr":"Or Donné",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.guild.table.members.donatedRes":{
+        "en":"Donated Res.",
+        "fr":"Ress. Donné",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
