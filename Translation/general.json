@@ -233,6 +233,24 @@
         "th":"",
         "id":"Hadiah Misi"
     },
+    "general.class":{
+        "en":"Class",
+        "fr":"Classe",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.class.warrior":{
         "en":"Warrior",
         "fr":"Guerrier",
