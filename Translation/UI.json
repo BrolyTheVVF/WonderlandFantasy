@@ -2375,6 +2375,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.guild.grade.member":{
+        "en":"Member",
+        "fr":"Membre",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.guild.requirement":{
         "en":"Guild creation requires Lv. 20 & 300,000 Gold",
         "fr":"La création de guilde requiers le Nv. 20 & 300,000 Or",
