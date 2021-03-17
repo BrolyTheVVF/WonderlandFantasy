@@ -2428,5 +2428,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.guild.table.members.name":{
+        "en":"Name",
+        "fr":"Nom",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.guild.table.members.grade":{
+        "en":"Grade",
+        "fr":"Grade",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
