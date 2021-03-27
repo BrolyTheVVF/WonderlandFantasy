@@ -2609,6 +2609,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.guild.resume.territory":{
+        "en":"Territory",
+        "fr":"Territoires",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.guild.askLeave":{
         "en":"Once you leave a guild, you will have to wait a day before joining a new one. Continue ?",
         "fr":"Une fois la guilde quittée, vous devrez attendre un jour avant de pouvoir un joindre une nouvelle. Continuer ?",
