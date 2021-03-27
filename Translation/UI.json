@@ -2662,5 +2662,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.guild.popup.donate.gold.label":{
+        "en":"You are about to donate gold to your guild.<br><b>One you have donated gold to a guild, you can't take it back.</b>",
+        "fr":"Vous allez donner de l'or a votre guilde.<br><b>Une fois l'or donné à la guilde, il est impossible de le récupérer.</b>",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
