@@ -4445,6 +4445,24 @@
         "th":"",
         "id":"Obat Baru milik Kommi"
     },
+	"item.20008.name":{
+        "en":"Guild Ressource",
+        "fr":"Ressource de Guilde",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.30000.name":{
         "en":"Wild Fruits",
         "fr":"Fruits Sauvages",
