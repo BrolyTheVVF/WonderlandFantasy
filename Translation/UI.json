@@ -2806,5 +2806,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.guild.popup.upgrade.guild":{
+        "en":"Upgrading the guild will cost {0} gold.<br>Continue ?",
+        "fr":"Augmenter la guilde d'un niveau va couter {0} or.<br>Continuer ?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.guild.popup.upgrade.shop":{
+        "en":"Upgrading the guild shop will cost {0} ressources.<br>Continue ?",
+        "fr":"Augmenter le magasin de guilde d'un niveau va couter {0} ressources.<br>Continuer ?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
