@@ -2556,7 +2556,7 @@
         "id":""
     },
     "UI.windows.guild.resume.ressources":{
-        "en":"Ressources",
+        "en":"Resources",
         "fr":"Ressources",
         "es":"",
         "ch":"",
@@ -2772,7 +2772,7 @@
         "id":""
     },
     "UI.windows.guild.popup.donate.gold.label":{
-        "en":"You are about to donate gold to your guild.<br><b>One you have donated gold to a guild, you can't take it back.</b>",
+        "en":"You are about to donate gold to your guild.<br><b>Once you have donated gold to a guild, you can't take it back.</b>",
         "fr":"Vous allez donner de l'or a votre guilde.<br><b>Une fois l'or donné à la guilde, il est impossible de le récupérer.</b>",
         "es":"",
         "ch":"",
@@ -2790,7 +2790,7 @@
         "id":""
     },
     "UI.windows.guild.popup.donate.ressource.label":{
-        "en":"You are about to donate guild ressources to your guild.<br><b>One you have donated ressources to a guild, you can't take it back.</b>",
+        "en":"You are about to donate guild ressources to your guild.<br><b>Once you have donated ressources to a guild, you can't take it back.</b>",
         "fr":"Vous allez donner des ressources a votre guilde.<br><b>Une fois donnée à la guilde, il est impossible de le récupérer.</b>",
         "es":"",
         "ch":"",
