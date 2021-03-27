@@ -557,6 +557,24 @@
         "th":"",
         "id":"Membatalkan"
     },
+    "general.list":{
+        "en":"List",
+        "fr":"Liste",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.cost.none":{
         "en":"No cost",
         "fr":"Aucun coût",
