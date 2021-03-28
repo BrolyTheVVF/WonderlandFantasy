@@ -1231,6 +1231,24 @@ locale["npc.100028.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100029.name"] = {
+	"en": "Guild Agent",
+	"fr": "Agent de Guilde",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999999.name"] = {
