@@ -1623,7 +1623,24 @@ locale["quest.20.texts.returnPopupMain"] = {
 	"id": ""
 };
 
-locale["quest.21.name"] = {"en": "Lahm Coast (8)","fr": "Rive de Lahm (8)"};
+locale["quest.21.name"] = {
+	"en": "Lahm Coast (8)",
+	"fr": "Rive de Lahm (8)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["quest.21.texts.objective"] = {
 	"en": "You need to challenge the powerful <span class='text-link' data-target-type='mob' data-target-id='14'>Nagar Overseer</span>. Use the potions you just crafted and the battle will be easier. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
 	"fr": "Vous devez defier le puissant <span class='text-link' data-target-type='mob' data-target-id='14'>Surveillant Nagar</span>. Utilisez les potions que vous venez de fabriquer et le combat seras facile. Ensuite, faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
