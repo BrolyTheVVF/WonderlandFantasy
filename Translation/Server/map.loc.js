@@ -36,6 +36,24 @@ locale["map.Slime Plain.name"] = {
 	"th": "",
 	"id": "Dataran Slime"
 };
+locale["map.Slime Kingdom.name"] = {
+	"en": "Slime Kingdom",
+	"fr": "Royaume des Slime",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["map.Beast Woods.name"] = {
 	"en": "Beast Woods",
 	"fr": "Bois de la Bête",
