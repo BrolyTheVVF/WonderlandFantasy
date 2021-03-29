@@ -107,6 +107,24 @@
         "th":"",
         "id":"Status ENCH"
     },
+    "tooltip.item.maxCarried":{
+        "en":"Max Items Carried",
+        "fr":"Maximum Transporté",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "tooltip.skill.passive":{
         "en":"Passive",
         "fr":"Passif",
