@@ -1561,7 +1561,7 @@ locale["quest.20.name"] = {
 	"de": "Lahm Küste (7)",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Bãi Bờ Lahm (7)",
 	"ar": "",
 	"it": "",
 	"pl": "",
