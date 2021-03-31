@@ -4445,7 +4445,7 @@
         "th":"",
         "id":"Obat Baru milik Kommi"
     },
-	"item.20008.name":{
+    "item.20008.name":{
         "en":"Guild Ressource",
         "fr":"Ressource de Guilde",
         "es":"",
@@ -4457,6 +4457,24 @@
         "jp":"",
         "pt":"",
         "vi":"Tài Nguyên Bang Hội",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.20009.name":{
+        "en":"Cherished Dew",
+        "fr":"Rosée chérie",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
