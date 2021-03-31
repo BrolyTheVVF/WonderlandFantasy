@@ -362,6 +362,42 @@ locale["npc.10002.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10003.name"] = {
+	"en": "Pudding Slime",
+	"fr": "Slime Pudding",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Puddingschleim",
+	"jp": "",
+	"pt": "",
+	"vi": "Bầy Nhầy Pudding",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10004.name"] = {
+	"en": "Ice Slime",
+	"fr": "Slime Gelé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
