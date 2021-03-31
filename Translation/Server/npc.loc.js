@@ -308,6 +308,62 @@ locale["npc.16.name"] = {
 };
 
 
+locale["npc.10000.name"] = {
+	"en": "Leader Slime",
+	"fr": "Chef Slime",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10001.name"] = {
+	"en": "King Slime",
+	"fr": "Roi Slime",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10002.name"] = {
+	"en": "Queen Slime",
+	"fr": "Reine Slime",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 locale["npc.100001.name"] = {
 	"en": "Tamus",
 	"fr": "Tom",
