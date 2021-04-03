@@ -2371,6 +2371,97 @@ locale["quest.32.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.33.name"] = {
+	"en": "Son of the Gravekeeper (2)",
+	"fr": "Fils du Gardien du cimetière (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.33.texts.objective"] = {
+	"en": "Frole's son was killed in the accident in Celebeam Cave. The sad Gravekeeper wishes that Kugarn at the Oracle Lake can ressurect his son. Bring some powder dropped by <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> to Kugarn.",
+	"fr": "Le fils de Frole à été tué dans l'accident des Caves de Celebeam. Le triste Gardien du cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à Kugarn.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.33.texts.description"] = {
+	"en": "A couple of days ago, a messenger came from the city. He told me that my son James was killed in the accident in the Celebeam Cave. I can't accept this.",
+	"fr": "Il y a quelques jours, un message est arrivé de la ville. Il disait que mon fils James avais été tué dans un accident dans les Caves de Celebeam. je ne peut l'accepter.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.33.texts.returnPopupMain"] = {
+	"en": "Sorry for the loss, kid. I am really sorry.",
+	"fr": "Je suis profondément désolés du deuil qui t'afflige, gamin. Je suis vraiment désolé.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.33.objective.0.name"] = {
+	"en": "Rainbow Moth Powder",
+	"fr": "Poudre de Mite Arc-en-Ciel",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
