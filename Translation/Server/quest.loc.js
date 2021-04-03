@@ -3784,6 +3784,24 @@ locale["quest.30000.triggers.0.text"] = {
 	"th": "",
 	"id": ""
 };
+locale["quest.30000.texts.returnPopupMain"] = {
+	"en": "Take it, it is a testament to the contribution your guild has made for the kingdom.",
+	"fr": "Prenez-le, c'est une preuve de la contribution que votre guilde à faite au royaume.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 
