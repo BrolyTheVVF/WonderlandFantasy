@@ -307,8 +307,8 @@ locale["npc.16.name"] = {
 	"id": ""
 };
 locale["npc.17.name"] = {
-	"en": "Moth",
-	"fr": "Mite",
+	"en": "Rainbow Moth",
+	"fr": "Mite Arc-en-Ciel",
 	"es": "",
 	"ch": "",
 	"kr": "",
