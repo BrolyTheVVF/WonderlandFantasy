@@ -1380,4 +1380,24 @@ locale["npc.99999999.title"] = {
 	"id": ""
 };
 
+
+locale["npc.100029.interact.GOTO_SLIME_KGDM"] = {
+	"en": "Enter Slime Kingdom",
+	"fr": "Entrer dans le Royaume des Slimes",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
