@@ -2134,7 +2134,7 @@ locale["quest.27.texts.description"] = {
 	"id": ""
 };
 locale["quest.27.texts.returnPopupMain"] = {
-	"en": "Greetings, adventurer! We are having a difficult time. To the South in Lahm Coast area, the fish are attacking. To the North, in the Calebeam Cave we have cave-ins. To the West in the King's graves, there are rumors of hauntings. May Bur protects us.",
+	"en": "Greetings, adventurer! We are having a difficult time. To the South in Lahm Coast area, the fish are attacking. To the North, in the Celebeam Cave we have cave-ins. To the West in the King's graves, there are rumors of hauntings. May Bur protects us.",
 	"fr": "Bienvenu aventurier! Nous traversons une période difficile. Au sud, dans les Rive de Lahm, les poissons nous attaquent. Au nord, dans les Caves de Celebeam il y a des éboulements. À l'ouest, dans les catacombes royales, les rumeurs disent que l'endroit serait hanté. Que Bur nous protège.",
 	"es": "",
 	"ch": "",
@@ -2282,6 +2282,79 @@ locale["quest.29.texts.description"] = {
 locale["quest.29.texts.returnPopupMain"] = {
 	"en": "Want to keep something safe? My job is to provide storage services for all adventurers. You can keep your redundant or important items here.<br>The most important thing of all, the service is for free!",
 	"fr": "Vous voulez garder quelque chose en sécurité? Mon travail est de procurer un service de stockage a tout les aventurier. Vous pouvez conserver vos objets redondants ou importants ici.<br>Et le plus important, c'est que ce service est gratuit!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.32.name"] = {
+	"en": "Son of the Gravekeeper (1)",
+	"fr": "Fils du Gardien du cimetière (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.32.texts.objective"] = {
+	"en": "Reach Lv. 15, and visit <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> in Sacred Wilderness.",
+	"fr": "Atteindre le Nv. 15, puis rendez visite a <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> in Sacred Wilderness.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.32.texts.description"] = {
+	"en": "Do you know about the accident in the Celebeam Cave? It was tragic. A lot of young men lost their lives, including the kids of one of my friends. He is so sad now. I wish you could go visit him. He is guarding the king's grave in the Sacred Wilderness.",
+	"fr": "Avez-vous entendu parler de l'incident dans les Caves de Celebeam? C'etait tragique. Beaucoup de jeunes gens y ont perdu la vie, et parmis eux le fils de l'un de mes amis. Il est si triste maintenant. J'esperait que vous pourriez aller lui rendre visite. Il garde la tombe du roi dans la Jungle Sacrée.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.32.texts.returnPopupMain"] = {
+	"en": "{0}, normally I should say 'Glad to see you back', but now I just cannot be glad.",
+	"fr": "{0}, normalement, je devrais dire 'Heureux de vous revoir', mais maintenant, je n'arrive plus être heureux.",
 	"es": "",
 	"ch": "",
 	"kr": "",
