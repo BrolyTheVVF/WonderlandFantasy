@@ -324,6 +324,42 @@ locale["npc.17.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.18.name"] = {
+	"en": "Tiny Beetle",
+	"fr": "Petit Scarabée",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.19.name"] = {
+	"en": "Unicorn Wolf",
+	"fr": "Loup Licorne",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
