@@ -2735,6 +2735,96 @@ locale["quest.36.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.37.name"] = {
+	"en": "Son of the Gravekeeper (6)",
+	"fr": "Fils du Gardien du cimetière (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.37.texts.objective"] = {
+	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> complete the ritual. Pray at the Mysterious Altar and defeat the <span class='text-link' data-target-type='mob' data-target-id='20'>Courier of Death</span>.<br><br>Then, talk to the revived James.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> a terminer le rituel. Priez à l'Autel Mystérieux et venez à bout du <span class='text-link' data-target-type='mob' data-target-id='20'>Gardien Mortel</span>.<br><br>Ensuite, parlez au James ressuscité.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.37.texts.description"] = {
+	"en": "The final materials is the most important one.<br><br>There is a magical beast in the forest, Unicorn Wolf Leader. I need a piece of its horn.",
+	"fr": "Le matériau final est le plus important.<br><br>Il y a une bête magique dans cette forêt, un Chef Loup Licorne. J'ai besoin d'un morceau de sa corne.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.37.texts.returnPopupMain"] = {
+	"en": "You made it, I'm starting to respect you.",
+	"fr": "Vous avez réussi, je commence à vous respecter.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.37.objective.0.name"] = {
+	"en": "Unicorn Wolf's Horn",
+	"fr": "Corne du Loup Licorne",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
