@@ -2644,6 +2644,97 @@ locale["quest.35.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.36.name"] = {
+	"en": "Son of the Gravekeeper (5)",
+	"fr": "Fils du Gardien du cimetière (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.36.texts.objective"] = {
+	"en": "Defeat the powerful <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>, and aquire it's horn. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>You can use your Gold Touch to immediately kill the monster. Select the monster, and click on the Gold Touch Icon.",
+	"fr": "Tuez le puissant <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis recolter sa corne. Ensuite, faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>. Vous pouvez utiliser votre Touché d'Or pour tuer immédiatement le monstre. Sélectionnez un monstre, puis cliquez sure l'icône du Touché d'Or.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.36.texts.description"] = {
+	"en": "The final materials is the most important one.<br><br>There is a magical beast in the forest, Unicorn Wolf Leader. I need a piece of its horn.",
+	"fr": "Le matériau final est le plus important.<br><br>Il y a une bête magique dans cette forêt, un Chef Loup Licorne. J'ai besoin d'un morceau de sa corne.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.36.texts.returnPopupMain"] = {
+	"en": "You made it, I'm starting to respect you.",
+	"fr": "Vous avez réussi, je commence à vous respecter.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.36.objective.0.name"] = {
+	"en": "Unicorn Wolf's Horn",
+	"fr": "Corne du Loup Licorne",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
