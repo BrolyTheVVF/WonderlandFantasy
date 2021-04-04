@@ -2553,6 +2553,97 @@ locale["quest.34.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.35.name"] = {
+	"en": "Son of the Gravekeeper (4)",
+	"fr": "Fils du Gardien du cimetière (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35.texts.objective"] = {
+	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beetle</span> to gather some Beetle's Though Shell. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabée</span> pour recolter quelques Coquille de scarabée dure. Ensuite, faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35.texts.description"] = {
+	"en": "This forest was a source of the magic power for the Cain Kingdom. Creatures with magical powers can be found everywhere, and they can be used to cast the spell. I need some Beetle's Though Shell.",
+	"fr": "Cette forêt etait la source de pouvoir magique pour le Royaume de Cain. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille de scarabée dure.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35.texts.returnPopupMain"] = {
+	"en": "It is quite easy so far. If you pass the next trial, I will teach you a skill, which will be quite useful in future tasks.",
+	"fr": "C'est assez facile jusqu'ici. Si vous réussissez le prochain essai, je vous apprendrai une compétence, qui sera très utile dans les tâches futures.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35.objective.0.name"] = {
+	"en": "Beetle's Though Shell",
+	"fr": "Coquille de scarabée dure",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
