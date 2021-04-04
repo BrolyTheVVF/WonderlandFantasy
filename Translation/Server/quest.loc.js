@@ -2772,8 +2772,8 @@ locale["quest.37.texts.objective"] = {
 	"id": ""
 };
 locale["quest.37.texts.description"] = {
-	"en": "The final materials is the most important one.<br><br>There is a magical beast in the forest, Unicorn Wolf Leader. I need a piece of its horn.",
-	"fr": "Le matériau final est le plus important.<br><br>Il y a une bête magique dans cette forêt, un Chef Loup Licorne. J'ai besoin d'un morceau de sa corne.",
+	"en": "Everything is prepared, and i will start my ritual. Go to the altar and pray. It can bring James back.",
+	"fr": "Tout est pret, je vais démarrer le rituel. Allez a l'autel et priez. Cela pourrait ramener James à la vie.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2790,8 +2790,8 @@ locale["quest.37.texts.description"] = {
 	"id": ""
 };
 locale["quest.37.texts.returnPopupMain"] = {
-	"en": "You made it, I'm starting to respect you.",
-	"fr": "Vous avez réussi, je commence à vous respecter.",
+	"en": "You granted me a second life. I owe you one, my friend.",
+	"fr": "Vous m'avez offert une seconde vie. je vous en doit une, mon amis.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2808,8 +2808,8 @@ locale["quest.37.texts.returnPopupMain"] = {
 	"id": ""
 };
 locale["quest.37.objective.0.name"] = {
-	"en": "Unicorn Wolf's Horn",
-	"fr": "Corne du Loup Licorne",
+	"en": "Vita Glow",
+	"fr": "Vie Luisante",
 	"es": "",
 	"ch": "",
 	"kr": "",
