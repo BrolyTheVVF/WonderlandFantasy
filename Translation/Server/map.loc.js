@@ -180,6 +180,24 @@ locale["map.Molten Arena.name"] = {
 	"th": "",
 	"id": "Molten Arena"
 };
+locale["map.Oracle Lake.name"] = {
+	"en": "Oracle Lake",
+	"fr": "Lac de l'Oracle",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 exports.locale = locale;
