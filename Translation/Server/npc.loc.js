@@ -1471,6 +1471,61 @@ locale["npc.100030.baseText"] = {
 	"id": ""
 };
 
+locale["npc.100031.name"] = {
+	"en": "James",
+	"fr": "James",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100031.title"] = {
+	"en": "Gravekeeperr's Son",
+	"fr": "Fils du Gardien",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100031.baseText"] = {
+	"en": "The teacher doesn't like it if you ask about his affairs.",
+	"fr": "Le professeur n'aime pas que l'on se mêle de ses affaires.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
 	"fr": "Autel Mystérieux",
