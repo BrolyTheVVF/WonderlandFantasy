@@ -475,7 +475,7 @@ locale["quest.6.name"] = {
 	"id": ""
 };
 locale["quest.6.texts.objective"] = {
-	"en": "Enter the Gold Shop and get the <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Military Food</span>, then brings it to <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
+	"en": "Enter the Gold Shop and get the <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Military Food</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
 	"fr": "Ouvre le magasin et achete la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apporte la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
 	"es": "",
 	"ch": "",
