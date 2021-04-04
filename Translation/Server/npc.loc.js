@@ -306,6 +306,60 @@ locale["npc.16.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.17.name"] = {
+	"en": "Rainbow Moth",
+	"fr": "Mite Arc-en-Ciel",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.18.name"] = {
+	"en": "Tiny Beetle",
+	"fr": "Petit Scarabée",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.19.name"] = {
+	"en": "Unicorn Wolf",
+	"fr": "Loup Licorne",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
@@ -1287,6 +1341,7 @@ locale["npc.100027.title"] = {
 	"th": "",
 	"id": ""
 };
+
 locale["npc.100028.name"] = {
 	"en": "Stashkeeper",
 	"fr": "Gardien de la réserve",
@@ -1323,6 +1378,7 @@ locale["npc.100028.title"] = {
 	"th": "",
 	"id": ""
 };
+
 locale["npc.100029.name"] = {
 	"en": "Guild Agent",
 	"fr": "Agent de Guilde",
@@ -1335,6 +1391,61 @@ locale["npc.100029.name"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Giám Định Bang Hội",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["npc.100030.name"] = {
+	"en": "Kugarn",
+	"fr": "Kugarn",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100030.title"] = {
+	"en": "Sage",
+	"fr": "Sage",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100030.baseText"] = {
+	"en": "You don't belong here. Turn around and leave!",
+	"fr": "Tu n'as rien à faire ici. Fait demis-tour et part!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
