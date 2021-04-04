@@ -2087,24 +2087,6 @@
         "th":"",
         "id":"Bisa digunakan hingga 3 kali sehari"
     },
-    "skills.GOLD_TOUCH.amountLeft":{
-        "en":"Amount Left: {0}",
-        "fr":"Âmes Restante: {0}",
-        "es":"",
-        "ch":"剩餘數量:{0}",
-        "kr":"",
-        "ru":"Осталось Душ: {0}",
-        "tr":"",
-        "de":"Verbleibende Menge: {0}",
-        "jp":"",
-        "pt":"",
-        "vi":"Linh hồn còn lại: {0}",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":"Jumlah Tersisa: {0}"
-    },
 	"skills.TRIAL_OF_STAMINA.name":{
         "en":"Trial of Stamina",
         "fr":"Épreuve d'endurance",
