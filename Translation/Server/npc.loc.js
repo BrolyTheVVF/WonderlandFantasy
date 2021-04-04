@@ -360,6 +360,24 @@ locale["npc.19.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20.name"] = {
+	"en": "Deadly Guardian",
+	"fr": "Gardien Mortel",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
@@ -1437,6 +1455,25 @@ locale["npc.100030.title"] = {
 locale["npc.100030.baseText"] = {
 	"en": "You don't belong here. Turn around and leave!",
 	"fr": "Tu n'as rien à faire ici. Fait demis-tour et part!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["npc.241000.baseText"] = {
+	"en": "Mysterious Altar",
+	"fr": "Autel Mystérieux",
 	"es": "",
 	"ch": "",
 	"kr": "",
