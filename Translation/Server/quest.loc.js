@@ -2390,8 +2390,8 @@ locale["quest.33.name"] = {
 	"id": ""
 };
 locale["quest.33.texts.objective"] = {
-	"en": "Frole's son was killed in the accident in Celebeam Cave. The sad Gravekeeper wishes that Kugarn at the Oracle Lake can ressurect his son. Bring some powder dropped by <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> to Kugarn.",
-	"fr": "Le fils de Frole à été tué dans l'accident des Caves de Celebeam. Le triste Gardien du cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à Kugarn.",
+	"en": "Frole's son was killed in the accident in Celebeam Cave. The sad Gravekeeper wishes that Kugarn at the Oracle Lake can ressurect his son. Bring some powder dropped by <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Le fils de Frole à été tué dans l'accident des Caves de Celebeam. Le triste Gardien du cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2446,6 +2446,97 @@ locale["quest.33.texts.returnPopupMain"] = {
 locale["quest.33.objective.0.name"] = {
 	"en": "Rainbow Moth Powder",
 	"fr": "Poudre de Mite Arc-en-Ciel",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.34.name"] = {
+	"en": "Son of the Gravekeeper (3)",
+	"fr": "Fils du Gardien du cimetière (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.34.texts.objective"] = {
+	"en": "Gather some Dawn Grass for <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Recoltez de l'Herbe de l'Aube pour <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.34.texts.description"] = {
+	"en": "I won't turn down such a desperate request. However, a resurrection spell requires a lot of rare ingredients. If you can find them, I can help the Gravekeeper.<br><br>First, I need some Dawn Grass which can be found near the Oracle Lake.",
+	"fr": "Je ne peux pas refuser une demande aussi désespérée. Seulement, un sort de résurrection requiert beaucoup d'ingrédients rares. Si vous pouvez les trouver, je pourrais aider le Gardien du cimetière.<br><br>Pour commencer, il me faut de l'Herbe de l'Aube, qui peut être récolté dans les environs du Lac de l'Oracle.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.34.texts.returnPopupMain"] = {
+	"en": "These are helpful, but not enough.",
+	"fr": "Elles nous seront utiles, mais ce n'est pas suffisant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.34.objective.0.name"] = {
+	"en": "Dawn Grass",
+	"fr": "Herbe de l'Aube",
 	"es": "",
 	"ch": "",
 	"kr": "",
