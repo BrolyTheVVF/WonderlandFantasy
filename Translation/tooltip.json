@@ -107,6 +107,24 @@
         "th":"",
         "id":""
     },
+    "tooltip.item.spiritAptitude":{
+        "en":"APT",
+        "fr":"APT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "tooltip.item.mod-stats":{
         "en":"Mod Stats",
         "fr":"Mod Stats",
