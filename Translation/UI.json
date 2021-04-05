@@ -2862,8 +2862,8 @@
         "id":""
     },
     "UI.windows.spirit.nospirit.line1":{
-        "en":"You have no Spirit equiped",
-        "fr":"Vous n'avez aucune Esprit d'équipé",
+        "en":"You have not equipped a Spiri",
+        "fr":"Vous n'avez pas equipé d'Esprit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2880,8 +2880,8 @@
         "id":""
     },
     "UI.windows.spirit.nospirit.line2":{
-        "en":"What is the Spirit",
-        "fr":"Qu'est-ce que l'Esprit",
+        "en":"What's a Spirit",
+        "fr":"Qu'est-ce qu'un l'Esprit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2898,7 +2898,7 @@
         "id":""
     },
     "UI.windows.spirit.nospirit.line3":{
-        "en":"The Spirit is a special item that allow players to change into monsters. Players that have a Spirit, in addition to having enhanced stats, can change into their Spirit form and use skills that only Spirits can use.",
+        "en":"A Spirit is a special item that allow players to change into monsters. Players that have a Spirit, in addition to having enhanced stats, can change into their Spirit form and use skills that only Spirits can use.",
         "fr":"L'Esprit est un objet spécial qui permet aux joueurs de prendre l'apparence des monstres. Les joueurs qui possèdent un Esprit, en plus de pouvoir bénéficier de son aide pour améliorer ses attributs, peuvent se transformer en Esprit, pour utiliser les sorts uniquement disponibles aux Esprits.",
         "es":"",
         "ch":"",
