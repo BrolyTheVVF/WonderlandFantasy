@@ -492,7 +492,7 @@ locale["npc.100001.name"] = {
 };
 locale["npc.100001.title"] = {
 	"en": "Village Chief",
-	"fr": "Chef",
+	"fr": "Chef du Village",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -641,7 +641,7 @@ locale["npc.100005.name"] = {
 
 locale["npc.100006.name"] = {
 	"en": "Wild Hurricane",
-	"fr": "Ouragan sauvage",
+	"fr": "Ouragan Sauvage",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -770,7 +770,7 @@ locale["npc.100009.name"] = {
 };
 locale["npc.100009.title"] = {
 	"en": "Swordmatser",
-	"fr": "Maître d'Arme",
+	"fr": "Maître d'Armes",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1085,7 +1085,7 @@ locale["npc.100018.name"] = {
 };
 locale["npc.100018.title"] = {
 	"en": "Warrior Trainer",
-	"fr": "Entraîneur de guerriers",
+	"fr": "Formateur de guerrier",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1122,7 +1122,7 @@ locale["npc.100019.name"] = {
 };
 locale["npc.100019.title"] = {
 	"en": "Ranger Trainer",
-	"fr": "Entraîneur d'archers",
+	"fr": "Formateur d'archer",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1159,7 +1159,7 @@ locale["npc.100020.name"] = {
 };
 locale["npc.100020.title"] = {
 	"en": "Mage Trainer",
-	"fr": "Entraîneur de mages",
+	"fr": "Formateur de mage",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1196,7 +1196,7 @@ locale["npc.100021.name"] = {
 };
 locale["npc.100021.title"] = {
 	"en": "Gravekeeper",
-	"fr": "Gardien du cimetière",
+	"fr": "Gardien du Cimetière",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1454,7 +1454,7 @@ locale["npc.100030.title"] = {
 };
 locale["npc.100030.baseText"] = {
 	"en": "You don't belong here. Turn around and leave!",
-	"fr": "Tu n'as rien à faire ici. Fait demis-tour et part!",
+	"fr": "Tu n'as rien à faire ici. Fais demis-tour et part!",
 	"es": "",
 	"ch": "",
 	"kr": "",
