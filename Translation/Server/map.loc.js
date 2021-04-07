@@ -56,7 +56,7 @@ locale["map.Slime Kingdom.name"] = {
 };
 locale["map.Beast Woods.name"] = {
 	"en": "Beast Woods",
-	"fr": "Bois de le Bête",
+	"fr": "Bois de la Bête",
 	"es": "",
 	"ch": "",
 	"kr": "",
