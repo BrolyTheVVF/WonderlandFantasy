@@ -361,7 +361,7 @@
     },
     "item.100.name":{
         "en":"Trial Blade",
-        "fr":"Epee d'entrainement",
+        "fr":"Epée d'entrainement",
         "es":"Hoja de prueba",
         "ch":"試製長劍",
         "kr":"",
@@ -379,7 +379,7 @@
     },
     "item.101.name":{
         "en":"Beginner's Sword",
-        "fr":"Epee de débutant",
+        "fr":"Epée de débutant",
         "es":"Espada del principiante",
         "ch":"新手長劍",
         "kr":"",
@@ -2575,7 +2575,7 @@
     },
     "item.3002.name":{
         "en":"[Spirit Egg] Baby Boar",
-        "fr":"",
+        "fr":"[Spirit Egg] Petit Sanglier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2593,7 +2593,7 @@
     },
     "item.3003.name":{
         "en":"[Spirit Egg] Boar",
-        "fr":"",
+        "fr":"[Spirit Egg] Sanglier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2611,7 +2611,7 @@
     },
     "item.3004.name":{
         "en":"[Spirit Egg] Escaping Prum Bear",
-        "fr":"",
+        "fr":"[Spirit Egg] Ours Brun",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2629,7 +2629,7 @@
     },
     "item.3005.name":{
         "en":"[Spirit Egg] Baby Ostrider",
-        "fr":"",
+        "fr":"[Spirit Egg] Petit Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2647,7 +2647,7 @@
     },
     "item.3006.name":{
         "en":"[Spirit Egg] Crab",
-        "fr":"",
+        "fr":"[Spirit Egg] Crabe",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2665,7 +2665,7 @@
     },
     "item.3007.name":{
         "en":"[Spirit Egg] Nagar Warrior",
-        "fr":"",
+        "fr":"[Spirit Egg] Guerrier Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2683,7 +2683,7 @@
     },
     "item.3008.name":{
         "en":"[Spirit Egg] Nagar Wizard",
-        "fr":"",
+        "fr":"[Spirit Egg] Mage Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2701,7 +2701,7 @@
     },
     "item.3009.name":{
         "en":"[Spirit Egg] Bee",
-        "fr":"",
+        "fr":"[Spirit Egg] Abeille",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2719,7 +2719,7 @@
     },
     "item.3010.name":{
         "en":"[Spirit Egg] Bunny",
-        "fr":"",
+        "fr":"[Spirit Egg] Lapin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2737,7 +2737,7 @@
     },
     "item.3011.name":{
         "en":"[Spirit Egg] Tiny Beatle",
-        "fr":"",
+        "fr":"[Spirit Egg] Petit Scarabée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2755,7 +2755,7 @@
     },
     "item.3012.name":{
         "en":"[Spirit Egg] Rainbow Moth",
-        "fr":"",
+        "fr":"[Spirit Egg] Mite Arc-en-Ciel",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2845,7 +2845,7 @@
     },
     "item.3017.name":{
         "en":"[Spirit Egg] Ostrider",
-        "fr":"",
+        "fr":"[Spirit Egg] Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2863,7 +2863,7 @@
     },
     "item.3018.name":{
         "en":"[Spirit Egg] Chocolate Slime",
-        "fr":"",
+        "fr":"[Spirit Egg] Slime Chocolat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2953,7 +2953,7 @@
     },
     "item.3023.name":{
         "en":"[Spirit Egg] Zombie",
-        "fr":"",
+        "fr":"[Spirit Egg] Zombie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2971,7 +2971,7 @@
     },
     "item.3024.name":{
         "en":"[Spirit Egg] Skeleton Wizard",
-        "fr":"",
+        "fr":"[Spirit Egg] Mage Squelette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2989,7 +2989,7 @@
     },
     "item.3025.name":{
         "en":"[Spirit Egg] Evil Spirit",
-        "fr":"",
+        "fr":"[Spirit Egg] Esprit Malfaisant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3025,7 +3025,7 @@
     },
     "item.3027.name":{
         "en":"[Spirit Egg] Skeleton Soldier",
-        "fr":"",
+        "fr":"[Spirit Egg] Soldat Squelette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3043,7 +3043,7 @@
     },
     "item.3028.name":{
         "en":"[Spirit Egg] Skeleton Marskman",
-        "fr":"",
+        "fr":"[Spirit Egg] Archer Squelette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3060,8 +3060,8 @@
         "id":""
     },
     "item.3029.name":{
-        "en":"[Spirit Egg] Evit Spirit",
-        "fr":"",
+        "en":"[Spirit Egg] Evil Spirit",
+        "fr":"[Spirit Egg] Esprit Malfaisant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3079,7 +3079,7 @@
     },
     "item.3030.name":{
         "en":"[Spirit Egg] Skeleton Rider",
-        "fr":"",
+        "fr":"[Spirit Egg] Chevalier Squelette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3097,7 +3097,7 @@
     },
     "item.3031.name":{
         "en":"[Spirit Egg] Skeleton Sorcerer",
-        "fr":"",
+        "fr":"[Spirit Egg] Sorcier Squelette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3277,7 +3277,7 @@
     },
     "item.3041.name":{
         "en":"[Spirit Egg] Byron Mummy",
-        "fr":"",
+        "fr":"[Spirit Egg] Momie de Byron",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4411,7 +4411,7 @@
     },
     "item.12000.name":{
         "en":"Repair Stone",
-        "fr":"Pierre de répération",
+        "fr":"Pierre de réparation",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5149,7 +5149,7 @@
     },
     "item.20002.name":{
         "en":"True Sight Potion",
-        "fr":"Potion de cécité",
+        "fr":"Potion de Cécité",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5329,7 +5329,7 @@
     },
     "item.40000.name":{
         "en":"Strawberry",
-        "fr":"Framboise",
+        "fr":"Fraise",
         "es":"",
         "ch":"",
         "kr":"",
