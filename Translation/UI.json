@@ -1027,7 +1027,7 @@
     },
     "UI.windows.quest-list.objective":{
         "en":"Quest Objective",
-        "fr":"Objectif",
+        "fr":"Objectif de Quête",
         "es":"",
         "ch":"任務目標",
         "kr":"",
@@ -1045,7 +1045,7 @@
     },
     "UI.windows.quest-list.reward":{
         "en":"Quest Reward",
-        "fr":"Récompense",
+        "fr":"Récompense de Quête",
         "es":"任務獎勵",
         "ch":"",
         "kr":"",
@@ -1063,7 +1063,7 @@
     },
     "UI.windows.quest-list.description":{
         "en":"Quest Description",
-        "fr":"Description",
+        "fr":"Description de Quête",
         "es":"",
         "ch":"任務描述",
         "kr":"",
@@ -1279,7 +1279,7 @@
     },
     "UI.windows.bag.title":{
         "en":"Bag",
-        "fr":"Sac",
+        "fr":"Sac à Dos",
         "es":"",
         "ch":"背包",
         "kr":"",
@@ -1441,7 +1441,7 @@
     },
     "UI.windows.bag.button.sort":{
         "en":"Sort",
-        "fr":"Tri",
+        "fr":"Trier",
         "es":"",
         "ch":"整理",
         "kr":"",
@@ -2413,7 +2413,7 @@
     },
     "UI.windows.guild.table.guildName":{
         "en":"Guild Name",
-        "fr":"Nom",
+        "fr":"Nom ",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2431,7 +2431,7 @@
     },
     "UI.windows.guild.table.guildLeader":{
         "en":"Guild Leader",
-        "fr":"Chef de Guild",
+        "fr":"Chef de Guilde",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2719,7 +2719,7 @@
     },
     "UI.windows.guild.btn.manage":{
         "en":"Mng.",
-        "fr":"Gerer",
+        "fr":"Gérer",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2755,7 +2755,7 @@
     },
     "UI.windows.guild.btn.manage":{
         "en":"Mng.",
-        "fr":"Gerer",
+        "fr":"Gérer",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2809,7 +2809,7 @@
     },
     "UI.windows.guild.popup.upgrade.guild":{
         "en":"Upgrading the guild will cost {0} gold.<br>Continue ?",
-        "fr":"Augmenter la guilde d'un niveau va couter {0} or.<br>Continuer ?",
+        "fr":"Augmenter la guilde d'un niveau va coûter {0} or.<br>Continuer ?",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2827,7 +2827,7 @@
     },
     "UI.windows.guild.popup.upgrade.shop":{
         "en":"Upgrading the guild shop will cost {0} ressources.<br>Continue ?",
-        "fr":"Augmenter le magasin de guilde d'un niveau va couter {0} ressources.<br>Continuer ?",
+        "fr":"Augmenter le magasin de guilde d'un niveau va coûter {0} ressources.<br>Continuer ?",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2863,7 +2863,7 @@
     },
     "UI.windows.spirit.nospirit.line1":{
         "en":"You have not equipped a Spiri",
-        "fr":"Vous n'avez pas equipé d'Esprit",
+        "fr":"Vous n'avez pas équipé d'Esprit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2881,7 +2881,7 @@
     },
     "UI.windows.spirit.nospirit.line2":{
         "en":"What's a Spirit",
-        "fr":"Qu'est-ce qu'un l'Esprit",
+        "fr":"Qu'est-ce qu'un Esprit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2935,7 +2935,7 @@
     },
     "UI.windows.spirit.nospirit.line5":{
         "en":"Most monsters can be changed into Spirits. If you find a Spirit Egg, you can right click it to try to hatch it, but it has a chance to fail.<br> 1) Elite monsters can drop an egg.<br> 2) During instances, the boss and specials monsters can drop an egg.<br> 3) There is a small chance for world bosses to drop ab egg.<br> 4) The rarer the egg, the more powerful it is, and the more luck it has to hatch successfully.",
-        "fr":"La grande majorité de monstres peuvent se transformer en Esprit. Si vous trouvez un Oeuf d'Esprit, il vous suffit de fair un clic droit pour l'ouvrir et essayer d'en résupérer son essence.<br> 1) Les monstres élite peuvent laisser tomber un oeuf comme butin.<br> 2) Au cours des instances, le boss ou les monstres spéciaux peuvent laisser tomber des oeuf comme butin.<br> 3) Il y a aussi une petit probabilité pour que les Boss du monde laissent des oeufs comme butin.<br> 4) Plus un oeuf est rare, plus l'Esprit qu'il contient est puissant, et plus il auras de chance d'être récupéré avec succes.",
+        "fr":"La grande majorité de monstres peuvent se transformer en Esprit. Si vous trouvez un Oeuf d'Esprit, il vous suffit de faire un clic droit pour l'ouvrir et essayer d'en récupérer son essence.<br> 1) Les monstres élite peuvent laisser tomber un oeuf comme butin.<br> 2) Au cours des instances, le boss ou les monstres spéciaux peuvent laisser tomber des oeuf comme butin.<br> 3) Il y a aussi une petite probabilité pour que les Boss du Monde laissent des oeufs comme butin.<br> 4) Plus un oeuf est rare, plus l'Esprit qu'il contient est puissant, et plus il auraa de chance d'être récupéré avec succès.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3097,7 +3097,7 @@
     },
     "UI.windows.spirit.btn.refine":{
         "en":"Refine",
-        "fr":"Rafiner",
+        "fr":"Raffiner",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3115,7 +3115,7 @@
     },
     "UI.windows.spirit.btn.feed":{
         "en":"Feed",
-        "fr":"Nourir",
+        "fr":"Nourrir",
         "es":"",
         "ch":"",
         "kr":"",
