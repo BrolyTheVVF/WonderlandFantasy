@@ -20,7 +20,7 @@ locale["map.Treefolk Town.name"] = {
 };
 locale["map.Slime Plain.name"] = {
 	"en": "Slime Plain",
-	"fr": "Plaine Slime",
+	"fr": "Plaine de Slime",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -110,7 +110,7 @@ locale["map.Sacred Wilderness.name"] = {
 };
 locale["map.Road of Triumph.name"] = {
 	"en": "Road of Triumph",
-	"fr": "Route du triomphe",
+	"fr": "Route du Triomphe",
 	"es": "",
 	"ch": "",
 	"kr": "",
