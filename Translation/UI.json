@@ -3166,5 +3166,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.spirit.talentPoint":{
+        "en":"Talent Points",
+        "fr":"Points de Talent",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.spirit.growth":{
+        "en":"Growth",
+        "fr":"Croissance",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
