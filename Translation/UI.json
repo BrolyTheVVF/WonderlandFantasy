@@ -3202,5 +3202,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.spirit.talent.skillBar":{
+        "en":"Talent Skill {0}",
+        "fr":"Compétences de Talent {0}",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
