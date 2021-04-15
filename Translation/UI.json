@@ -323,7 +323,7 @@
         "th":"",
         "id":"DEF"
     },
-    "UI.stat.ENHCDMG":{
+    "UI.stat.ENHC_DMG":{
         "en":"Enhanced Damage",
         "fr":"Dégâts Améliorés",
         "es":"Daño mejorado",
@@ -341,7 +341,7 @@
         "th":"",
         "id":"Serangan Tambahan"
     },
-    "UI.stat.ENHCDMG.short":{
+    "UI.stat.ENHC_DMG.short":{
         "en":"ENHC DMG",
         "fr":"DGTS AM",
         "es":"",
@@ -359,7 +359,7 @@
         "th":"",
         "id":"ENHC DMG"
     },
-    "UI.stat.DMGRD":{
+    "UI.stat.DMG_RD":{
         "en":"Damage Reduction",
         "fr":"Réduction de dégâts",
         "es":"Reducción del daño",
@@ -377,7 +377,7 @@
         "th":"",
         "id":"Pengurangan Serangan"
     },
-    "UI.stat.DMGRD.short":{
+    "UI.stat.DMG_RD.short":{
         "en":"DMG RD",
         "fr":"RD DGTS",
         "es":"",
@@ -395,7 +395,7 @@
         "th":"",
         "id":"DMG RD"
     },
-    "UI.stat.ATKSPD":{
+    "UI.stat.ATK_SPD":{
         "en":"Attack Speed",
         "fr":"Vitesse d'attaque",
         "es":"Velocidad de ataque",
@@ -413,7 +413,7 @@
         "th":"",
         "id":"Kecepatan Serangan"
     },
-    "UI.stat.ATKSPD.short":{
+    "UI.stat.ATK_SPD.short":{
         "en":"ATK SPD",
         "fr":"VIT ATK",
         "es":"ATQ VEL",
@@ -431,7 +431,7 @@
         "th":"",
         "id":"ATK SPD"
     },
-    "UI.stat.SKILLENHC":{
+    "UI.stat.SKILL_ENHC":{
         "en":"Skill Enhanced",
         "fr":"Compétence améliorée",
         "es":"Habilidad mejorada",
@@ -449,7 +449,7 @@
         "th":"",
         "id":"Peningkatan Skill"
     },
-    "UI.stat.SKILLENHC.short":{
+    "UI.stat.SKILL_ENHC.short":{
         "en":"Skill ENHC",
         "fr":"Comp AM",
         "es":"",
@@ -503,7 +503,7 @@
         "th":"",
         "id":"ACC"
     },
-    "UI.stat.SKILLACC":{
+    "UI.stat.SKILL_ACC":{
         "en":"Skill Accuracy",
         "fr":"Précision Compétence",
         "es":"Precisión de habilidad",
@@ -521,7 +521,7 @@
         "th":"",
         "id":"Ketepatan Skill"
     },
-    "UI.stat.SKILLACC.short":{
+    "UI.stat.SKILL_ACC.short":{
         "en":"Skill ACC",
         "fr":"PRE Comp",
         "es":"",
@@ -575,7 +575,7 @@
         "th":"",
         "id":"EVA"
     },
-    "UI.stat.SKILLEVA":{
+    "UI.stat.SKILL_EVA":{
         "en":"Skill Evasion",
         "fr":"Esquive Compétence",
         "es":"Evasión de habilidades",
@@ -593,7 +593,7 @@
         "th":"",
         "id":"Menghindari Skill"
     },
-    "UI.stat.SKILLEVA.short":{
+    "UI.stat.SKILL_EVA.short":{
         "en":"Skill EVA",
         "fr":"ESQ Comp",
         "es":"",
@@ -611,7 +611,7 @@
         "th":"",
         "id":"Skill EVA"
     },
-    "UI.stat.CRITACC":{
+    "UI.stat.CRIT_ACC":{
         "en":"Crit Accuracy",
         "fr":"Précision Critique",
         "es":"Precisión crítica",
@@ -629,7 +629,7 @@
         "th":"",
         "id":"Ketepatan Critical"
     },
-    "UI.stat.CRITACC.short":{
+    "UI.stat.CRIT_ACC.short":{
         "en":"CRIT ACC",
         "fr":"PRE CRIT",
         "es":"",
@@ -647,7 +647,7 @@
         "th":"",
         "id":"CRIT ACC"
     },
-    "UI.stat.SKILLCRITACC":{
+    "UI.stat.SKILL_CRIT_ACC":{
         "en":"Skill Crit Accuracy",
         "fr":"Précision Compétence Critique",
         "es":"Precisión crítica de habilidad",
@@ -665,7 +665,7 @@
         "th":"",
         "id":"Ketepatan Critical Skill"
     },
-    "UI.stat.SKILLCRITACC.short":{
+    "UI.stat.SKILL_CRIT_ACC.short":{
         "en":"Skill CRIT ACC",
         "fr":"PRE Comp CRIT",
         "es":"",
@@ -683,7 +683,7 @@
         "th":"",
         "id":"Skill CRIT ACC"
     },
-    "UI.stat.CRITEVA":{
+    "UI.stat.CRIT_EVA":{
         "en":"Crit Evasion",
         "fr":"Esquive Critique",
         "es":"Evasión de críticos",
@@ -701,7 +701,7 @@
         "th":"",
         "id":"Menghindari Critical"
     },
-    "UI.stat.CRITEVA.short":{
+    "UI.stat.CRIT_EVA.short":{
         "en":"CRIT EVA",
         "fr":"ESQ CRIT",
         "es":"",
@@ -719,7 +719,7 @@
         "th":"",
         "id":"CRIT EVA"
     },
-    "UI.stat.SKILLCRITEVA":{
+    "UI.stat.SKILL_CRIT_EVA":{
         "en":"Skill Crit Evasion",
         "fr":"Esquive Compétence Critique",
         "es":"Evasión de críticos de habilidad",
@@ -737,7 +737,7 @@
         "th":"",
         "id":"Menghindari Critical Skill"
     },
-    "UI.stat.SKILLCRITEVA.short":{
+    "UI.stat.SKILL_CRIT_EVA.short":{
         "en":"Skill CRIT EVA",
         "fr":"ESQ Comp CRIT",
         "es":"",
@@ -755,7 +755,7 @@
         "th":"",
         "id":"Skill CRIT EVA"
     },
-    "UI.stat.CRITENCH":{
+    "UI.stat.CRIT_ENCH":{
         "en":"Crit Enhanced",
         "fr":"Amélioration Critique",
         "es":"Crit mejorado",
@@ -773,7 +773,7 @@
         "th":"",
         "id":"Peningkatan Crit"
     },
-    "UI.stat.CRITENCH.short":{
+    "UI.stat.CRIT_ENCH.short":{
         "en":"CRIT ENCH",
         "fr":"AM CRIT",
         "es":"",
@@ -791,7 +791,7 @@
         "th":"",
         "id":"CRIT ENCH"
     },
-    "UI.stat.SKILLCRITENCH":{
+    "UI.stat.SKILL_CRIT_ENCH":{
         "en":"Skill Crit Enhanced",
         "fr":"Compétence Critique Ameliorée",
         "es":"Habilidad crítica mejorada",
@@ -809,7 +809,7 @@
         "th":"",
         "id":"Peningkatan Critical Skill"
     },
-    "UI.stat.SKILLCRITENCH.short":{
+    "UI.stat.SKILL_CRIT_ENCH.short":{
         "en":"Skill CRIT ENCH",
         "fr":"AM Comp CRIT",
         "es":"",
@@ -827,7 +827,7 @@
         "th":"",
         "id":"Skill CRIT ENCH"
     },
-    "UI.stat.CRITRD":{
+    "UI.stat.CRIT_RD":{
         "en":"Crit Reduction",
         "fr":"Reduction Critique",
         "es":"Reducción de críticos",
@@ -845,7 +845,7 @@
         "th":"",
         "id":"Pengurangan Critical"
     },
-    "UI.stat.CRITRD.short":{
+    "UI.stat.CRIT_RD.short":{
         "en":"CRIT RD",
         "fr":"RD CRIT",
         "es":"",
@@ -863,7 +863,7 @@
         "th":"",
         "id":"CRIT RD"
     },
-    "UI.stat.SKILLCRITRD":{
+    "UI.stat.SKILL_CRIT_RD":{
         "en":"Skill Crit Reduction",
         "fr":"Reduction Compétence Critique",
         "es":"Reducción de críticos de habilidad",
@@ -881,7 +881,7 @@
         "th":"",
         "id":"Pengurangan Critical Skill"
     },
-    "UI.stat.SKILLCRITRD.short":{
+    "UI.stat.SKILL_CRIT_RD.short":{
         "en":"Skill CRIT RD",
         "fr":"RD Comp CRIT",
         "es":"",
@@ -899,7 +899,7 @@
         "th":"",
         "id":"Skill CRIT RD"
     },
-    "UI.stat.HOLYATK":{
+    "UI.stat.HOLY_ATK":{
         "en":"Holy Attack",
         "fr":"Attaque sacrée",
         "es":"Ataque sagrado",
@@ -917,7 +917,7 @@
         "th":"",
         "id":"Serangan Holy"
     },
-    "UI.stat.HOLYATK.short":{
+    "UI.stat.HOLY_ATK.short":{
         "en":"Holy ATK",
         "fr":"ATK Sacrée",
         "es":"",
