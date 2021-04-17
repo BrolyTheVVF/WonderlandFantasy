@@ -791,7 +791,7 @@
         "th":"",
         "id":"CRIT ENCH"
     },
-    "UI.stat.SKILL_CRIT_ENCH":{
+    "UI.stat.SKILL_CRIT_ENHC":{
         "en":"Skill Crit Enhanced",
         "fr":"Compétence Critique Ameliorée",
         "es":"Habilidad crítica mejorada",
@@ -809,7 +809,7 @@
         "th":"",
         "id":"Peningkatan Critical Skill"
     },
-    "UI.stat.SKILL_CRIT_ENCH.short":{
+    "UI.stat.SKILL_CRIT_ENHC.short":{
         "en":"Skill CRIT ENCH",
         "fr":"AM Comp CRIT",
         "es":"",
