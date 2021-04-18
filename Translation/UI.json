@@ -755,7 +755,7 @@
         "th":"",
         "id":"Skill CRIT EVA"
     },
-    "UI.stat.CRIT_ENCH":{
+    "UI.stat.CRIT_ENHC":{
         "en":"Crit Enhanced",
         "fr":"Amélioration Critique",
         "es":"Crit mejorado",
@@ -773,8 +773,8 @@
         "th":"",
         "id":"Peningkatan Crit"
     },
-    "UI.stat.CRIT_ENCH.short":{
-        "en":"CRIT ENCH",
+    "UI.stat.CRIT_ENHC.short":{
+        "en":"CRIT ENHC",
         "fr":"AM CRIT",
         "es":"",
         "ch":"暴擊增强",
@@ -789,7 +789,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"CRIT ENCH"
+        "id":"CRIT ENHC"
     },
     "UI.stat.SKILL_CRIT_ENHC":{
         "en":"Skill Crit Enhanced",
@@ -810,7 +810,7 @@
         "id":"Peningkatan Critical Skill"
     },
     "UI.stat.SKILL_CRIT_ENHC.short":{
-        "en":"Skill CRIT ENCH",
+        "en":"Skill CRIT ENHC",
         "fr":"AM Comp CRIT",
         "es":"",
         "ch":"技能暴擊增强",
@@ -825,7 +825,7 @@
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Skill CRIT ENCH"
+        "id":"Skill CRIT ENHC"
     },
     "UI.stat.CRIT_RD":{
         "en":"Crit Reduction",
