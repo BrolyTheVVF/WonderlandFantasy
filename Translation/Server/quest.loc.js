@@ -2953,6 +2953,79 @@ locale["quest.39.objective.2.name"] = {
 	"id": ""
 };
 
+locale["quest.40.name"] = {
+	"en": "Ressurection (1)",
+	"fr": "Résurrection (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40.texts.objective"] = {
+	"en": "Tell <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> that his son has been resurrected, and became an apprentice of Kugarn.",
+	"fr": "Allez prévenir <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> que son fils à été ressuscité, et qu'il est devenu l'apprenti de Kugarn.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40.texts.description"] = {
+	"en": "Master Kugarn told me about everything. Thanks for helping me. I owe you my life.<br>Kugarn suggested he takes me as an apprentice. I think I should repay him and stay by his side? Please tell my father that I am ok now.",
+	"fr": "Maître Kugarn m'a tout dit. Merci de votre aide. Je vous doit la vie.<br>Kugarn m'a proposer de me prendre comme apprenti. Je pense que je lui doit bien. S'il vous plait, allez prévenir mon père que je vais bien maintenant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40.texts.returnPopupMain"] = {
+	"en": "Are these real? What you have told me... Hahahaha! My James is back!",
+	"fr": "Est-ce vrai? Ce que vous venez de me dire ... Hahahaha! Mon petit James est vivant!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
