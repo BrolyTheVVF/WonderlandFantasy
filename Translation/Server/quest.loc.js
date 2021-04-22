@@ -3026,6 +3026,79 @@ locale["quest.40.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.41.name"] = {
+	"en": "Ressurection (2)",
+	"fr": "Résurrection (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.41.texts.objective"] = {
+	"en": "Report back to the <span class='text-link' data-target-type='npc' data-target-id='100028'>Stashkeeper</span> that Froles is ok now.",
+	"fr": "Retournez voir le <span class='text-link' data-target-type='npc' data-target-id='100028'>Gardien de la réserve</span> pour le prevenir que Froles va mieux.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.41.texts.description"] = {
+	"en": "Thanks for your help! Please go back to Cain Kingdom and tell the Stashkeeper that I am ok now. You are my best friend!",
+	"fr": "Merce pour votre aide! S'il vous plait, retournez sur la Place Royale et dites au Gardien de la réserver que je vais mieux. Vous êtes mon meilleur amis!.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.41.texts.returnPopupMain"] = {
+	"en": "Really ? That would be great. It will be his greatest moment.",
+	"fr": "Vraiment ? C'est génial. Ce sera son plus grand moment.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
