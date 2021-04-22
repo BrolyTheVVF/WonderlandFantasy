@@ -1525,6 +1525,24 @@ locale["npc.100031.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100032.name"] = {
+	"en": "Recruit Drillmaster",
+	"fr": "Instructeur Militaire",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
