@@ -3064,7 +3064,7 @@ locale["quest.41.texts.objective"] = {
 };
 locale["quest.41.texts.description"] = {
 	"en": "Thanks for your help! Please go back to Cain Kingdom and tell the Stashkeeper that I am ok now. You are my best friend!",
-	"fr": "Merce pour votre aide! S'il vous plait, retournez sur la Place Royale et dites au Gardien de la réserver que je vais mieux. Vous êtes mon meilleur amis!.",
+	"fr": "Merci pour votre aide! S'il vous plait, retournez sur la Place Royale et dites au Gardien de la réserver que je vais mieux. Vous êtes mon meilleur amis!.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3083,6 +3083,79 @@ locale["quest.41.texts.description"] = {
 locale["quest.41.texts.returnPopupMain"] = {
 	"en": "Really ? That would be great. It will be his greatest moment.",
 	"fr": "Vraiment ? C'est génial. Ce sera son plus grand moment.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.42.name"] = {
+	"en": "New Lessons (1)",
+	"fr": "Nouvelle Leçon (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.42.texts.objective"] = {
+	"en": "Talk to the <span class='text-link' data-target-type='npc' data-target-id='100032'>Recruit Drillmaster</span> in Cain Kingdom.",
+	"fr": "Parler a l'<span class='text-link' data-target-type='npc' data-target-id='100032'>Instructeur Millitaire</span> sur la Place Royale.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.42.texts.description"] = {
+	"en": "The Rookie Drillmaster has something to teach you. Visit him.",
+	"fr": "L'instructeur de bleusaille à quelque chose a t'apprendre. Rendez-lui visite.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.42.texts.returnPopupMain"] = {
+	"en": "Today you have a new lesson to learn. It will make your journey easier.",
+	"fr": "Aujourd'hui, vous avez une nouvelle leçon à apprendre. Ca rendras votre voyage plus facile.",
 	"es": "",
 	"ch": "",
 	"kr": "",
