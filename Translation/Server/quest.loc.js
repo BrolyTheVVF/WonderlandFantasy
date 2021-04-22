@@ -2826,6 +2826,132 @@ locale["quest.37.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.39.name"] = {
+	"en": "James' Research",
+	"fr": "Les recherches de James",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.39.texts.objective"] = {
+	"en": "Bring James some of the Beetle's Though Shells, Powder of Rainbow Moth and Hornwolf's Horn.<br>You can get them by hunting <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beatle</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> and <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>.",
+	"fr": "Apportez à James quelques Coquille de scarabée dure, de la Poudre de Mite Arc-en-Ciel et la Corne du Loup Licorne.<br>Vous pouvez les obtenir en chassant les <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabé</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> et <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.39.texts.description"] = {
+	"en": "I heard that the teacher used the materials for really rare experience.",
+	"fr": "J'ai entendu dire que le professeur utilisait des matériaux pour des expériences très rares.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.39.texts.returnPopupMain"] = {
+	"en": "These things are only mediums, I cannot be revived without my teacher's powerful magic. Master Kugarn is really strong ...",
+	"fr": "Ces choses ne sont que des supports, je ne peuvent pas ressusciter sans les pouvoirs magic de mon maître. Maitre Kuragn est vraiment fort ....",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.39.objective.0.name"] = {
+	"en": "Beetle's Though Shell",
+	"fr": "Coquille de scarabée dure",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.39.objective.1.name"] = {
+	"en": "Rainbow Moth Powder",
+	"fr": "Poudre de Mite Arc-en-Ciel",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.39.objective.2.name"] = {
+	"en": "Unicorn Wolf's Horn",
+	"fr": "Corne du Loup Licorne",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
