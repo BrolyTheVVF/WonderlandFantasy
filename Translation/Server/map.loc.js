@@ -198,6 +198,42 @@ locale["map.Oracle Lake.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["map.Chaotic Hills.name"] = {
+	"en": "Chaotic Hills",
+	"fr": "Collines Chaotiques",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["map.Celebeam Cave Floor 1.name"] = {
+	"en": "Celebeam Cave 1",
+	"fr": "Caves de Celebeam 1",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 exports.locale = locale;
