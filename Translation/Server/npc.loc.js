@@ -414,6 +414,42 @@ locale["npc.22.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.23.name"] = {
+	"en": "Wax Zombie",
+	"fr": "Zombie de Cire",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.24.name"] = {
+	"en": "Wax Devil Vincent",
+	"fr": "Vincent le Diable de Cire",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
