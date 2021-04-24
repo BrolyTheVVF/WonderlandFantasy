@@ -3172,6 +3172,79 @@ locale["quest.42.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.43.name"] = {
+	"en": "New Lessons (2)",
+	"fr": "Nouvelle Leçon (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.43.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='21'>Familiar</span> in the Chaotic Hills. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100032'>Recruit Drillmaster</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='21'>Familier</span> dans les Plaines Chaotiques. Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100032'>Instructeur Militaire</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.43.texts.description"] = {
+	"en": ".",
+	"fr": ".",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.43.texts.returnPopupMain"] = {
+	"en": "You learned that fast.",
+	"fr": "Tu apprends vite.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
