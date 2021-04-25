@@ -808,5 +808,41 @@
         "pl":"",
         "th":"",
         "id":"Mnt"
+    },
+    "general.title.elite":{
+        "en":"Elite",
+        "fr":"Élite",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "general.title.chief":{
+        "en":"Chief Elite",
+        "fr":"Chef Élite",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
