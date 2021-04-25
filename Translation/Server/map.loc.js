@@ -101,7 +101,7 @@ locale["map.Sacred Wilderness.name"] = {
 	"de": "Geweihte Wildniss",
 	"jp": "",
 	"pt": "",
-	"vi": "Rừng thiêng",
+	"vi": "Thánh Địa Hoang Vu",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -234,6 +234,23 @@ locale["map.Celebeam Cave Floor 1.name"] = {
 	"th": "",
 	"id": ""
 };
-
+locale["map.Celebeam Hall of Elite.name"] = {
+	"en": "Celebeam Hall of Elite",
+	"fr": "Celebeam Hall d'élite",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Celebeam - Điện Tinh Anh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
