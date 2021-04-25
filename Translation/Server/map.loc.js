@@ -234,24 +234,6 @@ locale["map.Celebeam Cave Floor 1.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["map.Celebeam Hall of Elite.name"] = {
-	"en": "Celebeam Hall of Elite",
-	"fr": "Celebeam Hall d'élite",
-	"es": "",
-	"ch": "",
-	"kr": "",
-	"ru": "",
-	"tr": "",
-	"de": "",
-	"jp": "",
-	"pt": "",
-	"vi": "",
-	"ar": "",
-	"it": "",
-	"pl": "",
-	"th": "",
-	"id": ""
-};
 
 
 exports.locale = locale;
