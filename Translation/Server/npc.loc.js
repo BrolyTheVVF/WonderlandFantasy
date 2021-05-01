@@ -1762,7 +1762,7 @@ locale["npc.100035.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.100034.title"] = {
+locale["npc.100035.title"] = {
 	"en": "Knight",
 	"fr": "Chevalier",
 	"es": "",
@@ -1774,6 +1774,24 @@ locale["npc.100034.title"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Hiệp sĩ",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100036.name"] = {
+	"en": "Quest Agent",
+	"fr": "Agent de Quête",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
