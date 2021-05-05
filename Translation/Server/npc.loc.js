@@ -1875,5 +1875,23 @@ locale["npc.100029.interact.GOTO_SLIME_KGDM"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100036.interact.GET_DAILY_QUEST"] = {
+	"en": "Get Daily Quests",
+	"fr": "Obtenez les quêtes quotidiennes",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
