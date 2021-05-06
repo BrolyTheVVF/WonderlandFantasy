@@ -4749,6 +4749,79 @@ locale["quest.30000.texts.returnPopupMain"] = {
 };
 
 
+locale["quest.40000.name"] = {
+	"en": "Evil Creature: Familiar",
+	"fr": "Créatures démoniaques : Familier",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40000.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='21'>Familier</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40000.texts.description"] = {
+	"en": "Knights are about to enter the mine. We need people to help us go through and hunt the Familiar.",
+	"fr": "Les chevaliers sont sur le point d'entrer dans la mine. Nous avons besoin de personnes pour nous aider à traverser et à chasser les familiers.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40000.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.objective.reachLevel"] = {
