@@ -4822,6 +4822,79 @@ locale["quest.40000.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40001.name"] = {
+	"en": "Evil Creature: Gumu",
+	"fr": "Créatures démoniaques : Gumu",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40001.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='21'>Familier</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='22'>Gumu</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40001.texts.description"] = {
+	"en": "Knights have entered the mine resisting the Evil Army, which suddenly appeared there. We need people to guard this hill and your help would be appreciated young warrior! We must prevent the evil creature from reaching the Capital.",
+	"fr": "Les chevaliers sont entrés dans la mine pour résister à l'armée maléfique qui y est soudainement apparue. Nous avons besoin de personnes pour garder cette colline et votre aide serait appréciée jeune guerrier! Nous devons empêcher les créature maléfique d'atteindre la capitale.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40001.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.objective.reachLevel"] = {
