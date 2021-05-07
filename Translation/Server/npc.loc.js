@@ -558,6 +558,24 @@ locale["npc.30.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.31.name"] = {
+	"en": "Treasure Watcher",
+	"fr": "Gardien des Trésors",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
