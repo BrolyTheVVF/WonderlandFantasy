@@ -216,6 +216,24 @@ locale["map.Chaotic Hills.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["map.Chaotic Jungles.name"] = {
+	"en": "Chaotic Jungles",
+	"fr": "Jungles Chaotiques",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đồi Hỗn Loạn",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["map.Celebeam Cave Floor 1.name"] = {
 	"en": "Celebeam Cave 1",
 	"fr": "Caves de Celebeam 1",
