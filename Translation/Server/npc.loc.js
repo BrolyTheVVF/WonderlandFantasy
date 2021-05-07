@@ -1870,6 +1870,42 @@ locale["npc.100036.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100037.name"] = {
+	"en": "Quinsto",
+	"fr": "Quinsto",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100037.title"] = {
+	"en": "Aged Sherrif",
+	"fr": "Shérif Agé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
