@@ -5005,8 +5005,8 @@ locale["quest.40003.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40003.texts.description"] = {
-	"en": "...",
-	"fr": "...",
+	"en": "The Padilla Bear are starting to attack every beginner since the full moon happened. For that very reason, you need to protect the young ones by eliminating danger.",
+	"fr": "Les ours Padilla attaquent tous les débutants depuis la pleine lune. C'est pour cette raison que vous devez protéger les jeunes en éliminant le danger.",
 	"es": "",
 	"ch": "",
 	"kr": "",
