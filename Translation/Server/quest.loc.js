@@ -5041,6 +5041,298 @@ locale["quest.40003.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40004.name"] = {
+	"en": "Funny Bird",
+	"fr": "Drôle d'Oiseau",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40004.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Snaketail Rooster</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Coq à queue de serpent</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40004.texts.description"] = {
+	"en": "...",
+	"fr": "...",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40004.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40005.name"] = {
+	"en": "Insomnia",
+	"fr": "Insomnie",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40005.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Ostrider</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Autruche ?</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40005.texts.description"] = {
+	"en": "...",
+	"fr": "...",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40005.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40006.name"] = {
+	"en": "Protect Environment",
+	"fr": "Protéger l'environnement",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40006.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Poacher</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Braconnier</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40006.texts.description"] = {
+	"en": "...",
+	"fr": "...",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40006.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40007.name"] = {
+	"en": "Clean Zombies",
+	"fr": "Purgez les Zombies",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40007.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='23'>Wax Zombie</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Zombie de Cire</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40007.texts.description"] = {
+	"en": "A new creature has appeared in the Mine! We need help cleaning it up and figuring out it's identity.",
+	"fr": "Une nouvelle créature est apparue dans la mine! Nous avons besoin d'aide pour le nettoyer et déterminer son identité.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40007.texts.returnPopupMain"] = {
+	"en": "Good job, adventurer!",
+	"fr": "Bon travail, aventurier!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.objective.reachLevel"] = {
