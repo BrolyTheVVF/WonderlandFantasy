@@ -5333,6 +5333,225 @@ locale["quest.40007.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40008.name"] = {
+	"en": "Food for adventurers",
+	"fr": "Nourriture pour les aventuriers",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40008.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='13'>Crab</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='13'>Crabe</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40008.texts.description"] = {
+	"en": "Villagers living on the Lahm Shore are out of supplies, bring them some crab so they can eat and survive, the Nagars are stealing all their foods.",
+	"fr": "Les villageois vivant sur la côte de Lahm sont à court de provisions, apportez-leur du crabe pour qu'ils puissent manger et survivre, les Nagars volent toute leur nourriture.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40008.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40009.name"] = {
+	"en": "Help the Kingdom",
+	"fr": "Aidez le Royaume",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40009.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='28'>Evil Spirit</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprit Maléfique</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40009.texts.description"] = {
+	"en": "The Evil Spirits are starting to haunt houses on the Kingdom, it seems that some of them managed to get out of the cave. Eradicate them to be sure they won't show up again.",
+	"fr": "Les Esprits Maléfique commencent a hanter les maisons du royaume, il semblerais que certains d'entre eux aient réussit a sortir de la Cave. Éliminez-les pour être sûr qu'ils ne réapparaîtront plus.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40009.texts.returnPopupMain"] = {
+	"en": "What a brave young man.",
+	"fr": "Que vous être brave.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40010.name"] = {
+	"en": "Hunting : Prum Bear",
+	"fr": "Chasse: Ours Brun",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40010.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='9'>Prum Bear</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='9'>Ours Brun</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40010.texts.description"] = {
+	"en": "The Prum Bear are starting to attack every beginner since the full moon happened. For that very reason, you need to protect the young ones by eliminating danger.",
+	"fr": "Les ours Brun attaquent tous les débutants depuis la pleine lune. C'est pour cette raison que vous devez protéger les jeunes en éliminant le danger.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40010.texts.returnPopupMain"] = {
+	"en": "Clearing the evil creatures is the mission for every warden.",
+	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.objective.reachLevel"] = {
