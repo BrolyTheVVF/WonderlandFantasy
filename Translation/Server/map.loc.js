@@ -270,5 +270,59 @@ locale["map.Celebeam Hall of Elite.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["map.East Post.name"] = {
+	"en": "East Post",
+	"fr": "Poste Est",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["map.Harbor Plain.name"] = {
+	"en": "Harbor Plain",
+	"fr": "Plaine du port",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["map.Cain Harbor.name"] = {
+	"en": "Cain Harbor",
+	"fr": "Port de Kane",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
