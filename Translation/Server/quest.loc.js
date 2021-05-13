@@ -5990,6 +5990,152 @@ locale["quest.40016.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40017.name"] = {
+	"en": "Health is priority",
+	"fr": "La santé en priorité",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40017.texts.objective"] = {
+	"en": "Use 5 <span class='text-link' data-target-type='item' data-target-id='7000'>Minor Healing Potion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7000'>Potion de guérison Mineure</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40017.texts.description"] = {
+	"en": "You are obviously injured after all the battles you have been through since becoming a warrior, take care of yourself and use potions to regain your health.",
+	"fr": "Vous êtes évidemment blessé après toute les batailles que vous avez traversée depuis que vous êtes devenu un guerrier, prenez soin de vous et utilisez des potions pour retrouver votre santé.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40017.texts.returnPopupMain"] = {
+	"en": "Nice seeing you back!",
+	"fr": "Ravi de vous revoir!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40018.name"] = {
+	"en": "Mana Recovery",
+	"fr": "Récupération de mana",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40018.texts.objective"] = {
+	"en": "Use 5 <span class='text-link' data-target-type='item' data-target-id='7100'>Magic Potion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7100'>Potion de Mana</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40018.texts.description"] = {
+	"en": "You no longer have mana to continue on improving, take care of your health and use some potions so you can cast spells again.",
+	"fr": "Vous n'avez plus de mana pour continuer à vous améliorer, prenez soin de votre santé et utilisez des potions pour pouvoir à nouveau lancer des sorts.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40018.texts.returnPopupMain"] = {
+	"en": "Good, you're back!",
+	"fr": "Bien, vous êtes de retour!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.objective.reachLevel"] = {
