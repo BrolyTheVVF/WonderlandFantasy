@@ -5206,8 +5206,8 @@ locale["quest.40006.name"] = {
 	"id": ""
 };
 locale["quest.40006.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Poacher</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Braconnier</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='29'>Poacher</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='29'>Braconnier</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5553,7 +5553,7 @@ locale["quest.40010.texts.returnPopupMain"] = {
 };
 
 locale["quest.40011.name"] = {
-	"en": "Hunting : Rabbit",
+	"en": "Hunting : Bunny",
 	"fr": "Chasse: Lapin",
 	"es": "",
 	"ch": "",
