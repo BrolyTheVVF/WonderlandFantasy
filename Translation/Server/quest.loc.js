@@ -4914,8 +4914,8 @@ locale["quest.40002.name"] = {
 	"id": ""
 };
 locale["quest.40002.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Chocolate Slime</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Slime Chocolat</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='36'>Chocolate Slime</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='36'>Slime Chocolat</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4987,8 +4987,8 @@ locale["quest.40003.name"] = {
 	"id": ""
 };
 locale["quest.40003.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Padilla Bears</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Ours Padilla</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='32'>Padilla Bears</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='32'>Ours Padilla</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5060,8 +5060,8 @@ locale["quest.40004.name"] = {
 	"id": ""
 };
 locale["quest.40004.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Snaketail Rooster</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Coq à queue de serpent</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='33'>Snaketail Rooster</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5133,8 +5133,8 @@ locale["quest.40005.name"] = {
 	"id": ""
 };
 locale["quest.40005.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Ostrider</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Ostrider</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
