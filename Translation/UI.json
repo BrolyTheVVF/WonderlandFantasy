@@ -3490,5 +3490,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.daily-quest-list.refresh-warning":{
+        "en":"Refreshing the quest list cost {0}. Confirm refresh?",
+        "fr":"Actualiser la liste de quêtes coûte {0}. Confirmer l'actualisation?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
