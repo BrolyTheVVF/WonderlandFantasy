@@ -35,6 +35,24 @@
         "th":"",
         "id":"Zirah"
     },
+    "item.type.costume":{
+        "en":"Costume",
+        "fr":"Costume",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.type.hand":{
         "en":"Gloves",
         "fr":"Gants",
