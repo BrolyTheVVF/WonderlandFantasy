@@ -1788,7 +1788,7 @@ locale["npc.100031.title"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Con trai người giữ mộ",
+	"vi": "Con trai người gác mộ",
 	"ar": "",
 	"it": "",
 	"pl": "",
