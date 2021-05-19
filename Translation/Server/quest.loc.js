@@ -2582,7 +2582,7 @@ locale["quest.35.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Giết <span class='text-link' data-target-type='mob' data-target-id='18'>Bọ Tí Hon</span> để thu thập Vỏ Cánh Cứng Bọ Rùa.Sau đó báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2600,7 +2600,7 @@ locale["quest.35.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Khu rừng này là cội nguồn của sức mạnh phép thuật của Vương Đô Cain.Sinh Vật với sức mạnh huyền hiệu có thể tìm thấy mọi nơi, và chúng có thể sử dụng phép.Ta cần một vài Vỏ Cánh Cứng Bọ Rùa ",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2636,7 +2636,7 @@ locale["quest.35.objective.0.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Vỏ Cánh Cứng Bọ Rùa",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2855,7 +2855,7 @@ locale["quest.39.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Đem cho James một vài Vỏ Cánh Cứng Bọ Rùa,Phấn Bướm Cầu Vồng và Sừng Sói.<br>Bạn có thể kiếm chúng bằng cách săn <span class='text-link' data-target-type='mob' data-target-id='18'>Bọ Tí Hon</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Bướm Cầu Vồng</span> và <span class='text-link' data-target-type='mob' data-target-id='19'>Sói Kì Lân</span>..",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2909,7 +2909,7 @@ locale["quest.39.objective.0.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Vỏ Cánh Cứng Bọ Rùa",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3110,7 +3110,7 @@ locale["quest.42.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Bài Học Mới (1)",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3183,7 +3183,7 @@ locale["quest.43.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Bài Học Mới (1)",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3245,26 +3245,26 @@ locale["quest.43.texts.returnPopupMain"] = {
 	"id": ""
 };
 
-locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1003.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1004.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1005.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1003.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1004.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1005.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 
-locale["quest.1006.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1007.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1008.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1009.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1010.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1011.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1006.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1007.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1008.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1009.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1010.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1011.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
 
-locale["quest.1012.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1013.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1014.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1015.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1016.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1017.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1012.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1013.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1014.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1015.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1016.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1017.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
 
 //Lvl 5 part 1
 locale["quest.1000.texts.returnPopupMain"] = {
@@ -3278,7 +3278,7 @@ locale["quest.1000.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Nghe kĩ đây.Khi chiến đấu , giết kè thù hoặc về với chốn yên ngủ ngàn thu.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3296,7 +3296,7 @@ locale["quest.1001.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Nghe kĩ đây.Khi chiến đấu , giết kè thù hoặc về với chốn yên ngủ ngàn thu.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3314,7 +3314,7 @@ locale["quest.1002.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Học là vô tận.Khi còn trẻ và chưa biết nhiều về tri thức thế giới này. Nghĩa là ngươi còn cả một chặng đường dài phía trước.",
 	"ar": "",
 	"it": "",
 	"pl": "",
