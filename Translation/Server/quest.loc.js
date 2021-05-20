@@ -4135,6 +4135,7 @@ locale["quest.10001.texts.objective"] = {
 	"es": "",
 	"ch": "",
 	"kr": "",
+	"ru": "",
 	"tr": "",
 	"de": "",
 	"jp": "",
