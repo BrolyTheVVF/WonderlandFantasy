@@ -389,7 +389,7 @@ locale["npc.21.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Người giúp việc",
+	"vi": "Sứ Ma",
 	"ar": "",
 	"it": "",
 	"pl": "",
