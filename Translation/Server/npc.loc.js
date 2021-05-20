@@ -1382,7 +1382,7 @@ locale["npc.100018.title"] = {
 	"de": "Krieger Trainer",
 	"jp": "",
 	"pt": "",
-	"vi": "Giáo Viên Chiến Binh,
+	"vi": "Giáo Viên Chiến Binh",
 	"ar": "",
 	"it": "",
 	"pl": "",
