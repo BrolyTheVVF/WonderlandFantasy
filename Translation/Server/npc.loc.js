@@ -1382,7 +1382,7 @@ locale["npc.100018.title"] = {
 	"de": "Krieger Trainer",
 	"jp": "",
 	"pt": "",
-	"vi": "Bậc thầy kiếm sư",
+	"vi": "Giáo Viên Chiến Binh,
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -1419,11 +1419,10 @@ locale["npc.100019.title"] = {
 	"de": "Bogenschützen Trainer",
 	"jp": "",
 	"pt": "",
-	"vi": "Bậc thầy xạ thủ",
+	"vi": "Giáo Viên Cảnh Binh",
 	"ar": "",
 	"it": "",
 	"pl": "",
-	"th": "",
 	"id": ""
 };
 
@@ -1456,7 +1455,7 @@ locale["npc.100020.title"] = {
 	"de": "Magier Trainer",
 	"jp": "",
 	"pt": "",
-	"vi": "Bậc thầy ma pháp",
+	"vi": "Giáo Viên Ma Pháp",
 	"ar": "",
 	"it": "",
 	"pl": "",
