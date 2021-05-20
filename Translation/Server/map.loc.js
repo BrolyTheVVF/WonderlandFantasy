@@ -47,7 +47,7 @@ locale["map.Slime Kingdom.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Vương quốc Slime",
+	"vi": "Vương Quốc Bầy Nhầy",
 	"ar": "",
 	"it": "",
 	"pl": "",
