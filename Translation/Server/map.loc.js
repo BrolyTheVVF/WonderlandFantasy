@@ -137,7 +137,7 @@ locale["map.Cain Kingdom.name"] = {
 	"de": "Cain Königreich",
 	"jp": "",
 	"pt": "",
-	"vi": "Quảng Trường Vương Thành",
+	"vi": "Vương Đô Cain",
 	"ar": "",
 	"it": "",
 	"pl": "",
