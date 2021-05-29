@@ -2764,7 +2764,7 @@ locale["quest.37.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Giúp <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> hoàn thành nghi lễ. Cầu nguyện tại Bàn Lễ Bí Ẩn và đánh bại <span class='text-link' data-target-type='mob' data-target-id='20'>Tùy Tùng Của Thần Chết/span>.<br><br>Sau đó,nói chuyện với James.",
+	"vi": "Giúp <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> hoàn thành nghi lễ. Cầu nguyện tại Bàn Lễ Bí Ẩn và đánh bại <span class='text-link' data-target-type='mob' data-target-id='20'>Tùy Tùng Của Thần Chết</span>.<br><br>Sau đó,nói chuyện với James.",
 	"ar": "",
 	"it": "",
 	"pl": "",
