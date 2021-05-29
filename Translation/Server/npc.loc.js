@@ -371,7 +371,7 @@ locale["npc.20.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Chiến Binh Bất Tử",
+	"vi": "Chiến Binh Chết Chóc",
 	"ar": "",
 	"it": "",
 	"pl": "",
