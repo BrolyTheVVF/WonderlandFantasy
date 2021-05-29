@@ -3201,7 +3201,7 @@ locale["quest.43.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Giết vài<span class='text-link' data-target-type='mob' data-target-id='21'>Sứ Ma</span> ở Đồi Hỗn Loạn.Sau đó, báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100032'>Thợ Khoan Tuyển Dụng</span>.",
+	"vi": "Giết vài <span class='text-link' data-target-type='mob' data-target-id='21'>Sứ Ma</span> ở Đồi Hỗn Loạn.Sau đó, báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100032'>Thợ Khoan Tuyển Dụng</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
