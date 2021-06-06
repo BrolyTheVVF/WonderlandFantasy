@@ -359,6 +359,24 @@
         "th":"",
         "id":"Lainnya"
     },
+    "item.unitprice":{
+        "en":"Unit Price",
+        "fr":"Prix Unitaire",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.1.name":{
         "en":"Gold Pile",
         "fr":"Pile d'Or",
