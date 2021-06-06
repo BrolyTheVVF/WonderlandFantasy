@@ -2572,7 +2572,7 @@ locale["quest.35.name"] = {
 	"id": ""
 };
 locale["quest.35.texts.objective"] = {
-	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beetle</span> to gather some Beetle's Though Shell. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beetle</span> to gather some Beetle's Tough Shell. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabée</span> pour recolter quelques Coquille de scarabée dure. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
@@ -2590,7 +2590,7 @@ locale["quest.35.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35.texts.description"] = {
-	"en": "This forest was a source of the magic power for the Cain Kingdom. Creatures with magical powers can be found everywhere, and they can be used to cast the spell. I need some Beetle's Though Shell.",
+	"en": "This forest was a source of the magic power for the Cain Kingdom. Creatures with magical powers can be found everywhere, and they can be used to cast the spell. I need some Beetle's Tough Shell.",
 	"fr": "Cette forêt etait la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille de scarabée dure.",
 	"es": "",
 	"ch": "",
@@ -2626,7 +2626,7 @@ locale["quest.35.texts.returnPopupMain"] = {
 	"id": ""
 };
 locale["quest.35.objective.0.name"] = {
-	"en": "Beetle's Though Shell",
+	"en": "Beetle's Tough Shell",
 	"fr": "Coquille de scarabée dure",
 	"es": "",
 	"ch": "",
@@ -2845,7 +2845,7 @@ locale["quest.39.name"] = {
 	"id": ""
 };
 locale["quest.39.texts.objective"] = {
-	"en": "Bring James some of the Beetle's Though Shells, Powder of Rainbow Moth and Hornwolf's Horn.<br>You can get them by hunting <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beatle</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> and <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>.",
+	"en": "Bring James some of the Beetle's Tough Shells, Powder of Rainbow Moth and Hornwolf's Horn.<br>You can get them by hunting <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beatle</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> and <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>.",
 	"fr": "Apportez à James quelques Coquille de scarabée dure, de la Poudre de Mite Arc-en-Ciel et la Corne du Loup Licorne.<br>Vous pouvez les obtenir en chassant les <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabé</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> et <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>.",
 	"es": "",
 	"ch": "",
@@ -2899,7 +2899,7 @@ locale["quest.39.texts.returnPopupMain"] = {
 	"id": ""
 };
 locale["quest.39.objective.0.name"] = {
-	"en": "Beetle's Though Shell",
+	"en": "Beetle's Tough Shell",
 	"fr": "Coquille de scarabée dure",
 	"es": "",
 	"ch": "",
