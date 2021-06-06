@@ -127,8 +127,8 @@ locale["map.Road of Triumph.name"] = {
 	"id": "Jalan Kemenangan"
 };
 locale["map.Cain Kingdom.name"] = {
-	"en": "Cain Kingdom",
-	"fr": "Place Royale",
+	"en": "Imperial City Square",
+	"fr": "Place Royale Impériale",
 	"es": "",
 	"ch": "",
 	"kr": "",
