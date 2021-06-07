@@ -307,7 +307,7 @@
     },
     "item.type.hair":{
         "en":"Hair",
-        "fr":"Cheuveux",
+        "fr":"Cheveux",
         "es":"Cabello",
         "ch":"髮型",
         "kr":"",
@@ -2557,7 +2557,7 @@
     },
     "item.3000.name":{
         "en":"[Spirit Egg] Pudding Slime",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Slime Pudding",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2575,7 +2575,7 @@
     },
     "item.3001.name":{
         "en":"[Spirit Egg] Rabbit",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Lapin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2593,7 +2593,7 @@
     },
     "item.3002.name":{
         "en":"[Spirit Egg] Baby Boar",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Bébé Sanglier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2611,7 +2611,7 @@
     },
     "item.3003.name":{
         "en":"[Spirit Egg] Boar",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Sanglier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2629,7 +2629,7 @@
     },
     "item.3004.name":{
         "en":"[Spirit Egg] Baby Ostrider",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Bébé Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2647,7 +2647,7 @@
     },
     "item.3005.name":{
         "en":"[Spirit Egg] Escaping Prum Bear",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Ours Prum échappé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2665,7 +2665,7 @@
     },
     "item.3006.name":{
         "en":"[Spirit Egg] Crab",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Crabe",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2683,7 +2683,7 @@
     },
     "item.3007.name":{
         "en":"[Spirit Egg] Nagar Warrior",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Guerrier Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2701,7 +2701,7 @@
     },
     "item.3008.name":{
         "en":"[Spirit Egg] Nagar Wizard",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Sorcier Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2719,7 +2719,7 @@
     },
     "item.3009.name":{
         "en":"[Spirit Egg] Bee",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Abeille",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2737,7 +2737,7 @@
     },
     "item.3010.name":{
         "en":"[Spirit Egg] Bunny",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Lapin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2755,7 +2755,7 @@
     },
     "item.3011.name":{
         "en":"[Spirit Egg] Tiny Beetle",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Petit Scarabée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2773,7 +2773,7 @@
     },
     "item.3012.name":{
         "en":"[Spirit Egg] Rainbow Moth",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Mite Arc-en-ciel",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2791,7 +2791,7 @@
     },
     "item.3013.name":{
         "en":"[Spirit Egg] Gumu",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Gumu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2809,7 +2809,7 @@
     },
     "item.3014.name":{
         "en":"[Spirit Egg] Snaketail Rooster",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Cocatrix ",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2827,7 +2827,7 @@
     },
     "item.3015.name":{
         "en":"[Spirit Egg] Ostrider",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2845,7 +2845,7 @@
     },
     "item.3016.name":{
         "en":"[Spirit Egg] Chocolate Slime",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Slime Chocolat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2863,7 +2863,7 @@
     },
     "item.3017.name":{
         "en":"[Spirit Egg] Zombie",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Zombie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2881,7 +2881,7 @@
     },
     "item.3018.name":{
         "en":"[Spirit Egg] Skeleton Wizard",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Squelette Sorcier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2899,7 +2899,7 @@
     },
     "item.3019.name":{
         "en":"[Spirit Egg] Evil Spirit",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Mauvais Esprit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2917,7 +2917,7 @@
     },
     "item.3020.name":{
         "en":"[Spirit Egg] Wax Zombie",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Zombie de Cire",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2935,7 +2935,7 @@
     },
     "item.3021.name":{
         "en":"[Spirit Egg] Brown Bat",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Chauve-souris Brune",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2953,7 +2953,7 @@
     },
     "item.3022.name":{
         "en":"[Spirit Egg] Sunny Starfish",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Etoile de mer ensoleillée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2971,7 +2971,7 @@
     },
     "item.3023.name":{
         "en":"[Spirit Egg] Pirate Ambusher",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Pirate planqué",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2989,7 +2989,7 @@
     },
     "item.3024.name":{
         "en":"[Spirit Egg] Cat Pirate",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Chat Pirate",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3007,7 +3007,7 @@
     },
     "item.3025.name":{
         "en":"[Spirit Egg] Hartland Plant",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Plante d'Hartland",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3025,7 +3025,7 @@
     },
     "item.3026.name":{
         "en":"[Spirit Egg] Golden Slime",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Slime doré",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3043,7 +3043,7 @@
     },
     "item.3027.name":{
         "en":"[Spirit Egg] Potpent",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Potpent",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3061,7 +3061,7 @@
     },
     "item.3028.name":{
         "en":"[Spirit Egg] Sabath Candlestick",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Bougie de Sabath",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3079,7 +3079,7 @@
     },
     "item.3029.name":{
         "en":"[Spirit Egg] Chest Ghost",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Coffre maudit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3097,7 +3097,7 @@
     },
     "item.3030.name":{
         "en":"[Spirit Egg] Star Kindler",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Etoile Kindler",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3115,7 +3115,7 @@
     },
     "item.3031.name":{
         "en":"[Spirit Egg] Byron Mummy",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Momie de Byron",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3133,7 +3133,7 @@
     },
     "item.3032.name":{
         "en":"[Spirit Egg] Sphinx",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Sphinx",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3151,7 +3151,7 @@
     },
     "item.3033.name":{
         "en":"[Spirit Egg] Pharaoh",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Pharaon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3169,7 +3169,7 @@
     },
     "item.3034.name":{
         "en":"[Spirit Egg] Rampaging Treasure Seeker",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Chercheur de trésor rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3187,7 +3187,7 @@
     },
     "item.3035.name":{
         "en":"[Spirit Egg] Doomsday Mercenary",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Mercenaire de l'Apocalypse",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3205,7 +3205,7 @@
     },
     "item.3036.name":{
         "en":"[Spirit Egg] Byron Warrior Spirit",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Esprit Guerrier de Byron",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3223,7 +3223,7 @@
     },
     "item.3037.name":{
         "en":"[Spirit Egg] Burning Mummy",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Mommie Enflammée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3241,7 +3241,7 @@
     },
     "item.3038.name":{
         "en":"[Spirit Egg] Lava Familiar",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Familier de Lave",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3259,7 +3259,7 @@
     },
     "item.3039.name":{
         "en":"[Spirit Egg] Goblin Thief",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Goblin Voleur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3277,7 +3277,7 @@
     },
     "item.3040.name":{
         "en":"[Spirit Egg] Twin Flame",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Flamme Jumelle",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3295,7 +3295,7 @@
     },
     "item.3041.name":{
         "en":"[Spirit Egg] Fiery Flame",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Flamme Ardente",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3313,7 +3313,7 @@
     },
     "item.3042.name":{
         "en":"[Spirit Egg] Lava Golem",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Golem de Lave",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3331,7 +3331,7 @@
     },
     "item.3043.name":{
         "en":"[Spirit Egg] Fiery Minion",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Sbire Ardent",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3349,7 +3349,7 @@
     },
     "item.3044.name":{
         "en":"[Spirit Egg] Balrog Warrior",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Guerrier de Balrog",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3367,7 +3367,7 @@
     },
     "item.3045.name":{
         "en":"[Spirit Egg] Evrat's Vanguard Captain",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Capitaine d'avant-garde d'Evrat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3385,7 +3385,7 @@
     },
     "item.3046.name":{
         "en":"[Spirit Egg] Zombie Chief",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Chef Zombie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3403,7 +3403,7 @@
     },
     "item.3047.name":{
         "en":"[Spirit Egg] Nagar Overseer",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Contremaître Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3421,7 +3421,7 @@
     },
     "item.3048.name":{
         "en":"[Spirit Egg] Unicorn Wolf",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Loup à corne",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3439,7 +3439,7 @@
     },
     "item.3049.name":{
         "en":"[Spirit Egg] Manticore",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Manticore",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3457,7 +3457,7 @@
     },
     "item.3050.name":{
         "en":"[Spirit Egg] Captain Hook",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Capitaine Crochet",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3475,7 +3475,7 @@
     },
     "item.3051.name":{
         "en":"[Spirit Egg] Sweettail Manticore",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Manticore à queue de velours",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3493,7 +3493,7 @@
     },
     "item.3052.name":{
         "en":"[Spirit Egg] Flame Dragon's Offspring",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Enfant du Dragon de Feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3511,7 +3511,7 @@
     },
     "item.3053.name":{
         "en":"[Spirit Egg] Eyetail Manticore",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Manticore à queue châsse",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3529,7 +3529,7 @@
     },
     "item.3054.name":{
         "en":"[Spirit Egg] Molten Golem",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Golem en fusion",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3547,7 +3547,7 @@
     },
     "item.3055.name":{
         "en":"[Spirit Egg] Poacher",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Braconnier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3565,7 +3565,7 @@
     },
     "item.3056.name":{
         "en":"[Spirit Egg] Desert Raider",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Corsaire du Désert",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3583,7 +3583,7 @@
     },
     "item.3057.name":{
         "en":"[Spirit Egg] Rampaging Treasure Seeker",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Chercheur de trésor rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3601,7 +3601,7 @@
     },
     "item.4000.name":{
         "en":"Pudding Slime",
-        "fr":"",
+        "fr":"[Oeuf d'esprit] Slime Pudding",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3619,7 +3619,7 @@
     },
     "item.4001.name":{
         "en":"Rabbit",
-        "fr":"",
+        "fr":"Lapin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3637,7 +3637,7 @@
     },
     "item.4002.name":{
         "en":"Baby Boar",
-        "fr":"",
+        "fr":"Bébé Sanglier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3655,7 +3655,7 @@
     },
     "item.4003.name":{
         "en":"Boar",
-        "fr":"",
+        "fr":"Sanglier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3673,7 +3673,7 @@
     },
     "item.4004.name":{
         "en":"Baby Ostrider",
-        "fr":"",
+        "fr":"Bébé Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3691,7 +3691,7 @@
     },
     "item.4005.name":{
         "en":"Escaping Prum Bear",
-        "fr":"",
+        "fr":"Ours Prum échappé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3709,7 +3709,7 @@
     },
     "item.4006.name":{
         "en":"Crab",
-        "fr":"",
+        "fr":"Crabe",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3727,7 +3727,7 @@
     },
     "item.4007.name":{
         "en":"Nagar Warrior",
-        "fr":"",
+        "fr":"Guerrier Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3745,7 +3745,7 @@
     },
     "item.4008.name":{
         "en":"Nagar Wizard",
-        "fr":"",
+        "fr":"Sorcier Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3763,7 +3763,7 @@
     },
     "item.4009.name":{
         "en":"Bee",
-        "fr":"",
+        "fr":"Abeille",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3781,7 +3781,7 @@
     },
     "item.4010.name":{
         "en":"Bunny",
-        "fr":"",
+        "fr":"Lapin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3799,7 +3799,7 @@
     },
     "item.4011.name":{
         "en":"Tiny Beatle",
-        "fr":"",
+        "fr":"Petit scarabée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3817,7 +3817,7 @@
     },
     "item.4012.name":{
         "en":"Rainbow Moth",
-        "fr":"",
+        "fr":"Mite Arc-en-ciel",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3835,7 +3835,7 @@
     },
     "item.4013.name":{
         "en":"Gumu",
-        "fr":"",
+        "fr":"Gumu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3853,7 +3853,7 @@
     },
     "item.4014.name":{
         "en":"Snaketail Rooster",
-        "fr":"",
+        "fr":"Cocatrix",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3871,7 +3871,7 @@
     },
     "item.4015.name":{
         "en":"Ostrider",
-        "fr":"",
+        "fr":Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3889,7 +3889,7 @@
     },
     "item.4016.name":{
         "en":"Chocolate Slime",
-        "fr":"",
+        "fr":"Slime Chocolat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3907,7 +3907,7 @@
     },
     "item.4017.name":{
         "en":"Zombie",
-        "fr":"",
+        "fr":"Zombie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3925,7 +3925,7 @@
     },
     "item.4018.name":{
         "en":"Skeleton Wizard",
-        "fr":"",
+        "fr":"Squelette Sorcier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3943,7 +3943,7 @@
     },
     "item.4019.name":{
         "en":"Evil Spirit",
-        "fr":"",
+        "fr":"Mauvais Esprit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3961,7 +3961,7 @@
     },
     "item.4020.name":{
         "en":"Wax Zombie",
-        "fr":"",
+        "fr":"Zombie de Cire",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3979,7 +3979,7 @@
     },
     "item.4021.name":{
         "en":"Brown Bat",
-        "fr":"",
+        "fr":"Chauve-souris Brune",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3997,7 +3997,7 @@
     },
     "item.4022.name":{
         "en":"Sunny Starfish",
-        "fr":"",
+        "fr":"Etoile de mer ensoleillée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4015,7 +4015,7 @@
     },
     "item.4023.name":{
         "en":"Pirate Ambusher",
-        "fr":"",
+        "fr":"Pirate Planqué",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4033,7 +4033,7 @@
     },
     "item.4024.name":{
         "en":"Cat Pirate",
-        "fr":"",
+        "fr":"Chat Pirate",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4051,7 +4051,7 @@
     },
     "item.4025.name":{
         "en":"Hartland Plant",
-        "fr":"",
+        "fr":"Plant d'Hartland",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4069,7 +4069,7 @@
     },
     "item.4026.name":{
         "en":"Golden Slime",
-        "fr":"",
+        "fr":"Slime Doré",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4087,7 +4087,7 @@
     },
     "item.4027.name":{
         "en":"Potpent",
-        "fr":"",
+        "fr":"Potpent",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4105,7 +4105,7 @@
     },
     "item.4028.name":{
         "en":"Sabath Candlestick",
-        "fr":"",
+        "fr":"Bougie de Sabath",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4123,7 +4123,7 @@
     },
     "item.4029.name":{
         "en":"Chest Ghost",
-        "fr":"",
+        "fr":"Coffre Maudit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4141,7 +4141,7 @@
     },
     "item.4030.name":{
         "en":"Star Kindler",
-        "fr":"",
+        "fr":"Etoile Kindler",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4159,7 +4159,7 @@
     },
     "item.4031.name":{
         "en":"Byron Mummy",
-        "fr":"",
+        "fr":"Momie de Byron",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4177,7 +4177,7 @@
     },
     "item.4032.name":{
         "en":"Sphinx",
-        "fr":"",
+        "fr":"Sphinx",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4195,7 +4195,7 @@
     },
     "item.4033.name":{
         "en":"Pharaoh",
-        "fr":"",
+        "fr":"Pharaon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4213,7 +4213,7 @@
     },
     "item.4034.name":{
         "en":"Rampaging Treasure Seeker",
-        "fr":"",
+        "fr":"Chercheur de trésor rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4231,7 +4231,7 @@
     },
     "item.4035.name":{
         "en":"Doomsday Mercenary",
-        "fr":"",
+        "fr":"Mercenaire de l'apocalypse",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4249,7 +4249,7 @@
     },
     "item.4036.name":{
         "en":"Byron Warrior Spirit",
-        "fr":"",
+        "fr":"Esprit Guerrier de Byron",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4267,7 +4267,7 @@
     },
     "item.4037.name":{
         "en":"Burning Mummy",
-        "fr":"",
+        "fr":"Momie en feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4285,7 +4285,7 @@
     },
     "item.4038.name":{
         "en":"Lava Familiar",
-        "fr":"",
+        "fr":"Familié de Lave",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4303,7 +4303,7 @@
     },
     "item.4039.name":{
         "en":"Goblin Thief",
-        "fr":"",
+        "fr":"Chef Goblin",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4321,7 +4321,7 @@
     },
     "item.4040.name":{
         "en":"Twin Flame",
-        "fr":"",
+        "fr":"Flamme Jumelle",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4339,7 +4339,7 @@
     },
     "item.4041.name":{
         "en":"Fiery Flame",
-        "fr":"",
+        "fr":"Flamme Ardente",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4357,7 +4357,7 @@
     },
     "item.4042.name":{
         "en":"Lava Golem",
-        "fr":"",
+        "fr":"Golem de Lave",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4375,7 +4375,7 @@
     },
     "item.4043.name":{
         "en":"Fiery Minion",
-        "fr":"",
+        "fr":"Sbire Ardent",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4393,7 +4393,7 @@
     },
     "item.4044.name":{
         "en":"Balrog Warrior",
-        "fr":"",
+        "fr":"Guerrier de Balrog",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4411,7 +4411,7 @@
     },
     "item.4045.name":{
         "en":"Evrat's Vanguard Captain",
-        "fr":"",
+        "fr":"Capitaine de l'avant-garde d'Evrat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4429,7 +4429,7 @@
     },
     "item.4046.name":{
         "en":"Zombie Chief",
-        "fr":"",
+        "fr":"Chef Zombie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4447,7 +4447,7 @@
     },
     "item.4047.name":{
         "en":"Nagar Overseer",
-        "fr":"",
+        "fr":"Contremaître Naga",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4465,7 +4465,7 @@
     },
     "item.4048.name":{
         "en":"Unicorn Wolf",
-        "fr":"",
+        "fr":"Loup à corne",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4483,7 +4483,7 @@
     },
     "item.4049.name":{
         "en":"Manticore",
-        "fr":"",
+        "fr":"Manticore",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4501,7 +4501,7 @@
     },
     "item.4050.name":{
         "en":"Captain Hook",
-        "fr":"",
+        "fr":"Capitaine Crochet",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4519,7 +4519,7 @@
     },
     "item.4051.name":{
         "en":"Sweettail Manticore",
-        "fr":"",
+        "fr":"Manticore à queue de velours",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4537,7 +4537,7 @@
     },
     "item.4052.name":{
         "en":"Flame Dragon's Offspring",
-        "fr":"",
+        "fr":"Enfant du Dragon de feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4555,7 +4555,7 @@
     },
     "item.4053.name":{
         "en":"Eyetail Manticore",
-        "fr":"",
+        "fr":"Manticore à queue châsse",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4573,7 +4573,7 @@
     },
     "item.4054.name":{
         "en":"Molten Golem",
-        "fr":"",
+        "fr":"Golem en Fusion",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4591,7 +4591,7 @@
     },
     "item.4055.name":{
         "en":"Poacher",
-        "fr":"",
+        "fr":"Braconnier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4609,7 +4609,7 @@
     },
     "item.4056.name":{
         "en":"Desert Raider",
-        "fr":"",
+        "fr":"Corsaire du Désert",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4627,7 +4627,7 @@
     },
     "item.4057.name":{
         "en":"Rampaging Treasure Seeker",
-        "fr":"",
+        "fr":"Chercheur de trésor rempant",
         "es":"",
         "ch":"",
         "kr":"",
