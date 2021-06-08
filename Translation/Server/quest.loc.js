@@ -2882,7 +2882,7 @@ locale["quest.39.texts.description"] = {
 };
 locale["quest.39.texts.returnPopupMain"] = {
 	"en": "These things are only mediums, I cannot be revived without my teacher's powerful magic. Master Kugarn is really strong ...",
-	"fr": "Ces choses ne sont que des supports, je ne peuvent pas ressusciter sans les pouvoirs magic de mon maître. Maitre Kuragn est vraiment fort ....",
+	"fr": "Ces objets ne sont que des supports, je ne peux pas ressusciter sans les pouvoirs magiques de mon maître. Maitre Kuragn est vraiment fort ....",
 	"es": "",
 	"ch": "",
 	"kr": "",
