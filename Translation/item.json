@@ -397,7 +397,7 @@
     },
     "item.101.name":{
         "en":"Beginner's Sword",
-        "fr":"Epée de débutant",
+        "fr":"Epée de Débutant",
         "es":"Espada del principiante",
         "ch":"新手長劍",
         "kr":"",
@@ -415,7 +415,7 @@
     },
     "item.102.name":{
         "en":"Mithral Sword",
-        "fr":"Epée Mithral",
+        "fr":"Epée Mithril",
         "es":"Espada Mithral",
         "ch":"魔法長劍",
         "kr":"",
@@ -433,7 +433,7 @@
     },
     "item.103.name":{
         "en":"Valiant Sword",
-        "fr":"Epée vaillante",
+        "fr":"Epée Vaillante",
         "es":"Espada Valiante",
         "ch":"强力長劍",
         "kr":"",
@@ -505,7 +505,7 @@
     },
     "item.107.name":{
         "en":"Abadon Wicked Blade",
-        "fr":"Lame méchante d'Abadon",
+        "fr":"Lame Maléfique d'Abadon",
         "es":"Cuchilla malvada de Abadón",
         "ch":"",
         "kr":"",
@@ -577,7 +577,7 @@
     },
     "item.200.name":{
         "en":"Simple Shortbow",
-        "fr":"Simple Arc court",
+        "fr":"Simple Arc Court",
         "es":"Simple Arco corto",
         "ch":"",
         "kr":"",
@@ -595,7 +595,7 @@
     },
     "item.201.name":{
         "en":"Precise Bow",
-        "fr":"Arc précis",
+        "fr":"Arc Précis",
         "es":"Arco preciso",
         "ch":"",
         "kr":"",
@@ -613,7 +613,7 @@
     },
     "item.202.name":{
         "en":"Ironarm Longbow",
-        "fr":"Arc en fer",
+        "fr":"Arc en Fer",
         "es":"Arco de hierro",
         "ch":"",
         "kr":"",
@@ -631,7 +631,7 @@
     },
     "item.203.name":{
         "en":"Raider's Longbow",
-        "fr":"Arc long de Bandit",
+        "fr":"Arc Long de Bandit",
         "es":"Arco largo de bandido",
         "ch":"",
         "kr":"",
@@ -649,7 +649,7 @@
     },
     "item.204.name":{
         "en":"Protecting Bow",
-        "fr":"Arc protecteur",
+        "fr":"Arc Protecteur",
         "es":"Arco de protección",
         "ch":"",
         "kr":"",
@@ -685,7 +685,7 @@
     },
     "item.206.name":{
         "en":"Halo Longbow",
-        "fr":"Arc long Halo",
+        "fr":"Arc Long Halo",
         "es":"Halo Arco longo",
         "ch":"",
         "kr":"",
@@ -703,7 +703,7 @@
     },
     "item.207.name":{
         "en":"Abadon Longbow",
-        "fr":"Arc long d'Abadon",
+        "fr":"Arc Long d'Abadon",
         "es":"Arco largo Abadon",
         "ch":"",
         "kr":"",
@@ -721,7 +721,7 @@
     },
     "item.208.name":{
         "en":"Destined Longbow",
-        "fr":"Arc long de la Destinée",
+        "fr":"Arc Long de la Destinée",
         "es":"Arco largo destinado",
         "ch":"",
         "kr":"",
@@ -739,7 +739,7 @@
     },
     "item.209.name":{
         "en":"Rebirth Longbow",
-        "fr":"Arc long de la Renaissance",
+        "fr":"Arc Long de la Renaissance",
         "es":"Renacimiento arco largo",
         "ch":"",
         "kr":"",
@@ -991,7 +991,7 @@
     },
     "item.401.name":{
         "en":"Hardskin Chestguard",
-        "fr":"Plastron peau dure",
+        "fr":"Plastron Peau Dure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1009,7 +1009,7 @@
     },
     "item.402.name":{
         "en":"Viper Outerwear",
-        "fr":"Armure vipère",
+        "fr":"Armure Vipère",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1027,7 +1027,7 @@
     },
     "item.403.name":{
         "en":"Night Stalker",
-        "fr":"Traqueur nocturne",
+        "fr":"Traqueur Nocturne",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1045,7 +1045,7 @@
     },
     "item.404.name":{
         "en":"Puppet Armor",
-        "fr":"Armure marionnette",
+        "fr":"Armure Marionnette",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1207,7 +1207,7 @@
     },
     "item.502.name":{
         "en":"Black Helmet",
-        "fr":"Casque noir",
+        "fr":"Casque Noir",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1243,7 +1243,7 @@
     },
     "item.504.name":{
         "en":"Nature Helmet",
-        "fr":"Casque naturel",
+        "fr":"Casque Naturel",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1387,7 +1387,7 @@
     },
     "item.601.name":{
         "en":"Sweet Seal",
-        "fr":"Sceau agréable",
+        "fr":"Sceau Agréable",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1405,7 +1405,7 @@
     },
     "item.602.name":{
         "en":"Wicked Fingerband",
-        "fr":"Méchant bracelet",
+        "fr":"Bracelet Maléfique",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1441,7 +1441,7 @@
     },
     "item.604.name":{
         "en":"Inherited Signet",
-        "fr":"Signet héréditaire",
+        "fr":"Signet Héréditaire",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1567,7 +1567,7 @@
     },
     "item.700.name":{
         "en":"Wood Choker",
-        "fr":"Collier en bois",
+        "fr":"Collier en Bois",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1585,7 +1585,7 @@
     },
     "item.701.name":{
         "en":"Silver Amulet",
-        "fr":"Amulette en argent",
+        "fr":"Amulette en Argent",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1603,7 +1603,7 @@
     },
     "item.702.name":{
         "en":"Hearty Pendant",
-        "fr":"Pendentif chaleureux",
+        "fr":"Pendentif Chaleureux",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1621,7 +1621,7 @@
     },
     "item.703.name":{
         "en":"Firecore Necklace",
-        "fr":"Collier avec noyau enflammé",
+        "fr":"Collier avec Noyau Enflammé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1639,7 +1639,7 @@
     },
     "item.704.name":{
         "en":"Dreamsky Necklace",
-        "fr":"Collier ciel de rêve",
+        "fr":"Collier Ciel de Rêve",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1819,7 +1819,7 @@
     },
     "item.803.name":{
         "en":"Patrollel Boots",
-        "fr":"Bottines de patrouille",
+        "fr":"Bottines de Patrouille",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2017,7 +2017,7 @@
     },
     "item.903.name":{
         "en":"Coral Belt",
-        "fr":"Ceinture de corail",
+        "fr":"Ceinture de Corail",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2161,7 +2161,7 @@
     },
     "item.1000.name":{
         "en":"Thickskin Cloak",
-        "fr":"Manteau en peau de bête",
+        "fr":"Manteau en Peau de Bête",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2179,7 +2179,7 @@
     },
     "item.1001.name":{
         "en":"Prum Mantle",
-        "fr":"Manteau de prunier",
+        "fr":"Manteau de Prunier",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2215,7 +2215,7 @@
     },
     "item.1003.name":{
         "en":"Gentle Cloak",
-        "fr":"Manteau protecteur",
+        "fr":"Manteau Protecteur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2233,7 +2233,7 @@
     },
     "item.1004.name":{
         "en":"Firesoul Cloak",
-        "fr":"Manteau âme de feu",
+        "fr":"Manteau Âme de Feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2359,7 +2359,7 @@
     },
     "item.1100.name":{
         "en":"Thinskin Gloves",
-        "fr":"Gants en peau de bête",
+        "fr":"Gants en Peau de Bête",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2377,7 +2377,7 @@
     },
     "item.1101.name":{
         "en":"Hardskin Gloves",
-        "fr":"Gants protecteurs",
+        "fr":"Gants Protecteurs",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2395,7 +2395,7 @@
     },
     "item.1102.name":{
         "en":"Purple Gloves",
-        "fr":"Gants pourpres",
+        "fr":"Gants Pourpres",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2413,7 +2413,7 @@
     },
     "item.1103.name":{
         "en":"Mummy Handwraps",
-        "fr":"Bandelettes de Mommie",
+        "fr":"Bandelettes de Momie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2647,7 +2647,7 @@
     },
     "item.3005.name":{
         "en":"[Spirit Egg] Escaping Prum Bear",
-        "fr":"[Oeuf d'esprit] Ours Prum échappé",
+        "fr":"[Oeuf d'esprit] Ours Prum Echappé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2953,7 +2953,7 @@
     },
     "item.3022.name":{
         "en":"[Spirit Egg] Sunny Starfish",
-        "fr":"[Oeuf d'esprit] Etoile de mer ensoleillée",
+        "fr":"[Oeuf d'esprit] Etoile de Mer Ensoleillée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2971,7 +2971,7 @@
     },
     "item.3023.name":{
         "en":"[Spirit Egg] Pirate Ambusher",
-        "fr":"[Oeuf d'esprit] Pirate planqué",
+        "fr":"[Oeuf d'esprit] Pirate Planqué",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3025,7 +3025,7 @@
     },
     "item.3026.name":{
         "en":"[Spirit Egg] Golden Slime",
-        "fr":"[Oeuf d'esprit] Slime doré",
+        "fr":"[Oeuf d'esprit] Slime Doré",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3079,7 +3079,7 @@
     },
     "item.3029.name":{
         "en":"[Spirit Egg] Chest Ghost",
-        "fr":"[Oeuf d'esprit] Coffre maudit",
+        "fr":"[Oeuf d'esprit] Coffre Maudit",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3169,7 +3169,7 @@
     },
     "item.3034.name":{
         "en":"[Spirit Egg] Rampaging Treasure Seeker",
-        "fr":"[Oeuf d'esprit] Chercheur de trésor rempant",
+        "fr":"[Oeuf d'esprit] Chercheur de trésor Rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3223,7 +3223,7 @@
     },
     "item.3037.name":{
         "en":"[Spirit Egg] Burning Mummy",
-        "fr":"[Oeuf d'esprit] Mommie Enflammée",
+        "fr":"[Oeuf d'esprit] Momie Enflammée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3367,7 +3367,7 @@
     },
     "item.3045.name":{
         "en":"[Spirit Egg] Evrat's Vanguard Captain",
-        "fr":"[Oeuf d'esprit] Capitaine d'avant-garde d'Evrat",
+        "fr":"[Oeuf d'esprit] Capitaine d'Avant-garde d'Evrat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3421,7 +3421,7 @@
     },
     "item.3048.name":{
         "en":"[Spirit Egg] Unicorn Wolf",
-        "fr":"[Oeuf d'esprit] Loup à corne",
+        "fr":"[Oeuf d'esprit] Loup à Corne",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3475,8 +3475,8 @@
     },
     "item.3051.name":{
         "en":"[Spirit Egg] Sweettail Manticore",
-        "fr":"[Oeuf d'esprit] Manticore à queue de velours",
-        "es":"",
+        "fr":"[Oeuf d'esprit] Manticore à Queue de Velours",
+        "es":""
         "ch":"",
         "kr":"",
         "ru":"",
@@ -3511,7 +3511,7 @@
     },
     "item.3053.name":{
         "en":"[Spirit Egg] Eyetail Manticore",
-        "fr":"[Oeuf d'esprit] Manticore à queue châsse",
+        "fr":"[Oeuf d'esprit] Manticore à Qued'Oeil",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3583,7 +3583,7 @@
     },
     "item.3057.name":{
         "en":"[Spirit Egg] Rampaging Treasure Seeker",
-        "fr":"[Oeuf d'esprit] Chercheur de trésor rempant",
+        "fr":"[Oeuf d'esprit] Chercheur de Trésor Rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3691,7 +3691,7 @@
     },
     "item.4005.name":{
         "en":"Escaping Prum Bear",
-        "fr":"Ours Prum échappé",
+        "fr":"Ours Prum Echappé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3799,7 +3799,7 @@
     },
     "item.4011.name":{
         "en":"Tiny Beatle",
-        "fr":"Petit scarabée",
+        "fr":"Petit Scarabée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3871,7 +3871,7 @@
     },
     "item.4015.name":{
         "en":"Ostrider",
-        "fr":"Ostrider",
+        "fr":Ostrider",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3997,7 +3997,7 @@
     },
     "item.4022.name":{
         "en":"Sunny Starfish",
-        "fr":"Etoile de mer ensoleillée",
+        "fr":"Etoile de Mer Ensoleillée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4213,7 +4213,7 @@
     },
     "item.4034.name":{
         "en":"Rampaging Treasure Seeker",
-        "fr":"Chercheur de trésor rempant",
+        "fr":"Chercheur de Trésor Rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4231,7 +4231,7 @@
     },
     "item.4035.name":{
         "en":"Doomsday Mercenary",
-        "fr":"Mercenaire de l'apocalypse",
+        "fr":"Mercenaire de l'Apocalypse",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4267,7 +4267,7 @@
     },
     "item.4037.name":{
         "en":"Burning Mummy",
-        "fr":"Momie en feu",
+        "fr":"Momie en Feu",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4411,7 +4411,7 @@
     },
     "item.4045.name":{
         "en":"Evrat's Vanguard Captain",
-        "fr":"Capitaine de l'avant-garde d'Evrat",
+        "fr":"Capitaine de l'Avant-garde d'Evrat",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4465,7 +4465,7 @@
     },
     "item.4048.name":{
         "en":"Unicorn Wolf",
-        "fr":"Loup à corne",
+        "fr":"Loup à Corne",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4519,7 +4519,7 @@
     },
     "item.4051.name":{
         "en":"Sweettail Manticore",
-        "fr":"Manticore à queue de velours",
+        "fr":"Manticore à Queue de Velours",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4555,7 +4555,7 @@
     },
     "item.4053.name":{
         "en":"Eyetail Manticore",
-        "fr":"Manticore à queue châsse",
+        "fr":"Manticore à Qued'Oeil",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4627,7 +4627,7 @@
     },
     "item.4057.name":{
         "en":"Rampaging Treasure Seeker",
-        "fr":"Chercheur de trésor rempant",
+        "fr":"Chercheur de Trésor Rempant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4645,7 +4645,7 @@
     },
     "item.5000.name":{
         "en":"Chain Mail M",
-        "fr":"Cotte de mailles H",
+        "fr":"Cotte de Mailles H",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4663,7 +4663,7 @@
     },
     "item.5001.name":{
         "en":"Chain Mail F",
-        "fr":"Cotte de mailles F",
+        "fr":"Cotte de Mailles F",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4699,7 +4699,7 @@
     },
     "item.7000.name":{
         "en":"Minor Healing Potion",
-        "fr":"Potion de guérison Mineure",
+        "fr":"Potion de Guérison Mineure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4717,7 +4717,7 @@
     },
     "item.7001.name":{
         "en":"Lesser Healing Potion",
-        "fr":"Moyenne Potion de guérison",
+        "fr":"Moyenne Potion de Guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4735,7 +4735,7 @@
     },
     "item.7002.name":{
         "en":"Healing Potion",
-        "fr":"Potion de guérison",
+        "fr":"Potion de Guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4753,7 +4753,7 @@
     },
     "item.7003.name":{
         "en":"Greater Healing Potion",
-        "fr":"Grande Potion de guérison",
+        "fr":"Grande Potion de Guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4771,7 +4771,7 @@
     },
     "item.7004.name":{
         "en":"Superior Healing Potion",
-        "fr":"Potion de guérison Supérieure",
+        "fr":"Potion de Guérison Supérieure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4789,7 +4789,7 @@
     },
     "item.7005.name":{
         "en":"Major Healing Potion",
-        "fr":"Potion de guérison Majeure",
+        "fr":"Potion de Guérison Majeure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4807,7 +4807,7 @@
     },
     "item.7006.name":{
         "en":"Super Healing Potion",
-        "fr":"Super Potion de guérison",
+        "fr":"Super Potion de Guérison",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4825,7 +4825,7 @@
     },
     "item.7007.name":{
         "en":"Ultimate Healing Potion",
-        "fr":"Potion de guérison Ultime",
+        "fr":"Potion de Guérison Ultime",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4843,7 +4843,7 @@
     },
     "item.7008.name":{
         "en":"Endless Healing Potion",
-        "fr":"Potion de guérison Infinie",
+        "fr":"Potion de Guérison Infinie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4861,7 +4861,7 @@
     },
     "item.7050.name":{
         "en":"Instant Healing Flask",
-        "fr":"Flacon de guérison instantanée",
+        "fr":"Flacon de Guérison Instantanée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4879,7 +4879,7 @@
     },
     "item.7051.name":{
         "en":"Instant Greater Healing Flask",
-        "fr":"Grand flacon de guérison instantanée",
+        "fr":"Grand Flacon de Guérison Instantanée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4897,7 +4897,7 @@
     },
     "item.7052.name":{
         "en":"Instant Major Healing Flask",
-        "fr":"Flacon de guérison instantanée Majeur",
+        "fr":"Flacon de Guérison Instantanée Majeur",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4915,7 +4915,7 @@
     },
     "item.7053.name":{
         "en":"Instant Quick Healing Flask",
-        "fr":"Flacon de guérison instantanée rapide",
+        "fr":"Flacon de Guérison Instantanée Rapide",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4933,7 +4933,7 @@
     },
     "item.7054.name":{
         "en":"Instant Adv. Healing Flask",
-        "fr":"Flacon de guérison instantanée avancé",
+        "fr":"Flacon de Guérison Instantanée Avancé",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4951,7 +4951,7 @@
     },
     "item.7100.name":{
         "en":"Magic Potion",
-        "fr":"Potion de mana",
+        "fr":"Potion de Mana",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4969,7 +4969,7 @@
     },
     "item.7101.name":{
         "en":"Greater Magic Potion",
-        "fr":"Grande Potion de mana",
+        "fr":"Grande Potion de Mana",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4987,7 +4987,7 @@
     },
     "item.7102.name":{
         "en":"Major Magic Potion",
-        "fr":"Potion de mana Majeure",
+        "fr":"Potion de Mana Majeure",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5005,7 +5005,7 @@
     },
     "item.7150.name":{
         "en":"Instant Magic Flask",
-        "fr":"Flacon de mana instantané",
+        "fr":"Flacon de Mana Instantané",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5023,7 +5023,7 @@
     },
     "item.7151.name":{
         "en":"Greater Instant Magic Flask",
-        "fr":"Grand Flacon de mana instantané",
+        "fr":"Grand Flacon de Mana Instantané",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5635,7 +5635,7 @@
     },
     "item.10500.name":{
         "en":"[D]Carrion Metal Piece",
-        "fr":"[D]Pièce de métal nécrophage",
+        "fr":"[D]Pièce de Métal Nécrophage",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5653,7 +5653,7 @@
     },
     "item.10501.name":{
         "en":"[D]Sacred Metal Piece",
-        "fr":"[D]Pièce de métal sacré",
+        "fr":"[D]Pièce de Métal Sacrée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5671,7 +5671,7 @@
     },
     "item.10502.name":{
         "en":"[C]Sacred Metal Piece",
-        "fr":"[C]Pièce de métal sacré",
+        "fr":"[C]Pièce de Métal Sacrée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5689,7 +5689,7 @@
     },
     "item.10503.name":{
         "en":"[B]Sacred Metal Piece",
-        "fr":"[B]Pièce de métal sacré",
+        "fr":"[B]Pièce de Métal Sacrée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5707,7 +5707,7 @@
     },
     "item.10504.name":{
         "en":"[A]Sacred Metal Piece",
-        "fr":"[A]Pièce de métal sacré",
+        "fr":"[A]Pièce de Métal Sacrée",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5725,7 +5725,7 @@
     },
     "item.10505.name":{
         "en":"[D]Undead Metal Piece",
-        "fr":"[D]Pièce de métal mort-vivant",
+        "fr":"[D]Pièce de Métal Mort-vivant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5743,7 +5743,7 @@
     },
     "item.10506.name":{
         "en":"[C]Undead Metal Piece",
-        "fr":"[C]Pièce de métal mort-vivant",
+        "fr":"[C]Pièce de Métal Mort-vivant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5761,7 +5761,7 @@
     },
     "item.10507.name":{
         "en":"[B]Undead Metal Piece",
-        "fr":"[B]Pièce de métal mort-vivant",
+        "fr":"[B]Pièce de Métal Mort-vivant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5779,7 +5779,7 @@
     },
     "item.10508.name":{
         "en":"[A]Undead Metal Piece",
-        "fr":"[A]Pièce de métal mort-vivant",
+        "fr":"[A]Pièce de Métal Mort-vivant",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5959,7 +5959,7 @@
     },
     "item.12000.name":{
         "en":"Repair Stone",
-        "fr":"Pierre de réparation",
+        "fr":"Pierre de Réparation",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5977,7 +5977,7 @@
     },
     "item.12001.name":{
         "en":"Town Portal Scroll",
-        "fr":"Parchemin Portail de la ville",
+        "fr":"Parchemin Portail de la Ville",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6013,7 +6013,7 @@
     },
     "item.13000.name":{
         "en":"Skill Book [Slam]",
-        "fr":"Livre de sort [Coup Puissant]",
+        "fr":"Livre de Sort [Coup Puissant]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6031,7 +6031,7 @@
     },
     "item.13001.name":{
         "en":"Skill Book [Air Slash]",
-        "fr":"Livre de sort [Tranche]",
+        "fr":"Livre de Sort [Tranche]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6049,7 +6049,7 @@
     },
     "item.13002.name":{
         "en":"Skill Book [Tenacity]",
-        "fr":"Livre de sort [Tenacité]",
+        "fr":"Livre de Sort [Tenacité]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6067,7 +6067,7 @@
     },
     "item.13003.name":{
         "en":"Skill Book [Pitch]",
-        "fr":"Livre de sort [Rafale]",
+        "fr":"Livre de Sort [Rafale]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6085,7 +6085,7 @@
     },
     "item.13004.name":{
         "en":"Skill Book [Bash]",
-        "fr":"Livre de sort [Entaille]",
+        "fr":"Livre de Sort [Entaille]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6103,7 +6103,7 @@
     },
     "item.13005.name":{
         "en":"Skill Book [War Cry]",
-        "fr":"Livre de sort [Cri de guerre]",
+        "fr":"Livre de Sort [Cri de Guerre]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6121,7 +6121,7 @@
     },
     "item.13006.name":{
         "en":"Skill Book [Surge]",
-        "fr":"Livre de sort [Lame verticale]",
+        "fr":"Livre de Sort [Lame Verticale]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6139,7 +6139,7 @@
     },
     "item.13007.name":{
         "en":"Skill Book [Block]",
-        "fr":"Livre de sort [Parade]",
+        "fr":"Livre de Sort [Parade]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6157,7 +6157,7 @@
     },
     "item.13008.name":{
         "en":"Skill Book [Crit Enhance]",
-        "fr":"Livre de sort [Augmentation Critique]",
+        "fr":"Livre de Sort [Augmentation Critique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6175,7 +6175,7 @@
     },
     "item.13009.name":{
         "en":"Skill Book [Crit Slash]",
-        "fr":"Livre de sort [Lame Critique]",
+        "fr":"Livre de Sort [Lame Critique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6193,7 +6193,7 @@
     },
     "item.13010.name":{
         "en":"Skill Book [Rage]",
-        "fr":"Livre de sort [Rage]",
+        "fr":"Livre de Sort [Rage]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6211,7 +6211,7 @@
     },
     "item.13011.name":{
         "en":"Skill Book [Terminate]",
-        "fr":"Livre de sort [Frappe mortelle]",
+        "fr":"Livre de Sort [Frappe Mortelle]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6229,7 +6229,7 @@
     },
     "item.13012.name":{
         "en":"Skill Book [Triple Shot]",
-        "fr":"Livre de sort [Salve triple]",
+        "fr":"Livre de Sort [Salve Triple]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6247,7 +6247,7 @@
     },
     "item.13013.name":{
         "en":"Skill Book [Poison Arrow]",
-        "fr":"Livre de sort [Flèche empoisonnée]",
+        "fr":"Livre de Sort [Flèche Empoisonnée]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6265,7 +6265,7 @@
     },
     "item.13014.name":{
         "en":"Skill Book [Eagle Eye]",
-        "fr":"Livre de sort [Oeil de Faucon]",
+        "fr":"Livre de Sort [Oeil de Faucon]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6283,7 +6283,7 @@
     },
     "item.13015.name":{
         "en":"Skill Book [Charged Shot]",
-        "fr":"Livre de sort [Tir explosif]",
+        "fr":"Livre de Sort [Tir Explosif]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6301,7 +6301,7 @@
     },
     "item.13016.name":{
         "en":"Skill Book [Haste]",
-        "fr":"Livre de sort [Hâte]",
+        "fr":"Livre de Sort [Hâte]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6319,7 +6319,7 @@
     },
     "item.13017.name":{
         "en":"Skill Book [Multi Arrow]",
-        "fr":"Livre de sort [Salve multiple]",
+        "fr":"Livre de Sort [Salve Multiple]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6337,7 +6337,7 @@
     },
     "item.13018.name":{
         "en":"Skill Book [Crack Shot]",
-        "fr":"Livre de sort [Coup de feu]",
+        "fr":"Livre de Sort [Coup de Feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6355,7 +6355,7 @@
     },
     "item.13019.name":{
         "en":"Skill Book [Evasion]",
-        "fr":"Livre de sort [Esquive]",
+        "fr":"Livre de Sort [Esquive]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6373,7 +6373,7 @@
     },
     "item.13020.name":{
         "en":"Skill Book [Precision]",
-        "fr":"Livre de sort [Précision]",
+        "fr":"Livre de Sort [Précision]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6391,7 +6391,7 @@
     },
     "item.13021.name":{
         "en":"Skill Book [Paralyze Trap]",
-        "fr":"Livre de sort [Piège paralysant]",
+        "fr":"Livre de Sort [Piège Paralysant]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6409,7 +6409,7 @@
     },
     "item.13022.name":{
         "en":"Skill Book [Homing Arrow]",
-        "fr":"Livre de sort [Salve de rejet]",
+        "fr":"Livre de Sort [Salve de Rejet]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6427,7 +6427,7 @@
     },
     "item.13023.name":{
         "en":"Skill Book [Impact Shot]",
-        "fr":"Livre de sort [Flèche impactante]",
+        "fr":"Livre de Sort [Tir d'Impact]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6445,7 +6445,7 @@
     },
     "item.13024.name":{
         "en":"Skill Book [Fire Bolt]",
-        "fr":"Livre de sort [Boule de feu]",
+        "fr":"Livre de Sort [Boule de Feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6463,7 +6463,7 @@
     },
     "item.13025.name":{
         "en":"Skill Book [Magic Bolt]",
-        "fr":"Livre de sort [Boule de feu]",
+        "fr":"Livre de Sort [Missile Magique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6481,7 +6481,7 @@
     },
     "item.13026.name":{
         "en":"Skill Book [Energy]",
-        "fr":"Livre de sort [Energie]",
+        "fr":"Livre de Sort [Energie]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6499,7 +6499,7 @@
     },
     "item.13027.name":{
         "en":"Skill Book [Meteor Drop]",
-        "fr":"Livre de sort [Lapidation]",
+        "fr":"Livre de Sort [Lapidation]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6517,7 +6517,7 @@
     },
     "item.13028.name":{
         "en":"Skill Book [Awaken]",
-        "fr":"Livre de sort [Réveil]",
+        "fr":"Livre de Sort [Réveil]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6535,7 +6535,7 @@
     },
     "item.13029.name":{
         "en":"Skill Book [Thunder]",
-        "fr":"Livre de sort [Eclair]",
+        "fr":"Livre de Sort [Eclair]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6553,7 +6553,7 @@
     },
     "item.13030.name":{
         "en":"Skill Book [Fire Wall]",
-        "fr":"Livre de sort [Mur de feu]",
+        "fr":"Livre de Sort [Mur de Feu]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6571,7 +6571,7 @@
     },
     "item.13031.name":{
         "en":"Skill Book [Freeze]",
-        "fr":"Livre de sort [Gel]",
+        "fr":"Livre de Sort [Gel]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6589,7 +6589,7 @@
     },
     "item.13032.name":{
         "en":"Skill Book [Magic Mastery]",
-        "fr":"Livre de sort [Contrôle magique]",
+        "fr":"Livre de Sort [Contrôle Magique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6607,7 +6607,7 @@
     },
     "item.13033.name":{
         "en":"Skill Book [Magic Shield]",
-        "fr":"Livre de sort [Bouclier magique]",
+        "fr":"Livre de Sort [Bouclier Magique]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6625,7 +6625,7 @@
     },
     "item.13034.name":{
         "en":"Skill Book [Silence Curse]",
-        "fr":"Livre de sort [Silence]",
+        "fr":"Livre de Sort [Silence]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6643,7 +6643,7 @@
     },
     "item.13035.name":{
         "en":"Skill Book [Frost Breath]",
-        "fr":"Livre de sort [Souffle glaçé]",
+        "fr":"Livre de Sort [Souffle Glacé]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6715,7 +6715,7 @@
     },
     "item.20003.name":{
         "en":"Purity potion",
-        "fr":"Potion de pureté",
+        "fr":"Potion de Pureté",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6733,7 +6733,7 @@
     },
     "item.20004.name":{
         "en":"Mother Brand Carpet",
-        "fr":"Tapis de marque mère",
+        "fr":"Tapis de Marque Mère",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6769,7 +6769,7 @@
     },
     "item.20006.name":{
         "en":"Pig Tongue Interpreter",
-        "fr":"Interprète en langue porcine",
+        "fr":"Interprète en Langue Porcine",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6787,7 +6787,7 @@
     },
     "item.20007.name":{
         "en":"Kommi's New Drug",
-        "fr":"Nouvelle drogue de Kommi",
+        "fr":"Nouvelle Drogue de Kommi",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6823,7 +6823,7 @@
     },
     "item.20009.name":{
         "en":"Cherished Dew",
-        "fr":"Rosée chérie",
+        "fr":"Rosée Chérie",
         "es":"",
         "ch":"",
         "kr":"",
@@ -6985,7 +6985,7 @@
     },
     "item.40002.name":{
         "en":"Four-leafed Flower",
-        "fr":"Trèfle à quatre feuilles",
+        "fr":"Trèfle à Quatre Feuilles",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7003,7 +7003,7 @@
     },
     "item.41000.name":{
         "en":"Daily Refresh",
-        "fr":"Rafraichisseur de quêtes",
+        "fr":"Rafraichisseur de Quêtes",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7021,7 +7021,7 @@
     },
     "item.41001.name":{
         "en":"Quest Handbook",
-        "fr":"Manuel de quête",
+        "fr":"Manuel de Quête",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7039,7 +7039,7 @@
     },
     "item.41002.name":{
         "en":"Revival",
-        "fr":"Pierre de résurrection",
+        "fr":"Pierre de Résurrection",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7057,7 +7057,7 @@
     },
     "item.41003.name":{
         "en":"Mini Teleport Crystal",
-        "fr":"Petit cristal de téléportation",
+        "fr":"Petit Cristal de Téléportation",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7111,7 +7111,7 @@
     },
     "item.41006.name":{
         "en":"Mount EVO Gem",
-        "fr":"Gemme d'évolution de monture",
+        "fr":"Gemme d'Evolution de Monture",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7129,7 +7129,7 @@
     },
     "item.41007.name":{
         "en":"Upgrade Gem [Lv. 1-30]",
-        "fr":"Gemme d'amélioration [Lv. 1-30]",
+        "fr":"Gemme d'Amélioration [Lv. 1-30]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7147,7 +7147,7 @@
     },
     "item.41008.name":{
         "en":"Upgrade Gem [Lv. 40]",
-        "fr":"Gemme d'amélioration [Lv. 40]",
+        "fr":"Gemme d'Amélioration [Lv. 40]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7165,7 +7165,7 @@
     },
     "item.41009.name":{
         "en":"Upgrade Gem [Lv. 50]",
-        "fr":"Gemme d'amélioration [Lv. 50]",
+        "fr":"Gemme d'Amélioration [Lv. 50]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7183,7 +7183,7 @@
     },
     "item.41010.name":{
         "en":"Upgrade Gem [Lv. 60]",
-        "fr":"Gemme d'amélioration [Lv. 60]",
+        "fr":"Gemme d'Amélioration [Lv. 60]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7201,7 +7201,7 @@
     },
     "item.41011.name":{
         "en":"Upgrade Gem [Lv. 70-100]",
-        "fr":"Gemme d'amélioration [Lv. 70-100]",
+        "fr":"Gemme d'Amélioration [Lv. 70-100]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7219,7 +7219,7 @@
     },
     "item.41012.name":{
         "en":"Upgrade Gem Fragment [Lv. 40]",
-        "fr":"Fragment de gemme d'amélioration [Lv. 40]",
+        "fr":"Fragment de Gemme d'Amélioration [Lv. 40]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7237,7 +7237,7 @@
     },
     "item.41013.name":{
         "en":"Upgrade Gem Fragment [Lv. 50]",
-        "fr":"Fragment de gemme d'amélioration [Lv. 50]",
+        "fr":"Fragment de Gemme d'Amélioration [Lv. 50]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7255,7 +7255,7 @@
     },
     "item.41014.name":{
         "en":"Upgrade Gem Fragment [Lv. 60]",
-        "fr":"Fragment de gemme d'amélioration [Lv. 60]",
+        "fr":"Fragment de Gemme d'Amélioration [Lv. 60]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -7273,7 +7273,7 @@
     },
     "item.41015.name":{
         "en":"Upgrade Gem Fragment [Lv. 70-100]",
-        "fr":"Fragment de gemme d'amélioration [Lv. 70-100]",
+        "fr":"Fragment de Gemme d'Amélioration [Lv. 70-100]",
         "es":"",
         "ch":"",
         "kr":"",
