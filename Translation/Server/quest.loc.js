@@ -4513,8 +4513,8 @@ locale["quest.11000.texts.objective"] = {
 	"id": ""
 };
 locale["quest.11000.texts.description"] = {
-	"en": "Cloak... it is the traveler's warm blanket, the symbol of royal elegance. My favorite equipment.",
-	"fr": "La cape... c'est la couverture chaude du voyageur, symbole de l'élégance royale. Mon équipement préféré.",
+	"en": "...",
+	"fr": "...",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4523,7 +4523,7 @@ locale["quest.11000.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Áo choàng này...như chiếc chăn ấm của mạo hiểm giả, là biểu tượng hoàng gia tao nhã.Một trang bị ta thích.",
+	"vi": "...",
 	"ar": "",
 	"it": "",
 	"pl": "",
