@@ -5344,7 +5344,7 @@ locale["quest.40008.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Thức ăn cho mạo hiểm giả",
+	"vi": "Thức Ăn Cho Mạo Hiểm Giả",
 	"ar": "",
 	"it": "",
 	"pl": "",
