@@ -2171,6 +2171,7 @@ locale["quest.28.name"] = {
 	"id": ""
 };
 locale["quest.28.texts.objective"] = {
+	"en": "Get familiar with the city. Find the Grocer <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>.",
 	"fr": "Familiarisez-vous avec la ville. Trouvez l'épicière <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>.",
 	"es": "",
 	"ch": "",
