@@ -666,6 +666,42 @@ locale["npc.36.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.37.name"] = {
+	"en": "Beehive",
+	"fr": "Ruche",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Bienenstock",
+	"jp": "",
+	"pt": "",
+	"vi": "Tổ Ong",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.38.name"] = {
+	"en": "King Bee",
+	"fr": "Roi Abeille",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
