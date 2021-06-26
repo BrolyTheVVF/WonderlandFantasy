@@ -3409,6 +3409,79 @@ locale["quest.45.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.46.name"] = {
+	"en": "Hunting Monsters (1)",
+	"fr": "Chasse aux Monstres (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.46.texts.objective"] = {
+	"en": "Find the <span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentice Monster Hunter</span> in Chaotic Hills.",
+	"fr": "Trouver l'<span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentis Chausseur de Monstre</span> dans les Collines Chaotiques.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.46.texts.description"] = {
+	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Serenia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
+	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Serenia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": ".",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.46.texts.returnPopupMain"] = {
+	"en": "Great job, I really need to find people like you with high efficiency.",
+	"fr": "Bon travail, je dois vraiment trouver des gens aussi efficaces que toi.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
