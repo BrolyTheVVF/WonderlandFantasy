@@ -2042,7 +2042,7 @@ locale["npc.100038.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Thợ Săn Quái Kiến Tập",
+	"vi": "Thợ Săn Quái Vật Kiến Tập",
 	"ar": "",
 	"it": "",
 	"pl": "",
