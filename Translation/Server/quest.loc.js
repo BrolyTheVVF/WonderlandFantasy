@@ -6256,7 +6256,7 @@ locale["quest.40016.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đánh Bại <span class='text-link' data-target-type='mob' data-target-id='-1'>Vua Ong</span>, sau đó báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Đặc Vụ Nhiệm Vụ</span>.",
+	"vi": "Đánh Bại <span class='text-link' data-target-type='mob' data-target-id='38'>Vua Ong</span>, sau đó báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Đặc Vụ Nhiệm Vụ</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
