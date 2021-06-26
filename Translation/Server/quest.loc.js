@@ -3263,7 +3263,7 @@ locale["quest.44.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.43.texts.objective"] = {
+locale["quest.44.texts.objective"] = {
 	"en": "In Cain Kingdom, find and talk with the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Dans la Place Royale Impériale, trouvez et parler a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
@@ -3281,7 +3281,7 @@ locale["quest.43.texts.objective"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.43.texts.description"] = {
+locale["quest.44.texts.description"] = {
 	"en": "Talk with the quest agent, he need a lots of people to do his assignment",
 	"fr": "Parlez avec l'agent de quête, il a besoin de beaucoup de monde pour terminer sa mission",
 	"es": "",
@@ -3299,7 +3299,7 @@ locale["quest.43.texts.description"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.43.texts.returnPopupMain"] = {
+locale["quest.44.texts.returnPopupMain"] = {
 	"en": "My new friend, I'm busy... You can help me? great!",
 	"fr": "TMon nouvel amis, je suis occupé... Tu peut m'aider? Génial!",
 	"es": "",
