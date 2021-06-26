@@ -3464,8 +3464,8 @@ locale["quest.46.texts.description"] = {
 	"id": ""
 };
 locale["quest.46.texts.returnPopupMain"] = {
-	"en": "Great job, I really need to find people like you with high efficiency.",
-	"fr": "Bon travail, je dois vraiment trouver des gens aussi efficaces que toi.",
+	"en": "Hey, dude I need your help!,",
+	"fr": "Hé, mec, j'ai besoin de ton aide !",
 	"es": "",
 	"ch": "",
 	"kr": "",
