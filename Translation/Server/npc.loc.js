@@ -2031,6 +2031,24 @@ locale["npc.100037.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100038.name"] = {
+	"en": "Apprentice Monster Hunter",
+	"fr": "Apprentis Chausseur de Monstre",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
