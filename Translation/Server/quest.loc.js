@@ -3301,7 +3301,80 @@ locale["quest.44.texts.description"] = {
 };
 locale["quest.44.texts.returnPopupMain"] = {
 	"en": "My new friend, I'm busy... You can help me? great!",
-	"fr": "TMon nouvel amis, je suis occupé... Tu peut m'aider? Génial!",
+	"fr": "Mon nouvel amis, je suis occupé... Tu peut m'aider? Génial!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.45.name"] = {
+	"en": "New Lessons (4)",
+	"fr": "Nouvelle Leçon (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Bài Học Mới (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45.texts.objective"] = {
+	"en": "Complete 10 daily quests, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Terminez 10 quêtes journalières, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45.texts.description"] = {
+	"en": "I'm the quest agent, people in the city often come to me if they need something, then i find the risk-takers who need spare cash to deal with these requests. Do you want to have a try?",
+	"fr": "Je suis l'agent de quête, les gens de la ville viennent souvent me voir s'ils ont besoin de quelque chose, alors je trouve les preneurs de risques qui ont besoin d'argent pour faire face à ces demandes. Tu veux essayer?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": ".",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45.texts.returnPopupMain"] = {
+	"en": "Great job, I really need to find people like you with high efficiency.",
+	"fr": "Bon travail, je dois vraiment trouver des gens aussi efficaces que toi.",
 	"es": "",
 	"ch": "",
 	"kr": "",
