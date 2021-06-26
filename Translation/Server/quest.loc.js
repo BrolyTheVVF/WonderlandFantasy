@@ -3482,6 +3482,79 @@ locale["quest.46.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.47.name"] = {
+	"en": "Hunting Monsters (2)",
+	"fr": "Chasse aux Monstres (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.47.texts.objective"] = {
+	"en": "The <span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentice Monster Hunter</span> hopes you can clear <span class='text-link' data-target-type='mob' data-target-id='21'>Familiars</span> and <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span> in Chaotic Hills.",
+	"fr": "L'<span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentis Chausseur de Monstre</span> espère que vous pouvez nettoyer les <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span> et les <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span> dans les Collines Chaotiques.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.47.texts.description"] = {
+	"en": "Hey, stop! It's dangerous if you move further forward, this place has been blocked... Wait, I know you, you are the warrior recognized by the king.<br><br>Ha-ha, I am the trainee of the demon hunter. Hunting demons is my job, but I got overwhelmed by the current situation.",
+	"fr": "Hey, stop! C'est dangereux si tu va plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": ".",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.47.texts.returnPopupMain"] = {
+	"en": "You're my idol, I didn't know how to deal with them. I think it has something to do with the fact that people in Cain are blessed by Bur.",
+	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela a quelque chose à voir avec le fait que les habitants de Cain sont bénis par Bur.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
