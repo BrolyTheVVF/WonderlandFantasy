@@ -3338,7 +3338,7 @@ locale["quest.45.name"] = {
 };
 locale["quest.45.texts.objective"] = {
 	"en": "Complete 10 daily quests, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Terminez 10 quêtes journalières, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Terminez 10 quêtes hebdomadaire, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3375,6 +3375,24 @@ locale["quest.45.texts.description"] = {
 locale["quest.45.texts.returnPopupMain"] = {
 	"en": "Great job, I really need to find people like you with high efficiency.",
 	"fr": "Bon travail, je dois vraiment trouver des gens aussi efficaces que toi.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45.objective.0.name"] = {
+	"en": "10 Daily Quests",
+	"fr": "10 Quêtes Hebdo.",
 	"es": "",
 	"ch": "",
 	"kr": "",
