@@ -6100,8 +6100,8 @@ locale["quest.40016.name"] = {
 	"id": ""
 };
 locale["quest.40016.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>King Bee</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Roi des Abeille</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='38'>King Bee</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='38'>Roi des Abeille</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
