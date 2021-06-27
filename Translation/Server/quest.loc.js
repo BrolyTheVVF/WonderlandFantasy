@@ -5143,7 +5143,7 @@ locale["quest.40001.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ác Quái: Gumu",
+	"vi": "Ác Quái: Cô Mỗ",
 	"ar": "",
 	"it": "",
 	"pl": "",
