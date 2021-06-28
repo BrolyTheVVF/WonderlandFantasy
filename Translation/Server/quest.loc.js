@@ -3555,6 +3555,79 @@ locale["quest.47.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.48.name"] = {
+	"en": "Investigate the Caves (1)",
+	"fr": "Enquêter dans les Caves (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.48.texts.objective"] = {
+	"en": "Go to the Celebeam Cave and Talk to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"fr": "Allez dans les Caves de Celebeam et parlez a <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.48.texts.description"] = {
+	"en": "Hey, stop! It's dangerous if you move further forward, this place has been blocked... Wait, I know you, you are the warrior recognized by the king.<br><br>Ha-ha, I am the trainee of the demon hunter. Hunting demons is my job, but I got overwhelmed by the current situation.",
+	"fr": "Hey, stop! C'est dangereux si tu va plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Này, dừng lại ngay!Sẽ rất nguy hiểm nếu người tiến tiếp, khu vực này đã bị chặn... Chờ đã,ta biết ngươi, là chiến binh được Nhà Vua công nhận.<br><br>Ha-Ha,ta là người hướng dẫn thợ săn diệt quỷ. Săn quỷ là nghề của ta, nhưng ta bị choáng ngợp với tình trạng hiện tại.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.48.texts.returnPopupMain"] = {
+	"en": "You're my idol, I didn't know how to deal with them. I think it has something to do with the fact that people in Cain are blessed by Bur.",
+	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela a quelque chose à voir avec le fait que les habitants de Cain sont bénis par Bur.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Ngươi là thần tượng của ta, ta không biết cách để đối đầu với chúng. Ta nghĩ là nó liên quan đến việc người ở Cain được Bur ban phước.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
