@@ -3592,8 +3592,8 @@ locale["quest.48.texts.objective"] = {
 	"id": ""
 };
 locale["quest.48.texts.description"] = {
-	"en": "Hey, stop! It's dangerous if you move further forward, this place has been blocked... Wait, I know you, you are the warrior recognized by the king.<br><br>Ha-ha, I am the trainee of the demon hunter. Hunting demons is my job, but I got overwhelmed by the current situation.",
-	"fr": "Hey, stop! C'est dangereux si tu va plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
+	"en": "I think you are aware what trouble the knights of Cain have encountered in the Celebeam Caves. Now, Knight Horay is taking care of the mess in the cave. You can go help him.",
+	"fr": "Je pense que vous êtes au courant des problèmes que les chevaliers de Caïn ont rencontrés dans les Caves de Celebeam. Maintenant, le chevalier Horay s'occupe du désordre dans les Caves. Tu peux aller l'aider.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3602,7 +3602,7 @@ locale["quest.48.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Này, dừng lại ngay!Sẽ rất nguy hiểm nếu người tiến tiếp, khu vực này đã bị chặn... Chờ đã,ta biết ngươi, là chiến binh được Nhà Vua công nhận.<br><br>Ha-Ha,ta là người hướng dẫn thợ săn diệt quỷ. Săn quỷ là nghề của ta, nhưng ta bị choáng ngợp với tình trạng hiện tại.",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3610,8 +3610,8 @@ locale["quest.48.texts.description"] = {
 	"id": ""
 };
 locale["quest.48.texts.returnPopupMain"] = {
-	"en": "You're my idol, I didn't know how to deal with them. I think it has something to do with the fact that people in Cain are blessed by Bur.",
-	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela a quelque chose à voir avec le fait que les habitants de Cain sont bénis par Bur.",
+	"en": "What the heck are you? New graduate from the knight academy? I am not paid to take care of rookies.",
+	"fr": "Qu'est-ce que tu es? Nouveau diplômé de l'académie des chevaliers? Je ne suis pas payé pour m'occuper des recrues.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3620,7 +3620,7 @@ locale["quest.48.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ngươi là thần tượng của ta, ta không biết cách để đối đầu với chúng. Ta nghĩ là nó liên quan đến việc người ở Cain được Bur ban phước.",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
