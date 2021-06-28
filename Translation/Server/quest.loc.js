@@ -3456,7 +3456,7 @@ locale["quest.46.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ngươi có biết về tổ chức của <i>Thợ Săn Quái Vật</i>? Nó không thuộc về bất kì quốc gia nào, nhưng lại là tổ chức cứ sức ảnh hưởng lan ra toàn lục địa Serenia.Họ là những người lính đánh thuê chuyên đi tiêu diệt quỷ dữ. Để có thể chống lại bọn quỷ ở Harlan, Nhà Vua đã thuê vài Thợ Săn Quái Vật, nhưng ta không tin chúng, đó là lý sao ta lại hỏi ngươi.
+	"vi": "Ngươi có biết về tổ chức của <i>Thợ Săn Quái Vật</i>? Nó không thuộc về bất kì quốc gia nào, nhưng lại là tổ chức cứ sức ảnh hưởng lan ra toàn lục địa Serenia.Họ là những người lính đánh thuê chuyên đi tiêu diệt quỷ dữ. Để có thể chống lại bọn quỷ ở Harlan, Nhà Vua đã thuê vài Thợ Săn Quái Vật, nhưng ta không tin chúng, đó là lý sao ta lại hỏi ngươi.",
 	"ar": "",
 	"it": "",
 	"pl": "",
