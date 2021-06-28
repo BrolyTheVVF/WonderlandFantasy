@@ -263,7 +263,7 @@ locale["npc.14.title"] = {
 	"de": "Häuptling",
 	"jp": "",
 	"pt": "",
-	"vi": "Đại Tinh Anh",
+	"vi": "Thủ Lĩnh",
 	"ar": "",
 	"it": "",
 	"pl": "",
