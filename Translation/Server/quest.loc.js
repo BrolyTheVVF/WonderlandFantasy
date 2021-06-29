@@ -3628,6 +3628,79 @@ locale["quest.48.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.49.name"] = {
+	"en": "Investigate the Caves (2)",
+	"fr": "Enquêter dans les Caves (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Điều Tra Hang Động (2)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.49.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='23'>Wax Zombies</span> then talk to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='23'>Zombies de Cire</span> puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.49.texts.description"] = {
+	"en": "We have found weird creatures in the caves, a wax monsters. We are not sure if they are part of the demon legion. Now, i wish you can go scout a bit. Found out what those monsters are!",
+	"fr": "Nous avons trouvé des créatures étrange dans les grottes, des monstres de cire. Nous ne savons pas s'ils font partie de la légion des démons. Maintenant, j'aimerais que vous puissiez faire un peu de repérage. Découvrez ce que sont ces monstres !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.49.texts.returnPopupMain"] = {
+	"en": "You are more helpfull than I thought.",
+	"fr": "Vous êtes plus utile que ce que je pensait.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
