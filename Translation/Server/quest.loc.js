@@ -3701,6 +3701,79 @@ locale["quest.49.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.50.name"] = {
+	"en": "Chaotic Jungles (1)",
+	"fr": "Jungles Chaotiques (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (1)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50.texts.objective"] = {
+	"en": "Go to Chaotic Jungles and find <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Allez dans les Jungles Chaotiques t parlez a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50.texts.description"] = {
+	"en": "The fight with the wax monsters is kind of hard for you, you may die if you enter the depths of the caves! My friend Sheriff Quinsto is waiting for you on the north highland of the Chaotic Hills. He'll tell you what you should do for the next step!",
+	"fr": "Le combat avec les monstres de cire est un peu dur pour vous, vous risquez de mourir si vous entrez dans les profondeurs des grottes! Mon ami le shérif Quinsto vous attend sur les hautes terres du nord des Collines Chaotiques. Il vous dira ce que vous devez faire pour la prochaine étape!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50.texts.returnPopupMain"] = {
+	"en": "Horay is strict, but it's good for you, young man!",
+	"fr": "Horay est strict, mais c'est bon pour toi, jeune homme!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
