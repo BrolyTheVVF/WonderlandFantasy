@@ -1061,6 +1061,24 @@
         "th":"",
         "id":"Hadiah Misi"
     },
+    "UI.windows.quest-list.reward-choose":{
+        "en":"Choose a reward",
+        "fr":"Choisir une récompense",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.quest-list.description":{
         "en":"Quest Description",
         "fr":"Description de Quête",
