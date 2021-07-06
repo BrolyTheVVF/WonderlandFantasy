@@ -3721,7 +3721,7 @@ locale["quest.50.name"] = {
 };
 locale["quest.50.texts.objective"] = {
 	"en": "Go to Chaotic Jungles and find <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Allez dans les Jungles Chaotiques t parlez a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Allez dans les Jungles Chaotiques et parlez a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3756,6 +3756,79 @@ locale["quest.50.texts.description"] = {
 	"id": ""
 };
 locale["quest.50.texts.returnPopupMain"] = {
+	"en": "Horay is strict, but it's good for you, young man!",
+	"fr": "Horay est strict, mais c'est bon pour toi, jeune homme!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.51.name"] = {
+	"en": "Chaotic Jungles (2)",
+	"fr": "Jungles Chaotiques (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (2)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.51.texts.objective"] = {
+	"en": "Remove Poacher's Traps, then report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Retirer le piège du braconnier, et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.51.texts.description"] = {
+	"en": "Horay thinks you do not have the capacity to take the work of eliminating the Evil Army! Because he dumped you to me. Don't be discouraged! The work here is also important! There is something wrong with the animals here. Poachers have laid traps! Dismantle them when you see them.",
+	"fr": "Horay pense que vous n'avez pas la capacité d'éliminer l'Armée du Mal ! Parce qu'il t'a largué à moi. Ne vous découragez pas ! Le travail ici est également important! Il y a quelque chose qui ne va pas avec les animaux ici. Les braconniers ont tendu des pièges ! Démontez-les quand vous les voyez.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.51.texts.returnPopupMain"] = {
 	"en": "Horay is strict, but it's good for you, young man!",
 	"fr": "Horay est strict, mais c'est bon pour toi, jeune homme!",
 	"es": "",
