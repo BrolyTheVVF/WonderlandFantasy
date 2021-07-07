@@ -3829,8 +3829,8 @@ locale["quest.51.texts.description"] = {
 	"id": ""
 };
 locale["quest.51.texts.returnPopupMain"] = {
-	"en": "Horay is strict, but it's good for you, young man!",
-	"fr": "Horay est strict, mais c'est bon pour toi, jeune homme!",
+	"en": "Enven though it's not that much, we can at least save some animals who are now carefull.",
+	"fr": "Même si ce n'est pas grand-chose, nous pouvons tout de même sauver quelques animaux qui n'ont pas été assez vigilants.",
 	"es": "",
 	"ch": "",
 	"kr": "",
