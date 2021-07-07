@@ -4412,8 +4412,8 @@ locale["quest.58.texts.description"] = {
 	"id": ""
 };
 locale["quest.58.texts.returnPopupMain"] = {
-	"en": "Wallet! Oh, my wallet!",
-	"fr": "Portefeuille! Oh, mon portefeuille!",
+	"en": "...",
+	"fr": "...",
 	"es": "",
 	"ch": "",
 	"kr": "",
