@@ -4066,8 +4066,8 @@ locale["quest.54.texts.description"] = {
 	"id": ""
 };
 locale["quest.54.texts.returnPopupMain"] = {
-	"en": "These damn bandits, they deserved it!",
-	"fr": "Ces satanés bandits, ils l'ont mérité!",
+	"en": "What? Just useless papers! Damn, we've been cheated!",
+	"fr": "Quoi? juste du papier inutile? Mince, nous avons été dupés!",
 	"es": "",
 	"ch": "",
 	"kr": "",
