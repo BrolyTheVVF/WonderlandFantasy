@@ -3938,6 +3938,79 @@ locale["quest.52.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.53.name"] = {
+	"en": "Chaotic Jungles (4)",
+	"fr": "Jungles Chaotiques (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.53.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span>, et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.53.texts.description"] = {
+	"en": "There are so many problems in this forest, it's not only the poachers, but also the bandits! Defeat those bandits, restore the peace!",
+	"fr": "Il y a tant de problèmes dans cette fôret, ce n'est pas que les braconiers, mais aussi les bandits! Battez ces bandits, rétablissez la paix !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.53.texts.returnPopupMain"] = {
+	"en": "These damn bandits, they deserved it!",
+	"fr": "Ces satanés bandits, ils l'ont mérité!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
