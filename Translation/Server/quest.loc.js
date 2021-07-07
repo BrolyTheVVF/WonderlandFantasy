@@ -3846,6 +3846,97 @@ locale["quest.51.texts.returnPopupMain"] = {
 	"th": "",
 	"id": ""
 };
+locale["quest.51.objective.0.name"] = {
+	"en": "Trap",
+	"fr": "Piège",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.52.name"] = {
+	"en": "Chaotic Jungles (3)",
+	"fr": "Jungles Chaotiques (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (3)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.52.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='29'>Poachers</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='29'>braconniers</span>, et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.52.texts.description"] = {
+	"en": "Destroying the traps is not the ultimate solution. Now go and get rid of those damn Poachers! Give them a lesson!",
+	"fr": "Détruire les pièges n'est qu'une solution provisoire. Maintenant, allez vous débarrasser de ces satanés braconniers! Donnez leur une leçon!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.52.texts.returnPopupMain"] = {
+	"en": "Well done! I think they will be quiet for some time!",
+	"fr": "Bien joué! Je pense qu'ils serons calme pendant un petit moment!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
