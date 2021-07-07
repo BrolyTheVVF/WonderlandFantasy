@@ -4083,6 +4083,115 @@ locale["quest.54.texts.returnPopupMain"] = {
 	"th": "",
 	"id": ""
 };
+locale["quest.54.objective.0.name"] = {
+	"en": "Plain Chest",
+	"fr": "Coffre Simple",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.55.name"] = {
+	"en": "Chaotic Jungles (6)",
+	"fr": "Jungles Chaotiques (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (6)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.55.texts.objective"] = {
+	"en": "Find some keys from <span class='text-link' data-target-type='mob' data-target-id='31'>Tresure Watchers</span>, give them to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Trouvez des clés sur les <span class='text-link' data-target-type='mob' data-target-id='31'>Gardiens des Trésors</span>, donnez les a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.55.texts.description"] = {
+	"en": "According to the latest news, those crafty bandits locked the treasure in their chest and set guardians around it. I think you can get the key from the Treasure Watchers.",
+	"fr": "D'apres de recentes informations, ces bandits rusés ont enfermé le trésor dans leur coffre et l'ont entouré de gardiens. Je pense que vous pouvez obtenir la clé auprès des Gardiens des Trésors.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.55.texts.returnPopupMain"] = {
+	"en": "Err, it should be them.",
+	"fr": "Bien, ça doit être celles la.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.55.objective.0.name"] = {
+	"en": "Key",
+	"fr": "Clé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
