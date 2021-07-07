@@ -4011,6 +4011,79 @@ locale["quest.53.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.54.name"] = {
+	"en": "Chaotic Jungles (5)",
+	"fr": "Jungles Chaotiques (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (5)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.54.texts.objective"] = {
+	"en": "<span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span> hopes you can get back the treasure robbed byt the bandits. Go find a <span class='text-link' data-target-type='interacctible' data-target-id='10003'>Plain Chest</span>",
+	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span> espère que vous pourrez récupérer le trésor volé par les bandits. Allez chercher un <span class='text-link' data-target-type='interacctible' data-target-id='10003'>Coffre Simple</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.54.texts.description"] = {
+	"en": "Obviously, they do not have the looted belongings of the residents with them. Go to their nest search the bandits treasure chest, and then bring back to me everything!",
+	"fr": "Évidemment, ils n'ont pas leur butin sur eux. Allez dans leur repaire et fouillez le coffre au trésor des bandits, puis ramenez-moi tout!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.54.texts.returnPopupMain"] = {
+	"en": "These damn bandits, they deserved it!",
+	"fr": "Ces satanés bandits, ils l'ont mérité!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
