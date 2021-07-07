@@ -4357,6 +4357,79 @@ locale["quest.57.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.58.name"] = {
+	"en": "Chaotic Jungles (9)",
+	"fr": "Jungles Chaotiques (9)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (9)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.58.texts.objective"] = {
+	"en": "Salna hopes you could beat some <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> again for her. After completing it, report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Salna espère que vous pourriez à nouveau battre des <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> pour elle. Apres avoir terminer, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.58.texts.description"] = {
+	"en": "Thank you for bringing back my purse! There were too many of them, or I wouldn't have lost it! Anyway, i must teach them a lesson! I would appreciate if you can help me beat the bandits. I think Quinsto also wants to to that.",
+	"fr": "Merci de m'avoir rapporté mon porte-monnaie! Il y en avait trop, je ne l'aurais pas perdu autrement! Enfin bref, je dois leur apprendre une leçon! J'apprécierais si vous pouviez m'aider à battre les bandits. Je crois que Quinsto veut faire la même chose.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.58.texts.returnPopupMain"] = {
+	"en": "Wallet! Oh, my wallet!",
+	"fr": "Portefeuille! Oh, mon portefeuille!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
