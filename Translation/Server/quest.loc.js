@@ -4248,8 +4248,8 @@ locale["quest.56.texts.description"] = {
 	"id": ""
 };
 locale["quest.56.texts.returnPopupMain"] = {
-	"en": "Err, it should be them.",
-	"fr": "Bien, ça doit être celles la.",
+	"en": "great!",
+	"fr": "Bien!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4268,6 +4268,79 @@ locale["quest.56.texts.returnPopupMain"] = {
 locale["quest.56.objective.0.name"] = {
 	"en": "Stolen Treasure",
 	"fr": "Trésor Volé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.57.name"] = {
+	"en": "Chaotic Jungles (8)",
+	"fr": "Jungles Chaotiques (8)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Rừng Hoang Hỗn Loạn (8)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.57.texts.objective"] = {
+	"en": "Give back <span class='text-link' data-target-type='npc' data-target-id='100020'>Salna</span>'s Wallet, she's in Cain Kingdom",
+	"fr": "Ramenez son portefeuille a <span class='text-link' data-target-type='npc' data-target-id='100020'>Salna</span>, elle se trouve dans la Place Royale Impériale",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.57.texts.description"] = {
+	"en": "See what this is? Salna's wallet? Oh, this woman is really tough! Can you help me take this wallet to her? I have a lots of things to do, such as... as... find out who these treasures belong to! Yes, you should go now!",
+	"fr": "Tu vois ce que c'est? Le portefeuille de Salna? Oh, cette femme est pas commode! Peux-tu lui ramener pour moi? J'ai des tas de choses à faire, comme... comme... trouver à qui appartiennent toutes ces affaires! Oui, tu devrais partir immédiatement!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.57.texts.returnPopupMain"] = {
+	"en": "Wallet! Oh, my wallet!",
+	"fr": "Portefeuille! Oh, mon portefeuille!",
 	"es": "",
 	"ch": "",
 	"kr": "",
