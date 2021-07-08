@@ -4430,6 +4430,79 @@ locale["quest.58.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.59.name"] = {
+	"en": "Sentry Post (1)",
+	"fr": "Poste de sentinelle (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.59.texts.objective"] = {
+	"en": "Find and talk to <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"fr": "Trouver et parler à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.59.texts.description"] = {
+	"en": "Now we have an important task. To defend the city, we have set up a post to the east of the city. I think they are having troubles. Please go help them.",
+	"fr": "Nous avons maintenant une tâche importante. Pour défendre la ville, nous avons installé un poste à l'est de la ville. Je pense qu'ils ont des problèmes. S'il vous plaît, allez les aider.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.59.texts.returnPopupMain"] = {
+	"en": "Stones! We need more stones!",
+	"fr": "Des pierres! Nous avons besoin de plus de pierres!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
