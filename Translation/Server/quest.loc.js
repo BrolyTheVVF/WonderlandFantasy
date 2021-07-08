@@ -4667,6 +4667,79 @@ locale["quest.61.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.62.name"] = {
+	"en": "Sentry Post (4)",
+	"fr": "Poste de sentinelle (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.62.texts.objective"] = {
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='39'>Manticore</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='39'>Manticore</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.62.texts.description"] = {
+	"en": "Listen, something bad happend! One of our construction leader has been attacked by the beasts. maybe the fuss we make in this place disturbed their life. We don't want to hurt them, but we need to go on! I think I can only rely on you to clear this site. It is a Manticore.",
+	"fr": "Écoutez, il s'est passé quelque chose de grave! L'un de nos chefs de chantier a été attaqué par les bêtes. peut-être que l'agitation que nous faisons dans cet endroit a perturbé leur vie. Nous ne voulons pas leur faire de mal, mais nous devons continuer! Je pense que je ne peux compter que sur vous pour nettoyer ce site. C'est une Manticore.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.62.texts.returnPopupMain"] = {
+	"en": "My workers are now free of fear.",
+	"fr": "Mes ouvriers n'ont maintenant plus aucune raison d'avoir peur.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
