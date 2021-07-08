@@ -4121,7 +4121,7 @@ locale["quest.55.name"] = {
 	"id": ""
 };
 locale["quest.55.texts.objective"] = {
-	"en": "Find some keys from <span class='text-link' data-target-type='mob' data-target-id='31'>Tresure Watchers</span>, give them to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"en": "Find some keys from <span class='text-link' data-target-type='mob' data-target-id='31'>Treasure Watchers</span>, give them to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"fr": "Trouvez des clés sur les <span class='text-link' data-target-type='mob' data-target-id='31'>Gardiens des Trésors</span>, donnez les a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
