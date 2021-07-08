@@ -4412,8 +4412,8 @@ locale["quest.58.texts.description"] = {
 	"id": ""
 };
 locale["quest.58.texts.returnPopupMain"] = {
-	"en": "...",
-	"fr": "...",
+	"en": "Young man, don't judge me for what I look like now. I once was the number one warrior of the knight order.",
+	"fr": "Jeune homme, ne me juge pas sur mon apparence actuelle. Il fut un temps où j'étais le premier guerrier de l'ordre des chevaliers.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4422,7 +4422,7 @@ locale["quest.58.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "...",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
