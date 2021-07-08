@@ -4503,6 +4503,97 @@ locale["quest.59.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.60.name"] = {
+	"en": "Sentry Post (2)",
+	"fr": "Poste de sentinelle (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.60.texts.objective"] = {
+	"en": "Collect some <span class='text-link' data-target-type='interactible' data-target-id='10005'>Stones</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"fr": "Récoltez quelques <span class='text-link' data-target-type='interactible' data-target-id='10005'>Pierres</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.60.texts.description"] = {
+	"en": "We need large amounts of stones. Most young men in the city are in the fronts. We have insufficient work labor here. Hey, young men! Don't stand about. Come and find some stones!",
+	"fr": "Nous avons besoin de grandes quantités de pierres. La plupart des jeunes hommes de la ville sont au front. Nous avons ici une main-d'œuvre insuffisante. Hé, jeunes hommes! Ne restez pas debout. Venez trouver des pierres!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.60.texts.returnPopupMain"] = {
+	"en": "It is said that the caves are filled with horrible monsters. Is it true?",
+	"fr": "Il est dit que les caves sont pleines d'horribles monstres. Est-ce vrai?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.60.objective.0.name"] = {
+	"en": "Stone",
+	"fr": "Pierre",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
