@@ -4813,6 +4813,79 @@ locale["quest.63.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.64.name"] = {
+	"en": "Back to the Caves",
+	"fr": "Retour aux Caves",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.64.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.64.texts.description"] = {
+	"en": "When we arrived here, the miners had already been killed by the demons, and they had turned the miners into a zombie army. May Bur protect them and liberate their souls. <b>{0}</b>, we need to help them!",
+	"fr": "Quand nous sommes arrivés, les mineurs avaient déjà été tués par les démons, et ils avaient déjà transformé les mineurs en une armée de zombies. Que Bur les protège et libère leurs âmes. <b>{0}</b>, nous devons les aider.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.64.texts.returnPopupMain"] = {
+	"en": "Remember, you do this just to free their tortured souls.",
+	"fr": "Souviens-toi, tu fait ça pour libérer leurs âmes torturées.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
