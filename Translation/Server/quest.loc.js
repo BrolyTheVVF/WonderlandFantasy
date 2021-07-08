@@ -4594,6 +4594,79 @@ locale["quest.60.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.61.name"] = {
+	"en": "Sentry Post (3)",
+	"fr": "Poste de sentinelle (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.61.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='33'>Snaketail Rooster</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.61.texts.description"] = {
+	"en": "Snaketail Rooster love to inhabit this place. This is bad. It will delay our work. The demon army will be upon us at any minute.<br>We have to hurry!<br><br><b>{0}</b>, help us get rid of those Snaketail Roosters.",
+	"fr": "Les Coqs à queue de serpent aiment habiter cet endroit. C'est mauvais. Ca va retarder notre travail. L'armée des démons sera sur nous à tout moment.<br>Nous devons nous dépêcher!<br><br><b>{0}</b>, Aidez-nous à nous débarrasser de ces Coqs à queue de serpent",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.61.texts.returnPopupMain"] = {
+	"en": "This is not genocide. To protect the land, we have to do this.",
+	"fr": "Ce n'est pas un génocide. Pour proteger cette terre, nous devons le faire.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
