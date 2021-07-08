@@ -4740,6 +4740,79 @@ locale["quest.62.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.63.name"] = {
+	"en": "Sentry Post (5)",
+	"fr": "Poste de sentinelle (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.63.texts.objective"] = {
+	"en": "Go to the Celebeam Caves and find <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"fr": "Allez aux Caves de Celebeam et trouvez <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.63.texts.description"] = {
+	"en": "According to your performance here, i don't agree with Horay at all, you're a young man with real strength! I think Horay just thought you're a little young and wanted to make you have more training. Now you can go back, and I'll tell Horay my thoughts.",
+	"fr": "D'après ta performance ici, je ne suis pas du tout d'accord avec Horay, tu es un jeune homme avec une vraie force ! Je pense que Horay pensait juste que tu étais un peu jeune et voulais que tu t'entraînes davantage. Maintenant, vous pouvez revenir en arrière, et je dirai à Horay mes pensées.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.63.texts.returnPopupMain"] = {
+	"en": "Quinsto thinks you're ready, so you can have a try. I think you learned a lot from him!",
+	"fr": "Quinsto pense que vous êtes prêt, vous pouvez donc essayer. Je pense que tu as beaucoup appris de lui !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
