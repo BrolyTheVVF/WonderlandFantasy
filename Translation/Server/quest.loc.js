@@ -4030,7 +4030,7 @@ locale["quest.54.name"] = {
 	"id": ""
 };
 locale["quest.54.texts.objective"] = {
-	"en": "<span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span> hopes you can get back the treasure robbed byt the bandits. Go find a <span class='text-link' data-target-type='interacctible' data-target-id='10003'>Plain Chest</span>",
+	"en": "<span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span> hopes you can get back the treasure robbed by the bandits. Go find a <span class='text-link' data-target-type='interacctible' data-target-id='10003'>Plain Chest</span>",
 	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span> espère que vous pourrez récupérer le trésor volé par les bandits. Allez chercher un <span class='text-link' data-target-type='interacctible' data-target-id='10003'>Coffre Simple</span>",
 	"es": "",
 	"ch": "",
