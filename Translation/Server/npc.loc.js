@@ -2180,6 +2180,25 @@ locale["npc.100042.name"] = {
 	"id": ""
 };
 
+locale["npc.100043.name"] = {
+	"en": "Crusader Marshal",
+	"fr": "Maréchal des Croisé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
 	"fr": "Autel Mystérieux",

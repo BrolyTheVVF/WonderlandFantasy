@@ -4886,6 +4886,79 @@ locale["quest.64.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.65.name"] = {
+	"en": "[Instance] New Adventure",
+	"fr": "[Instance] Nouvelle Aventure",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.65.texts.objective"] = {
+	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100043'>Crusader Marshal</span>",
+	"fr": "Parlez au <span class='text-link' data-target-type='npc' data-target-id='100043'>Maréchal des Croisé</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.65.texts.description"] = {
+	"en": "Are you afraid of killing? This is the only path in becoming a true warrior! I have a friend, maybe he can help you understand.",
+	"fr": "Avez-vous peur de tuer? C'est le seul chemin pour devenir un vrai guerrier! J'ai un ami, peut-être qu'il pourra t'aider à comprendre.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.65.texts.returnPopupMain"] = {
+	"en": "You've come to experience the future as well?",
+	"fr": "Vous aussi, vous venez découvrir le futur?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
