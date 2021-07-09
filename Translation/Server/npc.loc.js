@@ -2191,7 +2191,7 @@ locale["npc.100043.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Thống Soái Thập Tự",
 	"ar": "",
 	"it": "",
 	"pl": "",
