@@ -533,7 +533,7 @@ locale["npc.29.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Kẻ Săn Trộm",
+	"vi": "Thợ Săn Trộm",
 	"ar": "",
 	"it": "",
 	"pl": "",
