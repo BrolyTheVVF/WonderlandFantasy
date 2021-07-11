@@ -6482,7 +6482,7 @@ locale["quest.40000.name"] = {
 	"id": ""
 };
 locale["quest.40000.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='21'>Familier</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='21'>Familiars</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
@@ -7285,8 +7285,8 @@ locale["quest.40011.name"] = {
 	"id": ""
 };
 locale["quest.40011.texts.objective"] = {
-	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='-1'>Rabbit</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='-1'>Lapin</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='15'>Bunny</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='15'>Lapin</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
