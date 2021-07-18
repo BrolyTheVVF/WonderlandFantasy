@@ -106,5 +106,41 @@
         "pl": "",
         "th": "",
         "id": ""
+    },
+    "instance.INSTANCE_30.description.reward.normal":{
+        "en": "Lv30 common materials, Costume sets and Runestones.",
+        "fr": "Materiel commun Nv30, Costumes et Pierres runiques",
+        "es": "",
+        "ch": "",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "",
+        "jp": "",
+        "pt": "",
+        "vi": "",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
+    },
+    "instance.INSTANCE_30.description.reward.special":{
+        "en": "Glory Gem",
+        "fr": "Gemme de Gloire",
+        "es": "",
+        "ch": "",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "",
+        "jp": "",
+        "pt": "",
+        "vi": "",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
     }
 }
