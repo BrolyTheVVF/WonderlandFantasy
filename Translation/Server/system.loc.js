@@ -434,4 +434,43 @@ locale["guild.creation.nameInUsed"] = {
 	"id": ""
 };
 
+
+//Instance system
+locale["system.instance.notFound"] = {
+	"en":"This instance is invalid or doesn't exists",
+	"fr":"Cette instance est invalide ou n'existe pas",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.instance.wrongGroupType"] = {
+	"en":"Cannot create an instance lobby with the type of group you are in",
+	"fr":"Impossible de créer un lobby d'instance avec le type de group dans lequel vous êtes",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
