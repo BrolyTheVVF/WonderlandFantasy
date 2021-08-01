@@ -472,5 +472,23 @@ locale["system.instance.wrongGroupType"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.instance.delete.no_valid_instance"] = {
+	"en":"You cannot delete your instance because you are not in a group or you have no instance started",
+	"fr":"Vous ne pouvez pas cloturer d'instance parce que vous n'êtes pas en groupe ou que vous n'avez pas d'instance en cours.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
