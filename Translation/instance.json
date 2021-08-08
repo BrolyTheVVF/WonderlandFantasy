@@ -35,6 +35,24 @@
         "th": "",
         "id": ""
     },
+    "instance.reward.daily_left":{
+        "en": "End Reward Left: {0}/3",
+        "fr": "Récomp. de Fin Restante: {0}/3",
+        "es": "",
+        "ch": "",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "",
+        "jp": "",
+        "pt": "",
+        "vi": "",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
+    },
     "instance.btn.enter":{
         "en": "Enter",
         "fr": "Entrer",
