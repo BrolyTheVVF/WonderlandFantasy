@@ -3653,6 +3653,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.instance.warning.back-to-hall":{
+        "en":"Warning! Leaving the instance will eject players that are still in it.",
+        "fr":"Attention! Quitter l'instance éjectera les joueurs qui sont encore à l'intérieur.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.challenges.title":{
         "en":"Challenges",
         "fr":"Challenges",
