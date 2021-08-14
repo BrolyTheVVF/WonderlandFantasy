@@ -814,6 +814,44 @@ locale["npc.10004.name"] = {
 };
 
 
+locale["npc.20000.name"] = {
+	"en": "Skeleton Warrior",
+	"fr": "Guerrier squelette",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20001.name"] = {
+	"en": "Skeleton Bowman",
+	"fr": "Archer squelette",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 locale["npc.100001.name"] = {
 	"en": "Tamus",
 	"fr": "Tom",
