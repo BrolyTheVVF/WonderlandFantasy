@@ -3671,6 +3671,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.instance.ask.buy-daily-reward":{
+        "en":"You're about to buy a daily reward. It will cost {0}.",
+        "fr":"Vous êtes sur le point d'acheter une récompense quotidienne. Il vous coûtera {0}.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.challenges.title":{
         "en":"Challenges",
         "fr":"Challenges",
