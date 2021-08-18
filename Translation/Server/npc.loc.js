@@ -850,6 +850,42 @@ locale["npc.20001.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20002.name"] = {
+	"en": "Dark Knight's Servant",
+	"fr": "Serviteur du Chevalier Noir",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20003.name"] = {
+	"en": "Dark Knight",
+	"fr": "Chevalier Noir",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
