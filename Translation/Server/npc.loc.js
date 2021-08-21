@@ -886,6 +886,24 @@ locale["npc.20003.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20003.name"] = {
+	"en": "Cursed Zombie",
+	"fr": "Zombie Maudit",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
