@@ -325,4 +325,59 @@ locale["map.Cain Harbor.name"] = {
 	"id": ""
 };
 
+locale["map.Instance_20_map1.name"] = {
+	"en": "Chaotic Jungles North",
+	"fr": "Nord des Jungles Chaotiques",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["map.Instance_20_map2.name"] = {
+	"en": "Deathly Mineshaft",
+	"fr": "Mines Mortelles",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["map.Instance_20_map3.name"] = {
+	"en": "Summoning Hall",
+	"fr": "Salle d'Invocation",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
