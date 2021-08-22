@@ -897,7 +897,7 @@ locale["npc.20004.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Thây Ma Nguyền Rủa",
 	"ar": "",
 	"it": "",
 	"pl": "",
