@@ -886,9 +886,45 @@ locale["npc.20003.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.20003.name"] = {
+locale["npc.20004.name"] = {
 	"en": "Cursed Zombie",
 	"fr": "Zombie Maudit",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20005.name"] = {
+	"en": "Skeleton Knight",
+	"fr": "Cavalier Squelette",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20006.name"] = {
+	"en": "Monk",
+	"fr": "Moine",
 	"es": "",
 	"ch": "",
 	"kr": "",
