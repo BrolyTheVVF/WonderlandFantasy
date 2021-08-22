@@ -3581,6 +3581,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.instance-reward.title":{
+        "en":"Get Instance Reward",
+        "fr":"Recompenses d'Instance",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.instance.title":{
         "en":"Instances",
         "fr":"Instances",
