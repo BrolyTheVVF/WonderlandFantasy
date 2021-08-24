@@ -1,5 +1,23 @@
 var locale = {};
 
+locale["system.item.inventoryIsFull"] = {
+	"en": "Your inventory is full",
+	"fr": "Votre inventaire est plein",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.chat.notInGuild"] = {
 	"en": "Your must be in a guild to use this channel.",
 	"fr": "Vous devez être dans un guilde pour parler dans ce canal",
