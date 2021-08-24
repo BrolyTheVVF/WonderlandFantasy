@@ -526,5 +526,41 @@ locale["system.instance.delete.no_valid_instance"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.instance.not_done"] = {
+	"en":"The instance is not done yet",
+	"fr":"L'instance n'est pas encore terminée",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.instance.cardReward.no_turn_left"] = {
+	"en":"You have no more card to turn",
+	"fr":"Vous n'avez plus aucune carte a retourner",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
