@@ -11,7 +11,7 @@ locale["system.item.inventoryIsFull"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Túi đồ của bạn đã đầy",
 	"ar": "",
 	"it": "",
 	"pl": "",
