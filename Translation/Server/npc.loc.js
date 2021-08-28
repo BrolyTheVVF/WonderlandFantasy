@@ -940,6 +940,24 @@ locale["npc.20006.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20007.name"] = {
+	"en": "Ethereal Specter",
+	"fr": "Spectre Éthéré",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
