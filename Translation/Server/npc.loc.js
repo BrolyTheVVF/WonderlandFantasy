@@ -951,7 +951,7 @@ locale["npc.20007.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Bóng Ma Thuần Khiết",
 	"ar": "",
 	"it": "",
 	"pl": "",
