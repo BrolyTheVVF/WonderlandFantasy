@@ -2873,7 +2873,7 @@ locale["quest.39.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ta nghe nói rằng giáo viên đã sử dụng nguyên vật liệu để có một trải nhiệm hiếm có.",
+	"vi": "Ta nghe nói rằng giáo viên đã sử dụng nguyên vật liệu để có một trải nghiệm hiếm có.",
 	"ar": "",
 	"it": "",
 	"pl": "",
