@@ -1876,7 +1876,7 @@ locale["npc.100028.title"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Kho Ẩn",
+	"vi": "Kho",
 	"ar": "",
 	"it": "",
 	"pl": "",
