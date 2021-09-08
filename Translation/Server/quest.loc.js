@@ -4959,6 +4959,97 @@ locale["quest.65.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.66.name"] = {
+	"en": "[Instance] Death Mine",
+	"fr": "[Instance] Mine Morte",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.66.triggers.0.text"] = {
+	"en": "Are you ready? Take a look at the road ahead of you. Knight Winston will accompany you through this adventure.",
+	"fr": "Es-tu prêt? Jetez un œil à la route devant vous. Le chevalier Winston vous accompagnera tout au long de cette aventure.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.66.texts.objective"] = {
+	"en": "Enter the instance 'Deathly Mineshaft', defeat <span class='text-link' data-target-type='mob' data-target-id='20007'>Etheral Specter</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100043'>Crusader Marshal</span>",
+	"fr": "Entrez dans l'instance 'Mine Mortelles', tuez le <span class='text-link' data-target-type='mob' data-target-id='20007'>Spectre Éthéré</span>, et faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100043'>Maréchal des Croisé</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.66.texts.description"] = {
+	"en": "Are you ready? Take a look at the road ahead of you. Knight Winston will accompany you through this adventure.",
+	"fr": "Es-tu prêt? Jetez un œil à la route devant vous. Le chevalier Winston vous accompagnera tout au long de cette aventure.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.66.texts.returnPopupMain"] = {
+	"en": "Do I smell fear on you? There's no turning back now!",
+	"fr": "Ect-ce de la peur que je sent? Vous ne pouvez pas revenir en arrière maintenant!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
