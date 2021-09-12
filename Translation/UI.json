@@ -1205,6 +1205,24 @@
         "th":"",
         "id":"Misi Guild"
     },
+    "UI.windows.quest.tracked.requiresLevel":{
+        "en":"Upgrade to level {0}",
+        "fr":"Atteindre le niveau {93}",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.character.title":{
         "en":"Character",
         "fr":"Personnage",
