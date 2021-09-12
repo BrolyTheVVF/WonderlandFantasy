@@ -1207,7 +1207,7 @@
     },
     "UI.windows.quest.tracked.requiresLevel":{
         "en":"Upgrade to level {0}",
-        "fr":"Atteindre le niveau {93}",
+        "fr":"Atteindre le niveau {0}",
         "es":"",
         "ch":"",
         "kr":"",
@@ -1216,7 +1216,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nâng lên cấp độ {0}",
         "ar":"",
         "it":"",
         "pl":"",
