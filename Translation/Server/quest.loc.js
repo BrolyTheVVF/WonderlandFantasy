@@ -455,6 +455,24 @@ locale["quest.5.texts.returnPopupMain"] = {
 	"th": "",
 	"id": ""
 };
+locale["quest.5.objective.0.name"] = {
+	"en": "Bee Glue",
+	"fr": "Propolis",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.6.name"] = {
 	"en": "Treefolk Town (7)",
