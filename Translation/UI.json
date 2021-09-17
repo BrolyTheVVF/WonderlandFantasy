@@ -2213,6 +2213,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.skills.buyPoints.popup_title":{
+        "en":"Buy Skill Points",
+        "fr":"Achetez des Points de Compétence",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.buyPoints.pointLeft":{
         "en":"{0} Points left to level up your skill",
         "fr":"{0} Points restant avant de monter votre compétence de niveau",
