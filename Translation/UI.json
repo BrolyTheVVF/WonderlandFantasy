@@ -971,6 +971,24 @@
         "th":"",
         "id":"Luck"
     },
+    "UI.quest.seek":{
+        "en":"Seek",
+        "fr":"Allez voir",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.quest-list.title":{
         "en":"Quest",
         "fr":"Quêtes",
