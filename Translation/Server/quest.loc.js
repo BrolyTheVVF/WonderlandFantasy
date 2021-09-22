@@ -740,7 +740,7 @@ locale["quest.9.texts.objective"] = {
 	"de": "Das zweite Set an Materialien kann vom <span class='text-link' data-target-type='mob' data-target-id='5'>Prum Bär</span> gesammelt werden. Sammle die zwei Arten von Materialien und melde dich wieder bei <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"jp": "",
 	"pt": "",
-	"vi": "Những thành phần nguyên vật liệu thứ hai có thể lấy từ <span class='text-link' data-target-type='mob' data-target-id='5'>Prum Bear</span>. Thu thập hai loại nguyên vật liệu riêng biệt từ chúng và báo cáo về cho <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"vi": "Những thành phần nguyên vật liệu thứ hai có thể lấy từ <span class='text-link' data-target-type='mob' data-target-id='5'>Gấu Prum</span>. Thu thập hai loại nguyên vật liệu riêng biệt từ chúng và báo cáo về cho <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
