@@ -2195,7 +2195,7 @@
         "th":"",
         "id":"Meningkatkan Kesehatan.<br>Pasif. Meningkatkan {0} HP."
     },
-    "skills.TD_STAFF_EXPERTISE.name":{
+    "skills.TMD_STAFF_EXPERTISE.name":{
         "en":"Staff Expertise",
         "fr":"Expertise des Arcanes",
         "es":"",
@@ -2213,7 +2213,7 @@
         "th":"",
         "id":""
     },
-    "skills.TD_STAFF_EXPERTISE.effect":{
+    "skills.TMD_STAFF_EXPERTISE.effect":{
         "en":"Increases Base ATK by ({0}% x Character Lv.)",
         "fr":"Augmente l'ATQ de base de ({0}% x Nv. Personnage)",
         "es":"",
@@ -2231,7 +2231,7 @@
         "th":"",
         "id":""
     },
-    "skills.TD_STAFF_EXPERTISE.effect.level10":{
+    "skills.TMD_STAFF_EXPERTISE.effect.level10":{
         "en":"Expertise +10: Base ATK +8",
         "fr":"Spécialisation +10: ATQ de Base +8",
         "es":"",
@@ -2249,7 +2249,7 @@
         "th":"",
         "id":""
     },
-    "skills.TD_STAFF_EXPERTISE.effect.level15":{
+    "skills.TMD_STAFF_EXPERTISE.effect.level15":{
         "en":"Expertise +15: Skill Accuracy +3%",
         "fr":"Spécialisation +15: Précision de Compétences +3%",
         "es":"",
@@ -2267,7 +2267,7 @@
         "th":"",
         "id":""
     },
-    "skills.TD_STAFF_EXPERTISE.effect.level20":{
+    "skills.TMD_STAFF_EXPERTISE.effect.level20":{
         "en":"Expertise +20: Skill Crit Accuracy +4%",
         "fr":"Spécialisation +20: Précision Compétence Critique +4%",
         "es":"",
