@@ -731,7 +731,7 @@ locale["npc.40.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Merlin",
 	"ar": "",
 	"it": "",
 	"pl": "",

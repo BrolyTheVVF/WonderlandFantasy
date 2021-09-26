@@ -281,7 +281,7 @@ locale["map.Celebeam Hall of Deep.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Celebeam - Điện Tinh Anh Sâu",
 	"ar": "",
 	"it": "",
 	"pl": "",
