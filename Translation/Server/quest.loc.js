@@ -92,17 +92,17 @@ locale["quest.1.name"] = {
 	"id": ""
 };
 locale["quest.1.texts.objective"] = {
-	"en": "Find <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span> near the entrance of the village.",
+	"en": "Find <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span> near the entrance of the village.",
 	"fr": "Trouver <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
 	"es": "",
 	"ch": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Finde <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span> in der Nähe des Eingang dieses Dorfes.",
+	"de": "Finde <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span> in der Nähe des Eingang dieses Dorfes.",
 	"jp": "",
 	"pt": "",
-	"vi": "Đi tìm <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span> gần lối vào làng.",
+	"vi": "Đi tìm <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span> gần lối vào làng.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -110,7 +110,7 @@ locale["quest.1.texts.objective"] = {
 	"id": ""
 };
 locale["quest.1.texts.description"] = {
-	"en": "So, you are here for adventures ? I love passionate adventurers!</br>I can teach you some skills to survive on this world.</br></br>Go talk to Garinas near the entrance of the village, and she will teach you something.",
+	"en": "So, you are here for adventures ? I love passionate adventurers!</br>I can teach you some skills to survive on this world.</br></br>Go talk to Garnias near the entrance of the village, and she will teach you something.",
 	"fr": "Tu dis que tu viens pour l'aventure? Je préfère les aventuriers passionnées, je peux t'enseigner certaines capacités de survie dans ce monde. Va chercher le garde Galnas à l'entrée du village, il va t'enseigner beaucoup de choses.",
 	"es": "",
 	"ch": "",
@@ -165,7 +165,7 @@ locale["quest.2.name"] = {
 	"id": ""
 };
 locale["quest.2.texts.objective"] = {
-	"en": "Open the bag, equip the weapon in it, and then talk to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"en": "Open the bag, equip the weapon in it, and then talk to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"fr": "Ouvrez votre sac à dos puis équipez-vous d'une arme se trouvant à l'intérieur. Parlez ensuite à <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span>.",
 	"es": "",
 	"ch": "",
@@ -175,7 +175,7 @@ locale["quest.2.texts.objective"] = {
 	"de": "Öfnne den Beutel und rüste die Waffe darin aus. Dann sprich mit <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"jp": "",
 	"pt": "",
-	"vi": "Hãy mở túi đồ, trang bị vũ khí lên, và sau đó nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"vi": "Hãy mở túi đồ, trang bị vũ khí lên, và sau đó nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -256,7 +256,7 @@ locale["quest.3.name"] = {
 	"id": ""
 };
 locale["quest.3.texts.objective"] = {
-	"en": "Go kill some <span class='text-link' data-target-type='mob' data-target-id='2'>Pudding Slime</span> in Slime Plain, then go back to the village and talk to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"en": "Go kill some <span class='text-link' data-target-type='mob' data-target-id='2'>Pudding Slime</span> in Slime Plain, then go back to the village and talk to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='2'>Slime Pudding</span> dans la Plaine des Slimes, puis allez trouver <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
 	"es": "",
 	"ch": "",
@@ -266,7 +266,7 @@ locale["quest.3.texts.objective"] = {
 	"de": "Na los, geh ein paar <span class='text-link' data-target-type='mob' data-target-id='2'>Pudding Schleime</span> töten in der Schleim Prärie",
 	"jp": "",
 	"pt": "",
-	"vi": "Hãy tiêu diệt một vài con <span class='text-link' data-target-type='mob' data-target-id='2'>Bầy Nhầy Pudding</span> ở Bình Nguyên Bầy Nhầy, sau đó quay trở lại làng và nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"vi": "Hãy tiêu diệt một vài con <span class='text-link' data-target-type='mob' data-target-id='2'>Bầy Nhầy Pudding</span> ở Bình Nguyên Bầy Nhầy, sau đó quay trở lại làng và nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -329,7 +329,7 @@ locale["quest.4.name"] = {
 	"id": ""
 };
 locale["quest.4.texts.objective"] = {
-	"en": "Go kill some <span class='text-link' data-target-type='mob' data-target-id='4'>Baby Boar</span> in Slime Plain, then go back to the village and talk to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"en": "Go kill some <span class='text-link' data-target-type='mob' data-target-id='4'>Baby Boar</span> in Slime Plain, then go back to the village and talk to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"fr": "Tuez les <span class='text-link' data-target-type='mob' data-target-id='4'>Petit Sanglier</span> dans la Plaine des Slimes, puis allez trouver <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
 	"es": "",
 	"ch": "",
@@ -339,7 +339,7 @@ locale["quest.4.texts.objective"] = {
 	"de": "Los, gehe nochmal ein paar <span class='text-link' data-target-type='mob' data-target-id='4'>Baby Wildschweine</span>töten in der Schleim Prärie, dann komm zurück ins Dorf und sprich mit <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>. ",
 	"jp": "",
 	"pt": "",
-	"vi": "Hãy tiêu diệt vài con <span class='text-link' data-target-type='mob' data-target-id='4'>Lợn Rừng Con</span> ở Bình Nguyên Bầy Nhầy, sau đó quay trở lại làng và nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"vi": "Hãy tiêu diệt vài con <span class='text-link' data-target-type='mob' data-target-id='4'>Lợn Rừng Con</span> ở Bình Nguyên Bầy Nhầy, sau đó quay trở lại làng và nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -402,7 +402,7 @@ locale["quest.5.name"] = {
 	"id": ""
 };
 locale["quest.5.texts.objective"] = {
-	"en": "Find the <span class='text-link' data-target-type='mob' data-target-id='5'>Beehive</span> in Slime Plain, acquire some Bee Glue and give that to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"en": "Find the <span class='text-link' data-target-type='mob' data-target-id='5'>Beehive</span> in Slime Plain, acquire some Bee Glue and give that to <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"fr": "Trouvez la <span class='text-link' data-target-type='mob' data-target-id='5'>Ruche</span> dans la Plaine des Slimes. Récupérez quelques Propolis, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span>.",
 	"es": "",
 	"ch": "",
@@ -412,7 +412,7 @@ locale["quest.5.texts.objective"] = {
 	"de": "Finde den<span class='text-link' data-target-type='mob' data-target-id='5'>Bienenstock</span> in der Schleim Prärie, erbeute dir ein bisschen Bienenharz und übergebe das dann<span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"jp": "",
 	"pt": "",
-	"vi": "Đi tìm <span class='text-link' data-target-type='mob' data-target-id='5'>Tổ Ong</span> ở Bình Nguyên Bầy Nhầy, thu thập Keo Ong và đưa cho <span class='text-link' data-target-type='npc' data-target-id='100004'>Garinas</span>.",
+	"vi": "Đi tìm <span class='text-link' data-target-type='mob' data-target-id='5'>Tổ Ong</span> ở Bình Nguyên Bầy Nhầy, thu thập Keo Ong và đưa cho <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -1058,17 +1058,17 @@ locale["quest.13.texts.objective"] = {
 	"id": ""
 };
 locale["quest.13.texts.description"] = {
-	"en": "Garinas mentionned about you.<br>Honestly... you aren't as tough as I expected. It doesn't matter, because you have a talent, and you will grow up. However, before leaving, say goodbye to folks.",
+	"en": "Garnias mentionned about you.<br>Honestly... you aren't as tough as I expected. It doesn't matter, because you have a talent, and you will grow up. However, before leaving, say goodbye to folks.",
 	"fr": "Garnias m'a parler de vous.<br>Honnêtement... tu n'es pas aussi costaud que ce à quoi je m'attendais. Ça n'a aucune importance, parce que tu as un talent, et tu vas le développer. Cependant, avant de partir, dites au revoir aux gens.",
 	"es": "",
 	"ch": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Garinas hat dich erwähnt.<br>Um ehrlich zu sein ... du siehst garnicht so taff aus wie ich es erwartet habe. Aber egal. Du hast ein Talent und dieses Talent wird immer größer. Bevor du gehst kannst du dich noch von meinen Leuten verabschieden.",
+	"de": "Garnias hat dich erwähnt.<br>Um ehrlich zu sein ... du siehst garnicht so taff aus wie ich es erwartet habe. Aber egal. Du hast ein Talent und dieses Talent wird immer größer. Bevor du gehst kannst du dich noch von meinen Leuten verabschieden.",
 	"jp": "",
 	"pt": "",
-	"vi": "Garinas đã nhắc về ngươi.<br>Thành thật... bề ngoài cũng không cứng cỏi như ta nghĩ. Cũng chả quan trọng, nếu ngươi có tài, ắt sẽ trưởng thành sớm thôi. Nhưng, trước khi đi, hãy tạm biệt mọi người.",
+	"vi": "Garnias đã nhắc về ngươi.<br>Thành thật... bề ngoài cũng không cứng cỏi như ta nghĩ. Cũng chả quan trọng, nếu ngươi có tài, ắt sẽ trưởng thành sớm thôi. Nhưng, trước khi đi, hãy tạm biệt mọi người.",
 	"ar": "",
 	"it": "",
 	"pl": "",
