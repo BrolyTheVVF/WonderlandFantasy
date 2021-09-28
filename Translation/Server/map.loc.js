@@ -270,6 +270,24 @@ locale["map.Celebeam Hall of Elite.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["map.Celebeam Hall of Deep.name"] = {
+	"en": "Celebeam Hall of Elite Deep",
+	"fr": "Celebeam Hall d'élite profond",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Celebeam - Điện Tinh Anh Sâu",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["map.East Post.name"] = {
 	"en": "East Post",
 	"fr": "Poste Est",
