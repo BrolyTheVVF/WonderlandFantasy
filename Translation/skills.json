@@ -5032,8 +5032,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Chỉ Dẫn Thần Thánh
-",
+        "vi": "Chỉ Dẫn Thần Thánh",
         "ar": "",
         "it": "",
         "pl": "",
@@ -5096,7 +5095,7 @@
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level20": {
         "en": "",
-        "fr": "Quand un sort touche, il a 20% de chance de faire "subir" la cible qui prendra 25% de dégâts supplémentaire sur la prochaine attaque. L'effet jusqu'à 10sec",
+        "fr": "Quand un sort touche, il a 20% de chance de faire \"subir\" la cible qui prendra 25% de dégâts supplémentaire sur la prochaine attaque. L'effet jusqu'à 10sec",
         "es": "",
         "ch": "",
         "kr": "",
