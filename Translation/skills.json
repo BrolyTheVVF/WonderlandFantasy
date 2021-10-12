@@ -5041,7 +5041,7 @@
     },
     "skills.TML_DIVINE_GUIDANCE.effect": {
         "en": "",
-        "fr": "Précision Compétence {0}%, Dégâts Améliorés {0}%",
+        "fr": "Précision Compétence +{0}%, Dégâts Améliorés +{0}%",
         "es": "",
         "ch": "",
         "kr": "",
