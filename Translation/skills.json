@@ -2448,8 +2448,8 @@
         "id":""
     },
     "skills.TMD_ARCANE_BOOST.name": {
-        "en": "",
-        "fr": "",
+        "en": "Enhanced Fire Bolt",
+        "fr": "Boule de Feu améliorée",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2458,7 +2458,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Hỏa Cầu Cường Hóa",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2466,8 +2466,8 @@
         "id": ""
     },
     "skills.TMD_ARCANE_BOOST.effect": {
-        "en": "",
-        "fr": "",
+        "en": "Increases the Skill DMG of Fire Bolt by {0}",
+        "fr": "Augmente les Dégâts de Compétences Boule de Feu de {0}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2476,7 +2476,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Tăng {0} Sát Thương Kỹ Năng của Hỏa Cầu.",
         "ar": "",
         "it": "",
         "pl": "",
