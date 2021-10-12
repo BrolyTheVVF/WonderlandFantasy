@@ -2538,8 +2538,8 @@
         "id": ""
     },
     "skills.TMD_MAGIC_RECHARGE.name": {
-        "en": "",
-        "fr": "",
+        "en": "Magic Recharge",
+        "fr": "Recharge Magique",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2548,7 +2548,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Sạc Phép",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2556,8 +2556,8 @@
         "id": ""
     },
     "skills.TMD_MAGIC_RECHARGE.effect": {
-        "en": "",
-        "fr": "",
+        "en": "Increases Skill ENHC by {0}%",
+        "fr": "Augmente 'Compétence Améliorée' de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2566,7 +2566,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Cộng thêm {0}% Tăng Kỹ Năng.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2574,8 +2574,8 @@
         "id": ""
     },
     "skills.TMD_MAGIC_RECHARGE.effect.level10": {
-        "en": "",
-        "fr": "",
+        "en": "Base HP +2%",
+        "fr": "PV de base +2%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2584,7 +2584,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Máu Gốc +2%.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2592,8 +2592,8 @@
         "id": ""
     },
     "skills.TMD_MAGIC_RECHARGE.effect.level15": {
-        "en": "",
-        "fr": "",
+        "en": "Skill ENHC +3%",
+        "fr": "Compétence Améliorée +3%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2602,7 +2602,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Tăng Kỹ Năng +3%.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2610,8 +2610,8 @@
         "id": ""
     },
     "skills.TMD_MAGIC_RECHARGE.effect.level20": {
-        "en": "",
-        "fr": "",
+        "en": "Skill Crit ENHC +15%",
+        "fr": "Compétence Critique Améliorée +15%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2620,7 +2620,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Tăng Bạo Kích Kỹ Năng +15%.",
         "ar": "",
         "it": "",
         "pl": "",
