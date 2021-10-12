@@ -2484,8 +2484,8 @@
         "id": ""
     },
     "skills.TMD_ARCANE_BOOST.effect.level10": {
-        "en": "",
-        "fr": "",
+        "en": "Damage of Fire Bolt +66",
+        "fr": "Dégâts de Boule de Feu +66",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2494,7 +2494,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Sát Thương của Hỏa Cầu +66.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2502,8 +2502,8 @@
         "id": ""
     },
     "skills.TMD_ARCANE_BOOST.effect.level15": {
-        "en": "",
-        "fr": "",
+        "en": "Increases casting range of Fire Bolt by 2.5 yards",
+        "fr": "Augmente la portée d'attaque de Boule de Feu de 2.5 mètres",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2512,7 +2512,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Tăng tầm sử dụng Hỏa Cầu thêm 2 mét.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -2520,8 +2520,8 @@
         "id": ""
     },
     "skills.TMD_ARCANE_BOOST.effect.level20": {
-        "en": "",
-        "fr": "",
+        "en": "Fire Bolt has a 4% chance to Stun target for 2 sec.",
+        "fr": "Boule de Feu a 4% de chance d'étourdir la cible pendant 2 sec.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2530,7 +2530,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Hỏa Cầu có 4% khả năng làm Choáng mục tiêu trong 2 giây.",
         "ar": "",
         "it": "",
         "pl": "",
