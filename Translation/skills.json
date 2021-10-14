@@ -4608,7 +4608,7 @@
         "id": ""
     },
     "skills.TML_CULTIVATION.name": {
-        "en": "",
+        "en": "Cultivation",
         "fr": "Constitution",
         "es": "",
         "ch": "",
@@ -4626,7 +4626,7 @@
         "id": ""
     },
     "skills.TML_CULTIVATION.effect": {
-        "en": "",
+        "en": "Increases max HP by {0}",
         "fr": "Augmente les PV max de {0}",
         "es": "",
         "ch": "",
@@ -4644,7 +4644,7 @@
         "id": ""
     },
     "skills.TML_CULTIVATION.effect.level10": {
-        "en": "",
+        "en": "Max HP +450",
         "fr": "PV max +450",
         "es": "",
         "ch": "",
@@ -4662,7 +4662,7 @@
         "id": ""
     },
     "skills.TML_CULTIVATION.effect.level15": {
-        "en": "",
+        "en": "Crit Reduction and Skill Crit Reduction +6%",
         "fr": "Réduction Critique  et Réduction Compétence Critique +6%",
         "es": "",
         "ch": "",
@@ -4680,7 +4680,7 @@
         "id": ""
     },
     "skills.TML_CULTIVATION.effect.level20": {
-        "en": "",
+        "en": "Increases DMG RD +3%",
         "fr": "Réduction de Dégâts +3%",
         "es": "",
         "ch": "",
@@ -4698,7 +4698,7 @@
         "id": ""
     },
     "skills.TML_HEAL.name": {
-        "en": "",
+        "en": "Heal",
         "fr": "Soin",
         "es": "",
         "ch": "",
@@ -4716,7 +4716,7 @@
         "id": ""
     },
     "skills.TML_HEAL.effect": {
-        "en": "",
+        "en": "Instantly heals the target, recovering its HP by 100% of your Attack power. Also Heal cannot exceed a maximum of 50% of the target's maximum health",
         "fr": "Soigne instantanément la cible, récupérant des PV équivalent à 100% de votre Attaque (Peut soigner un maximum de 50% des PV max de la cible)",
         "es": "",
         "ch": "",
@@ -4734,7 +4734,7 @@
         "id": ""
     },
     "skills.TML_DAMAGE_ABSORBTION.name": {
-        "en": "",
+        "en": "Damage Absorbtion",
         "fr": "Premiers-soins",
         "es": "",
         "ch": "",
@@ -4752,7 +4752,7 @@
         "id": ""
     },
     "skills.TML_DAMAGE_ABSORBTION.effect": {
-        "en": "",
+        "en": "Receive Crit Hit, you have a {0}% chance to convert Crit damage to healed HP. Can occur once every 5 sec.",
         "fr": "Quand vous recevez un Coup Critique, vous avez {0}% de chance de récupérer les Dégâts Critiques en PV. Ne peut s'activer qu'une fois toutes les 5 sec",
         "es": "",
         "ch": "",
@@ -4770,7 +4770,7 @@
         "id": ""
     },
     "skills.TML_DAMAGE_ABSORBTION.effect.level10": {
-        "en": "",
+        "en": "Trigger chance +20%",
         "fr": "Augmente les chances d'activation de +20%",
         "es": "",
         "ch": "",
@@ -4788,7 +4788,7 @@
         "id": ""
     },
     "skills.TML_DAMAGE_ABSORBTION.effect.level15": {
-        "en": "",
+        "en": "Max HP +500",
         "fr": "PV Max +500",
         "es": "",
         "ch": "",
@@ -4806,7 +4806,7 @@
         "id": ""
     },
     "skills.TML_DAMAGE_ABSORBTION.effect.level20": {
-        "en": "",
+        "en": "DMG RD +3%",
         "fr": "Réduction de Dégâts +3%",
         "es": "",
         "ch": "",
@@ -4824,7 +4824,7 @@
         "id": ""
     },
     "skills.TML_LIFE_FORCE.name": {
-        "en": "",
+        "en": "Life Force",
         "fr": "Énergie Vitale",
         "es": "",
         "ch": "",
@@ -4842,7 +4842,7 @@
         "id": ""
     },
     "skills.TML_LIFE_FORCE.effect": {
-        "en": "",
+        "en": "Every 1040 points of HP increases your Holy Attack by {0}",
         "fr": "Tous les 1040 PV, augmente l'Attaque Sacrée de {0}",
         "es": "",
         "ch": "",
@@ -4860,7 +4860,7 @@
         "id": ""
     },
     "skills.TML_LIFE_FORCE.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +2%",
         "fr": "Augmente Précision Compétence de 2%",
         "es": "",
         "ch": "",
@@ -4878,8 +4878,8 @@
         "id": ""
     },
     "skills.TML_LIFE_FORCE.effect.level15": {
-        "en": "",
-        "fr": ".Précision Critique et Précision Compétence Critique +2%",
+        "en": "Crit Accuracy and Skill Crit Accuracy +2%",
+        "fr": "Précision Critique et Précision Compétence Critique +2%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4896,7 +4896,7 @@
         "id": ""
     },
     "skills.TML_LIFE_FORCE.effect.level20": {
-        "en": "",
+        "en": "Max HP +450",
         "fr": "PV max +450",
         "es": "",
         "ch": "",
