@@ -2772,7 +2772,7 @@
         "id": ""
     },
     "skills.TMD_THUNDER_DOMINATION.name": {
-        "en": "",
+        "en": "Thunder Domination",
         "fr": "Domination Foudroyante",
         "es": "",
         "ch": "",
@@ -2790,7 +2790,7 @@
         "id": ""
     },
     "skills.TMD_THUNDER_DOMINATION.effect": {
-        "en": "",
+        "en": "Increases Base damage of Thunder by {0}",
         "fr": "Augmente les dégâts de base d'Éclair de {0}",
         "es": "",
         "ch": "",
@@ -2808,7 +2808,7 @@
         "id": ""
     },
     "skills.TMD_THUNDER_DOMINATION.effect.level10": {
-        "en": "",
+        "en": "Base damage of Thunder +132",
         "fr": "Dégâts de base d'Éclair +132",
         "es": "",
         "ch": "",
@@ -2826,7 +2826,7 @@
         "id": ""
     },
     "skills.TMD_THUNDER_DOMINATION.effect.level15": {
-        "en": "",
+        "en": "When Thunder hits, it lowers target's DMG RD by 2% for 40 sec. Can stack up to 5 times.",
         "fr": "Quand Éclair touche, il réduit la Réduction de Dégâts de la cible de 4% pendant 40sec. Peut se cumuler 5 fois.",
         "es": "",
         "ch": "",
@@ -2844,7 +2844,7 @@
         "id": ""
     },
     "skills.TMD_THUNDER_DOMINATION.effect.level20": {
-        "en": "",
+        "en": "Cooldown of Thunder -1 sec",
         "fr": "Réduis le Temps de Recharge d'Éclair de -1 sec",
         "es": "",
         "ch": "",
@@ -2862,7 +2862,7 @@
         "id": ""
     },
     "skills.TMD_OVERDRIVE.name": {
-        "en": "",
+        "en": "Overdrive",
         "fr": "Surcharge",
         "es": "",
         "ch": "",
@@ -2880,7 +2880,7 @@
         "id": ""
     },
     "skills.TMD_OVERDRIVE.effect": {
-        "en": "",
+        "en": "Increases Enhanced Damage by 120%. Lasts 5 sec.",
         "fr": "Augmente les Dégâts Améliorés de 120%. Durée 5 sec.",
         "es": "",
         "ch": "",
@@ -2898,7 +2898,7 @@
         "id": ""
     },
     "skills.TMD_CHAIN_CASTING.name": {
-        "en": "",
+        "en": "Chain Casting",
         "fr": "Chaîne de sorts",
         "es": "",
         "ch": "",
@@ -2916,7 +2916,7 @@
         "id": ""
     },
     "skills.TMD_CHAIN_CASTING.effect": {
-        "en": "",
+        "en": "When casting Fire Bolt, Magic Bolt, Thunder or Devastate you have {0}% chance to cast the spell twice.",
         "fr": "Quand vous lancez Boule de Feu, Missile Magique, Éclair ou Dévastation, vous avez {0}% de chance de lancer le sort 2 fois.",
         "es": "",
         "ch": "",
@@ -2934,7 +2934,7 @@
         "id": ""
     },
     "skills.TMD_CHAIN_CASTING.effect.level10": {
-        "en": "",
+        "en": "Increases chance to cast twice in a row by 2%",
         "fr": "Augmente la chance de le lancer 2 fois de suite de 2%",
         "es": "",
         "ch": "",
@@ -2952,7 +2952,7 @@
         "id": ""
     },
     "skills.TMD_CHAIN_CASTING.effect.level15": {
-        "en": "",
+        "en": "Increases chance to cast twice in a row by 3%",
         "fr": "Augmente la chance de le lancer 2 fois de suite de 3%",
         "es": "",
         "ch": "",
@@ -2970,7 +2970,7 @@
         "id": ""
     },
     "skills.TMD_CHAIN_CASTING.effect.level20": {
-        "en": "",
+        "en": "Skill Accuracy +4%",
         "fr": "Précision Compétence +4%",
         "es": "",
         "ch": "",
@@ -2988,7 +2988,7 @@
         "id": ""
     },
     "skills.TMD_SILENCE_CURSE.name": {
-        "en": "",
+        "en": "Enhanced Silence Curse",
         "fr": "Silence Amélioré",
         "es": "",
         "ch": "",
@@ -3006,7 +3006,7 @@
         "id": ""
     },
     "skills.TMD_SILENCE_CURSE.effect": {
-        "en": "",
+        "en": "Increases Damage done by Silence Curse by {0}",
         "fr": "Augmente les dégâts de Silence de {0}",
         "es": "",
         "ch": "",
@@ -3024,7 +3024,7 @@
         "id": ""
     },
     "skills.TMD_SILENCE_CURSE.effect.level10": {
-        "en": "",
+        "en": "Cooldown time of Silence Curse by 5 sec.",
         "fr": "Réduis le Temps de Recharge de Silence de 5 sec.",
         "es": "",
         "ch": "",
@@ -3042,7 +3042,7 @@
         "id": ""
     },
     "skills.TMD_SILENCE_CURSE.effect.level15": {
-        "en": "",
+        "en": "Damage of Silence Curse +200",
         "fr": "Dégâts de Silence +200",
         "es": "",
         "ch": "",
@@ -3060,7 +3060,7 @@
         "id": ""
     },
     "skills.TMD_SILENCE_CURSE.effect.level20": {
-        "en": "",
+        "en": "Lowers the DMG RD of Silenced target by 5%",
         "fr": "Réduis RD DGTS de la cible de 5%",
         "es": "",
         "ch": "",
@@ -3078,7 +3078,7 @@
         "id": ""
     },
     "skills.TMD_DEVASTATE.name": {
-        "en": "",
+        "en": "Devastate",
         "fr": "Dévastation",
         "es": "",
         "ch": "",
@@ -3096,7 +3096,7 @@
         "id": ""
     },
     "skills.TMD_DEVASTATE.effect": {
-        "en": "",
+        "en": "Deals 200% Magic damage and an additional 800 damage.",
         "fr": "Inflige 200% de dégâts magiques et 800 dégâts supplémentaires.",
         "es": "",
         "ch": "",
@@ -3114,7 +3114,7 @@
         "id": ""
     },
     "skills.TMD_SPIRIT_RECHARGE.name": {
-        "en": "",
+        "en": "Spirit Recharge",
         "fr": "Recharge Spirituelle",
         "es": "",
         "ch": "",
@@ -3132,7 +3132,7 @@
         "id": ""
     },
     "skills.TMD_SPIRIT_RECHARGE.effect": {
-        "en": "",
+        "en": "Increases max MP {0}",
         "fr": "Augmente les PM max de {0}. ",
         "es": "",
         "ch": "",
@@ -3150,7 +3150,7 @@
         "id": ""
     },
     "skills.TMD_SPIRIT_RECHARGE.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +1%",
         "fr": "Précision Compétence +1%",
         "es": "",
         "ch": "",
@@ -3168,7 +3168,7 @@
         "id": ""
     },
     "skills.TMD_SPIRIT_RECHARGE.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +2%",
         "fr": "Précision Compétence Critique +2%",
         "es": "",
         "ch": "",
@@ -3186,8 +3186,8 @@
         "id": ""
     },
     "skills.TMD_SPIRIT_RECHARGE.effect.level20": {
-        "en": "",
-        "fr": "Augmente tes PV max d'un équivalent à 100% de tes PM max",
+        "en": "Increases your max HP by 100% of your max MP",
+        "fr": "Augmente les PV max d'un équivalent à 100% des PM max",
         "es": "",
         "ch": "",
         "kr": "",
@@ -3204,7 +3204,7 @@
         "id": ""
     },
     "skills.TMD_MYSTIC_BOND.name": {
-        "en": "",
+        "en": "Mystic Bond",
         "fr": "Lien Mystique",
         "es": "",
         "ch": "",
@@ -3222,7 +3222,7 @@
         "id": ""
     },
     "skills.TMD_MYSTIC_BOND.effect": {
-        "en": "",
+        "en": "Transforms mage into an arcane wizard, increasing damage by 50% of max MP. Also recovers 10 MP per sec. Lasts 30 sec.",
         "fr": "Transforme le Mage en Sorcier des Arcanes, augmente les dégâts de 50 des MP max. Récupère 10 PM par sec. Durée 30 sec",
         "es": "",
         "ch": "",
@@ -3240,7 +3240,7 @@
         "id": ""
     },
     "skills.TMD_DOOM_PULSE.name": {
-        "en": "",
+        "en": "Doom Pulse",
         "fr": "Pulsation Mortelle",
         "es": "",
         "ch": "",
@@ -3258,7 +3258,7 @@
         "id": ""
     },
     "skills.TMD_DOOM_PULSE.effect": {
-        "en": "",
+        "en": "Attacks up to 10 targets within a fan-like area in front of you, dealing 220% damage. Also has a 5% chance to Stun targets for 1 sec.",
         "fr": "Attaque jusqu'à 10 cibles dans un cône en face de vous, inflige 220% de dégâts. A 5% de chance d'étourdir les cibles pendant 1 sec",
         "es": "",
         "ch": "",
@@ -3276,7 +3276,7 @@
         "id": ""
     },
     "skills.TMD_MAGIC_ENERGY.name": {
-        "en": "",
+        "en": "Magic Energy",
         "fr": "Énergie Divine",
         "es": "",
         "ch": "",
@@ -3294,7 +3294,7 @@
         "id": ""
     },
     "skills.TMD_MAGIC_ENERGY.effect": {
-        "en": "",
+        "en": "Each 41 MP can increase Holy Attack by {0}.",
         "fr": "Tous les 41 PM, augmente l'ATQ Sacrée de {0}",
         "es": "",
         "ch": "",
@@ -3312,7 +3312,7 @@
         "id": ""
     },
     "skills.TMD_MAGIC_ENERGY.effect.level10": {
-        "en": "",
+        "en": "MP max +300",
         "fr": "PM max +300",
         "es": "",
         "ch": "",
@@ -3330,7 +3330,7 @@
         "id": ""
     },
     "skills.TMD_MAGIC_ENERGY.effect.level15": {
-        "en": "",
+        "en": "Skill Accuracy +5%",
         "fr": "Précision de Compétence +5%",
         "es": "",
         "ch": "",
@@ -3348,7 +3348,7 @@
         "id": ""
     },
     "skills.TMD_MAGIC_ENERGY.effect.level20": {
-        "en": "",
+        "en": "Skill Enhance +5%",
         "fr": "Précision Compétence Critique +5%",
         "es": "",
         "ch": "",
@@ -3366,7 +3366,7 @@
         "id": ""
     },
     "skills.TMD_LIGHTNING_FURY.name": {
-        "en": "Lôi Điện Cuồng Nộ",
+        "en": "Lightening Fury",
         "fr": "Fureur des Cieux",
         "es": "",
         "ch": "",
@@ -3376,7 +3376,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "",
+        "vi": "Lôi Điện Cuồng Nộ",
         "ar": "",
         "it": "",
         "pl": "",
@@ -3384,7 +3384,7 @@
         "id": ""
     },
     "skills.TMD_LIGHTNING_FURY.effect": {
-        "en": "",
+        "en": "Electric Storm can injure 5 random targets at the same time.",
         "fr": "Tempête Électrique peut blesser 5 cibles aléatoires en même temps.",
         "es": "",
         "ch": "",
