@@ -3402,7 +3402,7 @@
         "id": ""
     },
     "skills.TMB_HEART_OF_NATURE.name": {
-        "en": "",
+        "en": "Heart of Nature",
         "fr": "Coeur Pur",
         "es": "",
         "ch": "",
@@ -3420,8 +3420,8 @@
         "id": ""
     },
     "skills.TMB_HEART_OF_NATURE.effect": {
-        "en": "",
-        "fr": "Augmente l'Attaque Sacrée de {0} et les PM max de {0}",
+        "en": "Increases Holy Attack by {0} and max MP by {1}",
+        "fr": "Augmente l'Attaque Sacrée de {0} et les PM max de {1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -3430,7 +3430,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng {0} Công Kích Thần Thánh và {0} Năng Lượng Tối Đa.",
+        "vi": "Tăng {0} Công Kích Thần Thánh và {1} Năng Lượng Tối Đa.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -3438,7 +3438,7 @@
         "id": ""
     },
     "skills.TMB_HEART_OF_NATURE.effect.level10": {
-        "en": "",
+        "en": "MP Recovery +10",
         "fr": "Régénération de PM +10",
         "es": "",
         "ch": "",
@@ -3456,7 +3456,7 @@
         "id": ""
     },
     "skills.TMB_HEART_OF_NATURE.effect.level15": {
-        "en": "",
+        "en": "Base ATK +12",
         "fr": "ATQ de Base +12",
         "es": "",
         "ch": "",
@@ -3474,7 +3474,7 @@
         "id": ""
     },
     "skills.TMB_HEART_OF_NATURE.effect.level20": {
-        "en": "",
+        "en": "Skill Accuracy +5%",
         "fr": "Augmente Précision Compétence de 5%",
         "es": "",
         "ch": "",
@@ -3492,7 +3492,7 @@
         "id": ""
     },
     "skills.TMB_ARCANE_BOOST.name": {
-        "en": "",
+        "en": "Arcane Boost",
         "fr": "Stimulation Arcanique",
         "es": "",
         "ch": "",
@@ -3510,7 +3510,7 @@
         "id": ""
     },
     "skills.TMB_ARCANE_BOOST.effect": {
-        "en": "",
+        "en": "When you do a Skill Crit hit, the Skill damage of your next Skill attack is increased by {0}%. Lasts 5 sec. Cannot occur more than once every 5 sec.",
         "fr": "Quand vous touchez un Sort Critique, votre prochain sort voit ses dégâts augmentés de {0}%. Dure 5 sec. Ne peut s'activer qu'une fois toutes les 5 sec.",
         "es": "",
         "ch": "",
@@ -3528,7 +3528,7 @@
         "id": ""
     },
     "skills.TMB_ARCANE_BOOST.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -3546,7 +3546,7 @@
         "id": ""
     },
     "skills.TMB_ARCANE_BOOST.effect.level15": {
-        "en": "",
+        "en": "Max MP +50",
         "fr": "PM max +50",
         "es": "",
         "ch": "",
@@ -3564,7 +3564,7 @@
         "id": ""
     },
     "skills.TMB_ARCANE_BOOST.effect.level20": {
-        "en": "",
+        "en": "Magic damage reduction +10%",
         "fr": "Réduction des dégâts magique +10%",
         "es": "",
         "ch": "",
@@ -3582,7 +3582,7 @@
         "id": ""
     },
     "skills.TMB_ENHANCE_FREEZE.name": {
-        "en": "",
+        "en": "Enhanced Freeze",
         "fr": "Gel Amélioré",
         "es": "",
         "ch": "",
@@ -3600,7 +3600,7 @@
         "id": ""
     },
     "skills.TMB_ENHANCE_FREEZE.effect": {
-        "en": "",
+        "en": "Frozen targets has a {0}% chance to remain frozen when attacked next 2 times.",
         "fr": "Les cibles gelées ont {0}% de chances de rester gelées lors des 2 prochaines attaques.",
         "es": "",
         "ch": "",
@@ -3618,7 +3618,7 @@
         "id": ""
     },
     "skills.TMB_ENHANCE_FREEZE.effect.level10": {
-        "en": "",
+        "en": "Frozen duration +1 sec.",
         "fr": "Durée du Gel +1 sec.",
         "es": "",
         "ch": "",
@@ -3636,7 +3636,7 @@
         "id": ""
     },
     "skills.TMB_ENHANCE_FREEZE.effect.level15": {
-        "en": "",
+        "en": "Cooldown of Freeze -1",
         "fr": "Temps de Recharge de Gel -1",
         "es": "",
         "ch": "",
@@ -3654,7 +3654,7 @@
         "id": ""
     },
     "skills.TMB_ENHANCE_FREEZE.effect.level20": {
-        "en": "",
+        "en": "Cooldown of Freeze -2",
         "fr": "Temps de Recharge de Gel -2",
         "es": "",
         "ch": "",
@@ -3672,7 +3672,7 @@
         "id": ""
     },
     "skills.TMB_BLESS.name": {
-        "en": "",
+        "en": "Bless",
         "fr": "Bénédiction",
         "es": "",
         "ch": "",
@@ -3690,7 +3690,7 @@
         "id": ""
     },
     "skills.TMB_BLESS.effect": {
-        "en": "",
+        "en": "Max HP +500, Holy Attack +30, Skill Crit Accuracy +20. Lasts 30 min.",
         "fr": "PV max +500, Attaque Sacrée +30, Précision Compétence Critique +20. Durée 30 min.",
         "es": "",
         "ch": "",
@@ -3708,7 +3708,7 @@
         "id": ""
     },
     "skills.TMB_LIFE_SAP.name": {
-        "en": "",
+        "en": "Life Sap",
         "fr": "Vol-vie",
         "es": "",
         "ch": "",
@@ -3726,7 +3726,7 @@
         "id": ""
     },
     "skills.TMB_LIFE_SAP.effect": {
-        "en": "",
+        "en": "When Skill deals damage, it has a 60% chance to deal an addiotional damage of {0}% of target's current HP. Cannot occur more than once in 1 sec.",
         "fr": "Quand vous infligez des dégâts avec un sort, il a 60% de chance d'infliger des dégâts additionnels équivalent à {0}% des PV actuels de la cible. Ne peut s'activer qu'une fois par 1 sec",
         "es": "",
         "ch": "",
@@ -3744,7 +3744,7 @@
         "id": ""
     },
     "skills.TMB_LIFE_SAP.effect.level10": {
-        "en": "",
+        "en": "Base ATK +13",
         "fr": "ATQ de Base +13",
         "es": "",
         "ch": "",
@@ -3762,7 +3762,7 @@
         "id": ""
     },
     "skills.TMB_LIFE_SAP.effect.level15": {
-        "en": "",
+        "en": "Accuracy and Skill Accuracy +2%",
         "fr": "Précision et Précision Compétence +2%",
         "es": "",
         "ch": "",
@@ -3780,7 +3780,7 @@
         "id": ""
     },
     "skills.TMB_LIFE_SAP.effect.level20": {
-        "en": "",
+        "en": "Enhances Sap effect +1%",
         "fr": "Améliore Vol-vie de 1%",
         "es": "",
         "ch": "",
@@ -3798,7 +3798,7 @@
         "id": ""
     },
     "skills.TMB_MAGE_ARMOR.name": {
-        "en": "",
+        "en": "Mage Armor",
         "fr": "Armure Magique",
         "es": "",
         "ch": "",
@@ -3816,7 +3816,7 @@
         "id": ""
     },
     "skills.TMB_MAGE_ARMOR.effect": {
-        "en": "",
+        "en": "Increases DMG RD by {0}%",
         "fr": "Augmente la Réductions de Dégâts de {0}%",
         "es": "",
         "ch": "",
@@ -3834,7 +3834,7 @@
         "id": ""
     },
     "skills.TMB_MAGE_ARMOR.effect.level10": {
-        "en": "",
+        "en": "Skill ENHC +4%",
         "fr": "Comp Améliorée +4%",
         "es": "",
         "ch": "",
@@ -3852,7 +3852,7 @@
         "id": ""
     },
     "skills.TMB_MAGE_ARMOR.effect.level15": {
-        "en": "",
+        "en": "Max HP +600",
         "fr": "PV max +600",
         "es": "",
         "ch": "",
@@ -3870,7 +3870,7 @@
         "id": ""
     },
     "skills.TMB_MAGE_ARMOR.effect.level20": {
-        "en": "",
+        "en": "Skill Crit Accuracy +5%",
         "fr": "Précision Compétence Critique +5%",
         "es": "",
         "ch": "",
@@ -3888,7 +3888,7 @@
         "id": ""
     },
     "skills.TMB_TRANSFORM.name": {
-        "en": "",
+        "en": "Transform",
         "fr": "Polymorphe",
         "es": "",
         "ch": "",
@@ -3906,7 +3906,7 @@
         "id": ""
     },
     "skills.TMB_TRANSFORM.effect": {
-        "en": "",
+        "en": "Transporms the target into an animal. Lowers its SPD by 60%, disabling it from attacking or using skills. Lasts 3 sec.",
         "fr": "Transforme la cible. Réduit sa VIT de 60% et l'empêche d'attaquer ou d'utiliser des sorts. Dure 3 sec.",
         "es": "",
         "ch": "",
@@ -3924,7 +3924,7 @@
         "id": ""
     },
     "skills.TMB_ENH_FROST_BREATH.name": {
-        "en": "",
+        "en": "Enhanced Frost Breath",
         "fr": "Soufflé Glacé Amélioré",
         "es": "",
         "ch": "",
@@ -3942,7 +3942,7 @@
         "id": ""
     },
     "skills.TMB_ENH_FROST_BREATH.effect": {
-        "en": "",
+        "en": "Increases damage done by Frost Breath by {0}",
         "fr": "Augmente les dégâts de Souffle Glacé de {0}",
         "es": "",
         "ch": "",
@@ -3960,7 +3960,7 @@
         "id": ""
     },
     "skills.TMB_ENH_FROST_BREATH.effect.level10": {
-        "en": "",
+        "en": "Damage of Frost Breath +20",
         "fr": "Dégâts de Souffle Glacé +20",
         "es": "",
         "ch": "",
@@ -3978,7 +3978,7 @@
         "id": ""
     },
     "skills.TMB_ENH_FROST_BREATH.effect.level15": {
-        "en": "",
+        "en": "Increases effect range of Frost Breath by 5 yards",
         "fr": "Augmente la portée d'effet de Souffle Glacé de 5 Mètres",
         "es": "",
         "ch": "",
@@ -3988,7 +3988,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng phạm vi tác dụng của Tiếng Gầm Băng Giá thêm 5 mét.",
+        "vi": "Tăng phạm vi tác dụng của Tiếng Gầm Băng Giá thêm 5 mét",
         "ar": "",
         "it": "",
         "pl": "",
@@ -3996,8 +3996,8 @@
         "id": ""
     },
     "skills.TMB_ENH_FROST_BREATH.effect.level20": {
-        "en": "",
-        "fr": "Souffle glacé ralenti la cible de 50% pendant 3 sec.",
+        "en": "Frost Breath Slows the target by 50% for 3 sec",
+        "fr": "Souffle glacé ralenti la cible de 50% pendant 3 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4006,7 +4006,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tiếng Gầm Băng Giá làm Chậm mục tiêu 50% trong vòng 3 giây.",
+        "vi": "Tiếng Gầm Băng Giá làm Chậm mục tiêu 50% trong vòng 3 giây",
         "ar": "",
         "it": "",
         "pl": "",
@@ -4014,7 +4014,7 @@
         "id": ""
     },
     "skills.TMB_BALANCED_MIND.name": {
-        "en": "",
+        "en": "Balanced Mind",
         "fr": "Équilibre Spirituel",
         "es": "",
         "ch": "",
@@ -4032,8 +4032,8 @@
         "id": ""
     },
     "skills.TMB_BALANCED_MIND.effect": {
-        "en": "",
-        "fr": "Augmente les Dégâts Améliorés de {0}% et les RD DGTS de {0}%",
+        "en": "Increases Enhanced Damage by {0}% and DMG RD by {1}%",
+        "fr": "Augmente les Dégâts Améliorés de {0}% et les RD DGTS de {1}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4042,7 +4042,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Cộng thêm {0}% Tăng Sát Thương và {0}% Giảm Sát Thương.",
+        "vi": "Cộng thêm {0}% Tăng Sát Thương và {1}% Giảm Sát Thương.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -4050,7 +4050,7 @@
         "id": ""
     },
     "skills.TMB_BALANCED_MIND.effect.level10": {
-        "en": "",
+        "en": "DMG RD +2%",
         "fr": "Réduction de Dégâts +2%",
         "es": "",
         "ch": "",
@@ -4068,7 +4068,7 @@
         "id": ""
     },
     "skills.TMB_BALANCED_MIND.effect.level15": {
-        "en": "",
+        "en": "Max HP +800",
         "fr": "PV max +800",
         "es": "",
         "ch": "",
@@ -4086,7 +4086,7 @@
         "id": ""
     },
     "skills.TMB_BALANCED_MIND.effect.level20": {
-        "en": "",
+        "en": "Enhanced Damage +3%",
         "fr": "Dégâts Améliorés +3%",
         "es": "",
         "ch": "",
@@ -4104,7 +4104,7 @@
         "id": ""
     },
     "skills.TMB_EQUILIBRIUM.name": {
-        "en": "",
+        "en": "Equilibrium",
         "fr": "Equilibrium",
         "es": "",
         "ch": "",
@@ -4122,7 +4122,7 @@
         "id": ""
     },
     "skills.TMB_EQUILIBRIUM.effect": {
-        "en": "",
+        "en": "Heal all targets within 12 yards, recovering their HP by 75% of your Attack power. Also deals 100% damage and an additional 300 damage to all targets in the area of effect.",
         "fr": "Soignez toutes les cibles situées dans un rayon de 12 mètres, en augmentant leurs HP de 75% de votre puissance d'attaque. Inflige également 100% des dégâts et 300 dégâts supplémentaires à toutes les cibles dans la zone d'effet.",
         "es": "",
         "ch": "",
@@ -4140,7 +4140,7 @@
         "id": ""
     },
     "skills.TMB_BARREN.name": {
-        "en": "",
+        "en": "Barren",
         "fr": "Aréique",
         "es": "",
         "ch": "",
@@ -4158,7 +4158,7 @@
         "id": ""
     },
     "skills.TMB_BARREN.effect": {
-        "en": "",
+        "en": "Increases Crit chance of Mage's AOE skills (Fire Wall, Frost Breath, Equilibrium and Murky Rush) by {0}%",
         "fr": "Augmente les Chances Critiques des Sorts à Effets de Zone (Mur de Feu, Souffle Glacé, Equilibrium, Mine Arcanique) de {0}%",
         "es": "",
         "ch": "",
@@ -4176,7 +4176,7 @@
         "id": ""
     },
     "skills.TMB_BARREN.effect.level10": {
-        "en": "",
+        "en": "Skill Crit Accuracy +1%",
         "fr": "Précision Compétence Critique 1%",
         "es": "",
         "ch": "",
@@ -4194,7 +4194,7 @@
         "id": ""
     },
     "skills.TMB_BARREN.effect.level15": {
-        "en": "",
+        "en": "Skill Crit ENHC +5%",
         "fr": "Compétence Critique Améliorée +5%",
         "es": "",
         "ch": "",
@@ -4212,7 +4212,7 @@
         "id": ""
     },
     "skills.TMB_BARREN.effect.level20": {
-        "en": "",
+        "en": "Increases Crit chance of Mage's AOE skills (Fire Wall, Frost Breath, Equilibrium and Murky Rush) by 5%",
         "fr": "Augmente les Chances Critiques des Sorts à Effets de Zone (Mur de Feu, Souffle Glacé, Equilibrium, Mine Arcanique) de 5%",
         "es": "",
         "ch": "",
@@ -4230,7 +4230,7 @@
         "id": ""
     },
     "skills.TMB_MURKY_RUSH.name": {
-        "en": "",
+        "en": "Murky Rush",
         "fr": "Mine Arcanique",
         "es": "",
         "ch": "",
@@ -4248,7 +4248,7 @@
         "id": ""
     },
     "skills.TMB_MURKY_RUSH.effect": {
-        "en": "",
+        "en": "Deploy an arcane seed at the targeted place. After 5 sec. inflicts damage to all targets within 72 yards, causing 200% damage and an additional 500 Skill damage. Also Silences targets in the next 2 sec. and deals 60 Holy damage.",
         "fr": "Déploie une graine arcanique a l'endroit ciblé. Après 5sec, inflige des dégâts à toutes les cibles dans un rayon de 72 mètres, causant 200% de dégâts et 500 dégâts supplémentaires. Réduit les cibles au silence pendant 2 sec et inflige 60 de Dégâts Sacrée",
         "es": "",
         "ch": "",
@@ -4266,7 +4266,7 @@
         "id": ""
     },
     "skills.TMB_MURKY_SHIELD.name": {
-        "en": "",
+        "en": "Murky Shield",
         "fr": "Bouclier Arcanique",
         "es": "",
         "ch": "",
@@ -4284,7 +4284,7 @@
         "id": ""
     },
     "skills.TMB_MURKY_SHIELD.effect": {
-        "en": "",
+        "en": "Creates an Murky Shield for the target, boosting its Enhanced Damage by 10%. Also inflicts 90 Holy damage to nearby enemies. Lasts 10 sec.",
         "fr": "Créer un Bouclier Arcanique sur la cible, augmentant ses Dégâts Améliorés de 10%. Inflige 90 Dégâts Sacrée aux ennemies proche. Dure 10 sec",
         "es": "",
         "ch": "",
@@ -4302,7 +4302,7 @@
         "id": ""
     },
     "skills.TMB_MAGIC_BLADE.name": {
-        "en": "",
+        "en": "Magic Blade",
         "fr": "Lame Enchantée",
         "es": "",
         "ch": "",
@@ -4320,7 +4320,7 @@
         "id": ""
     },
     "skills.TMB_MAGIC_BLADE.effect": {
-        "en": "",
+        "en": "Each 5 normal attacks has a {0}% chance to trigger Magic Blade, dealing damage equal to 100% of attack bonus.",
         "fr": "Toutes les 5 attaques normales, vous avez {0}% d'activer Lame Enchanté, infligeant des dégâts équivalent à 100% de l'attaque bonus.",
         "es": "",
         "ch": "",
@@ -4338,7 +4338,7 @@
         "id": ""
     },
     "skills.TMB_MAGIC_BLADE.effect.level10": {
-        "en": "",
+        "en": "Magic Blade will definitely hit the target.",
         "fr": "Lame Enchantée ne peut pas échouer.",
         "es": "",
         "ch": "",
@@ -4356,7 +4356,7 @@
         "id": ""
     },
     "skills.TMB_MAGIC_BLADE.effect.level15": {
-        "en": "",
+        "en": "Attack Speed +20%",
         "fr": "Vitesse d'Attaque +20%",
         "es": "",
         "ch": "",
@@ -4374,7 +4374,7 @@
         "id": ""
     },
     "skills.TMB_MAGIC_BLADE.effect.level20": {
-        "en": "",
+        "en": "Magic Blade decreases target's movement speed by 50",
         "fr": "Lame Enchantée réduit la vitesse de déplacement de la cible de 50",
         "es": "",
         "ch": "",
@@ -4392,7 +4392,7 @@
         "id": ""
     },
     "skills.TMB_HIGH_FREQUENCY_ELECTRICITY.name": {
-        "en": "",
+        "en": "High Frequency Electricity",
         "fr": "Haute Tension",
         "es": "",
         "ch": "",
@@ -4410,7 +4410,7 @@
         "id": ""
     },
     "skills.TMB_HIGH_FREQUENCY_ELECTRICITY.effect": {
-        "en": "",
+        "en": "Electric Storm has a 50% chance to stun the target. Lasts 1 second",
         "fr": "Tempête Électrique a 50% de chance d'étourdir la cible pendant 1 seconde",
         "es": "",
         "ch": "",
@@ -4420,7 +4420,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Lôi Bão có 50% khả năng làm Choáng mục tiêu. Có hiệu lực trong 1 giây.",
+        "vi": "Lôi Bão có 50% khả năng làm Choáng mục tiêu. Có hiệu lực trong 1 giây",
         "ar": "",
         "it": "",
         "pl": "",
@@ -4428,7 +4428,7 @@
         "id": ""
     },
     "skills.TML_SACRED_MIND.name": {
-        "en": "",
+        "en": "Sacred Mind",
         "fr": "Sacre Spirituel",
         "es": "",
         "ch": "",
@@ -4446,7 +4446,7 @@
         "id": ""
     },
     "skills.TML_SACRED_MIND.effect": {
-        "en": "",
+        "en": "Increase Enhanced Damage by {0}%",
         "fr": "Augemente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -4464,7 +4464,7 @@
         "id": ""
     },
     "skills.TML_SACRED_MIND.effect.level10": {
-        "en": "",
+        "en": "MP Recovery +10",
         "fr": "Régénération de PM +10",
         "es": "",
         "ch": "",
@@ -4482,7 +4482,7 @@
         "id": ""
     },
     "skills.TML_SACRED_MIND.effect.level15": {
-        "en": "",
+        "en": "Max MP +50",
         "fr": "PM max +50",
         "es": "",
         "ch": "",
@@ -4500,7 +4500,7 @@
         "id": ""
     },
     "skills.TML_SACRED_MIND.effect.level20": {
-        "en": "",
+        "en": "Base ATK +30",
         "fr": "ATQ de Base +30",
         "es": "",
         "ch": "",
@@ -4518,7 +4518,7 @@
         "id": ""
     },
     "skills.TML_ENHC_MAGIC_BOLT.name": {
-        "en": "",
+        "en": "Enhanced Magic Bolt",
         "fr": "Missile Magique Amélioré",
         "es": "",
         "ch": "",
@@ -4536,7 +4536,7 @@
         "id": ""
     },
     "skills.TML_ENHC_MAGIC_BOLT.effect": {
-        "en": "",
+        "en": "Increases Base damage of Magic Bolt by {0}",
         "fr": "Augmente les dégâts de Missile Magique de {0}",
         "es": "",
         "ch": "",
@@ -4554,7 +4554,7 @@
         "id": ""
     },
     "skills.TML_ENHC_MAGIC_BOLT.effect.level10": {
-        "en": "",
+        "en": "Base damage of Magic Bolt +100",
         "fr": "Dégâts de Missile Magique +100",
         "es": "",
         "ch": "",
@@ -4572,7 +4572,7 @@
         "id": ""
     },
     "skills.TML_ENHC_MAGIC_BOLT.effect.level15": {
-        "en": "",
+        "en": "Crit chance of Magic Bolt +5%",
         "fr": "Augmente les Chances Critiques de Missile Magique de +5%",
         "es": "",
         "ch": "",
@@ -4590,7 +4590,7 @@
         "id": ""
     },
     "skills.TML_ENHC_MAGIC_BOLT.effect.level20": {
-        "en": "",
+        "en": "Magic Bolt has a 5% chance to Stun target for 2 sec.",
         "fr": "Missile Magique a 5% de chance d'étourdir un ennemi pendant 2 sec",
         "es": "",
         "ch": "",
