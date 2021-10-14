@@ -2357,6 +2357,24 @@
         "th":"",
         "id":""
     },
+	"talent.expertise":{
+        "en":"Expertise",
+        "fr":"Spécialisation",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "skills.TMD_STAFF_EXPERTISE.name":{
         "en":"Staff Expertise",
         "fr":"Expertise des Arcanes",
@@ -2394,8 +2412,8 @@
         "id":""
     },
     "skills.TMD_STAFF_EXPERTISE.effect.level10":{
-        "en":"Expertise +10: Base ATK +8",
-        "fr":"Spécialisation +10: ATQ de Base +8",
+        "en":"Base ATK +8",
+        "fr":"ATQ de Base +8",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2412,8 +2430,8 @@
         "id":""
     },
     "skills.TMD_STAFF_EXPERTISE.effect.level15":{
-        "en":"Expertise +15: Skill Accuracy +3%",
-        "fr":"Spécialisation +15: Précision de Compétences +3%",
+        "en":"Skill Accuracy +3%",
+        "fr":"Précision de Compétences +3%",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2430,8 +2448,8 @@
         "id":""
     },
     "skills.TMD_STAFF_EXPERTISE.effect.level20":{
-        "en":"Expertise +20: Skill Crit Accuracy +4%",
-        "fr":"Spécialisation +20: Précision Compétence Critique +4%",
+        "en":"Skill Crit Accuracy +4%",
+        "fr":"Précision Compétence Critique +4%",
         "es":"",
         "ch":"",
         "kr":"",
@@ -9073,7 +9091,7 @@
     },
     "skills.TWB_ENHC_TERMINATE.effect.level10": {
         "en": "",
-        "fr": Dégâts de Frappe Mortelle +330"",
+        "fr": "Dégâts de Frappe Mortelle +330",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9865,7 +9883,7 @@
     },
     "skills.TWM_SAVAGE.effect": {
         "en": "",
-        "fr": Augmente l'Amélioration Critique de {0}%"",
+        "fr": "Augmente l'Amélioration Critique de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
