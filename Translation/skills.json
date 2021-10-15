@@ -7236,8 +7236,8 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect": {
-        "en": "",
-        "fr": "Les dégâts de Flèches Multiples sont augmentés de {0}.",
+        "en": "Increases damage done by Multi-Arrow by {0}",
+        "fr": "Les dégâts de Flèches Multiples sont augmentés de {0}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7254,8 +7254,8 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect.level10": {
-        "en": "",
-        "fr": "Les dégâts de Flèches Multiples sont augmentés de  200.",
+        "en": "Damage done by Multi-Arrow +200",
+        "fr": "Les dégâts de Flèches Multiples sont augmentés de 200",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7272,8 +7272,8 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect.level15": {
-        "en": "",
-        "fr": "Flèche Multiple ralenti les cibles de 20% pendant 3 sec.",
+        "en": "Multi-Arrow Slows target by 20% for 3 sec",
+        "fr": "Flèche Multiple ralenti les cibles de 20% pendant 3 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7290,7 +7290,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect.level20": {
-        "en": "",
+        "en": "Crit chance of Multi-Arrow +8%",
         "fr": "Compétence Critique de Flèches Multiples augmentée de 8%",
         "es": "",
         "ch": "",
@@ -7308,7 +7308,7 @@
         "id": ""
     },
     "skills.TRH_VOLLEY.name": {
-        "en": "",
+        "en": "Volley",
         "fr": "Vollée",
         "es": "",
         "ch": "",
@@ -7326,7 +7326,7 @@
         "id": ""
     },
     "skills.TRH_VOLLEY.effect": {
-        "en": "",
+        "en": "Suppress targeted area, dealing 180% damage to all targets. Also lowers target's SPD by 10% for 8 sec. Stacks up to 3 times.",
         "fr": "Supprime la zone ciblée, infligeant 180% de dégâts à tous les ennemis. Réduis la Vitesse des cibles de 10% pendant 8 sec. Peut s'accumuler 3 fois.",
         "es": "",
         "ch": "",
@@ -7344,8 +7344,8 @@
         "id": ""
     },
     "skills.TRH_MK3_ARROW_SHOT.name": {
-        "en": "",
-        "fr": "MK-III Tir",
+        "en": "MK-III Arrow Shot",
+        "fr": "Tir MK-III",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7362,7 +7362,7 @@
         "id": ""
     },
     "skills.TRH_MK3_ARROW_SHOT.effect": {
-        "en": "",
+        "en": "Deploy an MK-III Arrow Shot, dealing 80% to targets in the area effect. Lasts 10 sec.",
         "fr": "Déploie un MK-III, infligeant 80% de dégâts aux cibles dans la zone. Dure 10 sec",
         "es": "",
         "ch": "",
@@ -7380,7 +7380,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.name": {
-        "en": "",
+        "en": "Arrow Shot",
         "fr": "Tir Chargé",
         "es": "",
         "ch": "",
@@ -7398,8 +7398,8 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect": {
-        "en": "",
-        "fr": "Augmente la portée d'attaque de 1 et Attaque Sacrée de {0}",
+        "en": "Increases shooting range by {0} and Holy Attack by {1}",
+        "fr": "Augmente la portée d'attaque de {0} et Attaque Sacrée de {1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7416,7 +7416,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect.level10": {
-        "en": "",
+        "en": "MP max +250",
         "fr": "PM max +250",
         "es": "",
         "ch": "",
@@ -7434,7 +7434,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -7452,7 +7452,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect.level20": {
-        "en": "",
+        "en": "Holy Attack +1000",
         "fr": "Sacrée +1000",
         "es": "",
         "ch": "",
@@ -7470,7 +7470,7 @@
         "id": ""
     },
     "skills.TRH_RADICAL.name": {
-        "en": "",
+        "en": "Radical",
         "fr": "Radicale",
         "es": "",
         "ch": "",
@@ -7488,7 +7488,7 @@
         "id": ""
     },
     "skills.TRH_RADICAL.effect": {
-        "en": "",
+        "en": "For each 10 attacks, the duration of Static Shadow will be increased by 1",
         "fr": "Toutes les 10 attaques, la durée d'Ombre Intérieur est augmentée de 1 sec",
         "es": "",
         "ch": "",
@@ -7506,7 +7506,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.name": {
-        "en": "",
+        "en": "Exorcist Techniques",
         "fr": "Technique d'Excorcisme",
         "es": "",
         "ch": "",
@@ -7524,7 +7524,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect": {
-        "en": "",
+        "en": "Increase Enhanced Damage by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -7542,7 +7542,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect.level10": {
-        "en": "",
+        "en": "Accuracy +2%",
         "fr": "Précision +2%",
         "es": "",
         "ch": "",
@@ -7560,7 +7560,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect.level15": {
-        "en": "",
+        "en": "Evasion +3%",
         "fr": "Esquive +3%",
         "es": "",
         "ch": "",
@@ -7578,7 +7578,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect.level20": {
-        "en": "",
+        "en": "Base ATK +20",
         "fr": "ATQ de Base +20",
         "es": "",
         "ch": "",
@@ -7596,7 +7596,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.name": {
-        "en": "",
+        "en": "Precision",
         "fr": "Précision",
         "es": "",
         "ch": "",
@@ -7614,7 +7614,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect": {
-        "en": "",
+        "en": "Increase Accuracy and Skill Accuracy by {0}%",
         "fr": "Augmente Précision et Précision Compétence de {0}%",
         "es": "",
         "ch": "",
@@ -7632,7 +7632,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect.level10": {
-        "en": "",
+        "en": "Max HP +500",
         "fr": "PV max +500",
         "es": "",
         "ch": "",
@@ -7650,7 +7650,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +3%",
         "fr": "Compétence Critique +3%",
         "es": "",
         "ch": "",
@@ -7668,7 +7668,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -7686,7 +7686,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.name": {
-        "en": "",
+        "en": "Quick Reflexes",
         "fr": "Mouvement Rapide",
         "es": "",
         "ch": "",
@@ -7704,7 +7704,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect": {
-        "en": "",
+        "en": "Increases Skill Evasion by {0}%",
         "fr": "Augmente Esquive Compétence de {0}%",
         "es": "",
         "ch": "",
@@ -7722,7 +7722,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect.level10": {
-        "en": "",
+        "en": "Evasion +2%",
         "fr": "Esquive +2%",
         "es": "",
         "ch": "",
@@ -7740,7 +7740,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +3%",
         "fr": "VIT ATQ +3%",
         "es": "",
         "ch": "",
@@ -7758,7 +7758,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect.level20": {
-        "en": "",
+        "en": "Max HP +700",
         "fr": "PV max +700",
         "es": "",
         "ch": "",
@@ -7776,7 +7776,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HASTE.name": {
-        "en": "",
+        "en": "Enhance Haste",
         "fr": "Hâte Améliorée",
         "es": "",
         "ch": "",
@@ -7794,7 +7794,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HASTE.effect": {
-        "en": "",
+        "en": "Lowers the CD (Cooldown) time of Haste by 9 sec, also lowers its MP cost by 15",
         "fr": "Réduis le Temps de Recharge de Hâte de 9 sec, réduis aussi le coût en mana de 15",
         "es": "",
         "ch": "",
@@ -7812,7 +7812,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.name": {
-        "en": "",
+        "en": "Building Bravery",
         "fr": "Création de Vertu",
         "es": "",
         "ch": "",
@@ -7830,7 +7830,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect": {
-        "en": "",
+        "en": "Increases Attack by {0} points each time your attack hits. Stacks up to 10 times. Lasts 10 sec.",
         "fr": "Augmente l'attaque de {0} lorsqu'une attaque touche. Peut s'accumuler 10 fois. Dure 10sec.",
         "es": "",
         "ch": "",
@@ -7848,7 +7848,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -7866,7 +7866,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect.level15": {
-        "en": "",
+        "en": "Crit Accuracy +2%",
         "fr": "Précision Critique +2%",
         "es": "",
         "ch": "",
@@ -7884,7 +7884,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect.level20": {
-        "en": "",
+        "en": "Effect duration +10 sec",
         "fr": "Durée du bonus +10 sec",
         "es": "",
         "ch": "",
@@ -7902,7 +7902,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.name": {
-        "en": "",
+        "en": "Quick Reload",
         "fr": "Reharge Rapide",
         "es": "",
         "ch": "",
@@ -7920,7 +7920,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect": {
-        "en": "",
+        "en": "Has a {0}% chance to attack one extra time. Can occur once every 3 sec.",
         "fr": "Vous avez {0}% de chance d'exécuter une attaque supplémentaire. Ne peut s'activer qu'une fois toutes les 3 sec.",
         "es": "",
         "ch": "",
@@ -7938,7 +7938,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 7%",
         "fr": "Les chances d'activer l'effet sont augmentés de 7%",
         "es": "",
         "ch": "",
@@ -7956,7 +7956,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +2%",
         "fr": "VIT ATQ +2%",
         "es": "",
         "ch": "",
@@ -7974,7 +7974,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect.level20": {
-        "en": "",
+        "en": "Reduces trigger interval by 1 sec.",
         "fr": "Réduis le délai d'activation de 1 sec.",
         "es": "",
         "ch": "",
@@ -7992,7 +7992,7 @@
         "id": ""
     },
     "skills.TRM_RUNNING_SHOT.name": {
-        "en": "",
+        "en": "Running Shot",
         "fr": "Tir en Mouvement",
         "es": "",
         "ch": "",
@@ -8010,7 +8010,7 @@
         "id": ""
     },
     "skills.TRM_RUNNING_SHOT.effect": {
-        "en": "",
+        "en": "Lowers target's DMG RD by 5% and SPD by 15%. Lasts 20 sec. Stacks up to 3 times.",
         "fr": "Réduis RD DGTS de 5% et VIT de 15% Dure 20 sec. Peut s'accumuler 3 fois.",
         "es": "",
         "ch": "",
@@ -8028,7 +8028,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.name": {
-        "en": "",
+        "en": "Enhance Homing Arrow",
         "fr": "Flèches Guidées Améliorées",
         "es": "",
         "ch": "",
@@ -8046,7 +8046,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect": {
-        "en": "",
+        "en": "Increase Base damage of Homing Arrow by {0}",
         "fr": "Augmente les dégâts de Flèches Guidées de {0}",
         "es": "",
         "ch": "",
@@ -8064,7 +8064,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect.level10": {
-        "en": "",
+        "en": "Base damage of Homing Arrow +330",
         "fr": "Augmente les dégâts de Flèches Guidées de +330",
         "es": "",
         "ch": "",
@@ -8082,8 +8082,8 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect.level15": {
-        "en": "",
-        "fr": "Flèche Guidée étourdit la cible pour 1 sec.",
+        "en": "Homing Arrow Stuns target for 1 sec",
+        "fr": "Flèche Guidée étourdit la cible pour 1 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -8100,7 +8100,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect.level20": {
-        "en": "",
+        "en": "Cooldown of Homing Arrow -4 sec",
         "fr": "Temps de Recharge de Flèches Guidées réduit de 4 sec",
         "es": "",
         "ch": "",
