@@ -2375,6 +2375,24 @@
         "th":"",
         "id":""
     },
+	"skills.talent.click_to_learn":{
+        "en":"left-click to learn",
+        "fr":"",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "skills.TMD_STAFF_EXPERTISE.name":{
         "en":"Staff Expertise",
         "fr":"Expertise des Arcanes",
