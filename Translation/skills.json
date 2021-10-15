@@ -10584,7 +10584,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.name": {
-        "en": "",
+        "en": "Resistance Boost",
         "fr": "Résistance Améliorée",
         "es": "",
         "ch": "",
@@ -10602,7 +10602,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect": {
-        "en": "",
+        "en": "Reduces all damage taken by {0}",
         "fr": "Réduis tous les dégâts subis de {0}",
         "es": "",
         "ch": "",
@@ -10620,7 +10620,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level10": {
-        "en": "",
+        "en": "Recovers 1% healts every 10 sec.",
         "fr": "Récupère 1% des PV max toutes les 10 sec",
         "es": "",
         "ch": "",
@@ -10638,7 +10638,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level15": {
-        "en": "",
+        "en": "Base ATK +15",
         "fr": "Base ATQ +15",
         "es": "",
         "ch": "",
@@ -10656,7 +10656,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level20": {
-        "en": "",
+        "en": "DMG RD +5%",
         "fr": "Réduction de Dégâts +5%",
         "es": "",
         "ch": "",
@@ -10674,7 +10674,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.name": {
-        "en": "",
+        "en": "Enrage",
         "fr": "Frénésie",
         "es": "",
         "ch": "",
@@ -10692,8 +10692,8 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect": {
-        "en": "",
-        "fr": "Quand vous êtes touchés, vous avez 10% de chance d'augmenter l'ATQ de 25 pendant 10 sec.",
+        "en": "When hit, you have 10% chance to increase ATK by {0} for 10 sec.",
+        "fr": "Quand vous êtes touchés, vous avez 10% de chance d'augmenter l'ATQ de {0} pendant 10 sec.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -10710,7 +10710,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect.level10": {
-        "en": "",
+        "en": "Base HP +1%",
         "fr": "PV de Base +1%",
         "es": "",
         "ch": "",
@@ -10728,7 +10728,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect.level15": {
-        "en": "",
+        "en": "Recovers 1% health every 5 seconds when in Enrage state.",
         "fr": "'Enragé', récupérez 1% de vos PV max toutes les 5 sec.",
         "es": "",
         "ch": "",
@@ -10746,7 +10746,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect.level20": {
-        "en": "",
+        "en": "Accuracy and Skill Accuracy +5%",
         "fr": "Précision et Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -10764,7 +10764,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.name": {
-        "en": "",
+        "en": "Enhanced Block",
         "fr": "Parade Améliorée",
         "es": "",
         "ch": "",
@@ -10782,7 +10782,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect": {
-        "en": "",
+        "en": "While blocking, defend against {0} more incoming damage",
         "fr": "En parant, nullifiez {0} pts de dégâts supplémentaire",
         "es": "",
         "ch": "",
@@ -10800,7 +10800,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect.level10": {
-        "en": "",
+        "en": "Damage nullified while blocking +20",
         "fr": "Nullifiez 20 de dégâts supplémentaire en parant",
         "es": "",
         "ch": "",
@@ -10818,7 +10818,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect.level15": {
-        "en": "",
+        "en": "Cooldown time of Block -1",
         "fr": "Temps de Recharge de Parade -1",
         "es": "",
         "ch": "",
@@ -10836,7 +10836,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect.level20": {
-        "en": "",
+        "en": "Attacks Blocked +1",
         "fr": "Attaque paré +1",
         "es": "",
         "ch": "",
@@ -10854,7 +10854,7 @@
         "id": ""
     },
     "skills.TWP_SACRIFICE.name": {
-        "en": "",
+        "en": "Sacrifice",
         "fr": "Sacrifice",
         "es": "",
         "ch": "",
@@ -10872,7 +10872,7 @@
         "id": ""
     },
     "skills.TWP_SACRIFICE.effect": {
-        "en": "",
+        "en": "Sacrifices 10% of character's current to deal corresponding damage to target, lowering its SPD by 50% for 5 sec.",
         "fr": "Sacrifie 10% de vos PV actuel pour les infliger à la cible, réduisant sa VIT de 50% pendant 5 sec",
         "es": "",
         "ch": "",
@@ -10890,7 +10890,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.name": {
-        "en": "",
+        "en": "Fortitude",
         "fr": "Fortification",
         "es": "",
         "ch": "",
@@ -10908,7 +10908,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect": {
-        "en": "",
+        "en": "Increases Base HP by {0}%",
         "fr": "Augmente les PV de Base de {0}%",
         "es": "",
         "ch": "",
@@ -10926,7 +10926,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -10944,7 +10944,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect.level15": {
-        "en": "",
+        "en": "Max HP +400",
         "fr": "PV max +400",
         "es": "",
         "ch": "",
@@ -10962,7 +10962,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect.level20": {
-        "en": "",
+        "en": "Physical Damage RD +10%",
         "fr": "Dégâts Physique +10%",
         "es": "",
         "ch": "",
@@ -10980,7 +10980,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.name": {
-        "en": "",
+        "en": "Riposte Burst",
         "fr": "Riposte",
         "es": "",
         "ch": "",
@@ -10998,8 +10998,8 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect": {
-        "en": "",
-        "fr": "Quand vous êtes attaqués, vous avez 15% de chance de riposter sur les ennemis dans un rayon de 48 mètres, infligeant {0}% des dégâts d'attaque et {0} dégâts supplémentaire. Ne peut s'activer qu'une fois toutes les 3 secondes.",
+        "en": "When attacked, you have 15% chance to replicate on enemies within 48 yards, dealing {0}% attack damage and an additional 50 damage. Cannot occur more than once every 3 sec.",
+        "fr": "Quand vous êtes attaqués, vous avez 15% de chance de riposter sur les ennemis dans un rayon de 48 mètres, infligeant {0}% des dégâts d'attaque et 50 dégâts supplémentaire. Ne peut s'activer qu'une fois toutes les 3 secondes.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -11016,7 +11016,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 2%",
         "fr": "Augmente les chances d'activation de 2%",
         "es": "",
         "ch": "",
@@ -11034,7 +11034,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect.level15": {
-        "en": "",
+        "en": "Max HP +500",
         "fr": "PV max +500",
         "es": "",
         "ch": "",
@@ -11052,7 +11052,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect.level20": {
-        "en": "",
+        "en": "Counter Damage +50",
         "fr": "Dégâts supplémentaires de Riposte +50",
         "es": "",
         "ch": "",
@@ -11070,7 +11070,7 @@
         "id": ""
     },
     "skills.TWP_REVITALIZE.name": {
-        "en": "",
+        "en": "Revitalize",
         "fr": "Revitalisation",
         "es": "",
         "ch": "",
@@ -11088,7 +11088,7 @@
         "id": ""
     },
     "skills.TWP_REVITALIZE.effect": {
-        "en": "",
+        "en": "Recovers 5% of lost HP each second. Lasts 20 sec.",
         "fr": "Recupère 5% des PV perdu chaque seconde. Dure 20 sec.",
         "es": "",
         "ch": "",
@@ -11106,7 +11106,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.name": {
-        "en": "",
+        "en": "Tough",
         "fr": "Constitution",
         "es": "",
         "ch": "",
@@ -11124,7 +11124,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect": {
-        "en": "",
+        "en": "When attacked you have {0}% chance to nullify the damage of an incoming attack. Cannot occur more then once every 3 sec.",
         "fr": "Quand vous êtes attaqués, vous avez {0}% de chance d'annuler les dégâts de la prochaine attaque. Ne peut s'activer qu'une fois toutes les 3 secondes",
         "es": "",
         "ch": "",
@@ -11142,7 +11142,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 2%",
         "fr": "Augmente les chances d'activation de 2%",
         "es": "",
         "ch": "",
@@ -11160,7 +11160,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Evasion +10%",
         "fr": "Esquive Compétence Critique +10%",
         "es": "",
         "ch": "",
@@ -11178,8 +11178,8 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect.level20": {
-        "en": "",
-        "fr": "Délai d'activation -1 sec.",
+        "en": "Trigger interval -1 sec",
+        "fr": "Délai d'activation -1 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -11196,7 +11196,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.name": {
-        "en": "",
+        "en": "Enhanced Surge",
         "fr": "Lame Verticale Améliorée",
         "es": "",
         "ch": "",
@@ -11214,7 +11214,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect": {
-        "en": "",
+        "en": "Increases damage done by Surge by {0}",
         "fr": "Augmente les dégâts de Lame Verticale de {0}",
         "es": "",
         "ch": "",
@@ -11232,7 +11232,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect.level10": {
-        "en": "",
+        "en": "Damage done by Surge +200",
         "fr": "Augmente les dégâts de Lame Verticale de 200",
         "es": "",
         "ch": "",
@@ -11250,7 +11250,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect.level15": {
-        "en": "",
+        "en": "Reduces CD time of Surge by 1 sec.",
         "fr": "Temps de Recharge de Lame Verticale -1 sec",
         "es": "",
         "ch": "",
@@ -11268,8 +11268,8 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect.level20": {
-        "en": "",
-        "fr": ".Augmente les dégâts de Lame Verticale de 300. Réduis la VIT de 50 pendant 4 sec.",
+        "en": "Increases damage done by Surge by 300. Lowers SPD by 50 for 4 sec.",
+        "fr": "Augmente les dégâts de Lame Verticale de 300. Réduis la VIT de 50 pendant 4 sec.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -11286,7 +11286,7 @@
         "id": ""
     },
     "skills.TWP_WAR_STOMP.name": {
-        "en": "",
+        "en": "War Stomp",
         "fr": "Piétinement",
         "es": "",
         "ch": "",
@@ -11304,7 +11304,7 @@
         "id": ""
     },
     "skills.TWP_WAR_STOMP.effect": {
-        "en": "",
+        "en": "Deals a bonus 1400 damage to all targets within 5 yards around you. Stunning them for 2 sec.",
         "fr": "Inflige 1400 de dégâts bonus à toutes les cibles dans un rayon de 5 mètres autour de vous. Étourdis les cibles touchés pendant 2 sec",
         "es": "",
         "ch": "",
@@ -11322,7 +11322,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.name": {
-        "en": "",
+        "en": "Veteran's Scar",
         "fr": "Cicatrices de Vétéran",
         "es": "",
         "ch": "",
@@ -11340,7 +11340,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect": {
-        "en": "",
+        "en": "Every 4% of lost HP, you gain {0}% Enhanced Damage in return. Stack up to 80% of lost HP",
         "fr": "Tous les 4% de PV perdu, vous gagnez {0}% de Dégâts Améliorés (Maximum de 80% des PV perdu)",
         "es": "",
         "ch": "",
@@ -11358,7 +11358,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +1%",
         "fr": "Dégâts Améliorés +1%",
         "es": "",
         "ch": "",
@@ -11376,7 +11376,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect.level15": {
-        "en": "",
+        "en": "Max Hp +800",
         "fr": "PV max +800",
         "es": "",
         "ch": "",
@@ -11394,7 +11394,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect.level20": {
-        "en": "",
+        "en": "Damage Taken -10",
         "fr": "Dégâts subis -10",
         "es": "",
         "ch": "",
@@ -11412,7 +11412,7 @@
         "id": ""
     },
     "skills.TWP_CHARGE.name": {
-        "en": "",
+        "en": "Charge",
         "fr": "Charge",
         "es": "",
         "ch": "",
@@ -11430,7 +11430,7 @@
         "id": ""
     },
     "skills.TWP_CHARGE.effect": {
-        "en": "",
+        "en": "Charges to a destination, dealing 165% damage to targets nearby and Stunning them for 1 sec.",
         "fr": "Charge à une destinaton, infligeant 165% de dégâts aux cibles proches et les étourdis pendant 1 sec",
         "es": "",
         "ch": "",
@@ -11448,7 +11448,7 @@
         "id": ""
     },
     "skills.TWP_SHIELD_WALL.name": {
-        "en": "",
+        "en": "Shield Wall",
         "fr": "Bouclier Immuable",
         "es": "",
         "ch": "",
@@ -11466,7 +11466,7 @@
         "id": ""
     },
     "skills.TWP_SHIELD_WALL.effect": {
-        "en": "",
+        "en": "Warrior's defensive maneuver. Increases DMG RD by 40%. Gains 4% more DMG RD from each 4% of lost HP. Stacks up to 120% more DMG RD. Lasts 10 sec.",
         "fr": "Le Guerrier passe en manoeuvre défensive. Augmente RD DGTS de 40%. Gagne 4% de RD DGTS tous les 4% PV perdus, s'accumule jusqu'à 120% de RD DGTS. Dure 10 sec",
         "es": "",
         "ch": "",
@@ -11484,7 +11484,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.name": {
-        "en": "",
+        "en": "Inflexible Will",
         "fr": "Volonté Inexorable",
         "es": "",
         "ch": "",
@@ -11502,7 +11502,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect": {
-        "en": "",
+        "en": "When critstriked, increases Damage Reduction by {0}. Can stack up to 20 times",
         "fr": "Quand vous êtes touchés par un Coup Critique, augmente Réduction de Dégâts de {0}. Peut s'accumuler 20 fois.",
         "es": "",
         "ch": "",
@@ -11520,7 +11520,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect.level10": {
-        "en": "",
+        "en": "Crit Reduction +20%",
         "fr": "Réduction Critique +20%",
         "es": "",
         "ch": "",
@@ -11538,7 +11538,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Reduction +20%",
         "fr": "Réduction Compétence Critique  +20%",
         "es": "",
         "ch": "",
@@ -11556,7 +11556,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect.level20": {
-        "en": "",
+        "en": "HP +3%",
         "fr": "PV +3%",
         "es": "",
         "ch": "",
@@ -11574,7 +11574,7 @@
         "id": ""
     },
     "skills.TWP_BLADE_REALM.name": {
-        "en": "",
+        "en": "Reflection",
         "fr": "Réflexion",
         "es": "",
         "ch": "",
@@ -11592,8 +11592,8 @@
         "id": ""
     },
     "skills.TWP_BLADE_REALM.effect": {
-        "en": "",
-        "fr": "Under Blood Boundary Status, Warrior can reflect 50% of the Damage",
+        "en": "Under Blood Boundary Status, Warrior can reflect 50% of the Damage",
+        "fr": "L'effet Héritage Sanguinaire permet au Guerrier de renvoyer 50% des dégâts",
         "es": "",
         "ch": "",
         "kr": "",
