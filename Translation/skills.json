@@ -4914,7 +4914,7 @@
         "id": ""
     },
     "skills.TML_AID.name": {
-        "en": "",
+        "en": "Aid",
         "fr": "Soutient",
         "es": "",
         "ch": "",
@@ -4932,7 +4932,7 @@
         "id": ""
     },
     "skills.TML_AID.effect": {
-        "en": "",
+        "en": "Increases SPD by 15 and DMG RD by 50% for 10 sec.",
         "fr": "Augmente la VIT de 15 et RD DGTS de 50% pendant 10 sec",
         "es": "",
         "ch": "",
@@ -4950,7 +4950,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.name": {
-        "en": "",
+        "en": "Enhanced Magic Shield",
         "fr": "Bouclier Magique Amélioré",
         "es": "",
         "ch": "",
@@ -4968,7 +4968,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect": {
-        "en": "",
+        "en": "Magic Shield absorbs {0} points of incoming damage",
         "fr": "Bouclier Magique absorbe {0} des dégâts reçus",
         "es": "",
         "ch": "",
@@ -4986,7 +4986,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level10": {
-        "en": "",
+        "en": "Increases HP by 500 when Magic Shield is activated",
         "fr": "Augmente les PV de 500 quand Bouclier Magique est activé",
         "es": "",
         "ch": "",
@@ -5004,7 +5004,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level15": {
-        "en": "",
+        "en": "Incoming damage absorbed by Magic Shield +400",
         "fr": "Bouclier Magique absorbe +400 de dégâts reçus",
         "es": "",
         "ch": "",
@@ -5022,7 +5022,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level20": {
-        "en": "",
+        "en": "Increases SPD by 50% when Magic Shield is activated",
         "fr": "Augmente la VIT de 50% quand Bouclier Magique est activé",
         "es": "",
         "ch": "",
@@ -5040,7 +5040,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.name": {
-        "en": "",
+        "en": "Divine Guidance",
         "fr": "Divination",
         "es": "",
         "ch": "",
@@ -5058,7 +5058,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect": {
-        "en": "",
+        "en": "Skill Accuracy {0}%, Enhanced Damage {0}%",
         "fr": "Précision Compétence {0}%, Dégâts Améliorés {0}%",
         "es": "",
         "ch": "",
@@ -5076,7 +5076,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -5094,7 +5094,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +5%",
         "fr": "Précision Compétence Critique +5%",
         "es": "",
         "ch": "",
@@ -5112,7 +5112,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level20": {
-        "en": "",
+        "en": "Enhanced Damage 5%",
         "fr": "Quand un sort touche, il a 20% de chance de faire \"subir\" la cible qui prendra 25% de dégâts supplémentaire sur la prochaine attaque. L'effet jusqu'à 10sec",
         "es": "",
         "ch": "",
@@ -5130,7 +5130,7 @@
         "id": ""
     },
     "skills.TML_PRAY.name": {
-        "en": "",
+        "en": "Pray",
         "fr": "Prière",
         "es": "",
         "ch": "",
@@ -5148,7 +5148,7 @@
         "id": ""
     },
     "skills.TML_PRAY.effect": {
-        "en": "",
+        "en": "Increases target's max HP by 4000 and Enhanced Damage by 15%",
         "fr": "Augmente les PV max de la cible de 4000 et Dégâts Améliorés de 15%",
         "es": "",
         "ch": "",
@@ -5166,7 +5166,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.name": {
-        "en": "",
+        "en": "Feedback",
         "fr": "Réaction",
         "es": "",
         "ch": "",
@@ -5184,8 +5184,8 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect": {
-        "en": "",
-        "fr": "PM max +{0}, PV max +{0}",
+        "en": "Max MP +{0}, Max HP +{1}",
+        "fr": "PM max +{0}, PV max +{1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5194,7 +5194,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Năng Lượng Tối Đa +{0}, Máu Tối Đa +{0}.",
+        "vi": "Năng Lượng Tối Đa +{0}, Máu Tối Đa +{1}.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -5202,7 +5202,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect.level10": {
-        "en": "",
+        "en": "Max MP +50",
         "fr": "PM max +50",
         "es": "",
         "ch": "",
@@ -5220,7 +5220,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect.level15": {
-        "en": "",
+        "en": "Enhanced Damage +3%",
         "fr": "Dégâts Améliorés +3%",
         "es": "",
         "ch": "",
@@ -5238,7 +5238,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect.level20": {
-        "en": "",
+        "en": "When Mage's Skill Attack hits, the Mage has a 50% chance to recover 20 MP. Cannot occur more than once in 10 sec.",
         "fr": "Quand un sort touche, le Mage a 50% de chance de récupérer 20 PM. Ne peut se produire plus d'une fois toutes les 10 sec.",
         "es": "",
         "ch": "",
@@ -5256,7 +5256,7 @@
         "id": ""
     },
     "skills.TML_FINAL_LIGNT.name": {
-        "en": "",
+        "en": "Final Light",
         "fr": "Lumière Finale",
         "es": "",
         "ch": "",
@@ -5274,7 +5274,7 @@
         "id": ""
     },
     "skills.TML_FINAL_LIGNT.effect": {
-        "en": "",
+        "en": "Attacks targets within 3 yards, inflicting 200% damage, Stunning them for 1 second.",
         "fr": "Touche toutes les cibles dans un rayon de 3 mètres, infligent 200% de dégâts et étourdit les cibles pendant 1 seconde",
         "es": "",
         "ch": "",
@@ -5292,7 +5292,7 @@
         "id": ""
     },
     "skills.TML_SONG_OF_GODDESS.name": {
-        "en": "",
+        "en": "Song of Goddess",
         "fr": "Hymne de la Déesse",
         "es": "",
         "ch": "",
@@ -5310,7 +5310,7 @@
         "id": ""
     },
     "skills.TML_SONG_OF_GODDESS.effect": {
-        "en": "",
+        "en": "The Mage chants ancient tones, bringing the Goddess Hieviel's blessing to all friendly targets within 6 yards, increasing their Enhanced Damage by 15% and DMG RD by 15%. Also heals targets by 1% max HP every 3 sec., and increases their SPD by 30. Must channel to mantain effect. Lasts up to 30 sec. (Moving or casting a spell cancels the effect)",
         "fr": "Le Mage chante un Hymne antique, apportant la Bénédiction de la Déesse Hieviel à tous les alliés dans un rayon de 6 mètres. Augmente leur Dégâts Améliorés de 15% et RD DGTS de 15%. Soigne les cibles de 1% de leur PV max toutes les 3 secondes et augmente leur VIT de 30. Le sort doit être maintenu pour garder les effets.Dure 30 sec. (Bouger ou lancer un sort annule l'effet)",
         "es": "",
         "ch": "",
@@ -5328,7 +5328,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.name": {
-        "en": "",
+        "en": "Healing Mastery",
         "fr": "Maîtrîse des Soins",
         "es": "",
         "ch": "",
@@ -5346,7 +5346,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect": {
-        "en": "",
+        "en": "Increases the maximum effect of healing skills by {0}%",
         "fr": "Augmente l'effet maximum des compétences de guérison de {0}%",
         "es": "",
         "ch": "",
@@ -5364,7 +5364,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +5%",
         "fr": "Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -5382,7 +5382,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect.level15": {
-        "en": "",
+        "en": "Skill Evasion +10%",
         "fr": "Esquive Compétence +10%",
         "es": "",
         "ch": "",
@@ -5400,7 +5400,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect.level20": {
-        "en": "",
+        "en": "Healing Skill's effect +5%",
         "fr": "Augmente l'effet des compétences de guérison de +5%",
         "es": "",
         "ch": "",
@@ -5418,7 +5418,7 @@
         "id": ""
     },
     "skills.TML_ELECCTROSTATIC_FORCE_FIELD.name": {
-        "en": "",
+        "en": "Electrostatic Force Field",
         "fr": "Champ de Force Électrostatique",
         "es": "",
         "ch": "",
@@ -5436,7 +5436,7 @@
         "id": ""
     },
     "skills.TML_ELECCTROSTATIC_FORCE_FIELD.effect": {
-        "en": "",
+        "en": "Electric Storm will be triggered once every 0.3 second instead of every 1 second",
         "fr": "Tempête Électrique s'activera toutes les 0,3 sec au lieu de s'activer chaque secondes",
         "es": "",
         "ch": "",
