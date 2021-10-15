@@ -5004,8 +5004,8 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level15": {
-        "en": "Incoming damage absorbed by Magic Shield +400",
-        "fr": "Bouclier Magique absorbe +400 de dégâts reçus",
+        "en": "Incoming damage absorbed by Magic Shield +50% of your Base ATK",
+        "fr": "50% de votre ATK de base est ajouté a votre Bouclier Magique",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5014,7 +5014,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Sát thương Khiên Ma Pháp hấp thụ +400.",
+        "vi": "",
         "ar": "",
         "it": "",
         "pl": "",
@@ -8118,7 +8118,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.name": {
-        "en": "",
+        "en": "Weaken Attack",
         "fr": "Affaiblissement",
         "es": "",
         "ch": "",
@@ -8136,7 +8136,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect": {
-        "en": "",
+        "en": "Increases ATK SPD by {0}",
         "fr": "Augmente Vitesse d'Attaque de {0}",
         "es": "",
         "ch": "",
@@ -8154,7 +8154,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect.level10": {
-        "en": "",
+        "en": "Crit Accuracy +1%",
         "fr": "Précision Critique +1%",
         "es": "",
         "ch": "",
@@ -8172,7 +8172,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect.level15": {
-        "en": "",
+        "en": "Crit Enchance +5%",
         "fr": "Amélioration Critique +5%",
         "es": "",
         "ch": "",
@@ -8190,7 +8190,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect.level20": {
-        "en": "",
+        "en": "Any Ranger attack lowers target's Enhanced Damage by 1.5% for 5 sec. Can stack up to 5 times",
         "fr": "Vos attaques réduisent Dégâts Améliorés de la cible de 1,5% pendant 5 sec. Peut s'accumuler 5 fois",
         "es": "",
         "ch": "",
@@ -8208,7 +8208,7 @@
         "id": ""
     },
     "skills.TRM_COMBAT_MASTER.name": {
-        "en": "",
+        "en": "Combat Master",
         "fr": "Maître de Guerre",
         "es": "",
         "ch": "",
@@ -8226,7 +8226,7 @@
         "id": ""
     },
     "skills.TRM_COMBAT_MASTER.effect": {
-        "en": "",
+        "en": "Enables you to use Crack Shot while moving. Also lowers CD (Cooldown) time of Crack Shot by 18 sec. Effect remains regardless of how many attack you do.",
         "fr": "Permet de se déplacer durant Coup de Feu. Réduis le Temps de Recharge de Coup de Feu de 18 sec. L'effet n'est plus limité par un nombre d'attaques.",
         "es": "",
         "ch": "",
@@ -8244,7 +8244,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.name": {
-        "en": "",
+        "en": "Mana Burn",
         "fr": "Évaporateur de Mana",
         "es": "",
         "ch": "",
@@ -8262,7 +8262,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect": {
-        "en": "",
+        "en": "Normal attacks have a chance to burn target's MP, dealing an equal amoount of Holy damage. {0}% chance to burn target's MP by 10",
         "fr": "Vos attaques normales ont une chance de brûler le mana de la cible infligeant un montant égal en Dégâts Sacrés. {0}% de chance de brûler le mana de la cible de 10",
         "es": "",
         "ch": "",
@@ -8280,7 +8280,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect.level10": {
-        "en": "",
+        "en": "Enchanced Damage +1%",
         "fr": "Dégâts Améliorés +1%",
         "es": "",
         "ch": "",
@@ -8298,7 +8298,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect.level15": {
-        "en": "",
+        "en": "DMG RD +2%",
         "fr": "Réductions de Dégâts 2%",
         "es": "",
         "ch": "",
@@ -8316,7 +8316,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect.level20": {
-        "en": "",
+        "en": "Max HP +1500",
         "fr": "PV max +1500",
         "es": "",
         "ch": "",
