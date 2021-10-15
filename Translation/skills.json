@@ -5454,7 +5454,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.name": {
-        "en": "",
+        "en": "Bow Expertise",
         "fr": "Spécialisation Archerie",
         "es": "",
         "ch": "",
@@ -5472,7 +5472,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect": {
-        "en": "",
+        "en": "Increases Base ATK by ({0}% x Character Lv.)",
         "fr": "Augmente l'ATQ de Base de ({0}% x Nv. Personnage)",
         "es": "",
         "ch": "",
@@ -5490,7 +5490,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "Base ATQ +8",
         "es": "",
         "ch": "",
@@ -5508,7 +5508,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level15": {
-        "en": "",
+        "en": "Accuracy +3%",
         "fr": "Précision +3%",
         "es": "",
         "ch": "",
@@ -5526,7 +5526,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level20": {
-        "en": "",
+        "en": "Increases Skill Accuracy by 5%",
         "fr": "Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -5544,7 +5544,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.name": {
-        "en": "",
+        "en": "Enhanced Triple Shot",
         "fr": "Coup Triple Amélioré",
         "es": "",
         "ch": "",
@@ -5562,7 +5562,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect": {
-        "en": "",
+        "en": "Increases the Skill DMG of Triple Shot by {0}",
         "fr": "Augmente les Dégâts de Coméptences de Coup Triple de {0}",
         "es": "",
         "ch": "",
@@ -5580,7 +5580,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level10": {
-        "en": "",
+        "en": "Damage of Triple Shot +66",
         "fr": "Dégâts de Coup Triple +66",
         "es": "",
         "ch": "",
@@ -5598,7 +5598,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level15": {
-        "en": "",
+        "en": "Skill Crit of Triple Shot +7%",
         "fr": "Compétence Critique de Coup Triple +7%",
         "es": "",
         "ch": "",
@@ -5616,7 +5616,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level20": {
-        "en": "",
+        "en": "Triple Shot lowers target Base SPD by 30% for 2 sec",
         "fr": "Coup Triple réduit la VIT de Base de la cible 30% pendant 2 sec",
         "es": "",
         "ch": "",
@@ -5634,7 +5634,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.name": {
-        "en": "",
+        "en": "Bleeding Pierce",
         "fr": "Pércée Sanglante",
         "es": "",
         "ch": "",
@@ -5652,7 +5652,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect": {
-        "en": "",
+        "en": "A normal attack Crit hit makes the target Bleed. Effect can stack. Dealing Holy damage of {0}% Base ATK over 10 sec.",
         "fr": "Une Attaque Critique inflige Saignement à la cible. L'effet peut s'accumuler. Inflige des Dégâts Sacrés équivalent à {0}% de l'ATQ de Base sur 10 sec.",
         "es": "",
         "ch": "",
@@ -5670,7 +5670,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect.level10": {
-        "en": "",
+        "en": "Increases Bleeding damage by 24%",
         "fr": "Les Dégâts du Saignement sont augmentés de 24%",
         "es": "",
         "ch": "",
@@ -5688,7 +5688,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect.level15": {
-        "en": "",
+        "en": "Crit Accuracy and Skill Crit Accuracy +2%",
         "fr": "Précision Critique et Précision Compétence Critique +2%",
         "es": "",
         "ch": "",
@@ -5706,7 +5706,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect.level20": {
-        "en": "",
+        "en": "Bleeding duration -3 sec.",
         "fr": "Durée du Saignement -3 sec",
         "es": "",
         "ch": "",
@@ -5724,7 +5724,7 @@
         "id": ""
     },
     "skills.TRR_TAKE_AIM.name": {
-        "en": "",
+        "en": "Take Aim",
         "fr": "Mise au Point",
         "es": "",
         "ch": "",
@@ -5742,7 +5742,7 @@
         "id": ""
     },
     "skills.TRR_TAKE_AIM.effect": {
-        "en": "",
+        "en": "Charges for 0.5 sec. to deal Crit damage once with a bonus of 300 damage. Has 80% chance to Slow the target by 50% over 5 seconds.",
         "fr": "Charge pendant 0,5 sec infligeant des Dégâts Critique une fois avec un bonus de dégâts de 300. A 80% de chance de ralentir la cible de 50% sur 5 secondes",
         "es": "",
         "ch": "",
@@ -5760,7 +5760,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.name": {
-        "en": "",
+        "en": "Fatality",
         "fr": "Létalité",
         "es": "",
         "ch": "",
@@ -5778,7 +5778,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect": {
-        "en": "",
+        "en": "Increases Crit Accuracy by {0}%, Skill Crit Accuracy by {0}%",
         "fr": "Augmente Précision Critique de {0}% et Précision Compétence Critique de {0}%",
         "es": "",
         "ch": "",
@@ -5796,7 +5796,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect.level10": {
-        "en": "",
+        "en": "Base ATK +10",
         "fr": "ATQ de Base +10",
         "es": "",
         "ch": "",
@@ -5814,7 +5814,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect.level15": {
-        "en": "",
+        "en": "Max HP +400",
         "fr": "PV max +400",
         "es": "",
         "ch": "",
@@ -5832,7 +5832,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect.level20": {
-        "en": "",
+        "en": "Skill Crit ENHC +15%",
         "fr": "Compétences Critique Améliorée +15%",
         "es": "",
         "ch": "",
@@ -5850,7 +5850,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.name": {
-        "en": "",
+        "en": "Full Prep",
         "fr": "Apprêt Achevé",
         "es": "",
         "ch": "",
@@ -5868,7 +5868,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect": {
-        "en": "",
+        "en": "For every 10 common attacks, a special arrow is lunched dealing {0} addiotional damage. Also stuns target for 0.3 sec.",
         "fr": "Toutes les 10 attaques normales, une flèche spéciale est lancé, infligeant {0} de dégâts supplémenntaires et étourdissant la cible pendant 0,3sec",
         "es": "",
         "ch": "",
@@ -5886,7 +5886,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect.level10": {
-        "en": "",
+        "en": "Reduces 2 required attacks.",
         "fr": "Réduis à 8 le montant d'attaque nécéssaire",
         "es": "",
         "ch": "",
@@ -5904,7 +5904,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect.level15": {
-        "en": "",
+        "en": "Increases Stun duration by 0.2 sec.",
         "fr": "Durée d'étourdissement augmentée de 0,2 sec",
         "es": "",
         "ch": "",
@@ -5922,7 +5922,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect.level20": {
-        "en": "",
+        "en": "Increases Stun duration by 0.5 sec.",
         "fr": "Durée d'étourdissement augmentée de 0,5 sec.",
         "es": "",
         "ch": "",
@@ -5940,7 +5940,7 @@
         "id": ""
     },
     "skills.TRR_STORM_STRIKE.name": {
-        "en": "",
+        "en": "Storm Strike",
         "fr": "Volée de Flèches",
         "es": "",
         "ch": "",
@@ -5958,7 +5958,7 @@
         "id": ""
     },
     "skills.TRR_STORM_STRIKE.effect": {
-        "en": "",
+        "en": "Attacks the target 5 times instantly, dealing 64% damage.",
         "fr": "Attaque instantanément la cible 5 fois, infligeant 64% de dégâts",
         "es": "",
         "ch": "",
@@ -5976,7 +5976,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.name": {
-        "en": "",
+        "en": "Sharpshooter",
         "fr": "Tireur d'Élite",
         "es": "",
         "ch": "",
@@ -5994,7 +5994,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect": {
-        "en": "",
+        "en": "Skill ENHC {0}%",
         "fr": "Compétence Améliorée de {0}%",
         "es": "",
         "ch": "",
@@ -6012,7 +6012,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +3%",
         "fr": "Précision Compétence +3%",
         "es": "",
         "ch": "",
@@ -6030,7 +6030,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect.level15": {
-        "en": "",
+        "en": "Accuracy +5%",
         "fr": "Précision +5%",
         "es": "",
         "ch": "",
@@ -6048,7 +6048,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect.level20": {
-        "en": "",
+        "en": "Base ATK +20",
         "fr": "ATQ de Base +20",
         "es": "",
         "ch": "",
@@ -6066,7 +6066,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.name": {
-        "en": "",
+        "en": "Archer's Techniques",
         "fr": "Technique d'Archerie",
         "es": "",
         "ch": "",
@@ -6084,8 +6084,8 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect": {
-        "en": "",
-        "fr": "Augmente Précision Compétence de {0}%. PM max +{0}",
+        "en": "Increases Skill Accuracy by {0}%. Max MP +{1}",
+        "fr": "Augmente Précision Compétence de {0}%. PM max +{1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -6094,7 +6094,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng Chuẩn Xác Kỹ Năng thêm {0}%. Năng Lượng Tối Đa +{0}.",
+        "vi": "Tăng Chuẩn Xác Kỹ Năng thêm {0}%. Năng Lượng Tối Đa +{1}.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -6102,7 +6102,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect.level10": {
-        "en": "",
+        "en": "Skill Crit Accuracy +1%",
         "fr": "Précision Compétence Critique 1%",
         "es": "",
         "ch": "",
@@ -6120,7 +6120,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect.level15": {
-        "en": "",
+        "en": "Skill Crit ENHC +5%",
         "fr": "Compétence Critique Améliorée 5%",
         "es": "",
         "ch": "",
@@ -6138,7 +6138,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect.level20": {
-        "en": "",
+        "en": "Target takes 10% more damage from your attack after a Skill Crit hit. Lasts 5 sec.",
         "fr": "Les cibles prennent 10% de dégâts supplémentaires après une Compétence Critique. Dure 5 sec",
         "es": "",
         "ch": "",
@@ -6156,7 +6156,7 @@
         "id": ""
     },
     "skills.TRR_FOCUS_SHOT.name": {
-        "en": "",
+        "en": "Focus Shot",
         "fr": "Coup de Projecteur",
         "es": "",
         "ch": "",
@@ -6174,7 +6174,7 @@
         "id": ""
     },
     "skills.TRR_FOCUS_SHOT.effect": {
-        "en": "",
+        "en": "Increases Holy Attack by 300. Lasts 8 sec.",
         "fr": "Augmente l'Attaque Sacrée de 300. Dure 8 sec",
         "es": "",
         "ch": "",
@@ -6192,7 +6192,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.name": {
-        "en": "",
+        "en": "Pierce",
         "fr": "Percée",
         "es": "",
         "ch": "",
@@ -6210,7 +6210,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect": {
-        "en": "",
+        "en": "Increases Enhanced Damage by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -6228,7 +6228,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +1%",
         "fr": "Dégâts Améliorés +1%",
         "es": "",
         "ch": "",
@@ -6246,7 +6246,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +50",
         "fr": "Vitesse d'attaque +50",
         "es": "",
         "ch": "",
@@ -6264,7 +6264,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect.level20": {
-        "en": "",
+        "en": "Any attack reduces target's DMG RD by 1% for 10 sec. Stack up to 15 times.",
         "fr": "Les attaques réduisent RD DGTS de la cible de 1% pendant 10 sec. Peut s'accumuler 15 fois",
         "es": "",
         "ch": "",
@@ -6282,7 +6282,7 @@
         "id": ""
     },
     "skills.TRR_PENETRATE.name": {
-        "en": "",
+        "en": "Penetrate",
         "fr": "Passe Muraille",
         "es": "",
         "ch": "",
@@ -6300,7 +6300,7 @@
         "id": ""
     },
     "skills.TRR_PENETRATE.effect": {
-        "en": "",
+        "en": "The Ranger charges and shoots to the front, dealing 90% damage. Knocks back all targets in a line and lowers their DMG RD by 5%.",
         "fr": "L'Archer charge et tire en face de lui, infligeant 90% de dégâts. Repousse toutes les cibles dans une ligne droite et réduits RD DGTS de 5%",
         "es": "",
         "ch": "",
@@ -6318,7 +6318,7 @@
         "id": ""
     },
     "skills.TRR_RAPID_SHOT.name": {
-        "en": "",
+        "en": "Rapid Shots",
         "fr": "Tir Rapide",
         "es": "",
         "ch": "",
@@ -6336,7 +6336,7 @@
         "id": ""
     },
     "skills.TRR_RAPID_SHOT.effect": {
-        "en": "",
+        "en": "Launches a great amount of arrows at surrounding targets, dealing 185% damage.",
         "fr": "Tire un grand montant de flèches sur les cibles proche, infligeant 185% de dégâts",
         "es": "",
         "ch": "",
@@ -6354,7 +6354,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.name": {
-        "en": "",
+        "en": "Forbear",
         "fr": "Immortel",
         "es": "",
         "ch": "",
@@ -6372,7 +6372,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect": {
-        "en": "",
+        "en": "When Ranger has to suffer damage more than {0}% of its HP, it only loses {0}% HP.",
         "fr": "Quand vous recevez des dégâts supérieur à {0}% de vos PV max, Ne perdez que {0}% de vos PV max.",
         "es": "",
         "ch": "",
@@ -6390,7 +6390,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect.level10": {
-        "en": "",
+        "en": "Holy Attack +500",
         "fr": "Attaque Sacrée +500",
         "es": "",
         "ch": "",
@@ -6408,7 +6408,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect.level15": {
-        "en": "",
+        "en": "Holy Attack +1000",
         "fr": "Attaque Sacrée +1000",
         "es": "",
         "ch": "",
@@ -6426,7 +6426,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect.level20": {
-        "en": "",
+        "en": "Holy Attack +1500",
         "fr": "Attaque Sacrée +1500",
         "es": "",
         "ch": "",
@@ -6444,7 +6444,7 @@
         "id": ""
     },
     "skills.TRR_WEAKNESS_PUNCTURE.name": {
-        "en": "",
+        "en": "Weakness Puncture",
         "fr": "Faiblesse Perforée",
         "es": "",
         "ch": "",
@@ -6462,7 +6462,7 @@
         "id": ""
     },
     "skills.TRR_WEAKNESS_PUNCTURE.effect": {
-        "en": "",
+        "en": "Under Static Shadow status, increases Ranger's Crit Enhance and Skill Crit Enhance by 200%",
         "fr": "Sous Ombre Intérieur, augmente Amélioration Critique et Compétence Critique Améliorée de 200%",
         "es": "",
         "ch": "",
@@ -6480,7 +6480,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.name": {
-        "en": "",
+        "en": "Endurance Training",
         "fr": "Préparation",
         "es": "",
         "ch": "",
@@ -6498,7 +6498,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect": {
-        "en": "",
+        "en": "Increases max HP by (Character Lv. x {0})",
         "fr": "Augmente les PV max de ({0} x Nv. Personnage)",
         "es": "",
         "ch": "",
@@ -6516,7 +6516,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -6534,7 +6534,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect.level15": {
-        "en": "",
+        "en": "Accuracy +2.5%",
         "fr": "Précision +2.5%",
         "es": "",
         "ch": "",
@@ -6552,7 +6552,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect.level20": {
-        "en": "",
+        "en": "DMG RD +5%",
         "fr": "Réduction de Dégâts +5%",
         "es": "",
         "ch": "",
@@ -6570,7 +6570,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.name": {
-        "en": "",
+        "en": "Survivability",
         "fr": "Survie",
         "es": "",
         "ch": "",
@@ -6588,7 +6588,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect": {
-        "en": "",
+        "en": "Increases DMG RD by {0}%",
         "fr": "Augmente Réduction de Dégâts de {0}%",
         "es": "",
         "ch": "",
@@ -6606,7 +6606,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect.level10": {
-        "en": "",
+        "en": "Max HP +400",
         "fr": "PV max +400",
         "es": "",
         "ch": "",
@@ -6624,7 +6624,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect.level15": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -6642,7 +6642,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect.level20": {
-        "en": "",
+        "en": "When melee attacked, you have 20% chance to Paralyze the attacker for 4 sec.",
         "fr": "Quand vous êtes frappés au corps à corps, l'attaquant à 20% de chance d'être paralysé pendant 4 sec",
         "es": "",
         "ch": "",
@@ -6660,7 +6660,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.name": {
-        "en": "",
+        "en": "Hunting Techniques",
         "fr": "Technique de Chasse",
         "es": "",
         "ch": "",
@@ -6678,7 +6678,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect": {
-        "en": "",
+        "en": "Enhanced Damage {0}%",
         "fr": "Dégâts Améliorés {0}%",
         "es": "",
         "ch": "",
@@ -6696,7 +6696,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de BASE +8",
         "es": "",
         "ch": "",
@@ -6714,7 +6714,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect.level15": {
-        "en": "",
+        "en": "Skill Accuracy +3%",
         "fr": "Précision Compétence +3%",
         "es": "",
         "ch": "",
@@ -6732,7 +6732,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +4%",
         "fr": "VIT ATQ +4%",
         "es": "",
         "ch": "",
@@ -6750,7 +6750,7 @@
         "id": ""
     },
     "skills.TRH_POISON_TRAP.name": {
-        "en": "",
+        "en": "Poison Trap",
         "fr": "Piège Empoisonné",
         "es": "",
         "ch": "",
@@ -6768,7 +6768,7 @@
         "id": ""
     },
     "skills.TRH_POISON_TRAP.effect": {
-        "en": "",
+        "en": "Once trigered, poisons 8 enemies within 6 yards around the trap, lowering their ATK SPD by 80% and Damage Reduction by 5% as well as disabling them from using skills for 5 sec.",
         "fr": "Une fois activé, empoisonne 8 ennemis dans un rayon de 6 mètres autour du piège, réduisant la VIT ATQ de 80% et RD DGTS de 5% et les empêche de lancer des sorts pendant 5 sec",
         "es": "",
         "ch": "",
@@ -6786,7 +6786,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.name": {
-        "en": "",
+        "en": "Venom Essence",
         "fr": "Essence Vénéneuse",
         "es": "",
         "ch": "",
@@ -6804,8 +6804,8 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect": {
-        "en": "",
-        "fr": "Les attaques empoisonnent la cible, elle subit 1,2 dégâts par seconde pendant 10 sec",
+        "en": "Attack poisons target, making it suffer {0} damage per sec. for 10 sec. Stacks up to 15 times.",
+        "fr": "Les attaques empoisonnent la cible, elle subit {0} dégâts par seconde pendant 10 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -6822,7 +6822,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect.level10": {
-        "en": "",
+        "en": "Cooldown of Poison Arrow -2",
         "fr": "Temps de Recharge de Flèche Empoisonnée -2 sec",
         "es": "",
         "ch": "",
@@ -6840,7 +6840,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect.level15": {
-        "en": "",
+        "en": "Stack-times +5",
         "fr": "Peut s'accumuler 5 fois",
         "es": "",
         "ch": "",
@@ -6858,7 +6858,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect.level20": {
-        "en": "",
+        "en": "Each stack of Poison effect lowers target's DMG RD by 2%",
         "fr": "Pour chaque accumulation de l'effet poison réduisez RD DGTS de 2% ",
         "es": "",
         "ch": "",
@@ -6876,7 +6876,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.name": {
-        "en": "",
+        "en": "Nimbleness",
         "fr": "Agilité",
         "es": "",
         "ch": "",
@@ -6894,7 +6894,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect": {
-        "en": "",
+        "en": "Increases ATK SPD by {0}%",
         "fr": "Augmente Vitesse d'Attaque de {0}%",
         "es": "",
         "ch": "",
@@ -6912,7 +6912,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect.level10": {
-        "en": "",
+        "en": "Increases Base ATK by 8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -6930,7 +6930,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect.level15": {
-        "en": "",
+        "en": "Increases Enhanced Damage by 2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -6948,7 +6948,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -6966,7 +6966,7 @@
         "id": ""
     },
     "skills.TRH_FEIGN_DEATH.name": {
-        "en": "",
+        "en": "Feign Death",
         "fr": "Feindre la Mort",
         "es": "",
         "ch": "",
@@ -6984,7 +6984,7 @@
         "id": ""
     },
     "skills.TRH_FEIGN_DEATH.effect": {
-        "en": "",
+        "en": "Feign Death to protect yourself. Increases crawling speed by 120. Potions can by used. You will not be attacked but cannot attack the others either. Lasts 4 sec.",
         "fr": "Feindre la Mort augmente votre VIT de 120. Les potions peuvent être utiliés. Vous ne serez pas attaqué mais ne pourrez pas non plus attaquer les autres. Dure 4 sec.",
         "es": "",
         "ch": "",
@@ -7002,7 +7002,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.name": {
-        "en": "",
+        "en": "Enhance Trap",
         "fr": "Piège Paralyzant Amélioré",
         "es": "",
         "ch": "",
@@ -7020,7 +7020,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect": {
-        "en": "",
+        "en": "Paralyze Trap deals additional {0} damage",
         "fr": "Piège Paralyzant inflige {0} de dégâts supplémentaires",
         "es": "",
         "ch": "",
@@ -7038,7 +7038,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect.level10": {
-        "en": "",
+        "en": "Cooldown of Paralyze Trap -5 sec",
         "fr": "Temps de Recharge de Piège Paralyzant réduit de 5 sec",
         "es": "",
         "ch": "",
@@ -7056,7 +7056,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect.level15": {
-        "en": "",
+        "en": "Paralyze duration +2",
         "fr": "Durée de la paralysie augmenté de 2 sec",
         "es": "",
         "ch": "",
@@ -7074,7 +7074,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect.level20": {
-        "en": "",
+        "en": "Trap duration +45 sec.",
         "fr": "Durée du piège +45 sec.",
         "es": "",
         "ch": "",
@@ -7092,7 +7092,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.name": {
-        "en": "",
+        "en": "Hunt",
         "fr": "Chasse",
         "es": "",
         "ch": "",
@@ -7110,8 +7110,8 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect": {
-        "en": "",
-        "fr": "Augmente Précision de {0}% et Précision Compétence de {0}%",
+        "en": "Increases Accuracy by {0}% and Skill Accuracy by {1}%",
+        "fr": "Augmente Précision de {0}% et Précision Compétence de {1}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7128,7 +7128,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect.level10": {
-        "en": "",
+        "en": "Crit Accuracy +2%",
         "fr": "Increases Crit Accuracy by 2%",
         "es": "",
         "ch": "",
@@ -7146,7 +7146,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +3%",
         "fr": "Précision Compétence Critique +3%",
         "es": "",
         "ch": "",
@@ -7164,7 +7164,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect.level20": {
-        "en": "",
+        "en": "Common attacks have a 2% chance to Stun target for 1 sec.",
         "fr": "Les attaques normales ont 2% de chance d'étourdir la cible pendant 1 sec",
         "es": "",
         "ch": "",
@@ -7182,7 +7182,7 @@
         "id": ""
     },
     "skills.TRH_GRAPPLE.name": {
-        "en": "",
+        "en": "Grapple",
         "fr": "Grappin",
         "es": "",
         "ch": "",
@@ -7200,7 +7200,7 @@
         "id": ""
     },
     "skills.TRH_GRAPPLE.effect": {
-        "en": "",
+        "en": "Deals 600 Holy damage, Stunning the target for 2 sec. and dragging it to you.",
         "fr": "Inflige 600 de Dégâts Sacrés, l'attirant à vous et l'étourdissant pendant 2 sec.",
         "es": "",
         "ch": "",
@@ -7218,7 +7218,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.name": {
-        "en": "",
+        "en": "Enhanced Multi-Arrow",
         "fr": "Flèches Multiples Améliorées",
         "es": "",
         "ch": "",
