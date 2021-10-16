@@ -988,5 +988,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "general.label.reset":{
+        "en":"Reset",
+        "fr":"Réinitialiser",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
