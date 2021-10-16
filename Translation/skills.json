@@ -2375,6 +2375,24 @@
         "th":"",
         "id":""
     },
+	"skills.talent.click_to_learn":{
+        "en":"left-click to learn",
+        "fr":"",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "skills.TMD_STAFF_EXPERTISE.name":{
         "en":"Staff Expertise",
         "fr":"Expertise des Arcanes",
@@ -4914,7 +4932,7 @@
         "id": ""
     },
     "skills.TML_AID.name": {
-        "en": "",
+        "en": "Aid",
         "fr": "Soutient",
         "es": "",
         "ch": "",
@@ -4932,7 +4950,7 @@
         "id": ""
     },
     "skills.TML_AID.effect": {
-        "en": "",
+        "en": "Increases SPD by 15 and DMG RD by 50% for 10 sec.",
         "fr": "Augmente la VIT de 15 et RD DGTS de 50% pendant 10 sec",
         "es": "",
         "ch": "",
@@ -4950,7 +4968,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.name": {
-        "en": "",
+        "en": "Enhanced Magic Shield",
         "fr": "Bouclier Magique Amélioré",
         "es": "",
         "ch": "",
@@ -4968,7 +4986,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect": {
-        "en": "",
+        "en": "Magic Shield absorbs {0} points of incoming damage",
         "fr": "Bouclier Magique absorbe {0} des dégâts reçus",
         "es": "",
         "ch": "",
@@ -4986,7 +5004,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level10": {
-        "en": "",
+        "en": "Increases HP by 500 when Magic Shield is activated",
         "fr": "Augmente les PV de 500 quand Bouclier Magique est activé",
         "es": "",
         "ch": "",
@@ -5004,8 +5022,8 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level15": {
-        "en": "",
-        "fr": "Bouclier Magique absorbe +400 de dégâts reçus",
+        "en": "Incoming damage absorbed by Magic Shield +50% of your Base ATK",
+        "fr": "50% de votre ATK de base est ajouté a votre Bouclier Magique",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5014,7 +5032,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Sát thương Khiên Ma Pháp hấp thụ +400.",
+        "vi": "",
         "ar": "",
         "it": "",
         "pl": "",
@@ -5022,7 +5040,7 @@
         "id": ""
     },
     "skills.TML_ENH_MAGIC_SHIELD.effect.level20": {
-        "en": "",
+        "en": "Increases SPD by 50% when Magic Shield is activated",
         "fr": "Augmente la VIT de 50% quand Bouclier Magique est activé",
         "es": "",
         "ch": "",
@@ -5040,7 +5058,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.name": {
-        "en": "",
+        "en": "Divine Guidance",
         "fr": "Divination",
         "es": "",
         "ch": "",
@@ -5058,7 +5076,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect": {
-        "en": "",
+        "en": "Skill Accuracy {0}%, Enhanced Damage {0}%",
         "fr": "Précision Compétence {0}%, Dégâts Améliorés {0}%",
         "es": "",
         "ch": "",
@@ -5076,7 +5094,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -5094,7 +5112,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +5%",
         "fr": "Précision Compétence Critique +5%",
         "es": "",
         "ch": "",
@@ -5112,7 +5130,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level20": {
-        "en": "",
+        "en": "Enhanced Damage 5%",
         "fr": "Quand un sort touche, il a 20% de chance de faire \"subir\" la cible qui prendra 25% de dégâts supplémentaire sur la prochaine attaque. L'effet jusqu'à 10sec",
         "es": "",
         "ch": "",
@@ -5130,7 +5148,7 @@
         "id": ""
     },
     "skills.TML_PRAY.name": {
-        "en": "",
+        "en": "Pray",
         "fr": "Prière",
         "es": "",
         "ch": "",
@@ -5148,7 +5166,7 @@
         "id": ""
     },
     "skills.TML_PRAY.effect": {
-        "en": "",
+        "en": "Increases target's max HP by 4000 and Enhanced Damage by 15%",
         "fr": "Augmente les PV max de la cible de 4000 et Dégâts Améliorés de 15%",
         "es": "",
         "ch": "",
@@ -5166,7 +5184,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.name": {
-        "en": "",
+        "en": "Feedback",
         "fr": "Réaction",
         "es": "",
         "ch": "",
@@ -5184,8 +5202,8 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect": {
-        "en": "",
-        "fr": "PM max +{0}, PV max +{0}",
+        "en": "Max MP +{0}, Max HP +{1}",
+        "fr": "PM max +{0}, PV max +{1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5194,7 +5212,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Năng Lượng Tối Đa +{0}, Máu Tối Đa +{0}.",
+        "vi": "Năng Lượng Tối Đa +{0}, Máu Tối Đa +{1}.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -5202,7 +5220,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect.level10": {
-        "en": "",
+        "en": "Max MP +50",
         "fr": "PM max +50",
         "es": "",
         "ch": "",
@@ -5220,7 +5238,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect.level15": {
-        "en": "",
+        "en": "Enhanced Damage +3%",
         "fr": "Dégâts Améliorés +3%",
         "es": "",
         "ch": "",
@@ -5238,7 +5256,7 @@
         "id": ""
     },
     "skills.TML_FEEDBACK.effect.level20": {
-        "en": "",
+        "en": "When Mage's Skill Attack hits, the Mage has a 50% chance to recover 20 MP. Cannot occur more than once in 10 sec.",
         "fr": "Quand un sort touche, le Mage a 50% de chance de récupérer 20 PM. Ne peut se produire plus d'une fois toutes les 10 sec.",
         "es": "",
         "ch": "",
@@ -5256,7 +5274,7 @@
         "id": ""
     },
     "skills.TML_FINAL_LIGNT.name": {
-        "en": "",
+        "en": "Final Light",
         "fr": "Lumière Finale",
         "es": "",
         "ch": "",
@@ -5274,7 +5292,7 @@
         "id": ""
     },
     "skills.TML_FINAL_LIGNT.effect": {
-        "en": "",
+        "en": "Attacks targets within 3 yards, inflicting 200% damage, Stunning them for 1 second.",
         "fr": "Touche toutes les cibles dans un rayon de 3 mètres, infligent 200% de dégâts et étourdit les cibles pendant 1 seconde",
         "es": "",
         "ch": "",
@@ -5292,7 +5310,7 @@
         "id": ""
     },
     "skills.TML_SONG_OF_GODDESS.name": {
-        "en": "",
+        "en": "Song of Goddess",
         "fr": "Hymne de la Déesse",
         "es": "",
         "ch": "",
@@ -5310,7 +5328,7 @@
         "id": ""
     },
     "skills.TML_SONG_OF_GODDESS.effect": {
-        "en": "",
+        "en": "The Mage chants ancient tones, bringing the Goddess Hieviel's blessing to all friendly targets within 6 yards, increasing their Enhanced Damage by 15% and DMG RD by 15%. Also heals targets by 1% max HP every 3 sec., and increases their SPD by 30. Must channel to mantain effect. Lasts up to 30 sec. (Moving or casting a spell cancels the effect)",
         "fr": "Le Mage chante un Hymne antique, apportant la Bénédiction de la Déesse Hieviel à tous les alliés dans un rayon de 6 mètres. Augmente leur Dégâts Améliorés de 15% et RD DGTS de 15%. Soigne les cibles de 1% de leur PV max toutes les 3 secondes et augmente leur VIT de 30. Le sort doit être maintenu pour garder les effets.Dure 30 sec. (Bouger ou lancer un sort annule l'effet)",
         "es": "",
         "ch": "",
@@ -5328,7 +5346,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.name": {
-        "en": "",
+        "en": "Healing Mastery",
         "fr": "Maîtrîse des Soins",
         "es": "",
         "ch": "",
@@ -5346,7 +5364,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect": {
-        "en": "",
+        "en": "Increases the maximum effect of healing skills by {0}%",
         "fr": "Augmente l'effet maximum des compétences de guérison de {0}%",
         "es": "",
         "ch": "",
@@ -5364,7 +5382,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +5%",
         "fr": "Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -5382,7 +5400,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect.level15": {
-        "en": "",
+        "en": "Skill Evasion +10%",
         "fr": "Esquive Compétence +10%",
         "es": "",
         "ch": "",
@@ -5400,7 +5418,7 @@
         "id": ""
     },
     "skills.TML_HEALING_MASTERY.effect.level20": {
-        "en": "",
+        "en": "Healing Skill's effect +5%",
         "fr": "Augmente l'effet des compétences de guérison de +5%",
         "es": "",
         "ch": "",
@@ -5418,7 +5436,7 @@
         "id": ""
     },
     "skills.TML_ELECCTROSTATIC_FORCE_FIELD.name": {
-        "en": "",
+        "en": "Electrostatic Force Field",
         "fr": "Champ de Force Électrostatique",
         "es": "",
         "ch": "",
@@ -5436,7 +5454,7 @@
         "id": ""
     },
     "skills.TML_ELECCTROSTATIC_FORCE_FIELD.effect": {
-        "en": "",
+        "en": "Electric Storm will be triggered once every 0.3 second instead of every 1 second",
         "fr": "Tempête Électrique s'activera toutes les 0,3 sec au lieu de s'activer chaque secondes",
         "es": "",
         "ch": "",
@@ -5454,7 +5472,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.name": {
-        "en": "",
+        "en": "Bow Expertise",
         "fr": "Spécialisation Archerie",
         "es": "",
         "ch": "",
@@ -5472,7 +5490,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect": {
-        "en": "",
+        "en": "Increases Base ATK by ({0}% x Character Lv.)",
         "fr": "Augmente l'ATQ de Base de ({0}% x Nv. Personnage)",
         "es": "",
         "ch": "",
@@ -5490,7 +5508,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "Base ATQ +8",
         "es": "",
         "ch": "",
@@ -5508,7 +5526,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level15": {
-        "en": "",
+        "en": "Accuracy +3%",
         "fr": "Précision +3%",
         "es": "",
         "ch": "",
@@ -5526,7 +5544,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level20": {
-        "en": "",
+        "en": "Increases Skill Accuracy by 5%",
         "fr": "Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -5544,7 +5562,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.name": {
-        "en": "",
+        "en": "Enhanced Triple Shot",
         "fr": "Coup Triple Amélioré",
         "es": "",
         "ch": "",
@@ -5562,7 +5580,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect": {
-        "en": "",
+        "en": "Increases the Skill DMG of Triple Shot by {0}",
         "fr": "Augmente les Dégâts de Coméptences de Coup Triple de {0}",
         "es": "",
         "ch": "",
@@ -5580,7 +5598,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level10": {
-        "en": "",
+        "en": "Damage of Triple Shot +66",
         "fr": "Dégâts de Coup Triple +66",
         "es": "",
         "ch": "",
@@ -5598,7 +5616,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level15": {
-        "en": "",
+        "en": "Skill Crit of Triple Shot +7%",
         "fr": "Compétence Critique de Coup Triple +7%",
         "es": "",
         "ch": "",
@@ -5616,7 +5634,7 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level20": {
-        "en": "",
+        "en": "Triple Shot lowers target Base SPD by 30% for 2 sec",
         "fr": "Coup Triple réduit la VIT de Base de la cible 30% pendant 2 sec",
         "es": "",
         "ch": "",
@@ -5634,7 +5652,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.name": {
-        "en": "",
+        "en": "Bleeding Pierce",
         "fr": "Pércée Sanglante",
         "es": "",
         "ch": "",
@@ -5652,7 +5670,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect": {
-        "en": "",
+        "en": "A normal attack Crit hit makes the target Bleed. Effect can stack. Dealing Holy damage of {0}% Base ATK over 10 sec.",
         "fr": "Une Attaque Critique inflige Saignement à la cible. L'effet peut s'accumuler. Inflige des Dégâts Sacrés équivalent à {0}% de l'ATQ de Base sur 10 sec.",
         "es": "",
         "ch": "",
@@ -5670,7 +5688,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect.level10": {
-        "en": "",
+        "en": "Increases Bleeding damage by 24%",
         "fr": "Les Dégâts du Saignement sont augmentés de 24%",
         "es": "",
         "ch": "",
@@ -5688,7 +5706,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect.level15": {
-        "en": "",
+        "en": "Crit Accuracy and Skill Crit Accuracy +2%",
         "fr": "Précision Critique et Précision Compétence Critique +2%",
         "es": "",
         "ch": "",
@@ -5706,7 +5724,7 @@
         "id": ""
     },
     "skills.TRR_BLEEDING_PIERCE.effect.level20": {
-        "en": "",
+        "en": "Bleeding duration -3 sec.",
         "fr": "Durée du Saignement -3 sec",
         "es": "",
         "ch": "",
@@ -5724,7 +5742,7 @@
         "id": ""
     },
     "skills.TRR_TAKE_AIM.name": {
-        "en": "",
+        "en": "Take Aim",
         "fr": "Mise au Point",
         "es": "",
         "ch": "",
@@ -5742,7 +5760,7 @@
         "id": ""
     },
     "skills.TRR_TAKE_AIM.effect": {
-        "en": "",
+        "en": "Charges for 0.5 sec. to deal Crit damage once with a bonus of 300 damage. Has 80% chance to Slow the target by 50% over 5 seconds.",
         "fr": "Charge pendant 0,5 sec infligeant des Dégâts Critique une fois avec un bonus de dégâts de 300. A 80% de chance de ralentir la cible de 50% sur 5 secondes",
         "es": "",
         "ch": "",
@@ -5760,7 +5778,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.name": {
-        "en": "",
+        "en": "Fatality",
         "fr": "Létalité",
         "es": "",
         "ch": "",
@@ -5778,7 +5796,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect": {
-        "en": "",
+        "en": "Increases Crit Accuracy by {0}%, Skill Crit Accuracy by {0}%",
         "fr": "Augmente Précision Critique de {0}% et Précision Compétence Critique de {0}%",
         "es": "",
         "ch": "",
@@ -5796,7 +5814,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect.level10": {
-        "en": "",
+        "en": "Base ATK +10",
         "fr": "ATQ de Base +10",
         "es": "",
         "ch": "",
@@ -5814,7 +5832,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect.level15": {
-        "en": "",
+        "en": "Max HP +400",
         "fr": "PV max +400",
         "es": "",
         "ch": "",
@@ -5832,7 +5850,7 @@
         "id": ""
     },
     "skills.TRR_FATALITY.effect.level20": {
-        "en": "",
+        "en": "Skill Crit ENHC +15%",
         "fr": "Compétences Critique Améliorée +15%",
         "es": "",
         "ch": "",
@@ -5850,7 +5868,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.name": {
-        "en": "",
+        "en": "Full Prep",
         "fr": "Apprêt Achevé",
         "es": "",
         "ch": "",
@@ -5868,7 +5886,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect": {
-        "en": "",
+        "en": "For every 10 common attacks, a special arrow is lunched dealing {0} addiotional damage. Also stuns target for 0.3 sec.",
         "fr": "Toutes les 10 attaques normales, une flèche spéciale est lancé, infligeant {0} de dégâts supplémenntaires et étourdissant la cible pendant 0,3sec",
         "es": "",
         "ch": "",
@@ -5886,7 +5904,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect.level10": {
-        "en": "",
+        "en": "Reduces 2 required attacks.",
         "fr": "Réduis à 8 le montant d'attaque nécéssaire",
         "es": "",
         "ch": "",
@@ -5904,7 +5922,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect.level15": {
-        "en": "",
+        "en": "Increases Stun duration by 0.2 sec.",
         "fr": "Durée d'étourdissement augmentée de 0,2 sec",
         "es": "",
         "ch": "",
@@ -5922,7 +5940,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect.level20": {
-        "en": "",
+        "en": "Increases Stun duration by 0.5 sec.",
         "fr": "Durée d'étourdissement augmentée de 0,5 sec.",
         "es": "",
         "ch": "",
@@ -5940,7 +5958,7 @@
         "id": ""
     },
     "skills.TRR_STORM_STRIKE.name": {
-        "en": "",
+        "en": "Storm Strike",
         "fr": "Volée de Flèches",
         "es": "",
         "ch": "",
@@ -5958,7 +5976,7 @@
         "id": ""
     },
     "skills.TRR_STORM_STRIKE.effect": {
-        "en": "",
+        "en": "Attacks the target 5 times instantly, dealing 64% damage.",
         "fr": "Attaque instantanément la cible 5 fois, infligeant 64% de dégâts",
         "es": "",
         "ch": "",
@@ -5976,7 +5994,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.name": {
-        "en": "",
+        "en": "Sharpshooter",
         "fr": "Tireur d'Élite",
         "es": "",
         "ch": "",
@@ -5994,7 +6012,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect": {
-        "en": "",
+        "en": "Skill ENHC {0}%",
         "fr": "Compétence Améliorée de {0}%",
         "es": "",
         "ch": "",
@@ -6012,7 +6030,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +3%",
         "fr": "Précision Compétence +3%",
         "es": "",
         "ch": "",
@@ -6030,7 +6048,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect.level15": {
-        "en": "",
+        "en": "Accuracy +5%",
         "fr": "Précision +5%",
         "es": "",
         "ch": "",
@@ -6048,7 +6066,7 @@
         "id": ""
     },
     "skills.TRR_SHARPSHOOTER.effect.level20": {
-        "en": "",
+        "en": "Base ATK +20",
         "fr": "ATQ de Base +20",
         "es": "",
         "ch": "",
@@ -6066,7 +6084,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.name": {
-        "en": "",
+        "en": "Archer's Techniques",
         "fr": "Technique d'Archerie",
         "es": "",
         "ch": "",
@@ -6084,8 +6102,8 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect": {
-        "en": "",
-        "fr": "Augmente Précision Compétence de {0}%. PM max +{0}",
+        "en": "Increases Skill Accuracy by {0}%. Max MP +{1}",
+        "fr": "Augmente Précision Compétence de {0}%. PM max +{1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -6094,7 +6112,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng Chuẩn Xác Kỹ Năng thêm {0}%. Năng Lượng Tối Đa +{0}.",
+        "vi": "Tăng Chuẩn Xác Kỹ Năng thêm {0}%. Năng Lượng Tối Đa +{1}.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -6102,7 +6120,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect.level10": {
-        "en": "",
+        "en": "Skill Crit Accuracy +1%",
         "fr": "Précision Compétence Critique 1%",
         "es": "",
         "ch": "",
@@ -6120,7 +6138,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect.level15": {
-        "en": "",
+        "en": "Skill Crit ENHC +5%",
         "fr": "Compétence Critique Améliorée 5%",
         "es": "",
         "ch": "",
@@ -6138,7 +6156,7 @@
         "id": ""
     },
     "skills.TRR_ARCHER_TECHNIQUES.effect.level20": {
-        "en": "",
+        "en": "Target takes 10% more damage from your attack after a Skill Crit hit. Lasts 5 sec.",
         "fr": "Les cibles prennent 10% de dégâts supplémentaires après une Compétence Critique. Dure 5 sec",
         "es": "",
         "ch": "",
@@ -6156,7 +6174,7 @@
         "id": ""
     },
     "skills.TRR_FOCUS_SHOT.name": {
-        "en": "",
+        "en": "Focus Shot",
         "fr": "Coup de Projecteur",
         "es": "",
         "ch": "",
@@ -6174,7 +6192,7 @@
         "id": ""
     },
     "skills.TRR_FOCUS_SHOT.effect": {
-        "en": "",
+        "en": "Increases Holy Attack by 300. Lasts 8 sec.",
         "fr": "Augmente l'Attaque Sacrée de 300. Dure 8 sec",
         "es": "",
         "ch": "",
@@ -6192,7 +6210,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.name": {
-        "en": "",
+        "en": "Pierce",
         "fr": "Percée",
         "es": "",
         "ch": "",
@@ -6210,7 +6228,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect": {
-        "en": "",
+        "en": "Increases Enhanced Damage by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -6228,7 +6246,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +1%",
         "fr": "Dégâts Améliorés +1%",
         "es": "",
         "ch": "",
@@ -6246,7 +6264,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +50",
         "fr": "Vitesse d'attaque +50",
         "es": "",
         "ch": "",
@@ -6264,7 +6282,7 @@
         "id": ""
     },
     "skills.TRR_PIERCE.effect.level20": {
-        "en": "",
+        "en": "Any attack reduces target's DMG RD by 1% for 10 sec. Stack up to 15 times.",
         "fr": "Les attaques réduisent RD DGTS de la cible de 1% pendant 10 sec. Peut s'accumuler 15 fois",
         "es": "",
         "ch": "",
@@ -6282,7 +6300,7 @@
         "id": ""
     },
     "skills.TRR_PENETRATE.name": {
-        "en": "",
+        "en": "Penetrate",
         "fr": "Passe Muraille",
         "es": "",
         "ch": "",
@@ -6300,7 +6318,7 @@
         "id": ""
     },
     "skills.TRR_PENETRATE.effect": {
-        "en": "",
+        "en": "The Ranger charges and shoots to the front, dealing 90% damage. Knocks back all targets in a line and lowers their DMG RD by 5%.",
         "fr": "L'Archer charge et tire en face de lui, infligeant 90% de dégâts. Repousse toutes les cibles dans une ligne droite et réduits RD DGTS de 5%",
         "es": "",
         "ch": "",
@@ -6318,7 +6336,7 @@
         "id": ""
     },
     "skills.TRR_RAPID_SHOT.name": {
-        "en": "",
+        "en": "Rapid Shots",
         "fr": "Tir Rapide",
         "es": "",
         "ch": "",
@@ -6336,7 +6354,7 @@
         "id": ""
     },
     "skills.TRR_RAPID_SHOT.effect": {
-        "en": "",
+        "en": "Launches a great amount of arrows at surrounding targets, dealing 185% damage.",
         "fr": "Tire un grand montant de flèches sur les cibles proche, infligeant 185% de dégâts",
         "es": "",
         "ch": "",
@@ -6354,7 +6372,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.name": {
-        "en": "",
+        "en": "Forbear",
         "fr": "Immortel",
         "es": "",
         "ch": "",
@@ -6372,7 +6390,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect": {
-        "en": "",
+        "en": "When Ranger has to suffer damage more than {0}% of its HP, it only loses {0}% HP.",
         "fr": "Quand vous recevez des dégâts supérieur à {0}% de vos PV max, Ne perdez que {0}% de vos PV max.",
         "es": "",
         "ch": "",
@@ -6390,7 +6408,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect.level10": {
-        "en": "",
+        "en": "Holy Attack +500",
         "fr": "Attaque Sacrée +500",
         "es": "",
         "ch": "",
@@ -6408,7 +6426,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect.level15": {
-        "en": "",
+        "en": "Holy Attack +1000",
         "fr": "Attaque Sacrée +1000",
         "es": "",
         "ch": "",
@@ -6426,7 +6444,7 @@
         "id": ""
     },
     "skills.TRR_FORBEAR.effect.level20": {
-        "en": "",
+        "en": "Holy Attack +1500",
         "fr": "Attaque Sacrée +1500",
         "es": "",
         "ch": "",
@@ -6444,7 +6462,7 @@
         "id": ""
     },
     "skills.TRR_WEAKNESS_PUNCTURE.name": {
-        "en": "",
+        "en": "Weakness Puncture",
         "fr": "Faiblesse Perforée",
         "es": "",
         "ch": "",
@@ -6462,7 +6480,7 @@
         "id": ""
     },
     "skills.TRR_WEAKNESS_PUNCTURE.effect": {
-        "en": "",
+        "en": "Under Static Shadow status, increases Ranger's Crit Enhance and Skill Crit Enhance by 200%",
         "fr": "Sous Ombre Intérieur, augmente Amélioration Critique et Compétence Critique Améliorée de 200%",
         "es": "",
         "ch": "",
@@ -6480,7 +6498,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.name": {
-        "en": "",
+        "en": "Endurance Training",
         "fr": "Préparation",
         "es": "",
         "ch": "",
@@ -6498,7 +6516,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect": {
-        "en": "",
+        "en": "Increases max HP by (Character Lv. x {0})",
         "fr": "Augmente les PV max de ({0} x Nv. Personnage)",
         "es": "",
         "ch": "",
@@ -6516,7 +6534,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -6534,7 +6552,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect.level15": {
-        "en": "",
+        "en": "Accuracy +2.5%",
         "fr": "Précision +2.5%",
         "es": "",
         "ch": "",
@@ -6552,7 +6570,7 @@
         "id": ""
     },
     "skills.TRH_ENDURANCE_TRAINING.effect.level20": {
-        "en": "",
+        "en": "DMG RD +5%",
         "fr": "Réduction de Dégâts +5%",
         "es": "",
         "ch": "",
@@ -6570,7 +6588,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.name": {
-        "en": "",
+        "en": "Survivability",
         "fr": "Survie",
         "es": "",
         "ch": "",
@@ -6588,7 +6606,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect": {
-        "en": "",
+        "en": "Increases DMG RD by {0}%",
         "fr": "Augmente Réduction de Dégâts de {0}%",
         "es": "",
         "ch": "",
@@ -6606,7 +6624,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect.level10": {
-        "en": "",
+        "en": "Max HP +400",
         "fr": "PV max +400",
         "es": "",
         "ch": "",
@@ -6624,7 +6642,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect.level15": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -6642,7 +6660,7 @@
         "id": ""
     },
     "skills.TRH_SURVAVIBILITY.effect.level20": {
-        "en": "",
+        "en": "When melee attacked, you have 20% chance to Paralyze the attacker for 4 sec.",
         "fr": "Quand vous êtes frappés au corps à corps, l'attaquant à 20% de chance d'être paralysé pendant 4 sec",
         "es": "",
         "ch": "",
@@ -6660,7 +6678,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.name": {
-        "en": "",
+        "en": "Hunting Techniques",
         "fr": "Technique de Chasse",
         "es": "",
         "ch": "",
@@ -6678,7 +6696,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect": {
-        "en": "",
+        "en": "Enhanced Damage {0}%",
         "fr": "Dégâts Améliorés {0}%",
         "es": "",
         "ch": "",
@@ -6696,7 +6714,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de BASE +8",
         "es": "",
         "ch": "",
@@ -6714,7 +6732,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect.level15": {
-        "en": "",
+        "en": "Skill Accuracy +3%",
         "fr": "Précision Compétence +3%",
         "es": "",
         "ch": "",
@@ -6732,7 +6750,7 @@
         "id": ""
     },
     "skills.TRH_HUNTING_TECHNIQUE.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +4%",
         "fr": "VIT ATQ +4%",
         "es": "",
         "ch": "",
@@ -6750,7 +6768,7 @@
         "id": ""
     },
     "skills.TRH_POISON_TRAP.name": {
-        "en": "",
+        "en": "Poison Trap",
         "fr": "Piège Empoisonné",
         "es": "",
         "ch": "",
@@ -6768,7 +6786,7 @@
         "id": ""
     },
     "skills.TRH_POISON_TRAP.effect": {
-        "en": "",
+        "en": "Once trigered, poisons 8 enemies within 6 yards around the trap, lowering their ATK SPD by 80% and Damage Reduction by 5% as well as disabling them from using skills for 5 sec.",
         "fr": "Une fois activé, empoisonne 8 ennemis dans un rayon de 6 mètres autour du piège, réduisant la VIT ATQ de 80% et RD DGTS de 5% et les empêche de lancer des sorts pendant 5 sec",
         "es": "",
         "ch": "",
@@ -6786,7 +6804,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.name": {
-        "en": "",
+        "en": "Venom Essence",
         "fr": "Essence Vénéneuse",
         "es": "",
         "ch": "",
@@ -6804,8 +6822,8 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect": {
-        "en": "",
-        "fr": "Les attaques empoisonnent la cible, elle subit 1,2 dégâts par seconde pendant 10 sec",
+        "en": "Attack poisons target, making it suffer {0} damage per sec. for 10 sec. Stacks up to 15 times.",
+        "fr": "Les attaques empoisonnent la cible, elle subit {0} dégâts par seconde pendant 10 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -6822,7 +6840,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect.level10": {
-        "en": "",
+        "en": "Cooldown of Poison Arrow -2",
         "fr": "Temps de Recharge de Flèche Empoisonnée -2 sec",
         "es": "",
         "ch": "",
@@ -6840,7 +6858,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect.level15": {
-        "en": "",
+        "en": "Stack-times +5",
         "fr": "Peut s'accumuler 5 fois",
         "es": "",
         "ch": "",
@@ -6858,7 +6876,7 @@
         "id": ""
     },
     "skills.TRH_VENOM_ESSENCE.effect.level20": {
-        "en": "",
+        "en": "Each stack of Poison effect lowers target's DMG RD by 2%",
         "fr": "Pour chaque accumulation de l'effet poison réduisez RD DGTS de 2% ",
         "es": "",
         "ch": "",
@@ -6876,7 +6894,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.name": {
-        "en": "",
+        "en": "Nimbleness",
         "fr": "Agilité",
         "es": "",
         "ch": "",
@@ -6894,7 +6912,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect": {
-        "en": "",
+        "en": "Increases ATK SPD by {0}%",
         "fr": "Augmente Vitesse d'Attaque de {0}%",
         "es": "",
         "ch": "",
@@ -6912,7 +6930,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect.level10": {
-        "en": "",
+        "en": "Increases Base ATK by 8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -6930,7 +6948,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect.level15": {
-        "en": "",
+        "en": "Increases Enhanced Damage by 2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -6948,7 +6966,7 @@
         "id": ""
     },
     "skills.TRH_NIMBLENESS.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -6966,7 +6984,7 @@
         "id": ""
     },
     "skills.TRH_FEIGN_DEATH.name": {
-        "en": "",
+        "en": "Feign Death",
         "fr": "Feindre la Mort",
         "es": "",
         "ch": "",
@@ -6984,7 +7002,7 @@
         "id": ""
     },
     "skills.TRH_FEIGN_DEATH.effect": {
-        "en": "",
+        "en": "Feign Death to protect yourself. Increases crawling speed by 120. Potions can by used. You will not be attacked but cannot attack the others either. Lasts 4 sec.",
         "fr": "Feindre la Mort augmente votre VIT de 120. Les potions peuvent être utiliés. Vous ne serez pas attaqué mais ne pourrez pas non plus attaquer les autres. Dure 4 sec.",
         "es": "",
         "ch": "",
@@ -7002,7 +7020,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.name": {
-        "en": "",
+        "en": "Enhance Trap",
         "fr": "Piège Paralyzant Amélioré",
         "es": "",
         "ch": "",
@@ -7020,7 +7038,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect": {
-        "en": "",
+        "en": "Paralyze Trap deals additional {0} damage",
         "fr": "Piège Paralyzant inflige {0} de dégâts supplémentaires",
         "es": "",
         "ch": "",
@@ -7038,7 +7056,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect.level10": {
-        "en": "",
+        "en": "Cooldown of Paralyze Trap -5 sec",
         "fr": "Temps de Recharge de Piège Paralyzant réduit de 5 sec",
         "es": "",
         "ch": "",
@@ -7056,7 +7074,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect.level15": {
-        "en": "",
+        "en": "Paralyze duration +2",
         "fr": "Durée de la paralysie augmenté de 2 sec",
         "es": "",
         "ch": "",
@@ -7074,7 +7092,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_TRAP.effect.level20": {
-        "en": "",
+        "en": "Trap duration +45 sec.",
         "fr": "Durée du piège +45 sec.",
         "es": "",
         "ch": "",
@@ -7092,7 +7110,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.name": {
-        "en": "",
+        "en": "Hunt",
         "fr": "Chasse",
         "es": "",
         "ch": "",
@@ -7110,8 +7128,8 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect": {
-        "en": "",
-        "fr": "Augmente Précision de {0}% et Précision Compétence de {0}%",
+        "en": "Increases Accuracy by {0}% and Skill Accuracy by {1}%",
+        "fr": "Augmente Précision de {0}% et Précision Compétence de {1}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7128,7 +7146,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect.level10": {
-        "en": "",
+        "en": "Crit Accuracy +2%",
         "fr": "Increases Crit Accuracy by 2%",
         "es": "",
         "ch": "",
@@ -7146,7 +7164,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +3%",
         "fr": "Précision Compétence Critique +3%",
         "es": "",
         "ch": "",
@@ -7164,7 +7182,7 @@
         "id": ""
     },
     "skills.TRH_HUNT.effect.level20": {
-        "en": "",
+        "en": "Common attacks have a 2% chance to Stun target for 1 sec.",
         "fr": "Les attaques normales ont 2% de chance d'étourdir la cible pendant 1 sec",
         "es": "",
         "ch": "",
@@ -7182,7 +7200,7 @@
         "id": ""
     },
     "skills.TRH_GRAPPLE.name": {
-        "en": "",
+        "en": "Grapple",
         "fr": "Grappin",
         "es": "",
         "ch": "",
@@ -7200,7 +7218,7 @@
         "id": ""
     },
     "skills.TRH_GRAPPLE.effect": {
-        "en": "",
+        "en": "Deals 600 Holy damage, Stunning the target for 2 sec. and dragging it to you.",
         "fr": "Inflige 600 de Dégâts Sacrés, l'attirant à vous et l'étourdissant pendant 2 sec.",
         "es": "",
         "ch": "",
@@ -7218,7 +7236,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.name": {
-        "en": "",
+        "en": "Enhanced Multi-Arrow",
         "fr": "Flèches Multiples Améliorées",
         "es": "",
         "ch": "",
@@ -7236,8 +7254,8 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect": {
-        "en": "",
-        "fr": "Les dégâts de Flèches Multiples sont augmentés de {0}.",
+        "en": "Increases damage done by Multi-Arrow by {0}",
+        "fr": "Les dégâts de Flèches Multiples sont augmentés de {0}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7254,8 +7272,8 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect.level10": {
-        "en": "",
-        "fr": "Les dégâts de Flèches Multiples sont augmentés de  200.",
+        "en": "Damage done by Multi-Arrow +200",
+        "fr": "Les dégâts de Flèches Multiples sont augmentés de 200",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7272,8 +7290,8 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect.level15": {
-        "en": "",
-        "fr": "Flèche Multiple ralenti les cibles de 20% pendant 3 sec.",
+        "en": "Multi-Arrow Slows target by 20% for 3 sec",
+        "fr": "Flèche Multiple ralenti les cibles de 20% pendant 3 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7290,7 +7308,7 @@
         "id": ""
     },
     "skills.TRH_ENHC_MULTI_ARROW.effect.level20": {
-        "en": "",
+        "en": "Crit chance of Multi-Arrow +8%",
         "fr": "Compétence Critique de Flèches Multiples augmentée de 8%",
         "es": "",
         "ch": "",
@@ -7308,7 +7326,7 @@
         "id": ""
     },
     "skills.TRH_VOLLEY.name": {
-        "en": "",
+        "en": "Volley",
         "fr": "Vollée",
         "es": "",
         "ch": "",
@@ -7326,7 +7344,7 @@
         "id": ""
     },
     "skills.TRH_VOLLEY.effect": {
-        "en": "",
+        "en": "Suppress targeted area, dealing 180% damage to all targets. Also lowers target's SPD by 10% for 8 sec. Stacks up to 3 times.",
         "fr": "Supprime la zone ciblée, infligeant 180% de dégâts à tous les ennemis. Réduis la Vitesse des cibles de 10% pendant 8 sec. Peut s'accumuler 3 fois.",
         "es": "",
         "ch": "",
@@ -7344,8 +7362,8 @@
         "id": ""
     },
     "skills.TRH_MK3_ARROW_SHOT.name": {
-        "en": "",
-        "fr": "MK-III Tir",
+        "en": "MK-III Arrow Shot",
+        "fr": "Tir MK-III",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7362,7 +7380,7 @@
         "id": ""
     },
     "skills.TRH_MK3_ARROW_SHOT.effect": {
-        "en": "",
+        "en": "Deploy an MK-III Arrow Shot, dealing 80% to targets in the area effect. Lasts 10 sec.",
         "fr": "Déploie un MK-III, infligeant 80% de dégâts aux cibles dans la zone. Dure 10 sec",
         "es": "",
         "ch": "",
@@ -7380,7 +7398,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.name": {
-        "en": "",
+        "en": "Arrow Shot",
         "fr": "Tir Chargé",
         "es": "",
         "ch": "",
@@ -7398,8 +7416,8 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect": {
-        "en": "",
-        "fr": "Augmente la portée d'attaque de 1 et Attaque Sacrée de {0}",
+        "en": "Increases shooting range by {0} and Holy Attack by {1}",
+        "fr": "Augmente la portée d'attaque de {0} et Attaque Sacrée de {1}",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7416,7 +7434,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect.level10": {
-        "en": "",
+        "en": "MP max +250",
         "fr": "PM max +250",
         "es": "",
         "ch": "",
@@ -7434,7 +7452,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -7452,7 +7470,7 @@
         "id": ""
     },
     "skills.TRH_ARROW_SHOT.effect.level20": {
-        "en": "",
+        "en": "Holy Attack +1000",
         "fr": "Sacrée +1000",
         "es": "",
         "ch": "",
@@ -7470,7 +7488,7 @@
         "id": ""
     },
     "skills.TRH_RADICAL.name": {
-        "en": "",
+        "en": "Radical",
         "fr": "Radicale",
         "es": "",
         "ch": "",
@@ -7488,7 +7506,7 @@
         "id": ""
     },
     "skills.TRH_RADICAL.effect": {
-        "en": "",
+        "en": "For each 10 attacks, the duration of Static Shadow will be increased by 1",
         "fr": "Toutes les 10 attaques, la durée d'Ombre Intérieur est augmentée de 1 sec",
         "es": "",
         "ch": "",
@@ -7506,7 +7524,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.name": {
-        "en": "",
+        "en": "Exorcist Techniques",
         "fr": "Technique d'Excorcisme",
         "es": "",
         "ch": "",
@@ -7524,7 +7542,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect": {
-        "en": "",
+        "en": "Increase Enhanced Damage by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -7542,7 +7560,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect.level10": {
-        "en": "",
+        "en": "Accuracy +2%",
         "fr": "Précision +2%",
         "es": "",
         "ch": "",
@@ -7560,7 +7578,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect.level15": {
-        "en": "",
+        "en": "Evasion +3%",
         "fr": "Esquive +3%",
         "es": "",
         "ch": "",
@@ -7578,7 +7596,7 @@
         "id": ""
     },
     "skills.TRM_EXORSIST_TECHNIQUES.effect.level20": {
-        "en": "",
+        "en": "Base ATK +20",
         "fr": "ATQ de Base +20",
         "es": "",
         "ch": "",
@@ -7596,7 +7614,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.name": {
-        "en": "",
+        "en": "Precision",
         "fr": "Précision",
         "es": "",
         "ch": "",
@@ -7614,7 +7632,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect": {
-        "en": "",
+        "en": "Increase Accuracy and Skill Accuracy by {0}%",
         "fr": "Augmente Précision et Précision Compétence de {0}%",
         "es": "",
         "ch": "",
@@ -7632,7 +7650,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect.level10": {
-        "en": "",
+        "en": "Max HP +500",
         "fr": "PV max +500",
         "es": "",
         "ch": "",
@@ -7650,7 +7668,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +3%",
         "fr": "Compétence Critique +3%",
         "es": "",
         "ch": "",
@@ -7668,7 +7686,7 @@
         "id": ""
     },
     "skills.TRM_PRECISION.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -7686,7 +7704,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.name": {
-        "en": "",
+        "en": "Quick Reflexes",
         "fr": "Mouvement Rapide",
         "es": "",
         "ch": "",
@@ -7704,7 +7722,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect": {
-        "en": "",
+        "en": "Increases Skill Evasion by {0}%",
         "fr": "Augmente Esquive Compétence de {0}%",
         "es": "",
         "ch": "",
@@ -7722,7 +7740,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect.level10": {
-        "en": "",
+        "en": "Evasion +2%",
         "fr": "Esquive +2%",
         "es": "",
         "ch": "",
@@ -7740,7 +7758,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +3%",
         "fr": "VIT ATQ +3%",
         "es": "",
         "ch": "",
@@ -7758,7 +7776,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect.level20": {
-        "en": "",
+        "en": "Max HP +700",
         "fr": "PV max +700",
         "es": "",
         "ch": "",
@@ -7776,7 +7794,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HASTE.name": {
-        "en": "",
+        "en": "Enhance Haste",
         "fr": "Hâte Améliorée",
         "es": "",
         "ch": "",
@@ -7794,7 +7812,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HASTE.effect": {
-        "en": "",
+        "en": "Lowers the CD (Cooldown) time of Haste by 9 sec, also lowers its MP cost by 15",
         "fr": "Réduis le Temps de Recharge de Hâte de 9 sec, réduis aussi le coût en mana de 15",
         "es": "",
         "ch": "",
@@ -7812,7 +7830,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.name": {
-        "en": "",
+        "en": "Building Bravery",
         "fr": "Création de Vertu",
         "es": "",
         "ch": "",
@@ -7830,7 +7848,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect": {
-        "en": "",
+        "en": "Increases Attack by {0} points each time your attack hits. Stacks up to 10 times. Lasts 10 sec.",
         "fr": "Augmente l'attaque de {0} lorsqu'une attaque touche. Peut s'accumuler 10 fois. Dure 10sec.",
         "es": "",
         "ch": "",
@@ -7848,7 +7866,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -7866,7 +7884,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect.level15": {
-        "en": "",
+        "en": "Crit Accuracy +2%",
         "fr": "Précision Critique +2%",
         "es": "",
         "ch": "",
@@ -7884,7 +7902,7 @@
         "id": ""
     },
     "skills.TRM_BUILDING_BRAVERY.effect.level20": {
-        "en": "",
+        "en": "Effect duration +10 sec",
         "fr": "Durée du bonus +10 sec",
         "es": "",
         "ch": "",
@@ -7902,7 +7920,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.name": {
-        "en": "",
+        "en": "Quick Reload",
         "fr": "Reharge Rapide",
         "es": "",
         "ch": "",
@@ -7920,7 +7938,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect": {
-        "en": "",
+        "en": "Has a {0}% chance to attack one extra time. Can occur once every 3 sec.",
         "fr": "Vous avez {0}% de chance d'exécuter une attaque supplémentaire. Ne peut s'activer qu'une fois toutes les 3 sec.",
         "es": "",
         "ch": "",
@@ -7938,7 +7956,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 7%",
         "fr": "Les chances d'activer l'effet sont augmentés de 7%",
         "es": "",
         "ch": "",
@@ -7956,7 +7974,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +2%",
         "fr": "VIT ATQ +2%",
         "es": "",
         "ch": "",
@@ -7974,7 +7992,7 @@
         "id": ""
     },
     "skills.TRM_QUICK_RELOAD.effect.level20": {
-        "en": "",
+        "en": "Reduces trigger interval by 1 sec.",
         "fr": "Réduis le délai d'activation de 1 sec.",
         "es": "",
         "ch": "",
@@ -7992,7 +8010,7 @@
         "id": ""
     },
     "skills.TRM_RUNNING_SHOT.name": {
-        "en": "",
+        "en": "Running Shot",
         "fr": "Tir en Mouvement",
         "es": "",
         "ch": "",
@@ -8010,7 +8028,7 @@
         "id": ""
     },
     "skills.TRM_RUNNING_SHOT.effect": {
-        "en": "",
+        "en": "Lowers target's DMG RD by 5% and SPD by 15%. Lasts 20 sec. Stacks up to 3 times.",
         "fr": "Réduis RD DGTS de 5% et VIT de 15% Dure 20 sec. Peut s'accumuler 3 fois.",
         "es": "",
         "ch": "",
@@ -8028,7 +8046,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.name": {
-        "en": "",
+        "en": "Enhance Homing Arrow",
         "fr": "Flèches Guidées Améliorées",
         "es": "",
         "ch": "",
@@ -8046,7 +8064,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect": {
-        "en": "",
+        "en": "Increase Base damage of Homing Arrow by {0}",
         "fr": "Augmente les dégâts de Flèches Guidées de {0}",
         "es": "",
         "ch": "",
@@ -8064,7 +8082,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect.level10": {
-        "en": "",
+        "en": "Base damage of Homing Arrow +330",
         "fr": "Augmente les dégâts de Flèches Guidées de +330",
         "es": "",
         "ch": "",
@@ -8082,8 +8100,8 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect.level15": {
-        "en": "",
-        "fr": "Flèche Guidée étourdit la cible pour 1 sec.",
+        "en": "Homing Arrow Stuns target for 1 sec",
+        "fr": "Flèche Guidée étourdit la cible pour 1 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -8100,7 +8118,7 @@
         "id": ""
     },
     "skills.TRM_ENHANCE_HOMING_ARROW.effect.level20": {
-        "en": "",
+        "en": "Cooldown of Homing Arrow -4 sec",
         "fr": "Temps de Recharge de Flèches Guidées réduit de 4 sec",
         "es": "",
         "ch": "",
@@ -8118,7 +8136,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.name": {
-        "en": "",
+        "en": "Weaken Attack",
         "fr": "Affaiblissement",
         "es": "",
         "ch": "",
@@ -8136,7 +8154,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect": {
-        "en": "",
+        "en": "Increases ATK SPD by {0}",
         "fr": "Augmente Vitesse d'Attaque de {0}",
         "es": "",
         "ch": "",
@@ -8154,7 +8172,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect.level10": {
-        "en": "",
+        "en": "Crit Accuracy +1%",
         "fr": "Précision Critique +1%",
         "es": "",
         "ch": "",
@@ -8172,7 +8190,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect.level15": {
-        "en": "",
+        "en": "Crit Enchance +5%",
         "fr": "Amélioration Critique +5%",
         "es": "",
         "ch": "",
@@ -8190,7 +8208,7 @@
         "id": ""
     },
     "skills.TRM_WEAKEN_ATTACK.effect.level20": {
-        "en": "",
+        "en": "Any Ranger attack lowers target's Enhanced Damage by 1.5% for 5 sec. Can stack up to 5 times",
         "fr": "Vos attaques réduisent Dégâts Améliorés de la cible de 1,5% pendant 5 sec. Peut s'accumuler 5 fois",
         "es": "",
         "ch": "",
@@ -8208,7 +8226,7 @@
         "id": ""
     },
     "skills.TRM_COMBAT_MASTER.name": {
-        "en": "",
+        "en": "Combat Master",
         "fr": "Maître de Guerre",
         "es": "",
         "ch": "",
@@ -8226,7 +8244,7 @@
         "id": ""
     },
     "skills.TRM_COMBAT_MASTER.effect": {
-        "en": "",
+        "en": "Enables you to use Crack Shot while moving. Also lowers CD (Cooldown) time of Crack Shot by 18 sec. Effect remains regardless of how many attack you do.",
         "fr": "Permet de se déplacer durant Coup de Feu. Réduis le Temps de Recharge de Coup de Feu de 18 sec. L'effet n'est plus limité par un nombre d'attaques.",
         "es": "",
         "ch": "",
@@ -8244,7 +8262,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.name": {
-        "en": "",
+        "en": "Mana Burn",
         "fr": "Évaporateur de Mana",
         "es": "",
         "ch": "",
@@ -8262,7 +8280,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect": {
-        "en": "",
+        "en": "Normal attacks have a chance to burn target's MP, dealing an equal amoount of Holy damage. {0}% chance to burn target's MP by 10",
         "fr": "Vos attaques normales ont une chance de brûler le mana de la cible infligeant un montant égal en Dégâts Sacrés. {0}% de chance de brûler le mana de la cible de 10",
         "es": "",
         "ch": "",
@@ -8280,7 +8298,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect.level10": {
-        "en": "",
+        "en": "Enchanced Damage +1%",
         "fr": "Dégâts Améliorés +1%",
         "es": "",
         "ch": "",
@@ -8298,7 +8316,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect.level15": {
-        "en": "",
+        "en": "DMG RD +2%",
         "fr": "Réductions de Dégâts 2%",
         "es": "",
         "ch": "",
@@ -8316,7 +8334,7 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect.level20": {
-        "en": "",
+        "en": "Max HP +1500",
         "fr": "PV max +1500",
         "es": "",
         "ch": "",
@@ -8334,7 +8352,7 @@
         "id": ""
     },
     "skills.TRM_OPPRESS.name": {
-        "en": "",
+        "en": "Oppress",
         "fr": "Oppression",
         "es": "",
         "ch": "",
@@ -8352,7 +8370,7 @@
         "id": ""
     },
     "skills.TRM_OPPRESS.effect": {
-        "en": "",
+        "en": "In the next 5 seconds, any of the Ranger's attack lowers target SPD and ATK SPD by 50%. Suppressed targets takes 10% more damage.",
         "fr": "Dans les 5 prochaines secondes, vos attaques réduisent VIT et VIT ATQ de la cible de 50%. Les cibles oppréssés prennent 10% de dégâts supplémentaires",
         "es": "",
         "ch": "",
@@ -8370,7 +8388,7 @@
         "id": ""
     },
     "skills.TRM_VOID_SHOT.name": {
-        "en": "",
+        "en": "Void Shot",
         "fr": "Tir du Néant",
         "es": "",
         "ch": "",
@@ -8388,7 +8406,7 @@
         "id": ""
     },
     "skills.TRM_VOID_SHOT.effect": {
-        "en": "",
+        "en": "Shoots a void arrow at the target, dealing (1000 + 300% of target's lost MP)",
         "fr": "Tire une flèche du néant sur la cible, infligeant (1000 +300% des MP manquants de la cible)",
         "es": "",
         "ch": "",
@@ -8406,7 +8424,7 @@
         "id": ""
     },
     "skills.TRM_HOLY_SHOT.name": {
-        "en": "",
+        "en": "Holy Shot",
         "fr": "Esquive Sacrée",
         "es": "",
         "ch": "",
@@ -8424,7 +8442,7 @@
         "id": ""
     },
     "skills.TRM_HOLY_SHOT.effect": {
-        "en": "",
+        "en": "After each successful evasion, increses Ranger's Holy Attack by {0}. Can stack up to 20 times. Lasts 10 seconds.",
         "fr": "Après une Esquive réussie, augmente l'Attaque Sacrée de {0}. Peut s'accumuler 20 fois. Dure 10 sec",
         "es": "",
         "ch": "",
@@ -8442,7 +8460,7 @@
         "id": ""
     },
     "skills.TRM_HOLY_SHOT.effect.level10": {
-        "en": "",
+        "en": "Attack Speed +5%",
         "fr": "VIT ATQ +5%",
         "es": "",
         "ch": "",
@@ -8460,7 +8478,7 @@
         "id": ""
     },
     "skills.TRM_HOLY_SHOT.effect.level15": {
-        "en": "",
+        "en": "Skill Accuracy +5%",
         "fr": "Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -8478,7 +8496,7 @@
         "id": ""
     },
     "skills.TRM_HOLY_SHOT.effect.level20": {
-        "en": "",
+        "en": "Skill Enhance +5%",
         "fr": "Compétence Améliorée +5%",
         "es": "",
         "ch": "",
@@ -8496,7 +8514,7 @@
         "id": ""
     },
     "skills.TRM_VICTORY_SHADOW.name": {
-        "en": "",
+        "en": "Victory Shadow",
         "fr": "Victoire Nocturne",
         "es": "",
         "ch": "",
@@ -8514,7 +8532,7 @@
         "id": ""
     },
     "skills.TRM_VICTORY_SHADOW.effect": {
-        "en": "",
+        "en": "Under Static Shadow status, increases Ranger's Holy Attack by 1000 points",
         "fr": "Sous Ombre Intérieur, augmente l'Attaque Sacrée de 1000",
         "es": "",
         "ch": "",
@@ -8532,7 +8550,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.name": {
-        "en": "",
+        "en": "Sword Expertise",
         "fr": "Spécialisation des Lames",
         "es": "",
         "ch": "",
@@ -8550,7 +8568,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.effect": {
-        "en": "",
+        "en": "Increases Enhanced Damabe by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -8568,7 +8586,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +10",
         "fr": "ATQ de Base +10",
         "es": "",
         "ch": "",
@@ -8586,7 +8604,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.effect.level15": {
-        "en": "",
+        "en": "Base HP +1.5%",
         "fr": "PV de base +1.5%",
         "es": "",
         "ch": "",
@@ -8604,7 +8622,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.effect.level20": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -8622,7 +8640,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.name": {
-        "en": "",
+        "en": "Enhanced Slam",
         "fr": "Coup Puissant Amélioré",
         "es": "",
         "ch": "",
@@ -8640,7 +8658,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.effect": {
-        "en": "",
+        "en": "Increases the Skill DMG of Slam by {0}",
         "fr": "Augmente les Dégâts de Compétences de {0}",
         "es": "",
         "ch": "",
@@ -8658,8 +8676,8 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.effect.level10": {
-        "en": "",
-        "fr": "Dégâts de Compétences +10",
+        "en": "Increases the Skill DMG of Slam by 10",
+        "fr": "Dégâts de la compétences Coup Puissant +10",
         "es": "",
         "ch": "",
         "kr": "",
@@ -8676,8 +8694,8 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.effect.level15": {
-        "en": "",
-        "fr": "Dégâts de Compétences +99",
+        "en": "Increases the Skill DMG of Slam by 99",
+        "fr": "Dégâts de la compétences Coup Puissant +99",
         "es": "",
         "ch": "",
         "kr": "",
@@ -8694,7 +8712,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.effect.level20": {
-        "en": "",
+        "en": "Target takes 33% less healing effect from potions for 5 sec.",
         "fr": "Les effets des potions sont réduits de 33% pendant 5 sec",
         "es": "",
         "ch": "",
@@ -8712,7 +8730,7 @@
         "id": ""
     },
     "skills.TWB_QUICK_CONCLUSION.name": {
-        "en": "",
+        "en": "Quick Conclusion",
         "fr": "Achèvement Célère",
         "es": "",
         "ch": "",
@@ -8730,8 +8748,8 @@
         "id": ""
     },
     "skills.TWB_QUICK_CONCLUSION.effect": {
-        "en": "",
-        "fr": "Augmente VIT de {0}% et Précision Compétence de {0}%",
+        "en": "Increases SPD by {0}% and Skill Accuracy by {1}%",
+        "fr": "Augmente VIT de {0}% et Précision Compétence de {1}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -8748,7 +8766,7 @@
         "id": ""
     },
     "skills.TWB_QUICK_CONCLUSION.effect.level10": {
-        "en": "",
+        "en": "Accuracy and Skill Accuracy +1%",
         "fr": "Précision et Précision Compétence +1%",
         "es": "",
         "ch": "",
@@ -8766,7 +8784,7 @@
         "id": ""
     },
     "skills.TWB_QUICK_CONCLUSION.effect.level15": {
-        "en": "",
+        "en": "DMG RD +2%",
         "fr": "Réduction de Dégâts +2%",
         "es": "",
         "ch": "",
@@ -8784,7 +8802,7 @@
         "id": ""
     },
     "skills.TWB_QUICK_CONCLUSION.effect.level20": {
-        "en": "",
+        "en": "Skill Crit Accuracy +8%",
         "fr": "Précision Compétence Critique +8%",
         "es": "",
         "ch": "",
@@ -8802,7 +8820,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_LEAP.name": {
-        "en": "",
+        "en": "Enhanced Leap",
         "fr": "Tranche Améliorée",
         "es": "",
         "ch": "",
@@ -8820,7 +8838,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_LEAP.effect": {
-        "en": "",
+        "en": "Air Slash Stuns the target for 1.5 sec",
         "fr": "Tranche étourdit la cible pendant 1,5 sec",
         "es": "",
         "ch": "",
@@ -8838,7 +8856,7 @@
         "id": ""
     },
     "skills.TWB_SLASH_DOWN.name": {
-        "en": "",
+        "en": "Slash Down",
         "fr": "Coup Bas",
         "es": "",
         "ch": "",
@@ -8856,7 +8874,7 @@
         "id": ""
     },
     "skills.TWB_SLASH_DOWN.effect": {
-        "en": "",
+        "en": "Increases Skill ENHC by {0}%",
         "fr": "Augmente Compétence Améliorée de {0}%",
         "es": "",
         "ch": "",
@@ -8874,7 +8892,7 @@
         "id": ""
     },
     "skills.TWB_SLASH_DOWN.effect.level10": {
-        "en": "",
+        "en": "Magic Defence +4%",
         "fr": "Défense Magique +4%",
         "es": "",
         "ch": "",
@@ -8892,7 +8910,7 @@
         "id": ""
     },
     "skills.TWB_SLASH_DOWN.effect.level15": {
-        "en": "",
+        "en": "Base Defense +20",
         "fr": "DEF de Base +20",
         "es": "",
         "ch": "",
@@ -8910,7 +8928,7 @@
         "id": ""
     },
     "skills.TWB_SLASH_DOWN.effect.level20": {
-        "en": "",
+        "en": "Skill Crit ENHC +15%",
         "fr": "Compétence Critique Améliorée +15%",
         "es": "",
         "ch": "",
@@ -8928,7 +8946,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERT.name": {
-        "en": "",
+        "en": "Sword Expert",
         "fr": "Expert à l'Épée",
         "es": "",
         "ch": "",
@@ -8946,7 +8964,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERT.effect": {
-        "en": "",
+        "en": "Has a {0}% chance to attack one extra time. Can occur once every 3 sec.",
         "fr": "Une attaque supplémentaire a {0}% de chance de s'activer. Ne peut s'activer qu'une fois toutes les 3sec",
         "es": "",
         "ch": "",
@@ -8964,7 +8982,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERT.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 7%",
         "fr": "Augmente les chances d'activation de 7%",
         "es": "",
         "ch": "",
@@ -8982,7 +9000,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERT.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +20",
         "fr": "VIT ATQ +20",
         "es": "",
         "ch": "",
@@ -9000,7 +9018,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERT.effect.level20": {
-        "en": "",
+        "en": "Reduces trigger interval by 1 sec.",
         "fr": "Réduit le délai d'activation de 1 sec",
         "es": "",
         "ch": "",
@@ -9018,7 +9036,7 @@
         "id": ""
     },
     "skills.TWB_WILD_ROAR.name": {
-        "en": "",
+        "en": "Wild Roar",
         "fr": "Rugissement Sauvage",
         "es": "",
         "ch": "",
@@ -9036,7 +9054,7 @@
         "id": ""
     },
     "skills.TWB_WILD_ROAR.effect": {
-        "en": "",
+        "en": "Increases party's Physical Attack, Ranged Attack, and Magic Attack by 150. Lasts 30 sec.",
         "fr": "Augmente les Dégâts Physiques, la Portée d'Attaque et les Dégâts Magique du groupe de 150. Dure 30 sec.",
         "es": "",
         "ch": "",
@@ -9054,7 +9072,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_TERMINATE.name": {
-        "en": "",
+        "en": "Enhanced Terminate",
         "fr": "Frappe Mortelle Améliorée",
         "es": "",
         "ch": "",
@@ -9072,7 +9090,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_TERMINATE.effect": {
-        "en": "",
+        "en": "Increases Base damage of Terminate by {0}",
         "fr": "Augmente les dégâts de Frappe Mortelle de {0}",
         "es": "",
         "ch": "",
@@ -9090,7 +9108,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_TERMINATE.effect.level10": {
-        "en": "",
+        "en": "Base damage of Terminate +330",
         "fr": "Dégâts de Frappe Mortelle +330",
         "es": "",
         "ch": "",
@@ -9108,7 +9126,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_TERMINATE.effect.level15": {
-        "en": "",
+        "en": "Terminate can Stun the target for 1 sec.",
         "fr": "Frappe Mortelle peut étourdir la cible pendant 1 sec.",
         "es": "",
         "ch": "",
@@ -9126,7 +9144,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_TERMINATE.effect.level20": {
-        "en": "",
+        "en": "Reduces CD of Terminate by 4 sec.",
         "fr": "Temps de Recharge de Frappe Mortelle réduit de 4 sec.",
         "es": "",
         "ch": "",
@@ -9144,7 +9162,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_WAR_CRY.name": {
-        "en": "",
+        "en": "Enhanced War Cry",
         "fr": "Cri de Guerre Amélioré",
         "es": "",
         "ch": "",
@@ -9162,7 +9180,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_WAR_CRY.effect": {
-        "en": "",
+        "en": "Increases Base damage of War Cry by {0}",
         "fr": "Augmente les dégâts de Cri de Guerre de {0}",
         "es": "",
         "ch": "",
@@ -9180,7 +9198,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_WAR_CRY.effect.level10": {
-        "en": "",
+        "en": "Base damage of War Cry +200",
         "fr": "Augmente les dégâts de Cri de Guerre de 200",
         "es": "",
         "ch": "",
@@ -9198,7 +9216,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_WAR_CRY.effect.level15": {
-        "en": "",
+        "en": "Reduces CD of War Cry by 5 sec.",
         "fr": "Temps de Recharge de Cri de Guerre réduit de 5 sec.",
         "es": "",
         "ch": "",
@@ -9216,7 +9234,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_WAR_CRY.effect.level20": {
-        "en": "",
+        "en": "Base damage of War Cry +500",
         "fr": "Augmente les dégâts de Cri de Guerre de 500",
         "es": "",
         "ch": "",
@@ -9234,7 +9252,7 @@
         "id": ""
     },
     "skills.TWB_WHIRLWIND.name": {
-        "en": "",
+        "en": "Whirlwind",
         "fr": "Tourbillon",
         "es": "",
         "ch": "",
@@ -9252,7 +9270,7 @@
         "id": ""
     },
     "skills.TWB_WHIRLWIND.effect": {
-        "en": "",
+        "en": "Attacks all targets within 6 yards around you, hitting them 3 times per sec. Lasts 17 sec",
         "fr": "Attaque toutes les cibles dans un rayon de 6 mètres au tour de vous, les frappant 3 fois par seconde. Dure 17 sec.",
         "es": "",
         "ch": "",
@@ -9270,7 +9288,7 @@
         "id": ""
     },
     "skills.TWB_PRECISE_STRIKE.name": {
-        "en": "",
+        "en": "Precise Strike",
         "fr": "Frappe Chirurgicale",
         "es": "",
         "ch": "",
@@ -9288,8 +9306,8 @@
         "id": ""
     },
     "skills.TWB_PRECISE_STRIKE.effect": {
-        "en": "",
-        "fr": "Augmente Précision Compétence de {0}% et Précision de {0}%",
+        "en": "Increases Skill Accuracy by {0}% and Accuracy by {1}%",
+        "fr": "Augmente Précision Compétence de {0}% et Précision de {1}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9306,7 +9324,7 @@
         "id": ""
     },
     "skills.TWB_PRECISE_STRIKE.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +5% and Accuracy +10%",
         "fr": "Précision Compétence +5% et Précision +10%",
         "es": "",
         "ch": "",
@@ -9324,7 +9342,7 @@
         "id": ""
     },
     "skills.TWB_PRECISE_STRIKE.effect.level15": {
-        "en": "",
+        "en": "Skill Crit ENHC +5%",
         "fr": "Compétence Critique Améliorée +5%",
         "es": "",
         "ch": "",
@@ -9342,7 +9360,7 @@
         "id": ""
     },
     "skills.TWB_PRECISE_STRIKE.effect.level20": {
-        "en": "",
+        "en": "Your attack has a 20% chance to lower target's DMG RD by 5%. Lasts 5 sec.",
         "fr": "Vos Attaques ont 20% de chance de réduire Réduction de Dégâts de la cible de 5%. Dure 5 sec",
         "es": "",
         "ch": "",
@@ -9360,7 +9378,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_CRIT_SLASH.name": {
-        "en": "",
+        "en": "Enhc. Crit Slash",
         "fr": "Lame Critique Améliorée",
         "es": "",
         "ch": "",
@@ -9378,7 +9396,7 @@
         "id": ""
     },
     "skills.TWB_ENHC_CRIT_SLASH.effect": {
-        "en": "",
+        "en": "1 additional Crit Slash. Raise in Crit chance also applies to skills.",
         "fr": "1 Lame critique additionnelle. L'augmentation de Chance Critique s'applique aussi aux compétences",
         "es": "",
         "ch": "",
@@ -9396,7 +9414,7 @@
         "id": ""
     },
     "skills.TWB_SWIPE.name": {
-        "en": "",
+        "en": "Swipe",
         "fr": "Balayage",
         "es": "",
         "ch": "",
@@ -9414,7 +9432,7 @@
         "id": ""
     },
     "skills.TWB_SWIPE.effect": {
-        "en": "",
+        "en": "Inflicts 150% damage and a bonus 280 Skill damage to up to 15 targets within 72 yards in front of you.",
         "fr": "Inflige 150% de dégâts et 280 de dégâts de compétence supplémentaire jusqu'à 15 cibles à une distance de 72 mètres en face de vous.",
         "es": "",
         "ch": "",
@@ -9432,7 +9450,7 @@
         "id": ""
     },
     "skills.TWB_EXCELLENT_SKILL.name": {
-        "en": "",
+        "en": "Excellent Skill",
         "fr": "Aptitude Supérieur",
         "es": "",
         "ch": "",
@@ -9450,8 +9468,8 @@
         "id": ""
     },
     "skills.TWB_EXCELLENT_SKILL.effect": {
-        "en": "",
-        "fr": "Augmente Compétence Améliorée de {0}% et Attaque Sacrée de {0}.",
+        "en": "Increases Skill Enhance by {0}% and Holy Attack by {1}",
+        "fr": "Augmente Compétence Améliorée de {0}% et Attaque Sacrée de {1}.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9468,7 +9486,7 @@
         "id": ""
     },
     "skills.TWB_EXCELLENT_SKILL.effect.level10": {
-        "en": "",
+        "en": "MP max +250",
         "fr": "PM max +250",
         "es": "",
         "ch": "",
@@ -9486,7 +9504,7 @@
         "id": ""
     },
     "skills.TWB_EXCELLENT_SKILL.effect.level15": {
-        "en": "",
+        "en": "HP max +3000",
         "fr": "PV max +3000",
         "es": "",
         "ch": "",
@@ -9504,7 +9522,7 @@
         "id": ""
     },
     "skills.TWB_EXCELLENT_SKILL.effect.level20": {
-        "en": "",
+        "en": "Movement Ability +10",
         "fr": "Vitesse de Déplacement en lançant un sort +10",
         "es": "",
         "ch": "",
@@ -9522,7 +9540,7 @@
         "id": ""
     },
     "skills.TWB_FEARLESS.name": {
-        "en": "",
+        "en": "Fearless",
         "fr": "Intrépide",
         "es": "",
         "ch": "",
@@ -9540,7 +9558,7 @@
         "id": ""
     },
     "skills.TWB_FEARLESS.effect": {
-        "en": "",
+        "en": "Increase Skill Accuracy by 200% under Blood Boundary status. Also immune to silence",
         "fr": "Augmente Précision Compétence de 200% sous l'effet Héritage Sanguinaire Immunisé au Silence.",
         "es": "",
         "ch": "",
@@ -9558,7 +9576,7 @@
         "id": ""
     },
     "skills.TWM_WEAPON_MASTERY.name": {
-        "en": "",
+        "en": "Weapon Mastery",
         "fr": "Maître d'Armes",
         "es": "",
         "ch": "",
@@ -9576,8 +9594,8 @@
         "id": ""
     },
     "skills.TWM_WEAPON_MASTERY.effect": {
-        "en": "",
-        "fr": "Augmente Précision de {0}%. Les attaques de base ont 33% de chance d'infliger {0} dégâts additionnel",
+        "en": "Increases Accuracy by {0}%. Normal attacks have 33% chance to do an additional {1} damage",
+        "fr": "Augmente Précision de {0}%. Les attaques de base ont 33% de chance d'infliger {1} dégâts additionnel",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9594,7 +9612,7 @@
         "id": ""
     },
     "skills.TWM_WEAPON_MASTERY.effect.level10": {
-        "en": "",
+        "en": "Skill Accuracy +1.5%",
         "fr": "Précision Compétence +1.5%",
         "es": "",
         "ch": "",
@@ -9612,7 +9630,7 @@
         "id": ""
     },
     "skills.TWM_WEAPON_MASTERY.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +2%",
         "fr": "VIT ATQ +2%",
         "es": "",
         "ch": "",
@@ -9630,7 +9648,7 @@
         "id": ""
     },
     "skills.TWM_WEAPON_MASTERY.effect.level20": {
-        "en": "",
+        "en": "Increases trigger chance by 10%",
         "fr": "Chance d'activer l'effet +10%",
         "es": "",
         "ch": "",
@@ -9648,7 +9666,7 @@
         "id": ""
     },
     "skills.TWM_SMASH.name": {
-        "en": "",
+        "en": "Smash",
         "fr": "Smash",
         "es": "",
         "ch": "",
@@ -9666,7 +9684,7 @@
         "id": ""
     },
     "skills.TWM_SMASH.effect": {
-        "en": "",
+        "en": "Increases Base ATK by ({0}% x Charactrer Lv.)",
         "fr": "Augmente ATQ de base ({0}% x Nv. Personnage)",
         "es": "",
         "ch": "",
@@ -9684,7 +9702,7 @@
         "id": ""
     },
     "skills.TWM_SMASH.effect.level10": {
-        "en": "",
+        "en": "Base HP +2%",
         "fr": "PV de Base +2%",
         "es": "",
         "ch": "",
@@ -9702,7 +9720,7 @@
         "id": ""
     },
     "skills.TWM_SMASH.effect.level15": {
-        "en": "",
+        "en": "Crit Accuracy +3%",
         "fr": "Précision Critique +3%",
         "es": "",
         "ch": "",
@@ -9720,7 +9738,7 @@
         "id": ""
     },
     "skills.TWM_SMASH.effect.level20": {
-        "en": "",
+        "en": "Base ATK +20",
         "fr": "ATQ de Base +20",
         "es": "",
         "ch": "",
@@ -9738,7 +9756,7 @@
         "id": ""
     },
     "skills.TWM_COMBAT_ENCENTIVE.name": {
-        "en": "",
+        "en": "Combat Incentive",
         "fr": "Combat Intensif",
         "es": "",
         "ch": "",
@@ -9756,8 +9774,8 @@
         "id": ""
     },
     "skills.TWM_COMBAT_ENCENTIVE.effect": {
-        "en": "",
-        "fr": "Augmente Précision Critique de 1%",
+        "en": "Increase Crit Accuracy by {0}%",
+        "fr": "Augmente Précision Critique de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9774,8 +9792,8 @@
         "id": ""
     },
     "skills.TWM_COMBAT_ENCENTIVE.effect.level10": {
-        "en": "",
-        "fr": "ATQ VIT +1%",
+        "en": "ATK SPD +1%",
+        "fr": "VIT ATQ +1%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9792,7 +9810,7 @@
         "id": ""
     },
     "skills.TWM_COMBAT_ENCENTIVE.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Accuracy +5%",
         "fr": "Précision Compétence Critique +5%",
         "es": "",
         "ch": "",
@@ -9810,7 +9828,7 @@
         "id": ""
     },
     "skills.TWM_COMBAT_ENCENTIVE.effect.level20": {
-        "en": "",
+        "en": "Gains Enrage effect after Crit Hit, increasing by 10% all damage dealt for 6 sec. Cannot occur more than once every 10 sec.",
         "fr": "Gagnez l'effet 'Enragé', après chaque Coup Critique, augmente tous les dégâts de 10% pendant 6 sec. (Ne peut s'activer plus d'une fois toutes les 10 sec)",
         "es": "",
         "ch": "",
@@ -9828,7 +9846,7 @@
         "id": ""
     },
     "skills.TWM_SHOCKING_SMASH.name": {
-        "en": "",
+        "en": "Shocking Smash",
         "fr": "Écorche Tête",
         "es": "",
         "ch": "",
@@ -9846,7 +9864,7 @@
         "id": ""
     },
     "skills.TWM_SHOCKING_SMASH.effect": {
-        "en": "",
+        "en": "Enhances Slow effect by 20%. Increases duration by 10 sec.",
         "fr": "Augmente l'effet de ralentissement de 20%. Augmente la durée de 10 sec",
         "es": "",
         "ch": "",
@@ -9864,7 +9882,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.name": {
-        "en": "",
+        "en": "Savage",
         "fr": "Sauvage",
         "es": "",
         "ch": "",
@@ -9882,7 +9900,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.effect": {
-        "en": "",
+        "en": "Increases Crit Enhance by 2.5%",
         "fr": "Augmente l'Amélioration Critique de {0}%",
         "es": "",
         "ch": "",
@@ -9900,7 +9918,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +8",
         "fr": "ATQ de Base +8",
         "es": "",
         "ch": "",
@@ -9918,7 +9936,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.effect.level15": {
-        "en": "",
+        "en": "Crit Enhance +10%",
         "fr": "Amélioration Critique +10%",
         "es": "",
         "ch": "",
@@ -9936,7 +9954,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.effect.level20": {
-        "en": "",
+        "en": "Crit Accuracy and Skill Crit Accuracy +3%",
         "fr": "Précision Critique et Précision Compétence Critique +3%",
         "es": "",
         "ch": "",
@@ -9954,7 +9972,7 @@
         "id": ""
     },
     "skills.TWM_RAVAGE.name": {
-        "en": "",
+        "en": "Ravage",
         "fr": "Dévastation",
         "es": "",
         "ch": "",
@@ -9972,7 +9990,7 @@
         "id": ""
     },
     "skills.TWM_RAVAGE.effect": {
-        "en": "",
+        "en": "Increases your Attack Speed by 0.25% for 5 sec. when Ravage effect is triggered. Can stack up to 4 times",
         "fr": "Augmente la Vitesse d'Attaque de 0,25% pendant 5 sec quand l'effet Ravage est activé. Peut s'accumuler 4 fois",
         "es": "",
         "ch": "",
@@ -9990,7 +10008,7 @@
         "id": ""
     },
     "skills.TWM_RAVAGE.effect.level10": {
-        "en": "",
+        "en": "Stack-times +1",
         "fr": "Accumulation +1",
         "es": "",
         "ch": "",
@@ -10008,7 +10026,7 @@
         "id": ""
     },
     "skills.TWM_RAVAGE.effect.level15": {
-        "en": "",
+        "en": "ATK SPD +2%",
         "fr": "VIT ATQ +2%",
         "es": "",
         "ch": "",
@@ -10026,7 +10044,7 @@
         "id": ""
     },
     "skills.TWM_RAVAGE.effect.level20": {
-        "en": "",
+        "en": "Duration +5 sec.",
         "fr": "Durée de l'effet Dévastation +5 sec",
         "es": "",
         "ch": "",
@@ -10044,7 +10062,7 @@
         "id": ""
     },
     "skills.TWM_ELIMINATE.name": {
-        "en": "",
+        "en": "Eliminate",
         "fr": "Élimination",
         "es": "",
         "ch": "",
@@ -10062,7 +10080,7 @@
         "id": ""
     },
     "skills.TWM_ELIMINATE.effect": {
-        "en": "",
+        "en": "Kills targets with less than 2000 HP instantly.",
         "fr": "Tue instantanément les cibles qui ont moins de 2000 HP",
         "es": "",
         "ch": "",
@@ -10080,7 +10098,7 @@
         "id": ""
     },
     "skills.TWM_ATTACK_WEAKNESS.name": {
-        "en": "",
+        "en": "Attack Weakness",
         "fr": "Attaque Assourdissante",
         "es": "",
         "ch": "",
@@ -10098,7 +10116,7 @@
         "id": ""
     },
     "skills.TWM_ATTACK_WEAKNESS.effect": {
-        "en": "",
+        "en": "Attack have a {0}% chance to Stun target for 1.5 sec. Cannot occur more than once every 7 sec.",
         "fr": "Les attaques ont {0}% de chance d'étourdir une cible pendant 1,5 sec. Ne peut s'activer qu'une fois toutes les 7 secondes",
         "es": "",
         "ch": "",
@@ -10116,7 +10134,7 @@
         "id": ""
     },
     "skills.TWM_ATTACK_WEAKNESS.effect.level10": {
-        "en": "",
+        "en": "Stun chance +5%",
         "fr": "Chance d'étourdir +5%",
         "es": "",
         "ch": "",
@@ -10134,7 +10152,7 @@
         "id": ""
     },
     "skills.TWM_ATTACK_WEAKNESS.effect.level15": {
-        "en": "",
+        "en": "Accuracy and Skill Accuracy +2%",
         "fr": "Précision et Précision Compétence +2%",
         "es": "",
         "ch": "",
@@ -10152,7 +10170,7 @@
         "id": ""
     },
     "skills.TWM_ATTACK_WEAKNESS.effect.level20": {
-        "en": "",
+        "en": "Trigger interval -1 sec.",
         "fr": "Interval d'activation -1 sec.",
         "es": "",
         "ch": "",
@@ -10170,7 +10188,7 @@
         "id": ""
     },
     "skills.TWM_SILENCING_BLADE.name": {
-        "en": "",
+        "en": "Silencing Blade",
         "fr": "Lame Silencieuse",
         "es": "",
         "ch": "",
@@ -10188,7 +10206,7 @@
         "id": ""
     },
     "skills.TWM_SILENCING_BLADE.effect": {
-        "en": "",
+        "en": "Every 10th attack of the Warrior deals {0} Holy to the target and Silences it for 1 sec.",
         "fr": "Toutes les 10 attaques, le guerrier inflige {0} de Dégâts Sacrés à la cible et la réduit au silence pendant 1 sec",
         "es": "",
         "ch": "",
@@ -10206,7 +10224,7 @@
         "id": ""
     },
     "skills.TWM_SILENCING_BLADE.effect.level10": {
-        "en": "",
+        "en": "Base ATK +15",
         "fr": "ATQ de Base +15",
         "es": "",
         "ch": "",
@@ -10224,7 +10242,7 @@
         "id": ""
     },
     "skills.TWM_SILENCING_BLADE.effect.level15": {
-        "en": "",
+        "en": "Crit ENHC +10%",
         "fr": "Amélioration Critique +10%",
         "es": "",
         "ch": "",
@@ -10242,7 +10260,7 @@
         "id": ""
     },
     "skills.TWM_SILENCING_BLADE.effect.level20": {
-        "en": "",
+        "en": "ATK SPD +50",
         "fr": "Vitesse Attaque +50",
         "es": "",
         "ch": "",
@@ -10260,7 +10278,7 @@
         "id": ""
     },
     "skills.TWM_SERENITY.name": {
-        "en": "",
+        "en": "Serenity",
         "fr": "Sérénité",
         "es": "",
         "ch": "",
@@ -10278,7 +10296,7 @@
         "id": ""
     },
     "skills.TWM_SERENITY.effect": {
-        "en": "",
+        "en": "Blade Master's Serenity increases SPD by 100% and Crit damage by 200%. Lasts 8 sec.",
         "fr": "La Sérénité du Maître des Lames augmente sa VIT de 100% et ses Dégâts Critiques de 200%. Dure 8 sec.",
         "es": "",
         "ch": "",
@@ -10296,7 +10314,7 @@
         "id": ""
     },
     "skills.TWM_BLOODLUST.name": {
-        "en": "",
+        "en": "Bloodlust",
         "fr": "Soif de Sang",
         "es": "",
         "ch": "",
@@ -10314,7 +10332,7 @@
         "id": ""
     },
     "skills.TWM_BLOODLUST.effect": {
-        "en": "",
+        "en": "{0}% chance to recover 2% of max HP when Normal attack Crit. Cannot occur more than once in 10 sec.",
         "fr": "{0}% de chance de récupérer 2% de ses PV max lorsqu'une Attaque de Base Critique. Ne peut s'activer qu'une fois toutes les 10 secondes.",
         "es": "",
         "ch": "",
@@ -10332,7 +10350,7 @@
         "id": ""
     },
     "skills.TWM_BLOODLUST.effect.level10": {
-        "en": "",
+        "en": "Max HP +600",
         "fr": "PV max +600",
         "es": "",
         "ch": "",
@@ -10350,7 +10368,7 @@
         "id": ""
     },
     "skills.TWM_BLOODLUST.effect.level15": {
-        "en": "",
+        "en": "Accuracy +2%",
         "fr": "Précision +2%",
         "es": "",
         "ch": "",
@@ -10368,7 +10386,7 @@
         "id": ""
     },
     "skills.TWM_BLOODLUST.effect.level20": {
-        "en": "",
+        "en": "Warriors enters a fevered state after doing Crit hits, increasing Crit Accuracy by 10% for 5 sec.",
         "fr": "Après une attaque critique, augmente Précision Critique de 10% pendant 5 sec",
         "es": "",
         "ch": "",
@@ -10386,7 +10404,7 @@
         "id": ""
     },
     "skills.TWM_CHALLENGE.name": {
-        "en": "",
+        "en": "Challenge",
         "fr": "Duel",
         "es": "",
         "ch": "",
@@ -10404,7 +10422,7 @@
         "id": ""
     },
     "skills.TWM_CHALLENGE.effect": {
-        "en": "",
+        "en": "Challenges target to Paralyze it for 10 sec.",
         "fr": "La cible de Duel est paralysé pendant 10 sec",
         "es": "",
         "ch": "",
@@ -10422,7 +10440,7 @@
         "id": ""
     },
     "skills.TWM_DEATH_DANCE.name": {
-        "en": "",
+        "en": "Death Dance",
         "fr": "Danse de la Mort",
         "es": "",
         "ch": "",
@@ -10440,7 +10458,7 @@
         "id": ""
     },
     "skills.TWM_DEATH_DANCE.effect": {
-        "en": "",
+        "en": "Immunizes Blade Master against Slow and Stun effects. Increases SPD by 40. Lasts 15 sec.",
         "fr": "Immunise le Maître des Lames contre les effets ralentissements et d'étourdissements. Augmente la VIT de 40. Dure 15 sec.",
         "es": "",
         "ch": "",
@@ -10458,7 +10476,7 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.name": {
-        "en": "",
+        "en": "Bloody Fight",
         "fr": "Lutte Sanglante",
         "es": "",
         "ch": "",
@@ -10476,7 +10494,7 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.effect": {
-        "en": "",
+        "en": "If the target has evaded the attack, increases Warrior's Crit Enhance by 1%. Lasts 20 seconds. Can stack up to 20 times.",
         "fr": "Si la cible évite l'attaque, augmente Amélioration Critique de 1%. Dure 20 sec. Peut s'accumuler 20 fois.",
         "es": "",
         "ch": "",
@@ -10494,7 +10512,7 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.effect.level10": {
-        "en": "",
+        "en": "Eliminate increases to 40000HP",
         "fr": "L'éxécution est augmenté à 40000 PV de lacible",
         "es": "",
         "ch": "",
@@ -10512,7 +10530,7 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.effect.level15": {
-        "en": "",
+        "en": "Crit Accuracy +5%",
         "fr": "Précision Critique +5%",
         "es": "",
         "ch": "",
@@ -10530,7 +10548,7 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.effect.level20": {
-        "en": "",
+        "en": "Maximum Crit of Normal Attack +350",
         "fr": "Critique des attaques normales augmentées de +350",
         "es": "",
         "ch": "",
@@ -10548,7 +10566,7 @@
         "id": ""
     },
     "skills.TWM_BLADE_REALM.name": {
-        "en": "",
+        "en": "Blade Realm",
         "fr": "Domaine des Lames",
         "es": "",
         "ch": "",
@@ -10566,7 +10584,7 @@
         "id": ""
     },
     "skills.TWM_BLADE_REALM.effect": {
-        "en": "",
+        "en": "Increases the duration of Blood Boundary by 5 seconds. Increases Accuracy by 200% under Blood Boundary status",
         "fr": "Augmente la durée de Héritage Sanglant de 5 secondes. Augmente Précision de  200% sous l'effet Héritage Sanguinaire",
         "es": "",
         "ch": "",
@@ -10584,7 +10602,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.name": {
-        "en": "",
+        "en": "Resistance Boost",
         "fr": "Résistance Améliorée",
         "es": "",
         "ch": "",
@@ -10602,7 +10620,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect": {
-        "en": "",
+        "en": "Reduces all damage taken by {0}",
         "fr": "Réduis tous les dégâts subis de {0}",
         "es": "",
         "ch": "",
@@ -10620,7 +10638,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level10": {
-        "en": "",
+        "en": "Recovers 1% healts every 10 sec.",
         "fr": "Récupère 1% des PV max toutes les 10 sec",
         "es": "",
         "ch": "",
@@ -10638,7 +10656,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level15": {
-        "en": "",
+        "en": "Base ATK +15",
         "fr": "Base ATQ +15",
         "es": "",
         "ch": "",
@@ -10656,7 +10674,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level20": {
-        "en": "",
+        "en": "DMG RD +5%",
         "fr": "Réduction de Dégâts +5%",
         "es": "",
         "ch": "",
@@ -10674,7 +10692,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.name": {
-        "en": "",
+        "en": "Enrage",
         "fr": "Frénésie",
         "es": "",
         "ch": "",
@@ -10692,8 +10710,8 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect": {
-        "en": "",
-        "fr": "Quand vous êtes touchés, vous avez 10% de chance d'augmenter l'ATQ de 25 pendant 10 sec.",
+        "en": "When hit, you have 10% chance to increase ATK by {0} for 10 sec.",
+        "fr": "Quand vous êtes touchés, vous avez 10% de chance d'augmenter l'ATQ de {0} pendant 10 sec.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -10710,7 +10728,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect.level10": {
-        "en": "",
+        "en": "Base HP +1%",
         "fr": "PV de Base +1%",
         "es": "",
         "ch": "",
@@ -10728,7 +10746,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect.level15": {
-        "en": "",
+        "en": "Recovers 1% health every 5 seconds when in Enrage state.",
         "fr": "'Enragé', récupérez 1% de vos PV max toutes les 5 sec.",
         "es": "",
         "ch": "",
@@ -10746,7 +10764,7 @@
         "id": ""
     },
     "skills.TWP_ENRAGE.effect.level20": {
-        "en": "",
+        "en": "Accuracy and Skill Accuracy +5%",
         "fr": "Précision et Précision Compétence +5%",
         "es": "",
         "ch": "",
@@ -10764,7 +10782,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.name": {
-        "en": "",
+        "en": "Enhanced Block",
         "fr": "Parade Améliorée",
         "es": "",
         "ch": "",
@@ -10782,7 +10800,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect": {
-        "en": "",
+        "en": "While blocking, defend against {0} more incoming damage",
         "fr": "En parant, nullifiez {0} pts de dégâts supplémentaire",
         "es": "",
         "ch": "",
@@ -10800,7 +10818,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect.level10": {
-        "en": "",
+        "en": "Damage nullified while blocking +20",
         "fr": "Nullifiez 20 de dégâts supplémentaire en parant",
         "es": "",
         "ch": "",
@@ -10818,7 +10836,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect.level15": {
-        "en": "",
+        "en": "Cooldown time of Block -1",
         "fr": "Temps de Recharge de Parade -1",
         "es": "",
         "ch": "",
@@ -10836,7 +10854,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_BLOCK.effect.level20": {
-        "en": "",
+        "en": "Attacks Blocked +1",
         "fr": "Attaque paré +1",
         "es": "",
         "ch": "",
@@ -10854,7 +10872,7 @@
         "id": ""
     },
     "skills.TWP_SACRIFICE.name": {
-        "en": "",
+        "en": "Sacrifice",
         "fr": "Sacrifice",
         "es": "",
         "ch": "",
@@ -10872,7 +10890,7 @@
         "id": ""
     },
     "skills.TWP_SACRIFICE.effect": {
-        "en": "",
+        "en": "Sacrifices 10% of character's current to deal corresponding damage to target, lowering its SPD by 50% for 5 sec.",
         "fr": "Sacrifie 10% de vos PV actuel pour les infliger à la cible, réduisant sa VIT de 50% pendant 5 sec",
         "es": "",
         "ch": "",
@@ -10890,7 +10908,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.name": {
-        "en": "",
+        "en": "Fortitude",
         "fr": "Fortification",
         "es": "",
         "ch": "",
@@ -10908,7 +10926,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect": {
-        "en": "",
+        "en": "Increases Base HP by {0}%",
         "fr": "Augmente les PV de Base de {0}%",
         "es": "",
         "ch": "",
@@ -10926,7 +10944,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +2%",
         "fr": "Dégâts Améliorés +2%",
         "es": "",
         "ch": "",
@@ -10944,7 +10962,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect.level15": {
-        "en": "",
+        "en": "Max HP +400",
         "fr": "PV max +400",
         "es": "",
         "ch": "",
@@ -10962,7 +10980,7 @@
         "id": ""
     },
     "skills.TWP_FORTITUDE.effect.level20": {
-        "en": "",
+        "en": "Physical Damage RD +10%",
         "fr": "Dégâts Physique +10%",
         "es": "",
         "ch": "",
@@ -10980,7 +10998,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.name": {
-        "en": "",
+        "en": "Riposte Burst",
         "fr": "Riposte",
         "es": "",
         "ch": "",
@@ -10998,8 +11016,8 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect": {
-        "en": "",
-        "fr": "Quand vous êtes attaqués, vous avez 15% de chance de riposter sur les ennemis dans un rayon de 48 mètres, infligeant {0}% des dégâts d'attaque et {0} dégâts supplémentaire. Ne peut s'activer qu'une fois toutes les 3 secondes.",
+        "en": "When attacked, you have 15% chance to replicate on enemies within 48 yards, dealing {0}% attack damage and an additional 50 damage. Cannot occur more than once every 3 sec.",
+        "fr": "Quand vous êtes attaqués, vous avez 15% de chance de riposter sur les ennemis dans un rayon de 48 mètres, infligeant {0}% des dégâts d'attaque et 50 dégâts supplémentaire. Ne peut s'activer qu'une fois toutes les 3 secondes.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -11016,7 +11034,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 2%",
         "fr": "Augmente les chances d'activation de 2%",
         "es": "",
         "ch": "",
@@ -11034,7 +11052,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect.level15": {
-        "en": "",
+        "en": "Max HP +500",
         "fr": "PV max +500",
         "es": "",
         "ch": "",
@@ -11052,7 +11070,7 @@
         "id": ""
     },
     "skills.TWP_RIPOSTE_BURST.effect.level20": {
-        "en": "",
+        "en": "Counter Damage +50",
         "fr": "Dégâts supplémentaires de Riposte +50",
         "es": "",
         "ch": "",
@@ -11070,7 +11088,7 @@
         "id": ""
     },
     "skills.TWP_REVITALIZE.name": {
-        "en": "",
+        "en": "Revitalize",
         "fr": "Revitalisation",
         "es": "",
         "ch": "",
@@ -11088,7 +11106,7 @@
         "id": ""
     },
     "skills.TWP_REVITALIZE.effect": {
-        "en": "",
+        "en": "Recovers 5% of lost HP each second. Lasts 20 sec.",
         "fr": "Recupère 5% des PV perdu chaque seconde. Dure 20 sec.",
         "es": "",
         "ch": "",
@@ -11106,7 +11124,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.name": {
-        "en": "",
+        "en": "Tough",
         "fr": "Constitution",
         "es": "",
         "ch": "",
@@ -11124,7 +11142,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect": {
-        "en": "",
+        "en": "When attacked you have {0}% chance to nullify the damage of an incoming attack. Cannot occur more then once every 3 sec.",
         "fr": "Quand vous êtes attaqués, vous avez {0}% de chance d'annuler les dégâts de la prochaine attaque. Ne peut s'activer qu'une fois toutes les 3 secondes",
         "es": "",
         "ch": "",
@@ -11142,7 +11160,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect.level10": {
-        "en": "",
+        "en": "Increases trigger chance by 2%",
         "fr": "Augmente les chances d'activation de 2%",
         "es": "",
         "ch": "",
@@ -11160,7 +11178,7 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Evasion +10%",
         "fr": "Esquive Compétence Critique +10%",
         "es": "",
         "ch": "",
@@ -11178,8 +11196,8 @@
         "id": ""
     },
     "skills.TWP_THOUGH.effect.level20": {
-        "en": "",
-        "fr": "Délai d'activation -1 sec.",
+        "en": "Trigger interval -1 sec",
+        "fr": "Délai d'activation -1 sec",
         "es": "",
         "ch": "",
         "kr": "",
@@ -11196,7 +11214,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.name": {
-        "en": "",
+        "en": "Enhanced Surge",
         "fr": "Lame Verticale Améliorée",
         "es": "",
         "ch": "",
@@ -11214,7 +11232,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect": {
-        "en": "",
+        "en": "Increases damage done by Surge by {0}",
         "fr": "Augmente les dégâts de Lame Verticale de {0}",
         "es": "",
         "ch": "",
@@ -11232,7 +11250,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect.level10": {
-        "en": "",
+        "en": "Damage done by Surge +200",
         "fr": "Augmente les dégâts de Lame Verticale de 200",
         "es": "",
         "ch": "",
@@ -11250,7 +11268,7 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect.level15": {
-        "en": "",
+        "en": "Reduces CD time of Surge by 1 sec.",
         "fr": "Temps de Recharge de Lame Verticale -1 sec",
         "es": "",
         "ch": "",
@@ -11268,8 +11286,8 @@
         "id": ""
     },
     "skills.TWP_ENHC_SURGE.effect.level20": {
-        "en": "",
-        "fr": ".Augmente les dégâts de Lame Verticale de 300. Réduis la VIT de 50 pendant 4 sec.",
+        "en": "Increases damage done by Surge by 300. Lowers SPD by 50 for 4 sec.",
+        "fr": "Augmente les dégâts de Lame Verticale de 300. Réduis la VIT de 50 pendant 4 sec.",
         "es": "",
         "ch": "",
         "kr": "",
@@ -11286,7 +11304,7 @@
         "id": ""
     },
     "skills.TWP_WAR_STOMP.name": {
-        "en": "",
+        "en": "War Stomp",
         "fr": "Piétinement",
         "es": "",
         "ch": "",
@@ -11304,7 +11322,7 @@
         "id": ""
     },
     "skills.TWP_WAR_STOMP.effect": {
-        "en": "",
+        "en": "Deals a bonus 1400 damage to all targets within 5 yards around you. Stunning them for 2 sec.",
         "fr": "Inflige 1400 de dégâts bonus à toutes les cibles dans un rayon de 5 mètres autour de vous. Étourdis les cibles touchés pendant 2 sec",
         "es": "",
         "ch": "",
@@ -11322,7 +11340,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.name": {
-        "en": "",
+        "en": "Veteran's Scar",
         "fr": "Cicatrices de Vétéran",
         "es": "",
         "ch": "",
@@ -11340,7 +11358,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect": {
-        "en": "",
+        "en": "Every 4% of lost HP, you gain {0}% Enhanced Damage in return. Stack up to 80% of lost HP",
         "fr": "Tous les 4% de PV perdu, vous gagnez {0}% de Dégâts Améliorés (Maximum de 80% des PV perdu)",
         "es": "",
         "ch": "",
@@ -11358,7 +11376,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect.level10": {
-        "en": "",
+        "en": "Enhanced Damage +1%",
         "fr": "Dégâts Améliorés +1%",
         "es": "",
         "ch": "",
@@ -11376,7 +11394,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect.level15": {
-        "en": "",
+        "en": "Max Hp +800",
         "fr": "PV max +800",
         "es": "",
         "ch": "",
@@ -11394,7 +11412,7 @@
         "id": ""
     },
     "skills.TWP_VETERAN_SCAR.effect.level20": {
-        "en": "",
+        "en": "Damage Taken -10",
         "fr": "Dégâts subis -10",
         "es": "",
         "ch": "",
@@ -11412,7 +11430,7 @@
         "id": ""
     },
     "skills.TWP_CHARGE.name": {
-        "en": "",
+        "en": "Charge",
         "fr": "Charge",
         "es": "",
         "ch": "",
@@ -11430,7 +11448,7 @@
         "id": ""
     },
     "skills.TWP_CHARGE.effect": {
-        "en": "",
+        "en": "Charges to a destination, dealing 165% damage to targets nearby and Stunning them for 1 sec.",
         "fr": "Charge à une destinaton, infligeant 165% de dégâts aux cibles proches et les étourdis pendant 1 sec",
         "es": "",
         "ch": "",
@@ -11448,7 +11466,7 @@
         "id": ""
     },
     "skills.TWP_SHIELD_WALL.name": {
-        "en": "",
+        "en": "Shield Wall",
         "fr": "Bouclier Immuable",
         "es": "",
         "ch": "",
@@ -11466,7 +11484,7 @@
         "id": ""
     },
     "skills.TWP_SHIELD_WALL.effect": {
-        "en": "",
+        "en": "Warrior's defensive maneuver. Increases DMG RD by 40%. Gains 4% more DMG RD from each 4% of lost HP. Stacks up to 120% more DMG RD. Lasts 10 sec.",
         "fr": "Le Guerrier passe en manoeuvre défensive. Augmente RD DGTS de 40%. Gagne 4% de RD DGTS tous les 4% PV perdus, s'accumule jusqu'à 120% de RD DGTS. Dure 10 sec",
         "es": "",
         "ch": "",
@@ -11484,7 +11502,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.name": {
-        "en": "",
+        "en": "Inflexible Will",
         "fr": "Volonté Inexorable",
         "es": "",
         "ch": "",
@@ -11502,7 +11520,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect": {
-        "en": "",
+        "en": "When critstriked, increases Damage Reduction by {0}. Can stack up to 20 times",
         "fr": "Quand vous êtes touchés par un Coup Critique, augmente Réduction de Dégâts de {0}. Peut s'accumuler 20 fois.",
         "es": "",
         "ch": "",
@@ -11520,7 +11538,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect.level10": {
-        "en": "",
+        "en": "Crit Reduction +20%",
         "fr": "Réduction Critique +20%",
         "es": "",
         "ch": "",
@@ -11538,7 +11556,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect.level15": {
-        "en": "",
+        "en": "Skill Crit Reduction +20%",
         "fr": "Réduction Compétence Critique  +20%",
         "es": "",
         "ch": "",
@@ -11556,7 +11574,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect.level20": {
-        "en": "",
+        "en": "HP +3%",
         "fr": "PV +3%",
         "es": "",
         "ch": "",
@@ -11574,7 +11592,7 @@
         "id": ""
     },
     "skills.TWP_BLADE_REALM.name": {
-        "en": "",
+        "en": "Reflection",
         "fr": "Réflexion",
         "es": "",
         "ch": "",
@@ -11592,8 +11610,8 @@
         "id": ""
     },
     "skills.TWP_BLADE_REALM.effect": {
-        "en": "",
-        "fr": "Under Blood Boundary Status, Warrior can reflect 50% of the Damage",
+        "en": "Under Blood Boundary Status, Warrior can reflect 50% of the Damage",
+        "fr": "L'effet Héritage Sanguinaire permet au Guerrier de renvoyer 50% des dégâts",
         "es": "",
         "ch": "",
         "kr": "",
