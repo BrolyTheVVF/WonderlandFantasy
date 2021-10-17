@@ -2305,7 +2305,7 @@
     },
     "talent.warrior.brutality":{
         "en":"Brutality",
-        "fr":"Brutalité",
+        "fr":"Brutal",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2377,7 +2377,7 @@
     },
 	"skills.talent.click_to_learn":{
         "en":"left-click to learn",
-        "fr":"",
+        "fr":"clique-gauche pour apprendre",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2413,7 +2413,7 @@
     },
     "skills.talent.requires-expertise":{
         "en":"Requires {0} Expertise at {1}",
-        "fr":"Requirs {0} d'expertise en {1}",
+        "fr":"Requiers {0} d'expertise en {1}",
         "es":"",
         "ch":"",
         "kr":"",
