@@ -2485,7 +2485,7 @@
     },
     "skills.TMD_STAFF_EXPERTISE.effect.level15":{
         "en":"Skill Accuracy +3%",
-        "fr":"Précision de Compétences +3%",
+        "fr":"Précision Compétence +3%",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2629,7 +2629,7 @@
     },
     "skills.TMD_MAGIC_RECHARGE.effect": {
         "en": "Increases Skill ENHC by {0}%",
-        "fr": "Augmente 'Compétence Améliorée' de {0}%",
+        "fr": "Augmente Compétence Améliorée de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2755,7 +2755,7 @@
     },
     "skills.TMD_ENERGY_SNATCH.effect": {
         "en": "Increases Skill Crit ENHC by {0}%",
-        "fr": "Augmente 'Compétence Critique Améliorée' de {0}%",
+        "fr": "Augmente Compétence Critique Améliorée de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -7038,7 +7038,7 @@
         "id": ""
     },
     "skills.TRH_FEIGN_DEATH.effect": {
-        "en": "Feign Death to protect yourself. Increases crawling speed by 120. Potions can by used. You will not be attacked but cannot attack the others either. Lasts 4 sec.",
+        "en": "Feign Death to protect yourself. Increases crawling speed by 120. Potions can be used. You will not be attacked but cannot attack the others either. Lasts 4 sec.",
         "fr": "Feindre la Mort augmente votre VIT de 120. Les potions peuvent être utiliés. Vous ne serez pas attaqué mais ne pourrez pas non plus attaquer les autres. Dure 4 sec.",
         "es": "",
         "ch": "",
@@ -8604,7 +8604,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.effect": {
-        "en": "Increases Enhanced Damabe by {0}%",
+        "en": "Increases Enhanced Damage by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -10674,7 +10674,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level10": {
-        "en": "Recovers 1% healts every 10 sec.",
+        "en": "Recovers 1% health every 10 sec.",
         "fr": "Récupère 1% des PV max toutes les 10 sec",
         "es": "",
         "ch": "",
