@@ -7038,7 +7038,7 @@
         "id": ""
     },
     "skills.TRH_FEIGN_DEATH.effect": {
-        "en": "Feign Death to protect yourself. Increases crawling speed by 120. Potions can by used. You will not be attacked but cannot attack the others either. Lasts 4 sec.",
+        "en": "Feign Death to protect yourself. Increases crawling speed by 120. Potions can be used. You will not be attacked but cannot attack the others either. Lasts 4 sec.",
         "fr": "Feindre la Mort augmente votre VIT de 120. Les potions peuvent être utiliés. Vous ne serez pas attaqué mais ne pourrez pas non plus attaquer les autres. Dure 4 sec.",
         "es": "",
         "ch": "",
@@ -8604,7 +8604,7 @@
         "id": ""
     },
     "skills.TWB_SWORD_EXPERTISE.effect": {
-        "en": "Increases Enhanced Damabe by {0}%",
+        "en": "Increases Enhanced Damage by {0}%",
         "fr": "Augmente Dégâts Améliorés de {0}%",
         "es": "",
         "ch": "",
@@ -9936,7 +9936,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.effect": {
-        "en": "Increases Crit Enhance by 2.5%",
+        "en": "Increases Crit Enhance by {0}%",
         "fr": "Augmente l'Amélioration Critique de {0}%",
         "es": "",
         "ch": "",
@@ -10674,7 +10674,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level10": {
-        "en": "Recovers 1% healts every 10 sec.",
+        "en": "Recovers 1% max health every 10 sec.",
         "fr": "Récupère 1% des PV max toutes les 10 sec",
         "es": "",
         "ch": "",
