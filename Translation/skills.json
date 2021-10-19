@@ -2485,7 +2485,7 @@
     },
     "skills.TMD_STAFF_EXPERTISE.effect.level15":{
         "en":"Skill Accuracy +3%",
-        "fr":"Précision Compétence +3%",
+        "fr":"Précision de Compétences +3%",
         "es":"",
         "ch":"",
         "kr":"",
@@ -2629,7 +2629,7 @@
     },
     "skills.TMD_MAGIC_RECHARGE.effect": {
         "en": "Increases Skill ENHC by {0}%",
-        "fr": "Augmente Compétence Améliorée de {0}%",
+        "fr": "Augmente 'Compétence Améliorée' de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2755,7 +2755,7 @@
     },
     "skills.TMD_ENERGY_SNATCH.effect": {
         "en": "Increases Skill Crit ENHC by {0}%",
-        "fr": "Augmente Compétence Critique Améliorée de {0}%",
+        "fr": "Augmente 'Compétence Critique Améliorée' de {0}%",
         "es": "",
         "ch": "",
         "kr": "",
@@ -9936,7 +9936,7 @@
         "id": ""
     },
     "skills.TWM_SAVAGE.effect": {
-        "en": "Increases Crit Enhance by 2.5%",
+        "en": "Increases Crit Enhance by {0}%",
         "fr": "Augmente l'Amélioration Critique de {0}%",
         "es": "",
         "ch": "",
@@ -10674,7 +10674,7 @@
         "id": ""
     },
     "skills.TWP_PROTECTION.effect.level10": {
-        "en": "Recovers 1% health every 10 sec.",
+        "en": "Recovers 1% max health every 10 sec.",
         "fr": "Récupère 1% des PV max toutes les 10 sec",
         "es": "",
         "ch": "",
