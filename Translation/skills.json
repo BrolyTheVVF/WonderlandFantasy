@@ -4734,7 +4734,7 @@
         "id": ""
     },
     "skills.TML_CULTIVATION.effect.level20": {
-        "en": "Increases DMG RD +3%",
+        "en": "Damage Reduction +3%",
         "fr": "Réduction de Dégâts +3%",
         "es": "",
         "ch": "",
@@ -5580,7 +5580,7 @@
         "id": ""
     },
     "skills.TRR_BOW_EXPERTISE.effect.level20": {
-        "en": "Increases Skill Accuracy by 5%",
+        "en": "Skill Accuracy +5%",
         "fr": "Précision Compétence +5%",
         "es": "",
         "ch": "",
