@@ -4915,7 +4915,7 @@
     },
     "item.4901.name":{
         "en":"Spirit Stat Book [HP]",
-        "fr":"",
+        "fr":"Livre d'Esprit [PV]",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4933,7 +4933,7 @@
     },
     "item.4902.name": {
         "en": "Spirit Stat Book [MP]",
-        "fr": "",
+        "fr": "Livre d'Esprit [PM]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4951,7 +4951,7 @@
     },
     "item.4903.name": {
         "en": "Spirit Stat Book [Attack]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Attaque]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4969,7 +4969,7 @@
     },
     "item.4904.name": {
         "en": "Spirit Stat Book [Defence]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Défense]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4987,7 +4987,7 @@
     },
     "item.4905.name": {
         "en": "Spirit Stat Book [Accuracy]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Précision]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5005,7 +5005,7 @@
     },
     "item.4906.name": {
         "en": "Spirit Stat Book [Evasion]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Esquive]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5023,7 +5023,7 @@
     },
     "item.4907.name": {
         "en": "Spirit Stat Book [Holy Attack]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Attaque Sacrée]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5041,7 +5041,7 @@
     },
     "item.4908.name": {
         "en": "Spirit Stat Book [Attack Speed]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Vitesse d'Attaque]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5059,7 +5059,7 @@
     },
     "item.4909.name": {
         "en": "Spirit Stat Book [Crit Accuracy]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Précision Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5077,7 +5077,7 @@
     },
     "item.4910.name": {
         "en": "Spirit Stat Book [Crit Evasion]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Esquive Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5095,7 +5095,7 @@
     },
     "item.4911.name": {
         "en": "Spirit Stat Book [Crit Enhanced]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Amélioration Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5113,7 +5113,7 @@
     },
     "item.4912.name": {
         "en": "Spirit Stat Book [Crit Reduction]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Réduction Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5131,7 +5131,7 @@
     },
     "item.4913.name": {
         "en": "Spirit Stat Book [Skill Accuracy]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Précision Compétence]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5149,7 +5149,7 @@
     },
     "item.4914.name": {
         "en": "Spirit Stat Book [Skill Evasion]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Esquive Compétence]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5167,7 +5167,7 @@
     },
     "item.4915.name": {
         "en": "Spirit Stat Book [Skill Enhanced]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Amélioration Compétence]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5185,7 +5185,7 @@
     },
     "item.4916.name": {
         "en": "Spirit Stat Book [Luck]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Chance]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5203,7 +5203,7 @@
     },
     "item.4917.name": {
         "en": "Spirit Stat Book [Skill Crit Accuracy]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Précision Compétence Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5221,7 +5221,7 @@
     },
     "item.4918.name": {
         "en": "Spirit Stat Book [Skill Crit Evasion]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Esquive Compétence Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5239,7 +5239,7 @@
     },
     "item.4919.name": {
         "en": "Spirit Stat Book [Skill Crit Enhanced]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Amélioration Compétence Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5257,7 +5257,7 @@
     },
     "item.4920.name": {
         "en": "Spirit Stat Book [Skill Crit Reduction]",
-        "fr": "",
+        "fr": "Livre d'Esprit [Réduction Compétence Critique]",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5275,7 +5275,7 @@
     },
     "item.4951.name": {
         "en": "Spirit Food I",
-        "fr": "",
+        "fr": "Mets d'Esprit I",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5293,7 +5293,7 @@
     },
     "item.4952.name": {
         "en": "Spirit Food II",
-        "fr": "",
+        "fr": "Mets d'Esprit II",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5311,7 +5311,7 @@
     },
     "item.4953.name": {
         "en": "Spirit Food III",
-        "fr": "",
+        "fr": "Mets d'Esprit III",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5329,7 +5329,7 @@
     },
     "item.4954.name": {
         "en": "Spirit Food IV",
-        "fr": "",
+        "fr": "Mets d'Esprit IV",
         "es": "",
         "ch": "",
         "kr": "",
