@@ -4012,5 +4012,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.rankings.btn.level":{
+        "en":"Level",
+        "fr":"Niveau",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.rankings.btn.wealth":{
+        "en":"Wealth",
+        "fr":"Richesse",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
