@@ -10926,7 +10926,7 @@
         "id": ""
     },
     "skills.TWP_SACRIFICE.effect": {
-        "en": "Sacrifices 10% of character's current to deal corresponding damage to target, lowering its SPD by 50% for 5 sec.",
+        "en": "Sacrifices 10% of character's current health to deal corresponding damage to target, lowering its SPD by 50% for 5 sec.",
         "fr": "Sacrifie 10% de vos PV actuel pour les infliger à la cible, réduisant sa VIT de 50% pendant 5 sec",
         "es": "",
         "ch": "",
