@@ -4048,5 +4048,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.rankings.rules.title":{
+        "en":"Ranking Rules",
+        "fr":"Regles",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.rankings.rules.text":{
+        "en":"The ranking list refreshes once a day. You can click \"Praise\" or \"Decry\" to vote for a player.",
+        "fr":"Le classement est mis a jours une fois par jour. Vous pouvez cliquer sur \"Éloge\" ou \"Dénigrer\" pour voter pour un joueur.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
