@@ -8695,7 +8695,7 @@
     },
     "skills.TWB_ENHC_SLAM.effect": {
         "en": "Increases the Skill DMG of Slam by {0}",
-        "fr": "Augmente les Dégâts de Compétences de {0}",
+        "fr": "Augmente les Dégâts de la compétences Coup Puissant de {0}",
         "es": "",
         "ch": "",
         "kr": "",
