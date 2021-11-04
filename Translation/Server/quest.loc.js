@@ -500,7 +500,7 @@ locale["quest.6.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Betritt den Gold Laden und hol dir einmal  <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Militärrationen</span>, danach bringst du es zu <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
+	"de": "Betritt den Gold Laden und hol dir einmal <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Militärrationen</span>, danach bringst du es zu <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
 	"jp": "",
 	"pt": "",
 	"vi": "Hãy vào Tiệm Vàng và mua lấy <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Lương Thực Quân Sự</span>, sau đó đưa cho <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
@@ -5221,7 +5221,7 @@ locale["quest.1003.texts.objective"] = {
 };
 locale["quest.1004.texts.objective"] = {
 	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
-	"fr": "Parlez à la  méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
+	"fr": "Parlez à la méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5239,7 +5239,7 @@ locale["quest.1004.texts.objective"] = {
 };
 locale["quest.1005.texts.objective"] = {
 	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
-	"fr": "Parlez à la  méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
+	"fr": "Parlez à la méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"ch": "",
 	"kr": "",
