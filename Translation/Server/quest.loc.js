@@ -5287,6 +5287,79 @@ locale["quest.69.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.70.name"] = {
+	"en": "Abnormal Evil",
+	"fr": "Mal anormal",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.70.texts.objective"] = {
+	"en": "Go to the Elite Hall of Celebeam Caves, find <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
+	"fr": "Aller dans la salle d'elite des Caves de Celebeam, puis trouver <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.70.texts.description"] = {
+	"en": "There is a new demon in Elite Hall, he is not with these monsters. Though he is a demon, he may be useful for us.",
+	"fr": "Il y a un nouveau démon dans le Hall d'Elite, il n'est pas avec ces monstres. Bien qu'il soit un démon, il peut nous être utile.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.70.texts.returnPopupMain"] = {
+	"en": ".....",
+	"fr": ".....",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
