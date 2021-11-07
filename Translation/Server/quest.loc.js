@@ -5141,6 +5141,152 @@ locale["quest.67.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.68.name"] = {
+	"en": "Wax Devil Vincent",
+	"fr": "Vincent le Diable de Cire",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Sáp Quỷ Độc Tài",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.68.texts.objective"] = {
+	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='24'>Wax Devil Vincent</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100033'>Chinai</span>.",
+	"fr": "Tuez <span class='text-link' data-target-type='mob' data-target-id='24'>Vincent le Diable de Cire</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100033'>Chinai</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.68.texts.description"] = {
+	"en": "There are Wax Zombies and wax monsters in this place, what the hell, so may dangers! Where does that damned thing come from? Eggs?",
+	"fr": "Il y a des Zombies de Cire et des monstres de cire ici, fichtre, tant de dangers! D'où vient ce foutu truc? Des œufs?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.68.texts.returnPopupMain"] = {
+	"en": "It thought itself as vampire?",
+	"fr": "Il se prenait pour un vampire?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.69.name"] = {
+	"en": "Vincent must die",
+	"fr": "Vincent doit mourir",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.69.texts.objective"] = {
+	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='24'>Wax Devil Vincent</span> again, then report to <span class='text-link' data-target-type='npc' data-target-id='100033'>Chinai</span>.",
+	"fr": "Tuez encore <span class='text-link' data-target-type='mob' data-target-id='24'>Vincent le Diable de Cire</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100033'>Chinai</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.69.texts.description"] = {
+	"en": "I hate that new monster lead! Young man, i'll give you 100 gold to kill him again!",
+	"fr": "Je déteste ce nouveaux leader de monstre! Jeune homme, je vais vous donner 100 pièces d'or pour le tuer à nouveau !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.69.texts.returnPopupMain"] = {
+	"en": "Good.",
+	"fr": "Bien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
