@@ -2362,6 +2362,24 @@ locale["npc.100043.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100044.name"] = {
+	"en": "Kuroom",
+	"fr": "Kuroom",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
