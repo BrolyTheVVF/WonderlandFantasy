@@ -544,6 +544,24 @@ locale["system.instance.delete.no_valid_instance"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.instance.join.no_valid_instance"] = {
+	"en":"You cannot join this instance because you are not in a group or you have no instance started",
+	"fr":"Vous ne pouvez pas rejoindre cette instance parce que vous n'êtes pas en groupe ou que vous n'avez pas d'instance en cours.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.instance.not_done"] = {
 	"en":"The instance is not done yet",
 	"fr":"L'instance n'est pas encore terminée",
