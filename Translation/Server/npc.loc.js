@@ -2380,6 +2380,24 @@ locale["npc.100044.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100044.title"] = {
+	"en": "Novice Archidemon",
+	"fr": "Archidémon Novice",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
