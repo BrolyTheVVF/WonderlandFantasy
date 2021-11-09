@@ -5106,7 +5106,7 @@ locale["quest.67.texts.objective"] = {
 };
 locale["quest.67.texts.description"] = {
 	"en": "Find Chinai in Celebeam Caves, he is in trouble.",
-	"fr": "Trouvez Chinai adns les Caves de Celebeam, il as des problèmes",
+	"fr": "Trouvez Chinai dans les Caves de Celebeam, il a des problèmes",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5252,7 +5252,7 @@ locale["quest.69.texts.objective"] = {
 };
 locale["quest.69.texts.description"] = {
 	"en": "I hate that new monster leader! Young man, i'll give you 100 gold to kill him again!",
-	"fr": "Je déteste ce nouveaux leader de monstre! Jeune homme, je vais vous donner 100 pièces d'or pour le tuer à nouveau !",
+	"fr": "Je déteste ce nouveau leader de monstres! Jeune homme, je vais vous donner 100 pièces d'or pour le tuer à nouveau !",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5307,7 +5307,7 @@ locale["quest.70.name"] = {
 };
 locale["quest.70.texts.objective"] = {
 	"en": "Go to the Elite Hall of Celebeam Caves, find <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
-	"fr": "Aller dans la salle d'elite des Caves de Celebeam, puis trouver <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
+	"fr": "Aller dans la salle Elite des Caves de Celebeam, puis trouver <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
