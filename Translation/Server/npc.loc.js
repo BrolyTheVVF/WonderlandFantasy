@@ -2391,7 +2391,7 @@ locale["npc.100044.title"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Quỷ Sứ Thực Tập",
 	"ar": "",
 	"it": "",
 	"pl": "",
