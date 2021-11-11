@@ -6864,6 +6864,81 @@ locale["quest.30000.texts.returnPopupMain"] = {
 };
 
 
+locale["quest.35000.name"] = {
+	"en": "[Repeatable] Naive Evil Lord",
+	"fr": "[Répétable] Seigneur du Mal Naif",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35000.texts.objective"] = {
+	"en": "Clear the elite monsters in the Elite Hall of Celebeam Caves, and collect Rockcord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 29</i>",
+	"fr": "Netoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Rochecorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 29</i>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35000.texts.description"] = {
+	"en": "Kuroom want to be the utimate BOSS in Serenia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"fr": "Kuroom veut devenir le BOSS ultime de Sérénia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35000.texts.returnPopupMain"] = {
+	"en": "Thank you for helping Kuroom! You will be rewarded when time comes!",
+	"fr": "Merci d'avoir aidé Kuroom! Vous serez grandement récompensé le moment venu!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
+
 locale["quest.40000.name"] = {
 	"en": "Evil Creature: Familiar",
 	"fr": "Créatures démoniaques : Familier",
