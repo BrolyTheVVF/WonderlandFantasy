@@ -5360,6 +5360,79 @@ locale["quest.70.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.71.name"] = {
+	"en": "Evil Lord Kuroom",
+	"fr": "Seigneur Maléfique Kuroom",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.71.texts.objective"] = {
+	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='26'>Elite Zombies</span> and <span class='text-link' data-target-type='mob' data-target-id='25'>Elite Skeleton Wizard</span> then report to <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies Elite</span> et des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes Elite</span> puis faite votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.71.texts.description"] = {
+	"en": "I'm Kuroom, the new evil lors in Serenia. One day in the futur, I'll defeat Harlan and Bur and control le whole world!<br><br>But every evil lords start by recruiting minions. I need to hire enough minions. Could you ask the residents here if they want to join me? Kill them if they don't.",
+	"fr": "Je suis Kuroom, le nouveau seigneur maléfique de Serenia. Un jour, je tuerais Harlan et Bur et je contrôlerais le monde!<br><br>Mais tous les seigneurs maléfiques commencent par recruter des sbires. J'ai besoin d'en recruter un grand nombre. Pouvez vous demander aux résidents de ces lieux de me rejoindre? Tuez les s'ils ne veulent pas.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.71.texts.returnPopupMain"] = {
+	"en": "Human, would you like to join us?",
+	"fr": "Humain, voudriez vous nous rejoindre?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": ".....",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
