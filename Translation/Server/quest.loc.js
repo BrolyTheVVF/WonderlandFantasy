@@ -5425,7 +5425,7 @@ locale["quest.71.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": ".....",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
