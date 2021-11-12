@@ -2398,6 +2398,24 @@ locale["npc.100044.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100044.interact.baseText"] = {
+	"en": "You pest, are you willing to join my evil horde?",
+	"fr": "Espèce de peste, êtes-vous prêt à rejoindre ma horde maléfique ?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
