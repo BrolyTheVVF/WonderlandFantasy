@@ -2398,6 +2398,29 @@ locale["npc.100044.title"] = {
 	"th": "",
 	"id": ""
 };
+
+
+//** ***************************** **
+//** ****** NPC INTERACTION ****** **
+//** ***************************** **
+locale["npc.100043.interact.baseText"] = {
+	"en": "Young man! Interesting instances await you!",
+	"fr": "Jeune aventurier! Des instances intéressantes t'attendent!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100044.interact.baseText"] = {
 	"en": "You pest, are you willing to join my evil horde?",
 	"fr": "Espèce de peste, êtes-vous prêt à rejoindre ma horde maléfique ?",
