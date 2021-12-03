@@ -287,6 +287,24 @@
         "th":"",
         "id":"ATK"
     },
+    "UI.stat.ATK.explanation":{
+        "en":"This is your raw attack. You should not rely on it to know your strength.<br>It affects your normal attacks and skills damage, and also affects your healing power.",
+        "fr":"C'est votre puissance brute. Vous ne devriez pas vous baser sur ça pour connaitre votre puissance.<br>Elle affecte les dégâts de vos attaques de base et de vos skills, et aussi de vos soins.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.DEF":{
         "en":"Defence",
         "fr":"Défense",
@@ -322,6 +340,24 @@
         "pl":"",
         "th":"",
         "id":"DEF"
+    },
+    "UI.stat.DEF.explanation":{
+        "en":"This is your raw defence. You should not rely on it to know your ability to take a hit. It reduces the damage caused by your opponents.",
+        "fr":"C'est votre défense brute. Vous ne devriez pas vous baser sur ça pour connaitre votre résistance.<br>Elle réduit les dégâts causés par votre opposant.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.ENHC_DMG":{
         "en":"Enhanced Damage",
@@ -359,6 +395,24 @@
         "th":"",
         "id":"ENHC DMG"
     },
+    "UI.stat.ENHC_DMG.explanation":{
+        "en":"Increases the base damages done by your attack by X%",
+        "fr":"Augmente les dégâts causés par vos attaques de X%",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.DMG_RD":{
         "en":"Damage Reduction",
         "fr":"Réduction de dégâts",
@@ -394,6 +448,24 @@
         "pl":"",
         "th":"",
         "id":"DMG RD"
+    },
+    "UI.stat.DMG_RD.explanation":{
+        "en":"Increases your base defence by X%",
+        "fr":"Augmente votre défense de base de X%",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.ATK_SPD":{
         "en":"Attack Speed",
@@ -431,6 +503,24 @@
         "th":"",
         "id":"ATK SPD"
     },
+    "UI.stat.ATK_SPD.explanation":{
+        "en":"Increases your number of normal attacks per seconds by X%",
+        "fr":"Augmente votre nombre d'attaque par seconde de X%",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_ENHC":{
         "en":"Skill Enhanced",
         "fr":"Compétence améliorée",
@@ -466,6 +556,24 @@
         "pl":"",
         "th":"",
         "id":"Skill ENHC"
+    },
+    "UI.stat.SKILL_ENHC.explanation":{
+        "en":"Increases the base damages done by your spells by X%",
+        "fr":"Augmente les dégâts de base de vos compétences de X%",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.ACC":{
         "en":"Accuracy",
@@ -503,6 +611,24 @@
         "th":"",
         "id":"ACC"
     },
+    "UI.stat.ACC.explanation":{
+        "en":"Increases the chance of your normal attacks hitting an enemy by X%.",
+        "fr":"Augmente les chances de vos attaques normales de toucher leur cible de X%",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_ACC":{
         "en":"Skill Accuracy",
         "fr":"Précision Compétence",
@@ -538,6 +664,24 @@
         "pl":"",
         "th":"",
         "id":"Skill ACC"
+    },
+    "UI.stat.SKILL_ACC.explanation":{
+        "en":"Increases the chance of your Skills hitting an enemy by X%.",
+        "fr":"Augmente les chances de vos compétences de toucher leur cible de X%",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.EVA":{
         "en":"Evasion",
@@ -575,6 +719,24 @@
         "th":"",
         "id":"EVA"
     },
+    "UI.stat.EVA.explanation":{
+        "en":"Increases your chances of dodging normal attacks. Dodging a normal attack cancels its effects. Countered by ACC.",
+        "fr":"Augmente vos chances d'esquiver les attaques normales. Esquiver une attaque normale annule ses effets. Contré par la PRE",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_EVA":{
         "en":"Skill Evasion",
         "fr":"Esquive Compétence",
@@ -610,6 +772,24 @@
         "pl":"",
         "th":"",
         "id":"Skill EVA"
+    },
+    "UI.stat.SKILL_EVA.explanation":{
+        "en":"Increases your chances of dodging a skill. Dodging a normal attack cancels its effects. Countered by Skill ACC.",
+        "fr":"Augmente vos chances d'esquiver les compétences. Esquiver une compétence annule ses effets. Contré par la PRE Comp",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.CRIT_ACC":{
         "en":"Crit Accuracy",
@@ -647,6 +827,24 @@
         "th":"",
         "id":"CRIT ACC"
     },
+    "UI.stat.CRIT_ACC.explanation":{
+        "en":"Increases your critical strikes chances of your normal attacks by X%. Countered by CRIT EVA.",
+        "fr":"Augmente vos chances de coup critique de vos attaque normale de X%. Contré par la Esquive CRIT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_CRIT_ACC":{
         "en":"Skill Crit Accuracy",
         "fr":"Précision Compétence Critique",
@@ -682,6 +880,24 @@
         "pl":"",
         "th":"",
         "id":"Skill CRIT ACC"
+    },
+    "UI.stat.SKILL_CRIT_ACC.explanation":{
+        "en":"Increases your critical strikes chances of your skills by X%. Countered by Skill CRIT EVA.",
+        "fr":"Augmente vos chances de coup critique de vos compétence de X%. Contré par la Esquive Comp CRIT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.CRIT_EVA":{
         "en":"Crit Evasion",
@@ -719,6 +935,24 @@
         "th":"",
         "id":"CRIT EVA"
     },
+    "UI.stat.CRIT_EVA.explanation":{
+        "en":"Reduces your opponent’s critical strikes chances of his normal attacks by X%. Countered by Crit ACC.",
+        "fr":"Reduit les chances de coup critique des attaques normale de votre opposant de X%. Contré par la PRE CRIT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_CRIT_EVA":{
         "en":"Skill Crit Evasion",
         "fr":"Esquive Compétence Critique",
@@ -754,6 +988,24 @@
         "pl":"",
         "th":"",
         "id":"Skill CRIT EVA"
+    },
+    "UI.stat.SKILL_CRIT_EVA.explanation":{
+        "en":"Reduces your opponent’s critical strikes chances of his skills by X%. Countered by Skill Crit ACC.",
+        "fr":"Reduit les chances de coup critique des compétences de votre opposant de X%. Contré par la PRE Comp CRIT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.CRIT_ENHC":{
         "en":"Crit Enhanced",
@@ -791,6 +1043,24 @@
         "th":"",
         "id":"CRIT ENHC"
     },
+    "UI.stat.CRIT_ENHC.explanation":{
+        "en":"Increases the power of your normal critical attacks by X%. Countered by Crit RD.",
+        "fr":"Augmente la puissance des coups critique de vos attaques normales de X%. Contré par la RD CRIT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_CRIT_ENHC":{
         "en":"Skill Crit Enhanced",
         "fr":"Compétence Critique Ameliorée",
@@ -826,6 +1096,24 @@
         "pl":"",
         "th":"",
         "id":"Skill CRIT ENHC"
+    },
+    "UI.stat.SKILL_CRIT_ENHC.explanation":{
+        "en":"Increases the power of your skill critical damages by X%. Countered by Skill Crit RD.",
+        "fr":"Augmente la puissance des coups critique de vos compétences de X%. Contré par la RD Comp CRIT",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.CRIT_RD":{
         "en":"Crit Reduction",
@@ -863,6 +1151,24 @@
         "th":"",
         "id":"CRIT RD"
     },
+    "UI.stat.CRIT_RD.explanation":{
+        "en":"Reduces the critical damage of normal attacks you receive by X%. Countered by Crit ENHC.",
+        "fr":"Réduit les dégâts critiques des attaques normales que vous recevez de X%. Contré par la AM Crit",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.SKILL_CRIT_RD":{
         "en":"Skill Crit Reduction",
         "fr":"Reduction Compétence Critique",
@@ -898,6 +1204,24 @@
         "pl":"",
         "th":"",
         "id":"Skill CRIT RD"
+    },
+    "UI.stat.SKILL_CRIT_RD.explanation":{
+        "en":"Reduces the critical damage of skills you receive by X%. Countered by Skill Crit ENHC.",
+        "fr":"Réduit les dégâts critiques des compétences que vous recevez de X%. Contré par la AM Comp Crit",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.stat.HOLY_ATK":{
         "en":"Holy Attack",
@@ -935,6 +1259,24 @@
         "th":"",
         "id":"Holy ATK"
     },
+    "UI.stat.HOLY_ATK.explanation":{
+        "en":"Inflicts extra damage ignoring all target’s defence attributes.<br>Holy Damage is affected by Critical Strikes.",
+        "fr":"Inflige des dégâts ignorant toutes les défenses de votre cible.<br>L'attaque Sacrée est affecté par les coup critique.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.stat.LUCK":{
         "en":"Luck",
         "fr":"Chance",
@@ -970,6 +1312,24 @@
         "pl":"",
         "th":"",
         "id":"Luck"
+    },
+    "UI.stat.LUCK.explanation":{
+        "en":"Increases the upper part of your damage range of ALL your attacks by X%. The base damage range is from 100% to 120%.",
+        "fr":"Augmente la partie supérieure de votre plage de dégâts de TOUTES vos attaques de X%. La plage de dégâts de base est de 100% à 120%.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.quest.seek":{
         "en":"Seek",
