@@ -616,5 +616,23 @@ locale["system.blessing.already-maxed-out"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.blessing.requires-n-blessing"] = {
+	"en":"You need {0} <i>Bur's blessings</i> to upgrade to the next level",
+	"fr":"Vous avez besoin de {0} <i>Benedictions de Bur</i> pour passer au niveau suivant",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
