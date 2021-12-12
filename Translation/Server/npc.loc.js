@@ -2550,6 +2550,24 @@ locale["npc.100014.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100026.interact.baseText"] = {
+	"en": "We trained for this! Just take it easy, we will never fall for the demons. I wonder what is going on in the Celebeam Caves. The old king worries about his citizens. I think I should talk to him and ask for necessary reinforcements...",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100028.interact.baseText"] = {
 	"en": "Young adventurer! Have fun in our world!",
 	"fr": "Jeune aventurier! Amusez vous bien dans notre monde!",
