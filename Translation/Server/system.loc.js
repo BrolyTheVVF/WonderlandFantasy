@@ -598,5 +598,23 @@ locale["system.instance.cardReward.no_turn_left"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.blessing.already-maxed-out"] = {
+	"en":"This stat is currently max out",
+	"fr":"Cette statistique est actuellement au maximum",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
