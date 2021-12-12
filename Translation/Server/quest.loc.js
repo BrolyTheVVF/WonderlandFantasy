@@ -5526,7 +5526,7 @@ locale["quest.73.name"] = {
 };
 locale["quest.73.texts.objective"] = {
 	"en": "Go around and see if the residents need help. Blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> seems annoyed.",
-	"fr": "Faites le tour et voyez si les résidents ont besoin d'aide. Le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Samhan</span> semble contrarié.",
+	"fr": "Faites le tour et voyez si les résidents ont besoin d'aide. Le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> semble contrarié.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5544,7 +5544,7 @@ locale["quest.73.texts.objective"] = {
 };
 locale["quest.73.texts.description"] = {
 	"en": "Dear <b>{0}</b>, the evil army's invasion to Wonderland continent has caused the Knights to be really busy. But we still need to maintain the resident's daily life. Please find out if the residents need something!",
-	"fr": "Dear <b>{0}</b>, l'invasion de l'armée maléfique en Wonderland a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
+	"fr": "Cher <b>{0}</b>, l'invasion de l'armée maléfique en Wonderland a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5563,6 +5563,79 @@ locale["quest.73.texts.description"] = {
 locale["quest.73.texts.returnPopupMain"] = {
 	"en": "Help? Sure!",
 	"fr": "De l'aide? Bien sur!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.74.name"] = {
+	"en": "Bur's Blessing (2)",
+	"fr": "Bénédiction de Bur (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.74.texts.objective"] = {
+	"en": "Bring 2 cracked celebeam of each color to <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> the blacksmith.",
+	"fr": "Apporter 2 celebeam Fissuré a <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> le forgeron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.74.texts.description"] = {
+	"en": "I have been so busy with all the new orders that i only just noticed that the Celebeam has just run out. Could you help me get some? I need to get back to work as soon as possible.",
+	"fr": "J'ai été tellement occupé avec toutes ces nouvelles commandes que je viens tout juste de remarquer que mon stock de Celebeam va être épuisé. Pourriez-vous m'aider à en récupérer un peu? Je dois reprendre le travail aussi vite que possible.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.74.texts.returnPopupMain"] = {
+	"en": "You got here just in time! It's time for us to put these Celebeam in it!",
+	"fr": "Vous arrivez juste à temps! Il est temps pour vous de mettre ces Celebeam dedans!",
 	"es": "",
 	"ch": "",
 	"kr": "",
