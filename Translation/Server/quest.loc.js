@@ -5433,6 +5433,152 @@ locale["quest.71.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.72.name"] = {
+	"en": "Bur's Blessing",
+	"fr": "Bénédiction de Bur",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.72.texts.objective"] = {
+	"en": "Go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.72.texts.description"] = {
+	"en": "Samhan wants to help you get Bur's blessing. Go see him in town.",
+	"fr": "Samhan veut vous apprendre a obtenir la bénédiction de Bur. Allez le voir en ville.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.72.texts.returnPopupMain"] = {
+	"en": "Feel your new powers, my child.",
+	"fr": "Sentez votre nouvelle puissance, mon enfant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.73.name"] = {
+	"en": "Bur's Blessing (1)",
+	"fr": "Bénédiction de Bur (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.73.texts.objective"] = {
+	"en": "Go around and see if the residents need help. Blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> seems annoyed.",
+	"fr": "Faites le tour et voyez si les résidents ont besoin d'aide. Le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Samhan</span> semble contrarié.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.73.texts.description"] = {
+	"en": "Dear <b>{0}</b>, the evil army's invasion to Wonderland continent has caused the Knights to be really busy. But we still need to maintain the resident's daily life. Please find out if the residents need something!",
+	"fr": "Dear <b>{0}</b>, l'invasion de l'armée maléfique en Wonderland a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.73.texts.returnPopupMain"] = {
+	"en": "Help? Sure!",
+	"fr": "De l'aide? Bien sur!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
