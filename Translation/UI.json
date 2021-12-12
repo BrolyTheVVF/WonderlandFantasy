@@ -4516,5 +4516,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.character.blessing.description":{
+        "en":"<b>System Info</b><br>Pray to <i>Bur</i> to enhance your stats. The blessing limit increase every 5 character level starting at level 20. When all blessing reach lvl 5, 10 and 15, you will get a bonus stat.",
+        "fr":"<b>Info Système</b><br>Priez <i>Bur</i> pour améliorer vos stats. La limite de bénédiction augmente tous les 5 niveaux de personnage a partir du niveau 20. Quand toutes les bénédictions atteignent le niveau 5, 10 et 15, vous obtenez des bonus supplémentaires.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
