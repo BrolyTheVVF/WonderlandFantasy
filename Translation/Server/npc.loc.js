@@ -2604,6 +2604,24 @@ locale["npc.100026.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100027.interact.baseText"] = {
+	"en": "My husband was killed in the war. Now the guards won't let me my stall... I'm going to give them a piece of my mind...",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100028.interact.baseText"] = {
 	"en": "Young adventurer! Have fun in our world!",
 	"fr": "Jeune aventurier! Amusez vous bien dans notre monde!",

@@ -5652,6 +5652,79 @@ locale["quest.74.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.75.name"] = {
+	"en": "Bur's Blessing (3)",
+	"fr": "Bénédiction de Bur (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.75.texts.objective"] = {
+	"en": "Go to Cain Kingdom, and visit the merchant <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, see if she needs help.",
+	"fr": "Aller a Cain, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.75.texts.description"] = {
+	"en": "Do you remember James's mom? Yes, Nani, the wife of the Gravekeeper. She asked Rina Lily to make a carpet. Rina lily is worried about it, can you go and help her?",
+	"fr": "Vous souvenez vous de la mère de James? Oui, Nani, la femme du Gardien du Cimetière. Elle a demandé à Rina Lily de lui faire un tapis. Rina Lily est inquiète à ce sujet, pouvez-vous aller l'aider?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.75.texts.returnPopupMain"] = {
+	"en": "<b>{0}</b>, Nice to meet you again.",
+	"fr": "<b>{0}</b>, Heureuse de vous revoir.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
