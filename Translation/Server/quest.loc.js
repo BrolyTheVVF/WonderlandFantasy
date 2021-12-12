@@ -5944,6 +5944,79 @@ locale["quest.78.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.79.name"] = {
+	"en": "Bur's Blessing (7)",
+	"fr": "Bénédiction de Bur (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.79.texts.objective"] = {
+	"en": "Go back to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span> in Cain Kingdom and receive your prizes!",
+	"fr": "Retournez voir <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span> en ville et récupérez vos récompenses!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.79.texts.description"] = {
+	"en": "All my work did not help these workmates, but i Still want to thank you for your help! I want to think about which part is wrong. Maybe Master Kugarn knows the problem. You can go back now, thanks again.",
+	"fr": "Tout mon travail n'a pas aidé ces collègues de travail, mais je tiens quand même à vous remercier pour votre aide! Je veux réfléchir à la partie qui ne va pas. Peut-être que Maître Kugarn connaît le problème. Vous pouvez partir maintenant, encore merci.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.79.texts.returnPopupMain"] = {
+	"en": "You performance is still good! So i'll give you a special prize.",
+	"fr": "Votre performance est toujours bonne ! Je vais donc vous offrir un prix spécial.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
