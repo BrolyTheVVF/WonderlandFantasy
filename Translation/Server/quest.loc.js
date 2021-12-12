@@ -5908,8 +5908,8 @@ locale["quest.78.texts.objective"] = {
 	"id": ""
 };
 locale["quest.78.texts.description"] = {
-	"en": "The guards are trying to kick me out of my stall since my husband died. I can't go out and deliver it myself. Can you bring the cloak to James and check if he's alright?",
-	"fr": "Les guardes essayez de m'expluser de mon étal depuis que mon maris est mort. Je ne peut pas partir et le livrer moi même. Pouvez vous apporter le manteau a James et verifier qu'il va bien?",
+	"en": "I learned a lot with Master Kugarn, though i'm not a qualified psychic wizard. I want to impress Master Kugarn, can you please try out this potion on some zombies and tell me chat effect they have on them? By careful, i'm not sure what could result of it.",
+	"fr": "J'ai beaucoup apris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet de chat qu'ils ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5926,8 +5926,8 @@ locale["quest.78.texts.description"] = {
 	"id": ""
 };
 locale["quest.78.texts.returnPopupMain"] = {
-	"en": "My mom sent this for me? It's so warm and soft, it has the feeling of home...",
-	"fr": "Ma mère envoie ça, pour moi? C'est si chaud et doux, ca me rappel ma maison...",
+	"en": "Ah! It failed! How could this happen?",
+	"fr": "Ah! Ça a échoué! Comment cela a-t-il put se produire?",
 	"es": "",
 	"ch": "",
 	"kr": "",

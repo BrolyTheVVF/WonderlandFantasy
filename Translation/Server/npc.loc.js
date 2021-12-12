@@ -741,6 +741,24 @@ locale["npc.40.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.41.name"] = {
+	"en": "Frenzied Zombie",
+	"fr": "Zombie Frénétique",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Merlin",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
