@@ -9738,22 +9738,22 @@
         "id":"Ramuan Kemurnian"
     },
     "item.20004.name":{
-        "en":"Mother Brand Carpet",
-        "fr":"Tapis de Marque Mère",
+        "en":"Mother Brand Cloak",
+        "fr":"Manteau de Marque Mère",
         "es":"",
         "ch":"",
         "kr":"",
-        "ru":"Мамин Фирменный Ковёр",
+        "ru":"",
         "tr":"",
-        "de":"Mütterlicher Teppich",
+        "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Chăn Mẹ Làm",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Karpet Buatan Ibu"
+        "id":""
     },
     "item.20005.name":{
         "en":"Margaretta Sandwich",
