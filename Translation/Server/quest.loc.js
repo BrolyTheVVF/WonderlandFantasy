@@ -6017,6 +6017,298 @@ locale["quest.79.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.80.name"] = {
+	"en": "Bur's Blessing (8)",
+	"fr": "Bénédiction de Bur (8)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.80.texts.objective"] = {
+	"en": "After reaching level 26, talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Apres avoir atteint le niveau 26, parlez a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.80.texts.description"] = {
+	"en": "The following quest need you to be stronger, come here again when you're level 26.",
+	"fr": "La quête suivante requirs plus de puissance, reviens ici quand tu seras niveau 26.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.80.texts.returnPopupMain"] = {
+	"en": "Good, let's continue.",
+	"fr": "Bien, continuons.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.81.name"] = {
+	"en": "Celebeam Caves (1)",
+	"fr": "Caves de Celebeam (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.81.texts.objective"] = {
+	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span> in the Caves.",
+	"fr": "Parlez a <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span> dans les Caves.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.81.texts.description"] = {
+	"en": "Investigation of the Celebeam Caves is not over yet. Go and talk with Horay, he must need more people now.",
+	"fr": "L'enquête des Caves de Celebeam n'est pas finie. Allez parler à Horay, il a surement besoin d'aide maintenant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.81.texts.returnPopupMain"] = {
+	"en": "Good, you're here.",
+	"fr": "Bien, vous voila.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.82.name"] = {
+	"en": "Celebeam Caves (2)",
+	"fr": "Caves de Celebeam (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.82.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='25'>Skeleton Wizard</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelette</span> et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.82.texts.description"] = {
+	"en": "You see those skeleton wizards? I am pretty sure it was them who killed the miners and turned them into zombies. Kill them and seek revenge for my brothers!",
+	"fr": "Vous voyez ces Mages Squelette? Je suis presque sûr que ce sont eux qui ont tué les mineurs et les ont transformés en zombie. Tuez les et vengez mes frères!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.82.texts.returnPopupMain"] = {
+	"en": "My brothers. You can rest in peace now.",
+	"fr": "Mes freres. Vous pouvez reposer en paix maintenant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.83.name"] = {
+	"en": "Celebeam Caves (3)",
+	"fr": "Caves de Celebeam (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.83.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Evil Spirits</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfique</span> et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.83.texts.description"] = {
+	"en": "Celebeam ores possess great magical energy. It's used in magic research, transporting and equiping manufactures. I believe that <i>Harlan</i> also use it for energy source. See those Evil Spirits? They are here to absorb the magical power for <i>Harlan</i>. We cannot let them take the magic power back to <i>Harlan</i> and make him more powerfull.",
+	"fr": "Les minerais de Celebeam possèdent une energie magique. Elle est utilisé dans des recherches, dans le trasport et l'equipement d'usines. Je crois que <i>Harlan</i> l'utilise aussi comme source d'énergie. Vous voyez ces Esprits Maléfique? Ils sont ici pour absorber cette magie pour <i>Harlan</i>. Nous ne pouvons pas les laisser ramener cette puissance magique à <i>Harlan</i> et le laisser devenir plus puissant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.83.texts.returnPopupMain"] = {
+	"en": "There is no better thing than ripping those devils of energy.",
+	"fr": "Il n'y a rien de mieux que d'arracher l'énergie de ces démons.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
