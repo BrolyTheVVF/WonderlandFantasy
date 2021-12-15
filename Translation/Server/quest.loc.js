@@ -9348,6 +9348,78 @@ locale["quest.45000.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.45001.name"] = {
+	"en": "Elite Zombie",
+	"fr": "Zombie Elite",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45001.texts.objective"] = {
+	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='25'>Elite Zombies</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Zombies Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45001.texts.description"] = {
+	"en": "How about we start with some zombies?",
+	"fr": "Que dirais tu de commencer par quelques zombies?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45001.texts.returnPopupMain"] = {
+	"en": "Be brave, braver, the bravest!",
+	"fr": "Soit courageux, le plus courageux de tous!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
