@@ -9275,6 +9275,79 @@ locale["quest.40018.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.44000.name"] = {
+	"en": "Enlightened Orb",
+	"fr": "Orbe Illuminé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44000.texts.objective"] = {
+	"en": "You can receive Enlightened Orbs by completing elite daily quests. When you completed enough, go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Vous pouvez obtenir des Orbes Illuminé en terminant des quêtes journalière d'élite. Quand vous en aurez terminer assez, aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44000.texts.description"] = {
+	"en": "Zombies are too simple for you, how about challenging the Skeleton Wizard?",
+	"fr": "Les zombies sont trop facile pour vous, que diriez vous de defier les Mages Squelette?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44000.texts.returnPopupMain"] = {
+	"en": "Even them are too easy for you it seems",
+	"fr": "Même eux semble trop facile pour vous",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.45000.name"] = {
 	"en": "Elite Wizard",
 	"fr": "Mage Elite",
