@@ -9275,6 +9275,78 @@ locale["quest.40018.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.45000.name"] = {
+	"en": "Elite Wizard",
+	"fr": "Mage Elite",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45000.texts.objective"] = {
+	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='25'>Elite Skeleton Wizard</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mages Squelette Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45000.texts.description"] = {
+	"en": "Zombies are too simple for you, how about challenging the Skeleton Wizard?",
+	"fr": "Les zombies sont trop facile pour vous, que diriez vous de defier les Mages Squelette?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45000.texts.returnPopupMain"] = {
+	"en": "Even them are too easy for you it seems",
+	"fr": "Même eux semble trop facile pour vous",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["quest.objective.reachLevel"] = {
