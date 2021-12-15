@@ -8181,7 +8181,7 @@ locale["quest.40003.texts.returnPopupMain"] = {
 };
 
 locale["quest.40004.name"] = {
-	"en": "Funny Bird",
+	"en": "Funny Looking Bird",
 	"fr": "Drôle d'Oiseau",
 	"es": "",
 	"ch": "",
@@ -8217,8 +8217,8 @@ locale["quest.40004.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40004.texts.description"] = {
-	"en": "...",
-	"fr": "...",
+	"en": "They do look so funny. Hahahahaha! You can't stop laughing if you saw them.<br><br>Those pitiful Snaketail Roosters are so cursed to be looking like that. You should free them of their curse.",
+	"fr": "Ils ont l'air si drôles. Hahahahaha ! Vous ne pouvez pas arrêter de rire quand vous les voyez.<br><br>Ces pitoyables coqs à queue de serpent sont tellement maudits de ressembler à ça. Vous devriez les libérer de leur malédiction.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8227,7 +8227,7 @@ locale["quest.40004.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "...",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8235,8 +8235,8 @@ locale["quest.40004.texts.description"] = {
 	"id": ""
 };
 locale["quest.40004.texts.returnPopupMain"] = {
-	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"en": "I wish they become real chicken in their next life...",
+	"fr": "Je souhaite qu'ils deviennent de vrais poulets dans leur prochaine vie...",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8245,7 +8245,7 @@ locale["quest.40004.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Dọn sách lũ ác quái là nhiệm vụ của mọi người canh giữ.",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
