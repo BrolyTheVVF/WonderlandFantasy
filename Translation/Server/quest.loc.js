@@ -9295,7 +9295,7 @@ locale["quest.44000.name"] = {
 };
 locale["quest.44000.texts.objective"] = {
 	"en": "You can receive Enlightened Orbs by completing elite daily quests. When you completed enough, go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Vous pouvez obtenir des Orbes Illuminé en terminant des quêtes journalière d'élite. Quand vous en aurez terminer assez, aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Vous pouvez obtenir des Orbes Illuminés en terminant des quêtes journalière d'élite. Quand vous en aurez terminer assez, aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9312,8 +9312,8 @@ locale["quest.44000.texts.objective"] = {
 	"id": ""
 };
 locale["quest.44000.texts.description"] = {
-	"en": "Zombies are too simple for you, how about challenging the Skeleton Wizard?",
-	"fr": "Les zombies sont trop facile pour vous, que diriez vous de defier les Mages Squelette?",
+	"en": "You need to train your body every day. Elite Hall is a good place for you to train. Receive the quests and challenge some elite monsters. You'll get an Enlightened Orb when completing the quest, and with enough of them, you'll get Bur's Blessing.",
+	"fr": "Vous devez entraîner votre corps tous les jours. Le Hall d'Élite est un bon endroit pour vous entraîner. Recevez les quêtes et défiez des monstres d'élite. Vous obtiendrez un Orbe Illuminé à la fin de la quête, et avec suffisamment d'entre eux, vous obtiendrez la Bénédiction de Bur.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9330,8 +9330,8 @@ locale["quest.44000.texts.description"] = {
 	"id": ""
 };
 locale["quest.44000.texts.returnPopupMain"] = {
-	"en": "Even them are too easy for you it seems",
-	"fr": "Même eux semble trop facile pour vous",
+	"en": "It's not easy to get Enlightened Orb?",
+	"fr": "Ce n'est pas facile d'obtenir des Orbes Illuminés?",
 	"es": "",
 	"ch": "",
 	"kr": "",
