@@ -2806,7 +2806,24 @@ locale["npc.99999999.title"] = {
 	"id": ""
 };
 
-
+locale["npc.100026.interact.GET_DAILY_BUR_QUEST"] = {
+	"en": "Get Blessing Quests",
+	"fr": "Obtenez les quêtes de Bénédiction",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100029.interact.GOTO_SLIME_KGDM"] = {
 	"en": "Enter Slime Kingdom",
 	"fr": "Entrer dans le Royaume des Slimes",
