@@ -9367,8 +9367,8 @@ locale["quest.45001.name"] = {
 	"id": ""
 };
 locale["quest.45001.texts.objective"] = {
-	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='25'>Elite Zombies</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Zombies Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='26'>Elite Zombies</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9405,6 +9405,152 @@ locale["quest.45001.texts.description"] = {
 locale["quest.45001.texts.returnPopupMain"] = {
 	"en": "Be brave, braver, the bravest!",
 	"fr": "Soit courageux, le plus courageux de tous!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.45002.name"] = {
+	"en": "Elite Spirit",
+	"fr": "Esprit Elite",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45002.texts.objective"] = {
+	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Elite Spirits</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45002.texts.description"] = {
+	"en": "Seeing how you did well with those wizards, you surely can defeat some Evil Spirits right?",
+	"fr": "Vu comme vous avez réussi avec ces mages, vous pourez sûrement vaincre certains Esprits Maléfique, n'est-ce pas?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45002.texts.returnPopupMain"] = {
+	"en": "Those spirits stood no chances!",
+	"fr": "Ces esprits n'avez aucune chance!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.45003.name"] = {
+	"en": "Elite Wax Zombie",
+	"fr": "Zombies de Cire Elite",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45003.texts.objective"] = {
+	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='23'>Elite Wax Zombie</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='23'>Zombies de Cire Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45003.texts.description"] = {
+	"en": "Vicent just created some new Wax Zombies, but those one are more powerfull. Can you take care of them?",
+	"fr": "Vicent viens de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peut tu t'en occuper?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45003.texts.returnPopupMain"] = {
+	"en": "This wasn't an easy task, thanks.",
+	"fr": "Ce n'etait pas une tache facile, merci.",
 	"es": "",
 	"ch": "",
 	"kr": "",
