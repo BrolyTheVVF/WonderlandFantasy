@@ -2817,7 +2817,7 @@ locale["npc.100026.interact.GET_DAILY_BUR_QUEST"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Nhận Nhiệm Vụ Ban Phước",
 	"ar": "",
 	"it": "",
 	"pl": "",
