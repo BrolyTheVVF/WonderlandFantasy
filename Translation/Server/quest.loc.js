@@ -9348,6 +9348,79 @@ locale["quest.44000.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.44001.name"] = {
+	"en": "Celebeam Ressources",
+	"fr": "Ressources de Celebeam",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44001.texts.objective"] = {
+	"en": "Gather some Celebeam Ores and then go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Rassemblez des minerais de Celebeam puis aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44001.texts.description"] = {
+	"en": "Can you contribute to the prosperity of this kingdom and bring us some Celebeam Ores?",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44001.texts.returnPopupMain"] = {
+	"en": "Thanks, it will help a lot!",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.45000.name"] = {
 	"en": "Elite Wizard",
 	"fr": "Mage Elite",
