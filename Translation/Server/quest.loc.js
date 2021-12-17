@@ -9421,6 +9421,79 @@ locale["quest.44001.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.44002.name"] = {
+	"en": "Natural Lives",
+	"fr": "Vies Naturelles",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44002.texts.objective"] = {
+	"en": "Gather some Round Mushrooms and then go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Rassemblez des Champignons Rond puis aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44002.texts.description"] = {
+	"en": "Our alchemists can make potions with thos mushroom, but we always need more. Can you bring us some?",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.44002.texts.returnPopupMain"] = {
+	"en": "These round Mushrooms look really fresh.",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.45000.name"] = {
 	"en": "Elite Wizard",
 	"fr": "Mage Elite",
