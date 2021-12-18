@@ -6674,6 +6674,79 @@ locale["quest.88.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.89.name"] = {
+	"en": "Crisis in Caves (1)",
+	"fr": "Crise dans les Caves (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.89.texts.objective"] = {
+	"en": "Chop off the head of Zombies, then give them to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
+	"fr": "Coupez la tête de zombies, puis donnez les au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.89.texts.description"] = {
+	"en": "The priest in church wants to study the Zombie's flu's impact on the brain.<br><br>Cut the Zombie's head for me and i will find someone to take some sample back to Cain city for the priest.",
+	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Cain pour le prêtre.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.89.texts.returnPopupMain"] = {
+	"en": "You're quick.",
+	"fr": "Vous êtes rapide.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
