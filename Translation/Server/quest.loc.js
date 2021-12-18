@@ -5908,7 +5908,7 @@ locale["quest.78.texts.objective"] = {
 	"id": ""
 };
 locale["quest.78.texts.description"] = {
-	"en": "I learned a lot with Master Kugarn, though i'm not a qualified psychic wizard. I want to impress Master Kugarn, can you please try out this potion on some zombies and tell me chat effect they have on them? By careful, i'm not sure what could result of it.",
+	"en": "I learned a lot with Master Kugarn, though i'm not a qualified psychic wizard. I want to impress Master Kugarn, can you please try out this potion on some zombies and tell me what effect they have on them? Be careful, i'm not sure what could result of it.",
 	"fr": "J'ai beaucoup apris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet de chat qu'ils ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
 	"es": "",
 	"ch": "",
@@ -6439,6 +6439,79 @@ locale["quest.85.texts.description"] = {
 locale["quest.85.texts.returnPopupMain"] = {
 	"en": "Use your EXP Orbs to quickly get EXP.",
 	"fr": "Utilisez vos Orbes d'EXP pour rapidement gagner de l'EXP.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.86.name"] = {
+	"en": "Celebeam Caves (6)",
+	"fr": "Caves de Celebeam (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hang Celebeam (6)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.86.texts.objective"] = {
+	"en": "Go back to the Celebeam Caves and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Retourner aux Caves de Celebeam et aller voir <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.86.texts.description"] = {
+	"en": "Now you can go back to Horay. The situation is still quite tough.",
+	"fr": "Maintenant vous pouvez retourner vois Horay. la situation est toujours compliquée.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.86.texts.returnPopupMain"] = {
+	"en": "You returned just in time.",
+	"fr": "Vous revenez juste a temps.",
 	"es": "",
 	"ch": "",
 	"kr": "",
