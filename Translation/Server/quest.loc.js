@@ -6309,6 +6309,79 @@ locale["quest.83.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.84.name"] = {
+	"en": "Celebeam Caves (4)",
+	"fr": "Caves de Celebeam (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hang Celebeam (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.84.texts.objective"] = {
+	"en": "Find the <span class='text-link' data-target-type='mob' data-target-id='42'>Zombie Chief</span> deep in the caves and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Trouvez le <span class='text-link' data-target-type='mob' data-target-id='42'>Chef Zombie</span> dans les profondeur et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.84.texts.description"] = {
+	"en": "We have weakened the devils. Now it is time to find the origin of the sin. By destroying the origin, we solve the crisis once for all. If we failed, the scourge will go on.",
+	"fr": "Nous avons affaibli les démons. Il est maintenant temps de trouver l'origine de la malédiction. En détruisant l'origine, nous résolvons cette crise une bonne fois pour toutes. Si nous échouons, le fléau continuera.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.84.texts.returnPopupMain"] = {
+	"en": "You made it!",
+	"fr": "Tu as réussit!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
