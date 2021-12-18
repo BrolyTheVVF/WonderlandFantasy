@@ -2455,6 +2455,24 @@ locale["npc.100045.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100046.name"] = {
+	"en": "Missionary Monde",
+	"fr": "Missionnaire Monde",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
