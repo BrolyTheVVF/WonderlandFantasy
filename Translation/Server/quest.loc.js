@@ -6382,6 +6382,79 @@ locale["quest.84.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.85.name"] = {
+	"en": "Celebeam Caves (5)",
+	"fr": "Caves de Celebeam (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hang Celebeam (5)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.85.texts.objective"] = {
+	"en": "Go back to Cain Kingdom and talk to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Retourner dans la ville de Cain, sur la place royale impériale et aller voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.85.texts.description"] = {
+	"en": "You are tough, my friend! However your development is a bit slow. Go back to Cain Kingdom and talk to the quest agent. He will tell you something interesting and help you develop faster.",
+	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au royaume de Caïn et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.85.texts.returnPopupMain"] = {
+	"en": "Use your EXP Orbs to quickly get EXP.",
+	"fr": "Utilisez vos Orbes d'EXP pour rapidement gagner de l'EXP.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
