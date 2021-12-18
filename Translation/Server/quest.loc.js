@@ -6675,8 +6675,8 @@ locale["quest.88.texts.returnPopupMain"] = {
 };
 
 locale["quest.89.name"] = {
-	"en": "Crisis in Caves (1)",
-	"fr": "Crise dans les Caves (1)",
+	"en": "Crisis in Caves (2)",
+	"fr": "Crise dans les Caves (2)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6693,8 +6693,8 @@ locale["quest.89.name"] = {
 	"id": ""
 };
 locale["quest.89.texts.objective"] = {
-	"en": "Chop off the head of Zombies, then give them to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
-	"fr": "Coupez la tête de zombies, puis donnez les au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> and <span class='text-link' data-target-type='mob' data-target-id='25'>Skeleton Wizard</span>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> et des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes</span>, puis parler au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6711,7 +6711,7 @@ locale["quest.89.texts.objective"] = {
 	"id": ""
 };
 locale["quest.89.texts.description"] = {
-	"en": "The priest in church wants to study the Zombie's flu's impact on the brain.<br><br>Cut the Zombie's head for me and i will find someone to take some sample back to Cain city for the priest.",
+	"en": "I do not know why, after you left the Evil Army in Harlan launched a more powerfull attack. We need more people to help defend, we hope you can help us reduce the number of demons",
 	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Cain pour le prêtre.",
 	"es": "",
 	"ch": "",
@@ -6729,8 +6729,81 @@ locale["quest.89.texts.description"] = {
 	"id": ""
 };
 locale["quest.89.texts.returnPopupMain"] = {
-	"en": "You're quick.",
-	"fr": "Vous êtes rapide.",
+	"en": "You're familiar with the work here! I hope more warriors like you can join us.",
+	"fr": "Vous connaissez déjà le travail ici! J'éspère que plus de guerriers comme vous pourrons nous rejoindre.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.90.name"] = {
+	"en": "Crisis in Caves (3)",
+	"fr": "Crise dans les Caves (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.90.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='25'>Skeleton Wizard</span> and <span class='text-link' data-target-type='mob' data-target-id='28'>Evil Spirit</span>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes</span> et des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfiques</span>, puis parler au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.90.texts.description"] = {
+	"en": "More and more evil spirit have swarmed into the mine from another world. Under the cover of the skeleton wizard, they're absorbing Celebeam energy. We must stop them before they take it to <i>Harlan</i>.",
+	"fr": "De plus en plus d'esprits maléfiques ont envahi la mine en provenance d'un autre monde. Sous le couvert de sorciers squelette, ils absorbent l'énergie des Celebeam. Nous devons les arrêter avant qu'ils ne l'emmènent à <i>Harlan</i>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.90.texts.returnPopupMain"] = {
+	"en": "You can't imagine how much demon wants his energy.",
+	"fr": "Vous ne pouvez pas imaginer a quel point le demon veut son energie.",
 	"es": "",
 	"ch": "",
 	"kr": "",
