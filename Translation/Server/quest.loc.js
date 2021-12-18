@@ -6620,8 +6620,8 @@ locale["quest.88.name"] = {
 	"id": ""
 };
 locale["quest.88.texts.objective"] = {
-	"en": "Chop off the head of Zombies, then give them to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
-	"fr": "................................... <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"en": "Chop off the head of Zombies, then give them to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
+	"fr": "Coupez la tête de zombies, puis donnez les au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
