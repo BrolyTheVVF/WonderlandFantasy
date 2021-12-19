@@ -2466,7 +2466,7 @@ locale["npc.100046.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Truyền Giáo Nhân Gian",
 	"ar": "",
 	"it": "",
 	"pl": "",
