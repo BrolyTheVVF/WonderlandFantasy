@@ -759,6 +759,24 @@ locale["npc.41.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.42.name"] = {
+	"en": "Chief Zombie",
+	"fr": "Chef Zombie",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thây Ma Điên Cuồng",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
