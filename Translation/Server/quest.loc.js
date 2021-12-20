@@ -7039,6 +7039,243 @@ locale["quest.93.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.94.name"] = {
+	"en": "Life in Post (2)",
+	"fr": "Vie en Poste (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.94.texts.objective"] = {
+	"en": "Bring the meat of <span class='text-link' data-target-type='mob' data-target-id='32'>Padilla Bears</span> to builder <span class='text-link' data-target-type='npc' data-target-id='100041'>Bricklayer Hawk</span> for lunch, this poor man hasn't eaten meat for a long time and need a good stuffing.",
+	"fr": "Apportez de la viande d'<span class='text-link' data-target-type='mob' data-target-id='32'>Ours Padilla</span> au <span class='text-link' data-target-type='npc' data-target-id='100041'>Faucon maçon</span> pour son déjeuner, ce pauvre homme n'a pas mangé de viande depuis longtemps et a besoin d'une bonne portion de farce.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.94.texts.description"] = {
+	"en": "Good morning, warrior! Puchius said that you're helping us build the outpost. You're a good man. Anyway, i don't think i can wast your kindness, can you help me get some Bear meat? I haven't had a good piece of meat for a few days!",
+	"fr": "Bonjour, guerrier! Puchius a dit que vous nous aidiez à construire l'avant-poste. Tu es un homme bon. Quoi qu'il en soit, je ne pense pas que je puisse gaspiller votre gentillesse, pouvez-vous m'aider à obtenir de la viande d'ours? Je n'ai pas mangé un bon morceau de viande depuis quelques jours!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.94.texts.returnPopupMain"] = {
+	"en": "That's just what i need!",
+	"fr": "C'est exactement ce dont j'avais besoin!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.94.objective.0.name"] = {
+	"en": "Padilla Bear's Meat",
+	"fr": "Viande d'Ours Padilla",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.95.name"] = {
+	"en": "Life in Post (3)",
+	"fr": "Vie en Poste (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.95.texts.objective"] = {
+	"en": "Talk to the <span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span>.",
+	"fr": "Parlez a l'<span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.95.texts.description"] = {
+	"en": "Thank you for your delicious lunch. You're good, Nakro will like you.",
+	"fr": "Merci pour votre délicieux déjeuner. Tu es quelqu'un de bien, Nakro va t'aimer.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.95.texts.returnPopupMain"] = {
+	"en": "Come on, dude, I'm busy!",
+	"fr": "Allez, mec, je suis occupé!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.96.name"] = {
+	"en": "Life in Post (4)",
+	"fr": "Vie en Poste (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.96.texts.objective"] = {
+	"en": "Seems <span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span> hates <span class='text-link' data-target-type='mob' data-target-id='33'>Snaketail Rooster</span>, kill some for him.",
+	"fr": "Im semblerais que l'<span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span> deteste les <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span>, tue en quelques-uns pour lui.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.96.texts.description"] = {
+	"en": "Do not get in my way, I am very busy. If you have free time, please help me take care of the snakes that have the body of a chicken... No matter what it is, i do not like snakes ! ! !",
+	"fr": "Ne me gêne pas, je suis très occupé. Si vous avez du temps libre, aidez-moi à m'occuper des serpents qui ont un corps de poulet... Peu importe la forme qu'ils ont, je déteste pas les serpents ! ! !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.96.texts.returnPopupMain"] = {
+	"en": "My efficiency can be improved if i do not bother with these snakes!",
+	"fr": "Mon efficacité peut être améliorée si je ne me préoccupe pas de ces serpents!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
