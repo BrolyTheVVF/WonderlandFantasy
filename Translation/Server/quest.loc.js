@@ -8078,6 +8078,79 @@ locale["quest.106.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.107.name"] = {
+	"en": "Hylan's Hobby (2)",
+	"fr": "Passe-temps d'Hylan (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.107.texts.objective"] = {
+	"en": "<span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> hopes you can defeat some <span class='text-link' data-target-type='mob' data-target-id='36'>Chocolate Slimes</span>, then she can collect Chocolate Mucus safely.",
+	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> éspère que vous puissiez tuer quelques <span class='text-link' data-target-type='mob' data-target-id='36'>Slime Chocolat</span> pour qu'elle puisse collecter du mucus de chocolat en toute sécurité.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.107.texts.description"] = {
+	"en": "Err, I like chocolate sauce, and I need Mucus of Chocolate Slime. But i cannot beat them. If you help me stun them, it'll be easy for me to collect their sticky delicious Mucus.",
+	"fr": "Err, j'aime la sauce au chocolat, et j'ai besoin de Mucus of Chocolate Slime. Mais je ne peux pas les battre. Si vous m'aidez à les étourdir, il me sera facile de récupérer leur délicieux mucus collant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.107.texts.returnPopupMain"] = {
+	"en": "Thank you... Next time... please come to my home and taste the chocolate I made! Yum-a-dum-dum!",
+	"fr": "Merci... La prochaine fois... s'il vous plaît venez chez moi et goûtez le chocolat que j'ai fait! Miam-a-dum-dum!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
