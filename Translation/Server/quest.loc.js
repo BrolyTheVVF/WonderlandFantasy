@@ -494,7 +494,7 @@ locale["quest.6.name"] = {
 };
 locale["quest.6.texts.objective"] = {
 	"en": "Enter the Gold Shop and get the <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Military Food</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
-	"fr": "Ouvre le magasin et achete la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apporte la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
+	"fr": "Ouvre le magasin et achète la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apporte la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -512,7 +512,7 @@ locale["quest.6.texts.objective"] = {
 };
 locale["quest.6.texts.description"] = {
 	"en": "Batu is the guard captain who protects this town. He is camped just outside the village.The chief sends supplies to his guards everyday. Today the delivery boy was sick and couldn't work. Please buy some food and bring them to Batu.",
-	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'exterieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, acheter de la nourriture et amener là à Batu",
+	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'exterieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, achetez de la nourriture et amenez là à Batu",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -567,7 +567,7 @@ locale["quest.7.name"] = {
 };
 locale["quest.7.texts.objective"] = {
 	"en": "<span class='text-link' data-target-type='npc' data-target-id='100008'>Batu's</span> Wild fruits have been stolen. He asked you to gather more <span class='text-link' data-target-type='interactible' data-target-id='1'>Wild Fruits</span> for him",
-	"fr": "Les fuits sauvages de <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span> ont été volés. Il vous a demander de recolter plus de <span class='text-link' data-target-type='interactible' data-target-id='1'>Fruits Sauvages</span> pour lui",
+	"fr": "Les fruits sauvages de <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span> ont été volés. Il vous a demandé de recolter plus de <span class='text-link' data-target-type='interactible' data-target-id='1'>Fruits Sauvages</span> pour lui",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -676,7 +676,7 @@ locale["quest.8.texts.objective"] = {
 };
 locale["quest.8.texts.description"] = {
 	"en": "The first set of materials can be gathered from Baby Ostrider. Collect the two kinds of materials from Baby Ostriders and report to Hawking",
-	"fr": "Le premier ensemble de matériaux peut être collecté sur les bébé Ostrider. Collecter les 2 types de materiaux sur les bébé Ostrider et faites votre rapport a Hawking",
+	"fr": "Le premier ensemble de matériaux peut être collecté sur les bébé Ostrider. Collectez les 2 types de materiaux sur les bébé Ostrider et faites votre rapport a Hawking",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -731,7 +731,7 @@ locale["quest.9.name"] = {
 };
 locale["quest.9.texts.objective"] = {
 	"en": "The Second set of materials can be collected from <span class='text-link' data-target-type='mob' data-target-id='5'>Prum Bear</span>. Collect the two types of materials and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le second ensemble de materiaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collecter les deux types de materiaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le second ensemble de materiaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de materiaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -804,7 +804,7 @@ locale["quest.10.name"] = {
 };
 locale["quest.10.texts.objective"] = {
 	"en": "The final material can be collected from <span class='text-link' data-target-type='mob' data-target-id='10'>Goblin Thief</span>. Find Goblin's Stick and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le dernier materiaux peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouver le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le dernier materiaux peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -840,7 +840,7 @@ locale["quest.10.texts.description"] = {
 };
 locale["quest.10.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquer votre arme.",
+	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquez votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -877,7 +877,7 @@ locale["quest.11.name"] = {
 };
 locale["quest.11.texts.objective"] = {
 	"en": "Open the <span class='text-link' onclick='game.craft.show();'>Craft Menu</span> and make a weapon using the materials. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Ouvrez le <span class='text-link' onclick='game.craft.show();'>Menu de Fabrication</span> et créer une arme en utilisant les materiaux. Ensuite, faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Ouvrez le <span class='text-link' onclick='game.craft.show();'>Menu de Fabrication</span> et créer une arme en utilisant les materiaux. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -895,7 +895,7 @@ locale["quest.11.texts.objective"] = {
 };
 locale["quest.11.texts.description"] = {
 	"en": "All the materials are ready. Now open \"Craft\" menu and start crafting a weapon. Don't pick a weapon that's not for your class.",
-	"fr": "Tout les materiaux sont prêt. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
+	"fr": "Tous les materiaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -968,7 +968,7 @@ locale["quest.12.name"] = {
 };
 locale["quest.12.texts.objective"] = {
 	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> in Beast Woods.",
-	"fr": "Parler à <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> dans les Bois de la Bête.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> dans les Bois de la Bête.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1004,7 +1004,7 @@ locale["quest.12.texts.description"] = {
 };
 locale["quest.12.texts.returnPopupMain"] = {
 	"en": "You show great talent, kid!",
-	"fr": "Tu démontre un grand talent, gamin!",
+	"fr": "Tu démontres un grand talent, gamin!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1041,7 +1041,7 @@ locale["quest.13.name"] = {
 };
 locale["quest.13.texts.objective"] = {
 	"en": "Use the world channel and let the world know that you are here! Then, say goodbye to <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span>.",
-	"fr": "Utiliser la canal monde et laisser savoir que vous êtes ici! Ensuite, dites au revoir à <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span>.",
+	"fr": "Utilisez le canal monde et laisser savoir que vous êtes ici! Ensuite, dites au revoir à <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1059,7 +1059,7 @@ locale["quest.13.texts.objective"] = {
 };
 locale["quest.13.texts.description"] = {
 	"en": "Garnias mentionned about you.<br>Honestly... you aren't as tough as I expected. It doesn't matter, because you have a talent, and you will grow up. However, before leaving, say goodbye to folks.",
-	"fr": "Garnias m'a parler de vous.<br>Honnêtement... tu n'es pas aussi costaud que ce à quoi je m'attendais. Ça n'a aucune importance, parce que tu as un talent, et tu vas le développer. Cependant, avant de partir, dites au revoir aux gens.",
+	"fr": "Garnias m'a parlé de vous.<br>Honnêtement... tu n'es pas aussi costaud que ce à quoi je m'attendais. Ça n'a aucune importance, parce que tu as un talent, et tu vas le développer. Cependant, avant de partir, dites au revoir aux gens.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1095,7 +1095,7 @@ locale["quest.13.texts.returnPopupMain"] = {
 };
 locale["quest.13.objective.0.name"] = {
 	"en": "Speak in World Channel",
-	"fr": "Parler dans le canal monde",
+	"fr": "Parlez dans le canal monde",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1132,7 +1132,7 @@ locale["quest.14.name"] = {
 };
 locale["quest.14.texts.objective"] = {
 	"en": "Hit level 10, and go to Lahm Coast to talk to <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>",
-	"fr": "Atteindre le niveau 10, aller aux Rives de Lahm, et parler à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
+	"fr": "Atteindre le niveau 10, allez aux Rives de Lahm, et parlez à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1150,7 +1150,7 @@ locale["quest.14.texts.objective"] = {
 };
 locale["quest.14.texts.description"] = {
 	"en": "Now you can set out from Treefolk Town. Knight Keros is in 'Lahm Coast' to the south fighting those Nagarians. He needs some help.<br>Keros is famous for his bad temper. Watch your mouth!",
-	"fr": "Maintenant, vous pouvez quitter la Ville de l'Arbre Monde. le chevalier Keros est dans un campement sur les 'Rives de Lahm' au sud, combatant ces Nagas. Il a besoin d'aide.<br>Keros est connu pour sa mauvaise humeur. Surveille ton langage!",
+	"fr": "Maintenant, vous pouvez quitter la Ville de l'Arbre Monde. le chevalier Keros est dans un campement sur les 'Rives de Lahm' au sud, combattant ces Nagas. Il a besoin d'aide.<br>Keros est connu pour sa mauvaise humeur. Surveille ton langage!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1205,7 +1205,7 @@ locale["quest.15.name"] = {
 };
 locale["quest.15.texts.objective"] = {
 	"en": "Investigate on the beach. See if the Nagarians have left any Dubious Letter, and then report to <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>",
-	"fr": "Enquêtez sur la plage. Voyez si les Nagas ont laissé une lettre douteuse, et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
+	"fr": "Enquêtez sur la plage. Voyez si les Nagas ont laissé une lettre douteuse, et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1223,7 +1223,7 @@ locale["quest.15.texts.objective"] = {
 };
 locale["quest.15.texts.description"] = {
 	"en": "Don't ask me where do those damn fish come from. I don't care! What i really want to do is to kick them back into the water.",
-	"fr": "Ne me demandez pas d'où viennent ces satanés poissons. Je m'en fiche! Ce que je veut vraiment faire, c'est de les repousser dans l'eau.",
+	"fr": "Ne me demandez pas d'où viennent ces satanés poissons. Je m'en fiche! Ce que je veux vraiment faire, c'est de les repousser dans l'eau.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1442,7 +1442,7 @@ locale["quest.18.name"] = {
 };
 locale["quest.18.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='12'>Nagar Wizard</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='11'>Mages Nagar</span> et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='11'>Mages Nagar</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1515,7 +1515,7 @@ locale["quest.19.name"] = {
 };
 locale["quest.19.texts.objective"] = {
 	"en": "Bring some materials to the alchemist <span class='text-link' data-target-type='npc' data-target-id='100015'>Carter</span>. He will teach you some alchemy skills. He needs Four-leafed flower and Honey. You can acquire them by killing bees.",
-	"fr": "Amène des matériaux à l'alchimiste <span class='text-link' data-target-type='npc' data-target-id='100015'>Carter</span>. Il te montrera des techniques d'alchimie. Il a besoin de trèfle à quatre feuilles et de miel. Vous en obtiendrez en tuant des abeilles.",
+	"fr": "Amenez des matériaux à l'alchimiste <span class='text-link' data-target-type='npc' data-target-id='100015'>Carter</span>. Il te montrera des techniques d'alchimie. Il a besoin de trèfle à quatre feuilles et de miel. Vous en obtiendrez en tuant des abeilles.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1752,7 +1752,7 @@ locale["quest.22.texts.objective"] = {
 };
 locale["quest.22.texts.description"] = {
 	"en": "The war here is turning in our favor because of your endeavor. You have shown the power and the capability of a Warrior! I will introduce you to the king. Head for the Cain Kingdom via Sacred Wilderness. The gravekeeper there is my old friend. Please salute him.",
-	"fr": "La guerre ici tourne en notre faveur grace à vos efforts. Vous avez démontré votre puissance et vos grandes capacités! Je vais vous présenter au roi. Allez en direction du Royaume de Kane, en passant par la Jungle Sacrée. Le Gardien du Cimetière est un viel ami. Passez lui le bonjour.",
+	"fr": "La guerre ici tourne en notre faveur grace à vos efforts. Vous avez démontré votre puissance et vos grandes capacités! Je vais vous présenter au roi. Allez en direction du Royaume de Kane, en passant par la Jungle Sacrée. Le Gardien du Cimetière est un vieil ami. Passez lui le bonjour.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1770,7 +1770,7 @@ locale["quest.22.texts.description"] = {
 };
 locale["quest.22.texts.returnPopupMain"] = {
 	"en": "The people believed in Bur, and regarded the Bishop as the herald of the God. After reading the mage's magic is a threat, Bishop Geoff threw them in the prison as herectics. As a captain of the knight order, Spiker had to follow the Bishop. Finally, he realised that the Bishop was insane and the people of Vanderbot were in turmoil.",
-	"fr": "Les gens croient en 'Waen', et considérait l'évêque comme le messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
+	"fr": "Les gens croient en 'Waen', et considérait l'Évêque comme le messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1807,7 +1807,7 @@ locale["quest.23.name"] = {
 };
 locale["quest.23.texts.objective"] = {
 	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> and prepare a gift for his son. Find some Sweet Honney from <span class='text-link' data-target-type='mob' data-target-id='16'>Bees</span>.",
-	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> et preparer un cadeau pour son fils. Trouvez du Miel doux sur des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeilles</span>.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> et preparez un cadeau pour son fils. Trouvez du Miel doux sur des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeilles</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1898,7 +1898,7 @@ locale["quest.24.name"] = {
 };
 locale["quest.24.texts.objective"] = {
 	"en": "You have helped <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Now go to Cain Kingdom and visit the <span class='text-link' data-target-type='npc' data-target-id='100024'>Old King</span>.",
-	"fr": "Vous avez aidé <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Maintenant, allez à la Cathédrale et parler au <span class='text-link' data-target-type='npc' data-target-id='100024'>Vieux Roi</span>.",
+	"fr": "Vous avez aidé <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Maintenant, allez à la Cathédrale et parlez au <span class='text-link' data-target-type='npc' data-target-id='100024'>Vieux Roi</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1916,7 +1916,7 @@ locale["quest.24.texts.objective"] = {
 };
 locale["quest.24.texts.description"] = {
 	"en": "I can manage the rest. Don't forget to visit the King.",
-	"fr": "Je peut m'occuper du reste. N'oubliez pas de rendre visite au Roi.",
+	"fr": "Je peux m'occuper du reste. N'oubliez pas de rendre visite au Roi.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1934,7 +1934,7 @@ locale["quest.24.texts.description"] = {
 };
 locale["quest.24.texts.returnPopupMain"] = {
 	"en": "Ha, you must be the new officer! Keros has mentioned you.",
-	"fr": "Ha, vous devez être le nouvel officier! Keros m'a parler de vous.",
+	"fr": "Ha, vous devez être le nouvel officier! Keros m'a parlé de vous.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1989,7 +1989,7 @@ locale["quest.25.texts.objective"] = {
 };
 locale["quest.25.texts.description"] = {
 	"en": "Welcome to Cain dear adventurer. The Kingdom needs more warriors like you. You have done an exellent job so far, however the tasks might become way more difficult from now on, if you are ready to face trouble, visit the Bishop.",
-	"fr": "Bienvenue a Kane cher aventurier. Le royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile a partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
+	"fr": "Bienvenue à Kane cher aventurier. Le royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile a partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2007,7 +2007,7 @@ locale["quest.25.texts.description"] = {
 };
 locale["quest.25.texts.returnPopupMain"] = {
 	"en": "First, let me tell you about the war between the gods and the devils.",
-	"fr": "Tout d'abord, laissez-moi vous parler de la guerre entre les dieux et les démons.",
+	"fr": "Tout d'abord, laissez-moi vous parler de la guerre entre les Dieux et les Démons.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2044,7 +2044,7 @@ locale["quest.26.name"] = {
 };
 locale["quest.26.texts.objective"] = {
 	"en": "Listen to the <span class='text-link' data-target-type='npc' data-target-id='100025'>Bishop</span>.",
-	"fr": "Ecouter l'<span class='text-link' data-target-type='npc' data-target-id='100025'>Évêque</span>.",
+	"fr": "Ecoutez l'<span class='text-link' data-target-type='npc' data-target-id='100025'>Évêque</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2208,7 +2208,7 @@ locale["quest.28.texts.objective"] = {
 };
 locale["quest.28.texts.description"] = {
 	"en": "You have been in the kingdom for quite a while. Why not get familiar with it a bit. You better start with the grocer.",
-	"fr": "Vous êtes dans le royaume depuis un bon bout de temps. Pourquoi ne pas vous y familiariser un peu. Vous feriez mieux de commencer par trouver l'épicière.",
+	"fr": "Vous êtes dans le Royaume depuis un bon bout de temps. Pourquoi ne pas vous y familiariser un peu. Vous feriez mieux de commencer par trouver l'épicière.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2336,7 +2336,7 @@ locale["quest.32.name"] = {
 };
 locale["quest.32.texts.objective"] = {
 	"en": "Reach Lv. 15, and visit <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> in Sacred Wilderness.",
-	"fr": "Atteindre le Nv. 15, puis rendez visite a <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> dans la Jungle Sacrée.",
+	"fr": "Atteindre le Nv. 15, puis rendez visite à <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> dans la Jungle Sacrée.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2354,7 +2354,7 @@ locale["quest.32.texts.objective"] = {
 };
 locale["quest.32.texts.description"] = {
 	"en": "Do you know about the accident in the Celebeam Cave? It was tragic. A lot of young men lost their lives, including the kids of one of my friends. He is so sad now. I wish you could go visit him. He is guarding the king's grave in the Sacred Wilderness.",
-	"fr": "Avez-vous entendu parler de l'incident dans les Caves de Celebeam? C'etait tragique. Beaucoup de jeunes gens y ont perdu la vie, et parmis eux le fils de l'un de mes amis. Il est si triste maintenant. J'esperais que vous pourriez aller lui rendre visite. Il garde la tombe du roi dans la Jungle Sacrée.",
+	"fr": "Avez-vous entendu parler de l'incident dans les Caves de Celebeam? C'était tragique. Beaucoup de jeunes gens y ont perdu la vie, et parmis eux le fils de l'un de mes amis. Il est si triste maintenant. J'espérais que vous pourriez aller lui rendre visite. Il garde la tombe du roi dans la Jungle Sacrée.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2409,7 +2409,7 @@ locale["quest.33.name"] = {
 };
 locale["quest.33.texts.objective"] = {
 	"en": "Frole's son was killed in the accident in Celebeam Cave. The sad Gravekeeper wishes that Kugarn at the Oracle Lake can ressurect his son. Bring some powder dropped by <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Le fils de Frole à été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Le fils de Frole a été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2445,7 +2445,7 @@ locale["quest.33.texts.description"] = {
 };
 locale["quest.33.texts.returnPopupMain"] = {
 	"en": "Sorry for the loss, kid. I am really sorry.",
-	"fr": "Je suis profondément désolés du deuil qui t'afflige, gamin. Je suis vraiment désolé.",
+	"fr": "Je suis profondément désolé du deuil qui t'afflige, gamin. Je suis vraiment désolé.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2609,7 +2609,7 @@ locale["quest.35.texts.objective"] = {
 };
 locale["quest.35.texts.description"] = {
 	"en": "This forest was a source of the magic power for the Cain Kingdom. Creatures with magical powers can be found everywhere, and they can be used to cast the spell. I need some Beetle's Tough Shell.",
-	"fr": "Cette forêt etait la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille de scarabée dure.",
+	"fr": "Cette forêt était la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille de scarabée dure.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2682,7 +2682,7 @@ locale["quest.36.name"] = {
 };
 locale["quest.36.texts.objective"] = {
 	"en": "Defeat the powerful <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>, and aquire it's horn. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>You can use your Gold Touch to immediately kill the monster. Select the monster, and click on the Gold Touch Icon.",
-	"fr": "Tuez le puissant <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis recolter sa corne. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>. Vous pouvez utiliser votre Touché d'Or pour tuer immédiatement le monstre. Sélectionnez un monstre, puis cliquez sure l'icône du Touché d'Or.",
+	"fr": "Tuez le puissant <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis recoltez sa corne. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>. Vous pouvez utiliser votre Touché d'Or pour tuer immédiatement le monstre. Sélectionnez un monstre, puis cliquez sure l'icône du Touché d'Or.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2791,7 +2791,7 @@ locale["quest.37.texts.objective"] = {
 };
 locale["quest.37.texts.description"] = {
 	"en": "Everything is prepared, and i will start my ritual. Go to the altar and pray. It can bring James back.",
-	"fr": "Tout est pret, je vais démarrer le rituel. Allez à l'autel et priez. Cela pourrait ramener James à la vie.",
+	"fr": "Tout est prêt, je vais démarrer le rituel. Allez à l'autel et priez. Cela pourrait ramener James à la vie.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2991,7 +2991,7 @@ locale["quest.40.name"] = {
 };
 locale["quest.40.texts.objective"] = {
 	"en": "Tell <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> that his son has been resurrected, and became an apprentice of Kugarn.",
-	"fr": "Allez prévenir <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> que son fils à été ressuscité, et qu'il est devenu l'apprenti de Kugarn.",
+	"fr": "Allez prévenir <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> que son fils a été ressuscité, et qu'il est devenu l'apprenti de Kugarn.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3137,7 +3137,7 @@ locale["quest.42.name"] = {
 };
 locale["quest.42.texts.objective"] = {
 	"en": "Talk to the <span class='text-link' data-target-type='npc' data-target-id='100032'>Recruit Drillmaster</span> in Cain Kingdom.",
-	"fr": "Parler a l'<span class='text-link' data-target-type='npc' data-target-id='100032'>Instructeur Millitaire</span> sur la Place Royale.",
+	"fr": "Parlez a l'<span class='text-link' data-target-type='npc' data-target-id='100032'>Instructeur Millitaire</span> sur la Place Royale.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3173,7 +3173,7 @@ locale["quest.42.texts.description"] = {
 };
 locale["quest.42.texts.returnPopupMain"] = {
 	"en": "Today you have a new lesson to learn. It will make your journey easier.",
-	"fr": "Aujourd'hui, vous avez une nouvelle leçon à apprendre. Ca rendras votre voyage plus facile.",
+	"fr": "Aujourd'hui, vous avez une nouvelle leçon à apprendre. Ça rendra votre voyage plus facile.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3283,7 +3283,7 @@ locale["quest.44.name"] = {
 };
 locale["quest.44.texts.objective"] = {
 	"en": "In Cain Kingdom, find and talk with the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Dans la Place Royale Impériale, trouvez et parler a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Dans la Place Royale Impériale, trouvez et parlez à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3319,7 +3319,7 @@ locale["quest.44.texts.description"] = {
 };
 locale["quest.44.texts.returnPopupMain"] = {
 	"en": "My new friend, I'm busy... You can help me? great!",
-	"fr": "Mon nouvel amis, je suis occupé... Tu peut m'aider? Génial!",
+	"fr": "Mon nouvel ami, je suis occupé... Tu peux m'aider? Génial!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3447,7 +3447,7 @@ locale["quest.46.name"] = {
 };
 locale["quest.46.texts.objective"] = {
 	"en": "Find the <span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentice Monster Hunter</span> in Chaotic Hills.",
-	"fr": "Trouver l'<span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentis Chausseur de Monstre</span> dans les Collines Chaotiques.",
+	"fr": "Trouvez l'<span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentis Chausseur de Monstre</span> dans les Collines Chaotiques.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3538,7 +3538,7 @@ locale["quest.47.texts.objective"] = {
 };
 locale["quest.47.texts.description"] = {
 	"en": "Hey, stop! It's dangerous if you move further forward, this place has been blocked... Wait, I know you, you are the warrior recognized by the king.<br><br>Ha-ha, I am the trainee of the demon hunter. Hunting demons is my job, but I got overwhelmed by the current situation.",
-	"fr": "Hey, stop! C'est dangereux si tu va plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
+	"fr": "Hey, stop! C'est dangereux si tu vas plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3556,7 +3556,7 @@ locale["quest.47.texts.description"] = {
 };
 locale["quest.47.texts.returnPopupMain"] = {
 	"en": "You're my idol, I didn't know how to deal with them. I think it has something to do with the fact that people in Cain are blessed by Bur.",
-	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela a quelque chose à voir avec le fait que les habitants de Cain sont bénis par Bur.",
+	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela a quelque chose à voir avec le fait que les habitants de Kane sont bénis par Bur.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3611,7 +3611,7 @@ locale["quest.48.texts.objective"] = {
 };
 locale["quest.48.texts.description"] = {
 	"en": "I think you are aware what trouble the knights of Cain have encountered in the Celebeam Caves. Now, Knight Horay is taking care of the mess in the cave. You can go help him.",
-	"fr": "Je pense que vous êtes au courant des problèmes que les chevaliers de Caïn ont rencontrés dans les Caves de Celebeam. Maintenant, le chevalier Horay s'occupe du désordre dans les Caves. Tu peux aller l'aider.",
+	"fr": "Je pense que vous êtes au courant des problèmes que les chevaliers de Kane ont rencontrés dans les Caves de Celebeam. Maintenant, le chevalier Horay s'occupe du désordre dans les Caves. Tu peux aller l'aider.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3684,7 +3684,7 @@ locale["quest.49.texts.objective"] = {
 };
 locale["quest.49.texts.description"] = {
 	"en": "We have found weird creatures in the caves, a wax monsters. We are not sure if they are part of the demon legion. Now, i wish you can go scout a bit. Found out what those monsters are!",
-	"fr": "Nous avons trouvé des créatures étrange dans les grottes, des monstres de cire. Nous ne savons pas s'ils font partie de la légion des démons. Maintenant, j'aimerais que vous puissiez faire un peu de repérage. Découvrez ce que sont ces monstres !",
+	"fr": "Nous avons trouvé des créatures étranges dans les grottes, des monstres de cire. Nous ne savons pas s'ils font partie de la légion des démons. Maintenant, j'aimerais que vous puissiez faire un peu de repérage. Découvrez ce que sont ces monstres !",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3702,7 +3702,7 @@ locale["quest.49.texts.description"] = {
 };
 locale["quest.49.texts.returnPopupMain"] = {
 	"en": "You are more helpfull than I thought.",
-	"fr": "Vous êtes plus utile que ce que je pensait.",
+	"fr": "Vous êtes plus utile que ce que je pensais.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3812,7 +3812,7 @@ locale["quest.51.name"] = {
 };
 locale["quest.51.texts.objective"] = {
 	"en": "Remove Poacher's Traps, then report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Retirer le piège du braconnier, et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Retirez le piège du braconnier, et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4158,7 +4158,7 @@ locale["quest.55.texts.objective"] = {
 };
 locale["quest.55.texts.description"] = {
 	"en": "According to the latest news, those crafty bandits locked the treasure in their chest and set guardians around it. I think you can get the key from the Treasure Watchers.",
-	"fr": "D'apres de recentes informations, ces bandits rusés ont enfermé le trésor dans leur coffre et l'ont entouré de gardiens. Je pense que vous pouvez obtenir la clé auprès des Gardiens des Trésors.",
+	"fr": "D'après de recentes informations, ces bandits rusés ont enfermé le trésor dans leur coffre et l'ont entouré de gardiens. Je pense que vous pouvez obtenir la clé auprès des Gardiens des Trésors.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4468,7 +4468,7 @@ locale["quest.59.name"] = {
 };
 locale["quest.59.texts.objective"] = {
 	"en": "Find and talk to <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
-	"fr": "Trouver et parler à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"fr": "Trouvez et parlez à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4887,7 +4887,7 @@ locale["quest.64.texts.description"] = {
 };
 locale["quest.64.texts.returnPopupMain"] = {
 	"en": "Remember, you do this just to free their tortured souls.",
-	"fr": "Souviens-toi, tu fait ça pour libérer leurs âmes torturées.",
+	"fr": "Souviens-toi, tu fais ça pour libérer leurs âmes torturées.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5051,7 +5051,7 @@ locale["quest.66.texts.description"] = {
 };
 locale["quest.66.texts.returnPopupMain"] = {
 	"en": "Do I smell fear on you? There's no turning back now!",
-	"fr": "Ect-ce de la peur que je sent? Vous ne pouvez pas revenir en arrière maintenant!",
+	"fr": "Est-ce de la peur que je sent? Vous ne pouvez pas revenir en arrière maintenant!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5307,7 +5307,7 @@ locale["quest.70.name"] = {
 };
 locale["quest.70.texts.objective"] = {
 	"en": "Go to the Elite Hall of Celebeam Caves, find <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
-	"fr": "Aller dans la salle Elite des Caves de Celebeam, puis trouver <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
+	"fr": "Allez dans la salle Elite des Caves de Celebeam, puis trouvez <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5562,7 +5562,7 @@ locale["quest.73.texts.description"] = {
 };
 locale["quest.73.texts.returnPopupMain"] = {
 	"en": "Help? Sure!",
-	"fr": "De l'aide? Bien sur!",
+	"fr": "De l'aide? Bien sûr!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5599,7 +5599,7 @@ locale["quest.74.name"] = {
 };
 locale["quest.74.texts.objective"] = {
 	"en": "Bring 2 cracked celebeam of each color to <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> the blacksmith.",
-	"fr": "Apporter 2 celebeam Fissuré a <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> le forgeron.",
+	"fr": "Apportez 2 celebeam Fissuré à <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> le forgeron.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5672,7 +5672,7 @@ locale["quest.75.name"] = {
 };
 locale["quest.75.texts.objective"] = {
 	"en": "Go to Cain Kingdom, and visit the merchant <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, see if she needs help.",
-	"fr": "Aller a Cain, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
+	"fr": "Allez a Cain, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5745,7 +5745,7 @@ locale["quest.76.name"] = {
 };
 locale["quest.76.texts.objective"] = {
 	"en": "Bring a <span class='text-link' data-target-type='item' data-target-id='1002'>Rainbow Cloak</span> to <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span> in Cain Kingdom.",
-	"fr": "Apporter une <span class='text-link' data-target-type='item' data-target-id='1002'>Cape Arc-en-ciel</span> <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span> en ville.",
+	"fr": "Apportez une <span class='text-link' data-target-type='item' data-target-id='1002'>Cape Arc-en-ciel</span> <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span> en ville.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5818,7 +5818,7 @@ locale["quest.77.name"] = {
 };
 locale["quest.77.texts.objective"] = {
 	"en": "Give the cloak made by <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span> to <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> who is investigating in Celebeam Caves.<br><br><i>if you lost the cloak, just delete this character, make a new one and start the game all over again.</i>",
-	"fr": "Apporter le manteau fait par <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span> à <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> qui enquête dans les Caves de Celebeam.<br><br><i>Si vous perdez la cape, supprimez votre personnage, créez un nouveau, et recommencez depuis le début.</i>",
+	"fr": "Apportez le manteau fait par <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span> à <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> qui enquête dans les Caves de Celebeam.<br><br><i>Si vous perdez la cape, supprimez votre personnage, créez un nouveau, et recommencez depuis le début.</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5836,7 +5836,7 @@ locale["quest.77.texts.objective"] = {
 };
 locale["quest.77.texts.description"] = {
 	"en": "The guards are trying to kick me out of my stall since my husband died. I can't go out and deliver it myself. Can you bring the cloak to James and check if he's alright?",
-	"fr": "Les guardes essayez de m'expluser de mon étal depuis que mon maris est mort. Je ne peut pas partir et le livrer moi même. Pouvez vous apporter le manteau a James et verifier qu'il va bien?",
+	"fr": "Les guardes essaye de m'expluser de mon étal depuis que mon mari est mort. Je ne peut pas partir et le livrer moi même. Pouvezvous apporter le manteau à James et vérifier qu'il va bien?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5854,7 +5854,7 @@ locale["quest.77.texts.description"] = {
 };
 locale["quest.77.texts.returnPopupMain"] = {
 	"en": "My mom sent this for me? It's so warm and soft, it has the feeling of home...",
-	"fr": "Ma mère envoie ça, pour moi? C'est si chaud et doux, ca me rappel ma maison...",
+	"fr": "Ma mère envoie ça, pour moi? C'est si chaud et doux, ça me rappel ma maison...",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5891,7 +5891,7 @@ locale["quest.78.name"] = {
 };
 locale["quest.78.texts.objective"] = {
 	"en": "Go to Celebeam Cave, use <span class='text-link' data-target-type='item' data-target-id='20003'>Purity Potions</span> on Zombies, if it gets worse, just get rid of them!<br><br>After completing this, report to <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> in the Caves.<br><br><i>if you lost the purity potions, you can buy them in the personal shop.</i>",
-	"fr": "Aller dans les Caves de Celebeam et utilisez des <span class='text-link' data-target-type='item' data-target-id='20003'>Potions de Pureté</span> sur des Zombies, si leur etat empire, tuez les!<br><br>Quand vous aurez fini, faîtes votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> dans les Caves.<br><br><i>Si vous perdez vos potions de pureté, vous pouvez en racheter dans le magasin personel.</i>",
+	"fr": "Allez dans les Caves de Celebeam et utilisez des <span class='text-link' data-target-type='item' data-target-id='20003'>Potions de Pureté</span> sur des Zombies, si leur etat empire, tuez les!<br><br>Quand vous aurez fini, faîtes votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> dans les Caves.<br><br><i>Si vous perdez vos potions de pureté, vous pouvez en racheter dans le magasin personel.</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5909,7 +5909,7 @@ locale["quest.78.texts.objective"] = {
 };
 locale["quest.78.texts.description"] = {
 	"en": "I learned a lot with Master Kugarn, though i'm not a qualified psychic wizard. I want to impress Master Kugarn, can you please try out this potion on some zombies and tell me what effect they have on them? Be careful, i'm not sure what could result of it.",
-	"fr": "J'ai beaucoup apris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet de chat qu'ils ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
+	"fr": "J'ai beaucoup apris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet qu'elles ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6037,7 +6037,7 @@ locale["quest.80.name"] = {
 };
 locale["quest.80.texts.objective"] = {
 	"en": "After reaching level 26, talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Apres avoir atteint le niveau 26, parlez a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Après avoir atteint le niveau 26, parlez a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6146,7 +6146,7 @@ locale["quest.81.texts.description"] = {
 };
 locale["quest.81.texts.returnPopupMain"] = {
 	"en": "Good, you're here.",
-	"fr": "Bien, vous voila.",
+	"fr": "Bien, vous voilà.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6219,7 +6219,7 @@ locale["quest.82.texts.description"] = {
 };
 locale["quest.82.texts.returnPopupMain"] = {
 	"en": "My brothers. You can rest in peace now.",
-	"fr": "Mes freres. Vous pouvez reposer en paix maintenant.",
+	"fr": "Mes frères. Vous pouvez reposer en paix maintenant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6365,7 +6365,7 @@ locale["quest.84.texts.description"] = {
 };
 locale["quest.84.texts.returnPopupMain"] = {
 	"en": "You made it!",
-	"fr": "Tu as réussit!",
+	"fr": "Tu as réussi!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6402,7 +6402,7 @@ locale["quest.85.name"] = {
 };
 locale["quest.85.texts.objective"] = {
 	"en": "Go back to Cain Kingdom and talk to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Retourner dans la ville de Cain, sur la place royale impériale et aller voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
+	"fr": "Retournez dans la ville de Cain, sur la Place Royale Impériale et allez voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6420,7 +6420,7 @@ locale["quest.85.texts.objective"] = {
 };
 locale["quest.85.texts.description"] = {
 	"en": "You are tough, my friend! However your development is a bit slow. Go back to Cain Kingdom and talk to the quest agent. He will tell you something interesting and help you develop faster.",
-	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au royaume de Caïn et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
+	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au royaume de Kane et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6475,7 +6475,7 @@ locale["quest.86.name"] = {
 };
 locale["quest.86.texts.objective"] = {
 	"en": "Go back to the Celebeam Caves and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
-	"fr": "Retourner aux Caves de Celebeam et aller voir <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Retournez aux Caves de Celebeam et allez voir <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6493,7 +6493,7 @@ locale["quest.86.texts.objective"] = {
 };
 locale["quest.86.texts.description"] = {
 	"en": "Now you can go back to Horay. The situation is still quite tough.",
-	"fr": "Maintenant vous pouvez retourner vois Horay. la situation est toujours compliquée.",
+	"fr": "Maintenant vous pouvez retourner voir Horay. La situation est toujours compliquée.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6584,7 +6584,7 @@ locale["quest.87.texts.description"] = {
 };
 locale["quest.87.texts.returnPopupMain"] = {
 	"en": "OK! Let us go on!",
-	"fr": "OK! C'est partis!",
+	"fr": "OK! C'est parti!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6639,7 +6639,7 @@ locale["quest.88.texts.objective"] = {
 };
 locale["quest.88.texts.description"] = {
 	"en": "The priest in church wants to study the Zombie's flu's impact on the brain.<br><br>Cut the Zombie's head for me and i will find someone to take some sample back to Cain city for the priest.",
-	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Cain pour le prêtre.",
+	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Kane pour le prêtre.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6712,7 +6712,7 @@ locale["quest.89.texts.objective"] = {
 };
 locale["quest.89.texts.description"] = {
 	"en": "I do not know why, after you left the Evil Army in Harlan launched a more powerfull attack. We need more people to help defend, we hope you can help us reduce the number of demons",
-	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Cain pour le prêtre.",
+	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Kane pour le prêtre.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6913,7 +6913,7 @@ locale["quest.92.name"] = {
 };
 locale["quest.92.texts.objective"] = {
 	"en": "Increase your level to 28, then report to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
-	"fr": "Monter au niveau 28, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"fr": "Montez au niveau 28, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7004,7 +7004,7 @@ locale["quest.93.texts.objective"] = {
 };
 locale["quest.93.texts.description"] = {
 	"en": "Puchius has a good evaluation for you, go and continue to help the outpost!",
-	"fr": "Puchius a un bon test pour vous, allez continuer à aider le poste avancé!",
+	"fr": "Puchius a un bon test pour vous, partez, et continuez à aider le poste avancé!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7223,7 +7223,7 @@ locale["quest.96.name"] = {
 };
 locale["quest.96.texts.objective"] = {
 	"en": "Seems <span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span> hates <span class='text-link' data-target-type='mob' data-target-id='33'>Snaketail Rooster</span>, kill some for him.",
-	"fr": "Im semblerais que l'<span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span> deteste les <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span>, tue en quelques-uns pour lui.",
+	"fr": "Il semblerait que l'<span class='text-link' data-target-type='npc' data-target-id='100042'>Artisan Nakro</span> deteste les <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span>, tuez en quelques-uns pour lui.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7314,7 +7314,7 @@ locale["quest.97.texts.objective"] = {
 };
 locale["quest.97.texts.description"] = {
 	"en": "Haha, you got rid of those \"snakes\"? I feel so energetic! Tell Foreman I can complete the work on time!",
-	"fr": "haha, tu t'est occupé de ces \"seprents\"? Je me sent plein d'energie! Dit au Contremaître que je peut terminer le travail a temps!",
+	"fr": "haha, tu t'es occupé de ces \"seprents\"? Je me sent plein d'energie! Dit au Contremaître que je peux terminer le travail à temps!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7387,7 +7387,7 @@ locale["quest.98.texts.objective"] = {
 };
 locale["quest.98.texts.description"] = {
 	"en": "My son's 7th birthday is comming, he likes the lovely baby ostrider. I want to give him a Baby Ostrider for his birthday predent. Please get one for me.",
-	"fr": "Le 7e anniversaire de mon fils arrive, il adore les adorables bébés Ostrider. Je veux lui en ofrir un pour son anniversaire. S'il vous plaît, trouvez-moi en un.",
+	"fr": "Le 7e anniversaire de mon fils arrive, il adore les adorables bébés Ostrider. Je veux lui en ofrir un pour son anniversaire. S'il vous plaît, trouvez-m'en un.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7460,7 +7460,7 @@ locale["quest.99.name"] = {
 };
 locale["quest.99.texts.objective"] = {
 	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
-	"fr": "Parlez a <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7478,7 +7478,7 @@ locale["quest.99.texts.objective"] = {
 };
 locale["quest.99.texts.description"] = {
 	"en": "My construction here is almost done. Thanks for your help. The people of Cain won't forget this. If you are interested, you can visit the harbor. Clapton is preparing for a voyage.",
-	"fr": "Le 7e anniversaire de mon fils arrive, il adore les adorables bébés Ostrider. Je veux lui en ofrir un pour son anniversaire. S'il vous plaît, trouvez-moi en un.",
+	"fr": "Le 7e anniversaire de mon fils arrive, il adore les adorables bébés Ostrider. Je veux lui en ofrir un pour son anniversaire. S'il vous plaît, trouvez-m'en un.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7533,7 +7533,7 @@ locale["quest.100.name"] = {
 };
 locale["quest.100.texts.objective"] = {
 	"en": "Recruit some Sailors and Report to <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
-	"fr": "Recruter des Marins et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
+	"fr": "Recrutez des Marins et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7697,7 +7697,7 @@ locale["quest.102.name"] = {
 };
 locale["quest.102.texts.objective"] = {
 	"en": "Collect some Water Jar and report to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
-	"fr": "Recolter des Jarre d'Eau et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"fr": "Recoltez des Jarre d'Eau et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7842,7 +7842,7 @@ locale["quest.103.texts.returnPopupMain"] = {
 };
 locale["quest.103.objective.0.name"] = {
 	"en": "Chocolate Cream",
-	"fr": "Creme au Chocolat",
+	"fr": "Crème au Chocolat",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7879,7 +7879,7 @@ locale["quest.104.name"] = {
 };
 locale["quest.104.texts.objective"] = {
 	"en": "Enter the gold shop, buy some <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rum</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
-	"fr": "Ouvre le magasin et achete du <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rhum</span>, puis apporte le à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"fr": "Ouvre le magasin et achète du <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rhum</span>, puis apporte le à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7952,7 +7952,7 @@ locale["quest.105.name"] = {
 };
 locale["quest.105.texts.objective"] = {
 	"en": "Increase your level to 29, then report to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
-	"fr": "Augmenter jusqu'au niveau 29, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"fr": "Montez jusqu'au niveau 29, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8025,7 +8025,7 @@ locale["quest.106.name"] = {
 };
 locale["quest.106.texts.objective"] = {
 	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>.",
-	"fr": "Parler à <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8061,7 +8061,7 @@ locale["quest.106.texts.description"] = {
 };
 locale["quest.106.texts.returnPopupMain"] = {
 	"en": "Ho hi, can you help me?",
-	"fr": "Ho, bonjour, peut-tu m'aider?",
+	"fr": "Ho, bonjour, peux-tu m'aider?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8171,7 +8171,7 @@ locale["quest.108.name"] = {
 };
 locale["quest.108.texts.objective"] = {
 	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> catch <span class='text-link' data-target-type='mob' data-target-id='35'>Redback Beatle</span>.",
-	"fr": "Aider <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> à attraper des <span class='text-link' data-target-type='mob' data-target-id='35'>Coléoptère dorouge</span>.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> à attraper des <span class='text-link' data-target-type='mob' data-target-id='35'>Coléoptère dorouge</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8189,7 +8189,7 @@ locale["quest.108.texts.objective"] = {
 };
 locale["quest.108.texts.description"] = {
 	"en": "Oh! ! ! ! ! There is a Redback Beatle! Catch it! Be quick! It's running away!",
-	"fr": "Oh! ! ! ! ! Il y a un Coléoptère dorouge! Attapez le! Soyez rapide! Il s'échape!",
+	"fr": "Oh! ! ! ! ! Il y a un Coléoptère dorouge! Attapez le! Soyez rapide! Il s'échappe!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8499,7 +8499,7 @@ locale["quest.10006.name"] = {
 };
 locale["quest.10006.texts.objective"] = {
 	"en": "Go back to Cain, find the blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, he'll teach you how to fortify weapons.",
-	"fr": "Retourner a Kane, trouvez le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, il vous apprendras a fortifier vos armes.",
+	"fr": "Retournez a Kane, trouvez le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, il vous apprendras a fortifier vos armes.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8572,7 +8572,7 @@ locale["quest.10007.name"] = {
 };
 locale["quest.10007.texts.objective"] = {
 	"en": "Fortify your weapon, then go back to Cain and report to the blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>.<br><br><i>To fortify, open your bag, click on the 'Fort.' button, drag the item you want to upgrade in the fortify window, and click the button to validate the upgrade.</i>",
-	"fr": "Renforcer votre arme, puis retourner a Kane faire votre rapport au forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span><br><br><i>Pour renforcer, ouvrez votre sac, cliquez sur le 'Fort.', faites glisser l'objet que vous souhaitez renforcer dans la fenêtre, et cliquez sur le bouton pour valider le renforcement.</i>",
+	"fr": "Renforcez votre arme, puis retournez a Kane faire votre rapport au forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span><br><br><i>Pour renforcer, ouvrez votre sac, cliquez sur le 'Fort.', faites glisser l'objet que vous souhaitez renforcer dans la fenêtre, et cliquez sur le bouton pour valider le renforcement.</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9693,7 +9693,7 @@ locale["quest.10003.texts.description"] = {
 };
 locale["quest.10003.texts.returnPopupMain"] = {
 	"en": "Nagarian's belt? Interesting, it's really rare. I'll reward you.<br><i>Quest will remove gear 'Naga Sash'</i>",
-	"fr": "Un Ceinture Naga? Interessant, c'est très rare. Je vais vous récompenser.<br><i>la quête va supprimer l'equipement 'Ceinture Naga'</i>",
+	"fr": "Un Ceinture Naga? Intéressant, c'est très rare. Je vais vous récompenser.<br><i>la quête va supprimer l'equipement 'Ceinture Naga'</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9766,7 +9766,7 @@ locale["quest.10004.texts.description"] = {
 };
 locale["quest.10004.texts.returnPopupMain"] = {
 	"en": "Look, what a beautiful ring! I'll give it to the next-door neighbor's child as a marriage gift. It can save them lots of money!<br><i>Quest will remove gear 'Sweet Seal'</i>",
-	"fr": "Regarder moi cet anneau magnifique! Je le donnerais à l'enfant du voisin d'en face comme cadeau de mariage. Ca pourrais leur faire econnomiser beaucoup d'argent!<br><i>La quête va supprimer l'equipement 'Sceau agréable'</i>",
+	"fr": "Regardez moi cet anneau magnifique! Je le donnerais à l'enfant du voisin d'en face comme cadeau de mariage. Ça pourrait leur faire éconnomiser beaucoup d'argent!<br><i>La quête va supprimer l'equipement 'Sceau agréable'</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9876,7 +9876,7 @@ locale["quest.11000.name"] = {
 };
 locale["quest.11000.texts.objective"] = {
 	"en": "Gather 5 souls of the same color in a Soul Gathering, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span>",
-	"fr": "Récolter 5 âmes de la même couleur à la suite pendant une Récolte d'Âme, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span>",
+	"fr": "Récoltez 5 âmes de la même couleur à la suite pendant une Récolte d'Âme, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10149,7 +10149,7 @@ locale["quest.35000.name"] = {
 };
 locale["quest.35000.texts.objective"] = {
 	"en": "Clear the elite monsters in the Elite Hall of Celebeam Caves, and collect Rockcord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 29</i>",
-	"fr": "Netoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Rochecorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 29</i>",
+	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Rochecorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 29</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10260,7 +10260,7 @@ locale["quest.40000.texts.description"] = {
 };
 locale["quest.40000.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10333,7 +10333,7 @@ locale["quest.40001.texts.description"] = {
 };
 locale["quest.40001.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10406,7 +10406,7 @@ locale["quest.40002.texts.description"] = {
 };
 locale["quest.40002.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10461,7 +10461,7 @@ locale["quest.40003.texts.objective"] = {
 };
 locale["quest.40003.texts.description"] = {
 	"en": "The Padilla Bear are starting to attack every beginner since the full moon happened. For that very reason, you need to protect the young ones by eliminating danger.",
-	"fr": "Les ours Padilla attaquent tous les débutants depuis la pleine lune. C'est pour cette raison que vous devez protéger les jeunes en éliminant le danger.",
+	"fr": "Les Ours Padilla attaquent tous les débutants depuis la pleine lune. C'est pour cette raison que vous devez protéger les jeunes en éliminant le danger.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10479,7 +10479,7 @@ locale["quest.40003.texts.description"] = {
 };
 locale["quest.40003.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10625,7 +10625,7 @@ locale["quest.40005.texts.description"] = {
 };
 locale["quest.40005.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10698,7 +10698,7 @@ locale["quest.40006.texts.description"] = {
 };
 locale["quest.40006.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10844,7 +10844,7 @@ locale["quest.40008.texts.description"] = {
 };
 locale["quest.40008.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10990,7 +10990,7 @@ locale["quest.40010.texts.description"] = {
 };
 locale["quest.40010.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11063,7 +11063,7 @@ locale["quest.40011.texts.description"] = {
 };
 locale["quest.40011.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11136,7 +11136,7 @@ locale["quest.40012.texts.description"] = {
 };
 locale["quest.40012.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11209,7 +11209,7 @@ locale["quest.40013.texts.description"] = {
 };
 locale["quest.40013.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11282,7 +11282,7 @@ locale["quest.40014.texts.description"] = {
 };
 locale["quest.40014.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11355,7 +11355,7 @@ locale["quest.40015.texts.description"] = {
 };
 locale["quest.40015.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11428,7 +11428,7 @@ locale["quest.40016.texts.description"] = {
 };
 locale["quest.40016.texts.returnPopupMain"] = {
 	"en": "Clearing the evil creatures is the mission for every warden.",
-	"fr": "Purger les créatures maléfiques de ce monde est la mission de chaque gardien.",
+	"fr": "Purgez les créatures maléfiques de ce monde est la mission de chaque gardien.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11501,7 +11501,7 @@ locale["quest.40017.texts.description"] = {
 };
 locale["quest.40017.texts.returnPopupMain"] = {
 	"en": "Nice seeing you back!",
-	"fr": "Ravi de vous revoir!",
+	"fr": "Ravis de vous revoir!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11702,7 +11702,7 @@ locale["quest.44001.texts.objective"] = {
 };
 locale["quest.44001.texts.description"] = {
 	"en": "Can you contribute to the prosperity of this kingdom and bring us some Celebeam Ores?",
-	"fr": "",
+	"fr": "Pouvez-vous contribuer à la prospéritié du Royaume en nous apportant quelques gemmes de Celebeam",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11720,7 +11720,7 @@ locale["quest.44001.texts.description"] = {
 };
 locale["quest.44001.texts.returnPopupMain"] = {
 	"en": "Thanks, it will help a lot!",
-	"fr": "",
+	"fr": "Merci, ça nous aidera énormément",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11775,7 +11775,7 @@ locale["quest.44002.texts.objective"] = {
 };
 locale["quest.44002.texts.description"] = {
 	"en": "Our alchemists can make potions with those mushroom, but we always need more. Can you bring us some?",
-	"fr": "",
+	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvouez-vous nous en porter quelques-unes ?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11793,7 +11793,7 @@ locale["quest.44002.texts.description"] = {
 };
 locale["quest.44002.texts.returnPopupMain"] = {
 	"en": "These round Mushrooms look really fresh.",
-	"fr": "",
+	"fr": "Ces Champignons ronds semblent vraiment frais.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11921,7 +11921,7 @@ locale["quest.45001.texts.objective"] = {
 };
 locale["quest.45001.texts.description"] = {
 	"en": "How about we start with some zombies?",
-	"fr": "Que dirais tu de commencer par quelques zombies?",
+	"fr": "Que dirais-tu de commencer par quelques zombies?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12085,7 +12085,7 @@ locale["quest.45003.texts.description"] = {
 };
 locale["quest.45003.texts.returnPopupMain"] = {
 	"en": "This wasn't an easy task, thanks.",
-	"fr": "Ce n'etait pas une tache facile, merci.",
+	"fr": "Ce n'était pas une tache facile, merci.",
 	"es": "",
 	"ch": "",
 	"kr": "",

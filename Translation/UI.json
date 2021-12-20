@@ -4645,7 +4645,7 @@
     },
     "UI.windows.fortify.upgrade-requires":{
         "en":"Upgrade requires {0}",
-        "fr":"L'amélioration requiers {0}",
+        "fr":"L'amélioration requiert {0}",
         "es":"",
         "ch":"",
         "kr":"",
