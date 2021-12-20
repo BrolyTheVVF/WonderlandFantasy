@@ -7349,6 +7349,97 @@ locale["quest.97.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.98.name"] = {
+	"en": "Life in Post (6)",
+	"fr": "Vie en Poste (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.98.texts.objective"] = {
+	"en": "<span class='text-link' data-target-type='npc' data-target-id='100040'>Foreman Sarzs</span> is preparing his birthday gift for his son, baby of an <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span> is what he needs.",
+	"fr": "Le <span class='text-link' data-target-type='npc' data-target-id='100040'>Contremaître Sarzs</span> prépare le cadeau d'anniversaire pour son fils, et il veut lui offire le bébé d'un <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.98.texts.description"] = {
+	"en": "My son's 7th birthday is comming, he likes the lovely baby ostrider. I want to give him a Baby Ostrider for his birthday predent. Please get one for me.",
+	"fr": "Le 7e anniversaire de mon fils arrive, il adore les adorables bébés Ostrider. Je veux lui en ofrir un pour son anniversaire. S'il vous plaît, trouvez-moi en un.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.98.texts.returnPopupMain"] = {
+	"en": "Ha ha, he will like it! This little thing can live in my hair!",
+	"fr": "ha ha, il va l'adorer! Cette petite chose peut vivre dans mes cheveux!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.98.objective.0.name"] = {
+	"en": "Baby Ostrider",
+	"fr": "Bébé Ostrider",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
