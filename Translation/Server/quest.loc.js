@@ -7932,6 +7932,79 @@ locale["quest.104.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.105.name"] = {
+	"en": "Set Sail (7)",
+	"fr": "Mettre les voiles (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.105.texts.objective"] = {
+	"en": "Increase your level to 29, then report to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
+	"fr": "Augmenter jusqu'au niveau 29, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.105.texts.description"] = {
+	"en": "The following quests are really dangerous, it requires the strength of at least a level 29 adventurer. Are you ready?",
+	"fr": "Les quêtes suivantes sont vraiment dangereuses, elles nécessitent la force d'au moins un aventurier de niveau 29. Es-tu prêt?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.105.texts.returnPopupMain"] = {
+	"en": "Good, let's continue!",
+	"fr": "Bien, continuons!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
