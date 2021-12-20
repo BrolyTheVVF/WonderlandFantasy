@@ -2766,6 +2766,24 @@ locale["npc.100039.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100042.interact.baseText"] = {
+	"en": "Dockey loves Ostrider.",
+	"fr": "Dockey adore les Ostriders",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100043.interact.baseText"] = {
 	"en": "Young man! Interesting instances await you!",
 	"fr": "Jeune aventurier! Des instances intéressantes t'attendent!",
