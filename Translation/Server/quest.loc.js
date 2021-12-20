@@ -6820,6 +6820,79 @@ locale["quest.90.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.91.name"] = {
+	"en": "Crisis in Caves (4)",
+	"fr": "Crise dans les Caves (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thảm Họa Trong Hang (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.91.texts.objective"] = {
+	"en": "Use the Devil Staff on a regular <span class='text-link' data-target-type='mob' data-target-id='26'>Zombie</span> and see what happens, then report to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
+	"fr": "Utilisez le Bâton Maléfique sur un <span class='text-link' data-target-type='mob' data-target-id='26'>Zombie</span> normal et observer le résultat de cette experience, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.91.texts.description"] = {
+	"en": "We found this with some Zombie remains, it's a Devil Staff. We doubt that the wizard used it to control Zombies. Use it on a Zombie and see if you can change them back to their original look. If it becomes worse, you'd better stop!",
+	"fr": "Nous avons trouvé ça avec des restes de Zombie, c'est un Bâton Maléfique. Nous doutons que le mage l'ait utilisé pour contrôler les zombies. Utilisez le sur un zombie et regardez si ca les fait reprendre leur apparence originale. Si leur état empire, vous devriez arrêter.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.91.texts.returnPopupMain"] = {
+	"en": "What? They became a zombie chief! Oh no!",
+	"fr": "Quoi? Il s'est transformé en Chef Zombie! Oh non!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
