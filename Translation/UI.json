@@ -4660,5 +4660,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.fortify.set-gem-amount":{
+        "en":"Please choose gem amount",
+        "fr":"Choisir le nombre de gemme",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
