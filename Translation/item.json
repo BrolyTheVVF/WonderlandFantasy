@@ -9738,22 +9738,22 @@
         "id":"Makanan Militer"
     },
     "item.20001.name":{
-        "en":"Rhum",
-        "fr":"Rhum",
+        "en":"Wine",
+        "fr":"Vin",
         "es":"",
         "ch":"",
         "kr":"",
-        "ru":"Ром",
+        "ru":"",
         "tr":"",
-        "de":"Rum",
+        "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Rượu Rum",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Rum"
+        "id":""
     },
     "item.20002.name":{
         "en":"True Sight Potion",
