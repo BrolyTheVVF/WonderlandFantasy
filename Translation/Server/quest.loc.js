@@ -7604,6 +7604,79 @@ locale["quest.100.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.101.name"] = {
+	"en": "Set Sail (3)",
+	"fr": "Mettre les voiles (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.101.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='35'>Redback Beatle</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='35'>Coléoptère dorouge</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.101.texts.description"] = {
+	"en": "That's correct. We are about to set sail. Do you want to come aboard? Everything is set and ready, but if you can help, we can set off earlier. I still need a few more sailors. Can you help me recruit some?",
+	"fr": "C'est vrai. Nous sommes sur le point de mettre les voiles. Vous voulez monter à bord? Tout est prêt, mais si vous pouvez nous aider, nous pourons partir plus tôt. Il me faut encore quelques marins. Pouvez-vous m'aider à en recruter?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.101.texts.returnPopupMain"] = {
+	"en": "Annoying pests. Ruined my food!",
+	"fr": "Quels nuisibles agaçants. Ils ont ruiné ma nourriture!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};

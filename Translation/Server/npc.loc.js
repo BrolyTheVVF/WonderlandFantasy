@@ -2527,6 +2527,24 @@ locale["npc.100048.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100049.name"] = {
+	"en": "Mrs. Vario",
+	"fr": "Mme. Vario",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
@@ -2850,6 +2868,24 @@ locale["npc.100044.interact.baseText"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Đồ sâu bọ này, ngươi đã sẵn sàng để gia nhập đội hành quân ác quỷ của ta chưa?",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100048.interact.baseText"] = {
+	"en": "Ahoy, how is it going?",
+	"fr": "Ohé, comment ça va?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
