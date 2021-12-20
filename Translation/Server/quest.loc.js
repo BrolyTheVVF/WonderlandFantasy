@@ -5836,7 +5836,7 @@ locale["quest.77.texts.objective"] = {
 };
 locale["quest.77.texts.description"] = {
 	"en": "The guards are trying to kick me out of my stall since my husband died. I can't go out and deliver it myself. Can you bring the cloak to James and check if he's alright?",
-	"fr": "Les guardes essaye de m'expluser de mon étal depuis que mon mari est mort. Je ne peut pas partir et le livrer moi même. Pouvezvous apporter le manteau à James et vérifier qu'il va bien?",
+	"fr": "Les guardes essaye de m'expluser de mon étal depuis que mon mari est mort. Je ne peut pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
 	"es": "",
 	"ch": "",
 	"kr": "",
