@@ -7768,6 +7768,97 @@ locale["quest.102.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.103.name"] = {
+	"en": "Set Sail (5)",
+	"fr": "Mettre les voiles (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.103.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='36'>Chocolate Slimes</span> and obtain Chocolate Cream, then give them to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='36'>Slimes Chocolat</span> et recolter des Cremes au Chocolat, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.103.texts.description"] = {
+	"en": "Elite likes my chocolate pie very much. He said that he cannot steer without it! Oh, where is my Chocolate Cream ?",
+	"fr": "Elite aime beaucoup ma tarte au chocolat. Il a dit qu'il ne peut pas diriger sans lui ! Oh, où est ma crème au chocolat ?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.103.texts.returnPopupMain"] = {
+	"en": "Hey newcomer, do you like my food? Haha! No one resists my masterpiece. Recently the whole continent is in turmoil. I hope my dessert can soothe your nerves.",
+	"fr": "Hey nouveau venu, est-ce que tu aimes ma nourriture? Haha! Personne ne résiste à mon chef-d'œuvre. Récemment, tout le continent est dans la tourmente. J'espère que mon dessert pourra apaiser vos nerfs.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.103.objective.0.name"] = {
+	"en": "Chocolate Cream",
+	"fr": "Creme au Chocolat",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
