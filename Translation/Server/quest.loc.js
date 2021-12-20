@@ -7859,6 +7859,79 @@ locale["quest.103.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.104.name"] = {
+	"en": "Set Sail (6)",
+	"fr": "Mettre les voiles (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.104.texts.objective"] = {
+	"en": "Enter the gold shop, buy some <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rum</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
+	"fr": "Ouvre le magasin et achete du <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rhum</span>, puis apporte le à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.104.texts.description"] = {
+	"en": "Oh! God! I just found out that my rum jug is empty! I cannot perform this sailing without the best rum. We can buy some. Please go to the tavern in Cain and buy some rum for me.",
+	"fr": "Oh! Mon dieu! Je viens de me rendre compte que ma carafe à rhum est vide! Je ne peux pas faire cette traversée sans le meilleur des rhum. Nous pouvons en acheter. S'il vous plaît, allez à la taverne de Kane et achetez-moi du rhum.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.104.texts.returnPopupMain"] = {
+	"en": "I'm so tired that I even forgot about the rum, which is the most important thing!",
+	"fr": "Je suis tellement fatiguée que j'ai même oublié le rhum, qui est le plus important!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
