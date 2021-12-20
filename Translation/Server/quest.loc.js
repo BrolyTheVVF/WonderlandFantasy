@@ -7513,6 +7513,97 @@ locale["quest.99.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.100.name"] = {
+	"en": "Set Sail (2)",
+	"fr": "Mettre les voiles (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.100.texts.objective"] = {
+	"en": "Recruit some Sailors and Report to <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
+	"fr": "Recruter des Marins et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.100.texts.description"] = {
+	"en": "That's correct. We are about to set sail. Do you want to come aboard? Everything is set and ready, but if you can help, we can set off earlier. I still need a few more sailors. Can you help me recruit some?",
+	"fr": "C'est vrai. Nous sommes sur le point de mettre les voiles. Vous voulez monter à bord? Tout est prêt, mais si vous pouvez nous aider, nous pourons partir plus tôt. Il me faut encore quelques marins. Pouvez-vous m'aider à en recruter?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.100.texts.returnPopupMain"] = {
+	"en": "Nice choice! They are all strong and smart!",
+	"fr": "Bon choix! Ils sont tous fort et malin!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.100.objective.0.name"] = {
+	"en": "Sailor's Contract",
+	"fr": "Contrat de Marin",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
