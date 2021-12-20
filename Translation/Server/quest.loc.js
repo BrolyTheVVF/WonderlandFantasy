@@ -7677,6 +7677,97 @@ locale["quest.101.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.102.name"] = {
+	"en": "Set Sail (4)",
+	"fr": "Mettre les voiles (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.102.texts.objective"] = {
+	"en": "Collect some Water Jar and report to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
+	"fr": "Recolter des Jarre d'Eau et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.102.texts.description"] = {
+	"en": "We are far away from a lake, so I placed some pots to hold rain. Then, we can filter the rain water and provide the sailors with fresh water. I think it's time to retrieve them.",
+	"fr": "Nous sommes loin d'un lac, j'ai donc placé des pots pour récupérer la pluie. Ensuite, nous pouvons filtrer l'eau de pluie et fournir de l'eau douce aux marins. Je pense qu'il est temps de les récupérer.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.102.texts.returnPopupMain"] = {
+	"en": "Nice work!",
+	"fr": "Beau travail!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.102.objective.0.name"] = {
+	"en": "Water Jar",
+	"fr": "Jarre d'Eau",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
