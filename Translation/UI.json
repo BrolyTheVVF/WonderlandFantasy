@@ -4626,8 +4626,8 @@
         "id":""
     },
     "UI.windows.fortify.success-rate":{
-        "en":"Success Rate: {0}",
-        "fr":"Chance de Succes: {0}",
+        "en":"Success Rate: {0}%",
+        "fr":"Chance de Succes: {0}%",
         "es":"",
         "ch":"",
         "kr":"",
