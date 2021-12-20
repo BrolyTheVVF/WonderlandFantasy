@@ -3076,6 +3076,24 @@ locale["npc.100036.interact.GET_DAILY_QUEST"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100047.interact.GOTO_CONTINENT_2"] = {
+	"en": "... npc.100047.interact.GOTO_CONTINENT_2 ...",
+	"fr": "",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100048.interact.QUEST_100_RECUIT_SAILOR"] = {
 	"en": "Recuit Sailor",
 	"fr": "Recruter le Marin",
