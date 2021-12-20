@@ -2892,6 +2892,24 @@ locale["npc.100048.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100049.interact.baseText"] = {
+	"en": "Hey newcomer, do you like my food? Haha! No one resists my masterpiece. Recently the whole continent is in turmoil. I hope my dessert can soothe your nerves.",
+	"fr": "Hey nouveau venu, est-ce que tu aimes ma nourriture? Haha! Personne ne résiste à mon chef-d'œuvre. Récemment, tout le continent est dans la tourmente. J'espère que mon dessert pourra apaiser vos nerfs.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
