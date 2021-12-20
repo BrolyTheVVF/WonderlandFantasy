@@ -6893,6 +6893,79 @@ locale["quest.91.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.92.name"] = {
+	"en": "Crisis in Caves (5)",
+	"fr": "Crise dans les Caves (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thảm Họa Trong Hang (5)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.92.texts.objective"] = {
+	"en": "Increase your level to 28, then report to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
+	"fr": "Monter au niveau 28, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.92.texts.description"] = {
+	"en": "The following quests are really dangerous, it requires the strength of at least a level 28. Are you ready?",
+	"fr": "Les quêtes suivantes sont vraiment dangereuses, elles requirent au minimum la puissance d'un niveau 28. Êtes-vous prêt?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.92.texts.returnPopupMain"] = {
+	"en": "Good, let's continue!",
+	"fr": "Bien, continuons!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
