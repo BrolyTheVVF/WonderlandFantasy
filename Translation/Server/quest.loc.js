@@ -8479,6 +8479,79 @@ locale["quest.111.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.10006.name"] = {
+	"en": "Fortify Weapon - Blacksmith",
+	"fr": "Fortifier une Arme - Forgeron",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.10006.texts.objective"] = {
+	"en": "Go back to Cain, find the blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, he'll teach you how to fortify weapons.",
+	"fr": "Retourner a Kane, trouvez le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, il vous apprendras a fortifier vos armes.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.10006.texts.description"] = {
+	"en": "I said that I have a good weapon, yours is not good. Well, you can visit the blacksmith Rudolf. He can help you enhance your weapon. Trust me, he is a good man.",
+	"fr": "J'ai dit que j'avais une bonne arme, la tienne n'est pas bonne. Eh bien, vous pouvez visiter le forgeron Rudolf. Il peut vous aider à améliorer votre arme. Croyez-moi, c'est un homme bien.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.10006.texts.returnPopupMain"] = {
+	"en": "You mean that weird collector asked you to find me? Well, it seems the stone he left here last time is usefull now. By the way, though people say he is weird, he is warm-heated, and ofter helps adventurers.",
+	"fr": "Tu veux dire que ce collectionneur bizarre t'a demandé de me trouver? Eh bien, il semble que la pierre qu'il a laissée ici la dernière fois soit utile maintenant. Au fait, bien que les gens disent qu'il est bizarre, il a bon coeur et aide souvent les aventuriers.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
