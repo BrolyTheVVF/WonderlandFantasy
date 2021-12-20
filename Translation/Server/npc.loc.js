@@ -2748,6 +2748,24 @@ locale["npc.100031.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100039.interact.baseText"] = {
+	"en": "All buildings are work of art, even if it's just a guard post.",
+	"fr": "Tous les bâtiments sont des oeuvres d'art, même s'il s'agit juste un poste avancé.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100043.interact.baseText"] = {
 	"en": "Young man! Interesting instances await you!",
 	"fr": "Jeune aventurier! Des instances intéressantes t'attendent!",
