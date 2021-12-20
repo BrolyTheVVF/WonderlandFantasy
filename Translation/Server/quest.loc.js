@@ -7823,8 +7823,8 @@ locale["quest.103.texts.description"] = {
 	"id": ""
 };
 locale["quest.103.texts.returnPopupMain"] = {
-	"en": "Hey newcomer, do you like my food? Haha! No one resists my masterpiece. Recently the whole continent is in turmoil. I hope my dessert can soothe your nerves.",
-	"fr": "Hey nouveau venu, est-ce que tu aimes ma nourriture? Haha! Personne ne résiste à mon chef-d'œuvre. Récemment, tout le continent est dans la tourmente. J'espère que mon dessert pourra apaiser vos nerfs.",
+	"en": "Fresh chocolate cream! Wonderful!",
+	"fr": "De la Crème au chocolat fraîche! Merveilleux!",
 	"es": "",
 	"ch": "",
 	"kr": "",
