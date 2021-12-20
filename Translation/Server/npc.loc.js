@@ -2892,6 +2892,24 @@ locale["npc.100044.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100047.interact.baseText"] = {
+	"en": "Ahoy, I'm the captain of this boat, do you need to go across? But be careful, those lands are dangerous!",
+	"fr": "Ahoy, je suis le capitaine de ce bateau, tu as besoin de traverser? Mais attention, ces terres sont dangereuses!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100048.interact.baseText"] = {
 	"en": "Ahoy, how is it going?",
 	"fr": "Ohé, comment ça va?",
