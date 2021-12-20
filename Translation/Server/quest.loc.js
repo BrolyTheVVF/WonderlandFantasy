@@ -7021,8 +7021,8 @@ locale["quest.93.texts.description"] = {
 	"id": ""
 };
 locale["quest.93.texts.returnPopupMain"] = {
-	"en": "Good, let's continue!",
-	"fr": "Bien, continuons!",
+	"en": "So glad to see you, I think Bricklayer Hawk needs your help!",
+	"fr": "Si heureux de vous voir, je pense que Faucon maçon a besoin de votre aide!",
 	"es": "",
 	"ch": "",
 	"kr": "",
