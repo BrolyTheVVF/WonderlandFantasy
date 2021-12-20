@@ -4642,5 +4642,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.fortify.upgrade-requires":{
+        "en":"Upgrade requires {0}",
+        "fr":"L'amélioration requiers {0}",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
