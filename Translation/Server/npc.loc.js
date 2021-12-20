@@ -2928,6 +2928,24 @@ locale["npc.100049.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100050.interact.baseText"] = {
+	"en": "Hylan makes the geatest chocolate.",
+	"fr": "Hylan fait le meilleur chocolat.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",

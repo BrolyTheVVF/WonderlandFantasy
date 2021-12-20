@@ -8315,6 +8315,97 @@ locale["quest.109.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.110.name"] = {
+	"en": "Hylan's Hobby (5)",
+	"fr": "Passe-temps d'Hylan (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.110.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> and obtain some Zombie's Leg, then give them to <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> pour obtenir des Jambes de Zombie, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.110.texts.description"] = {
+	"en": "Come here, get closer. Can you get a zombie for me? Yes, that's the most delicious!",
+	"fr": "Venez ici, rapprochez-vous. Pouvez-vous obtenir un zombie pour moi? Oui, c'est le plus délicieux!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.110.texts.returnPopupMain"] = {
+	"en": "Don't be afraid, it's just a corpse!",
+	"fr": "N'ayez pas peur, ce n'est qu'un cadavre !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.110.objective.0.name"] = {
+	"en": "Zombie's Leg",
+	"fr": "Jambe de Zombie",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
