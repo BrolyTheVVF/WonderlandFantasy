@@ -8552,6 +8552,79 @@ locale["quest.10006.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.10007.name"] = {
+	"en": "Fortify Weapon - Upgrade",
+	"fr": "Fortifier une Arme - Renforcer",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.10007.texts.objective"] = {
+	"en": "Fortify your weapon, then go back to Cain and report to the blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>.<br><br><i>To fortify, open your bag, click on the 'Fort.' button, drag the item you want to upgrade in the fortify window, and click the button to validate the upgrade.</i>",
+	"fr": "Renforcer votre arme, puis retourner a Kane faire votre rapport au forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span><br><br><i>Pour renforcer, ouvrez votre sac, cliquez sur le 'Fort.', faites glisser l'objet que vous souhaitez renforcer dans la fenêtre, et cliquez sur le bouton pour valider le renforcement.</i>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.10007.texts.description"] = {
+	"en": "Are you surprised by my kindness?<br><br>Let's start the upgrade process! It can greatly increase your attack or defense ability.",
+	"fr": "Êtes-vous surpris par ma gentillesse?<br><br>Commençons le processus de renforcement! Cela peut augmenter considérablement votre capacité d'attaque ou de défense.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.10007.texts.returnPopupMain"] = {
+	"en": "...",
+	"fr": "...",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
