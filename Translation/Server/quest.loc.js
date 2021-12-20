@@ -8151,6 +8151,79 @@ locale["quest.107.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.108.name"] = {
+	"en": "Hylan's Hobby (3)",
+	"fr": "Passe-temps d'Hylan (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.108.texts.objective"] = {
+	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> catch <span class='text-link' data-target-type='mob' data-target-id='35'>Redback Beatle</span>.",
+	"fr": "Aider <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> à attraper des <span class='text-link' data-target-type='mob' data-target-id='35'>Coléoptère dorouge</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.108.texts.description"] = {
+	"en": "Oh! ! ! ! ! There is a Redback Beatle! Catch it! Be quick! It's running away!",
+	"fr": "Oh! ! ! ! ! Il y a un Coléoptère dorouge! Attapez le! Soyez rapide! Il s'échape!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.108.texts.returnPopupMain"] = {
+	"en": "Good job!",
+	"fr": "Bon travail!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
