@@ -7440,6 +7440,79 @@ locale["quest.98.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.99.name"] = {
+	"en": "Set Sail (1)",
+	"fr": "Mettre les voiles (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.99.texts.objective"] = {
+	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
+	"fr": "Parlez a <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.99.texts.description"] = {
+	"en": "My construction here is almost done. Thanks for your help. The people of Cain won't forget this. If you are interested, you can visit the harbor. Clapton is preparing for a voyage.",
+	"fr": "Le 7e anniversaire de mon fils arrive, il adore les adorables bébés Ostrider. Je veux lui en ofrir un pour son anniversaire. S'il vous plaît, trouvez-moi en un.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.99.texts.returnPopupMain"] = {
+	"en": "Hello, my friend! Do you need a ride?",
+	"fr": "Bonjour, mon ami! Avez-vous besoin qu'on vous conduise?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
