@@ -8224,6 +8224,97 @@ locale["quest.108.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.109.name"] = {
+	"en": "Hylan's Hobby (4)",
+	"fr": "Passe-temps d'Hylan (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.109.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='33'>Snaketail Rooster</span> and obtain some Drumstick, then give them to <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span> pour obtenir des Pilon, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.109.texts.description"] = {
+	"en": "I believe the Drumstick of a Snaketail Rooster is more delicious than turkey. But Mrs. Vario thinks they're disgusting.",
+	"fr": "Je pense que les Pilon de Coq à queue de serpent sont meilleurs que la dinde. Mais Mme. Vario pense qu'ils sont dégoutants.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.109.texts.returnPopupMain"] = {
+	"en": "After i remove the feather, who could know whose leg it is? Haha, i'll let them eat it!",
+	"fr": "Après avoir retiré les plumes, qui pourront savoir à qui sont ces jambes? haha, je les laisserais les manger!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.109.objective.0.name"] = {
+	"en": "Drumstick",
+	"fr": "Pilon",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kĩ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
