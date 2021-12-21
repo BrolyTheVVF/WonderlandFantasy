@@ -777,6 +777,60 @@ locale["npc.42.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.43.name"] = {
+	"en": "Pirate Ambusher",
+	"fr": "Pirate Sournois",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.44.name"] = {
+	"en": "Cat Pirate",
+	"fr": "Pirate Chat",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.45.name"] = {
+	"en": "Sunny Starfish",
+	"fr": "Étoile de mer Ensoleillée",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
