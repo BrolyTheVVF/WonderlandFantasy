@@ -842,7 +842,7 @@ locale["npc.46.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Móc Thuyền Trưởng",
 	"ar": "",
 	"it": "",
 	"pl": "",
