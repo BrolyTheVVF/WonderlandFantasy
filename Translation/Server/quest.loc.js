@@ -2,7 +2,7 @@ var locale = {};
 
 locale["quest.0.name"] = {
 	"en": "Treefolk Town (1)",
-	"fr": "L'arbre du monde (1)",
+	"fr": "Arbre Monde (1)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -20,7 +20,7 @@ locale["quest.0.name"] = {
 };
 locale["quest.0.texts.objective"] = {
 	"en": "Village Chief <span class='text-link' data-target-type='npc' data-target-id='100001'>Tamus</span> is excepting you. Talk to him.",
-	"fr": "Le chef du village <span class='text-link' data-target-type='npc' data-target-id='100001'>Tom</span> vous recherche. Allez lui parler.",
+	"fr": "Le Chef du village <span class='text-link' data-target-type='npc' data-target-id='100001'>Tom</span> vous recherche. Allez lui parler.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -75,7 +75,7 @@ locale["quest.0.texts.returnPopupMain"] = {
 
 locale["quest.1.name"] = {
 	"en": "Treefolk Town (2)",
-	"fr": "L'arbre du monde (2)",
+	"fr": "Arbre Monde (2)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -93,7 +93,7 @@ locale["quest.1.name"] = {
 };
 locale["quest.1.texts.objective"] = {
 	"en": "Find <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span> near the entrance of the village.",
-	"fr": "Trouver <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
+	"fr": "Trouvez <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -148,7 +148,7 @@ locale["quest.1.texts.returnPopupMain"] = {
 
 locale["quest.2.name"] = {
 	"en": "Treefolk Town (3)",
-	"fr": "L'arbre du monde (3)",
+	"fr": "Arbre Monde (3)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -239,7 +239,7 @@ locale["quest.2.objective.0.name"] = {
 
 locale["quest.3.name"] = {
 	"en": "Treefolk Town (4)",
-	"fr": "L'arbre du monde (4)",
+	"fr": "Arbre Monde (4)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -275,7 +275,7 @@ locale["quest.3.texts.objective"] = {
 };
 locale["quest.3.texts.description"] = {
 	"en": "To survive in Mirelia, you need to hunt those monster.</br>You will get food and materials from them.",
-	"fr": "Pour survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des materiaux et des équiupements en les tuant.",
+	"fr": "Pour survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des matériaux et des équipements en les tuant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -312,7 +312,7 @@ locale["quest.3.texts.returnPopupMain"] = {
 
 locale["quest.4.name"] = {
 	"en": "Treefolk Town (5)",
-	"fr": "L'arbre du monde (5)",
+	"fr": "Arbre Monde (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -348,7 +348,7 @@ locale["quest.4.texts.objective"] = {
 };
 locale["quest.4.texts.description"] = {
 	"en": "Good. Now i think you are good enough to challenge stronger monsters.</br></br>Those Baby Boars in Slime Plain always attack passengers. You need to teach them a lesson.",
-	"fr": "Bien, maintenant je suis rassuré que tu puisse défier des monstres plus puissants.<br><br>Ces petit sangliers de la Plaine des Silmes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
+	"fr": "Bien, maintenant je suis rassuré que tu puisses défier des monstres plus puissants.<br><br>Ces petit sangliers de la Plaine des Silmes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -366,7 +366,7 @@ locale["quest.4.texts.description"] = {
 };
 locale["quest.4.texts.returnPopupMain"] = {
 	"en": "Ah! What's about that wound! I am so sorry i shouldn't let you go alone. It my fault.</br>Put this on, it will protect you.",
-	"fr": "Oh! Comment t'est tu fait cette blessure? Je suis désolé, je n'aurais pas du te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègeras.",
+	"fr": "Oh! Comment t'est tu fait cette blessure? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -385,7 +385,7 @@ locale["quest.4.texts.returnPopupMain"] = {
 
 locale["quest.5.name"] = {
 	"en": "Treefolk Town (6)",
-	"fr": "L'arbre du monde (6)",
+	"fr": "Arbre Monde (6)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -421,7 +421,7 @@ locale["quest.5.texts.objective"] = {
 };
 locale["quest.5.texts.description"] = {
 	"en": "Let me find you some simple tasks. It is soon the birthday of Barker The Boy, and he loves Bee Glue the most, so help him find some.",
-	"fr": "Laisse moi te trouver un boulot facile. C'est bientôt l'anniversaire du Petit Buck, et il addore la Propolis, alors aide moi à en trouver.",
+	"fr": "Laisse moi te trouver un boulot facile. C'est bientôt l'anniversaire du Petit Buck, et il addore la Propolis, alors aide-moi à en trouver.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -476,7 +476,7 @@ locale["quest.5.objective.0.name"] = {
 
 locale["quest.6.name"] = {
 	"en": "Treefolk Town (7)",
-	"fr": "L'arbre du monde (7)",
+	"fr": "Arbre Monde (7)",
 	"es": "",
 	"ch": "",
 	"kr": "",
