@@ -38,7 +38,7 @@ locale["quest.0.texts.objective"] = {
 };
 locale["quest.0.texts.description"] = {
 	"en": "Welcome to Mirelia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
-	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'Arbre Monde, domaine du royaume de Kane, qui fait partie d'un royaume religieux qui croit au dieu de la création, Waen. Demande plus de renseignements au chef.",
+	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'arbre monde, domaine du royaume de Kane, qui fait partie d'un royaume religieux qui croit au dieu de la création, Waen. Demande plus de renseignements au chef.",
 	"es": "",
 	"ch": "",
 	"kr": "",
