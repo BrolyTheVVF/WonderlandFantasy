@@ -37,17 +37,17 @@ locale["quest.0.texts.objective"] = {
 	"id": ""
 };
 locale["quest.0.texts.description"] = {
-	"en": "Welcome to Serenia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
-	"fr": "Bienvenue dans le monde de Wonderland. Ici, c'est la ville de de l'arbre monde, domaine du royaume de Kane, qui fait partie d'un royaume religieux qui croit au dieu de la création, Waen. Demande plus de renseignements au chef.",
+	"en": "Welcome to Mirelia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
+	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'arbre monde, domaine du royaume de Kane, qui fait partie d'un royaume religieux qui croit au dieu de la création, Waen. Demande plus de renseignements au chef.",
 	"es": "",
 	"ch": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Willkommen in Serenia. Diese Ort wird Treefolk Town genannt. Es ist Teil des Königreichs Cain, welches Teil des religiösen Königreichs ist, das den Gott der Schöpfung Bur anbetet. Rede mit dem Dorfhäuptling um mehr darüber zu erfahren. ",
+	"de": "Willkommen in Mirelia. Diese Ort wird Treefolk Town genannt. Es ist Teil des Königreichs Cain, welches Teil des religiösen Königreichs ist, das den Gott der Schöpfung Bur anbetet. Rede mit dem Dorfhäuptling um mehr darüber zu erfahren. ",
 	"jp": "",
 	"pt": "",
-	"vi": "Chào mừng đến với Serenia. Nơi đây được gọi là Cổ Thụ Trấn. Nó là một phần của Vương Đô Cain, thuộc một vương quốc tôn giáo thờ phụng Vị Thần Tạo Hóa Bur. Hãy nói chuyện với Trưởng Làng để biết thêm thông tin chi tiết.",
+	"vi": "Chào mừng đến với Mirelia. Nơi đây được gọi là Cổ Thụ Trấn. Nó là một phần của Vương Đô Cain, thuộc một vương quốc tôn giáo thờ phụng Vị Thần Tạo Hóa Bur. Hãy nói chuyện với Trưởng Làng để biết thêm thông tin chi tiết.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -274,17 +274,17 @@ locale["quest.3.texts.objective"] = {
 	"id": ""
 };
 locale["quest.3.texts.description"] = {
-	"en": "To survive in Serenia, you need to hunt those monster.</br>You will get food and materials from them.",
-	"fr": "Pour survivre dans Serenia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des materiaux et des équiupements en les tuant.",
+	"en": "To survive in Mirelia, you need to hunt those monster.</br>You will get food and materials from them.",
+	"fr": "Pour survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des materiaux et des équiupements en les tuant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Um in Serenia zu überleben musst du Monster töten.</br>Du wirst etwas zu Nahrung und Materialien von Ihnen bekommen.",
+	"de": "Um in Mirelia zu überleben musst du Monster töten.</br>Du wirst etwas zu Nahrung und Materialien von Ihnen bekommen.",
 	"jp": "",
 	"pt": "",
-	"vi": "Để sống sót ở Serenia, cần phải săn những con quái thú.</br>Như vậy có thể lấy thịt và nguyên vật liệu từ chúng.",
+	"vi": "Để sống sót ở Mirelia, cần phải săn những con quái thú.</br>Như vậy có thể lấy thịt và nguyên vật liệu từ chúng.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -1623,8 +1623,8 @@ locale["quest.20.texts.description"] = {
 	"id": ""
 };
 locale["quest.20.texts.returnPopupMain"] = {
-	"en": "Stimulent? No no no, these potions are completly legal in Serenia. Don't worry they don't have any side effects... well, almost...",
-	"fr": "Stimulantes? Non non, ces potions sont complètement légales en Wonderland. Ne vous inquiétez pas elles n'ont pas d'effets secondaires... enfin, presque...",
+	"en": "Stimulent? No no no, these potions are completly legal in Mirelia. Don't worry they don't have any side effects... well, almost...",
+	"fr": "Stimulantes? Non non, ces potions sont complètement légales en Mirelia. Ne vous inquiétez pas elles n'ont pas d'effets secondaires... enfin, presque...",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1633,7 +1633,7 @@ locale["quest.20.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Chất kích thích? không không không, những lọ thuốc đấy hoàn toàn hợp pháp ở Serenia. Chớ có lo về việc nó sẽ có tác dụng phụ...thì, chắc vậy...",
+	"vi": "Chất kích thích? không không không, những lọ thuốc đấy hoàn toàn hợp pháp ở Mirelia. Chớ có lo về việc nó sẽ có tác dụng phụ...thì, chắc vậy...",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2061,8 +2061,8 @@ locale["quest.26.texts.objective"] = {
 	"id": ""
 };
 locale["quest.26.texts.description"] = {
-	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Serenia. In the end, Bur borrowed from the elemental Power of Serenia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
-	"fr": "Il y a bien longtemps, le Dieu de la Création Waen et le Dieu maléfique Harlan ont mené une guerre épique en Wonderland. Au final, Waen emprunta la puissance des éléments de Wonderland et créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Waen cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
+	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Mirelia. In the end, Bur borrowed from the elemental Power of Mirelia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
+	"fr": "Il y a bien longtemps, le Dieu de la Création Waen et le Dieu maléfique Harlan ont mené une guerre épique en Mirelia. Au final, Waen emprunta la puissance des éléments de WonMirelia créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Waen cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2071,7 +2071,7 @@ locale["quest.26.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Thuở xa xưa, Đấng Tạo Hóa Bur và Chúa Quỷ Harlan đã có một trận chiến long trời lở đất tại vùng đất Serenia này. Đến cuối cùng, Thần Bur đã mượn sức mạnh của các đại nguyên tố là Cội Nguồn Sức Mạnh của Serenia và tạo ra thần kiếm 'Lamborisa', nhờ đó mà đoạt được mạng Harlan.<br><br>Thanh thánh kiếm Lamborise đã phong ấn linh hồn của Harlan bên trong nó. Vì lẽ đó, Thánh Bur đã chôn giấu thanh kiếm ở trong Mê Cung Vực Sâu Ác Mộng nhằm ngăn Harlan tái sinh.<br><br> Nhiều thiên niên kỷ trôi qua, thanh thần kiếm đã dần bị ô uế bởi loài quỷ dữ.<br><br> Và khoảnh khắc mà Harlan thoát khỏi sự giam cầm, hắn sẽ trở lại và nhấn chìm mọi thứ trong cơn thù hận. Hãy tốc hành đến Mê Cung Vực Sâu Ác Mộng và phá hủy thanh kiếm ấy.",
+	"vi": "Thuở xa xưa, Đấng Tạo Hóa Bur và Chúa Quỷ Harlan đã có một trận chiến long trời lở đất tại vùng đất Mirelia này. Đến cuối cùng, Thần Bur đã mượn sức mạnh của các đại nguyên tố là Cội Nguồn Sức Mạnh của Mirelia và tạo ra thần kiếm 'Lamborisa', nhờ đó mà đoạt được mạng Harlan.<br><br>Thanh thánh kiếm Lamborise đã phong ấn linh hồn của Harlan bên trong nó. Vì lẽ đó, Thánh Bur đã chôn giấu thanh kiếm ở trong Mê Cung Vực Sâu Ác Mộng nhằm ngăn Harlan tái sinh.<br><br> Nhiều thiên niên kỷ trôi qua, thanh thần kiếm đã dần bị ô uế bởi loài quỷ dữ.<br><br> Và khoảnh khắc mà Harlan thoát khỏi sự giam cầm, hắn sẽ trở lại và nhấn chìm mọi thứ trong cơn thù hận. Hãy tốc hành đến Mê Cung Vực Sâu Ác Mộng và phá hủy thanh kiếm ấy.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3464,8 +3464,8 @@ locale["quest.46.texts.objective"] = {
 	"id": ""
 };
 locale["quest.46.texts.description"] = {
-	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Serenia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
-	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Serenia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
+	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Mirelia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
+	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Mirelia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3474,7 +3474,7 @@ locale["quest.46.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ngươi có biết về tổ chức của <i>Thợ Săn Quái Vật</i>? Nó không thuộc về bất kì quốc gia nào, nhưng lại là tổ chức cứ sức ảnh hưởng lan ra toàn lục địa Serenia. Họ là những người lính đánh thuê chuyên đi tiêu diệt quỷ dữ. Để có thể chống lại bọn quỷ ở Harlan, Nhà Vua đã thuê vài Thợ Săn Quái Vật, nhưng ta không tin chúng, đó là lý sao ta lại hỏi ngươi.",
+	"vi": "Ngươi có biết về tổ chức của <i>Thợ Săn Quái Vật</i>? Nó không thuộc về bất kì quốc gia nào, nhưng lại là tổ chức cứ sức ảnh hưởng lan ra toàn lục địa Mirelia. Họ là những người lính đánh thuê chuyên đi tiêu diệt quỷ dữ. Để có thể chống lại bọn quỷ ở Harlan, Nhà Vua đã thuê vài Thợ Săn Quái Vật, nhưng ta không tin chúng, đó là lý sao ta lại hỏi ngươi.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -5397,8 +5397,8 @@ locale["quest.71.texts.objective"] = {
 	"id": ""
 };
 locale["quest.71.texts.description"] = {
-	"en": "I'm Kuroom, the new evil lord in Serenia. One day in the future, I'll defeat Harlan and Bur and control the whole world!<br><br>But every evil lords start by recruiting minions. I need to hire enough minions. Could you ask the residents here if they want to join me? Kill them if they don't.",
-	"fr": "Je suis Kuroom, le nouveau seigneur maléfique de Serenia. Un jour, je tuerais Harlan et Bur et je contrôlerais le monde!<br><br>Mais tous les seigneurs maléfiques commencent par recruter des sbires. J'ai besoin d'en recruter un grand nombre. Pouvez vous demander aux résidents de ces lieux de me rejoindre? Tuez les s'ils ne veulent pas.",
+	"en": "I'm Kuroom, the new evil lord in Mirelia. One day in the future, I'll defeat Harlan and Bur and control the whole world!<br><br>But every evil lords start by recruiting minions. I need to hire enough minions. Could you ask the residents here if they want to join me? Kill them if they don't.",
+	"fr": "Je suis Kuroom, le nouveau seigneur maléfique de Mirelia. Un jour, je tuerais Harlan et Bur et je contrôlerais le monde!<br><br>Mais tous les seigneurs maléfiques commencent par recruter des sbires. J'ai besoin d'en recruter un grand nombre. Pouvez vous demander aux résidents de ces lieux de me rejoindre? Tuez les s'ils ne veulent pas.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5407,7 +5407,7 @@ locale["quest.71.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ta là Kuroom, chúa quỷ mới ở vùng đất Serenia này. Một ngày trong tương lai không xa, ta sẽ đánh bại Harlan và Bur sau đó chiếm đoạt cả thế giới này!<br><br>Nhưng mọi chúa quỷ đều bắt đầu bằng việc tuyển chọn quân tay sai. Ta cần phải có đủ tay sai. Liệu ngươi có thể hỏi người dân quanh đây liệu rằng họ có muốn gia nhập cùng ta không? Nếu chúng trả lời là không thì cứ giết quách cho ta.",
+	"vi": "Ta là Kuroom, chúa quỷ mới ở vùng đất Mirelia này. Một ngày trong tương lai không xa, ta sẽ đánh bại Harlan và Bur sau đó chiếm đoạt cả thế giới này!<br><br>Nhưng mọi chúa quỷ đều bắt đầu bằng việc tuyển chọn quân tay sai. Ta cần phải có đủ tay sai. Liệu ngươi có thể hỏi người dân quanh đây liệu rằng họ có muốn gia nhập cùng ta không? Nếu chúng trả lời là không thì cứ giết quách cho ta.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -5543,8 +5543,8 @@ locale["quest.73.texts.objective"] = {
 	"id": ""
 };
 locale["quest.73.texts.description"] = {
-	"en": "Dear <b>{0}</b>, the evil army's invasion to Wonderland continent has caused the Knights to be really busy. But we still need to maintain the resident's daily life. Please find out if the residents need something!",
-	"fr": "Cher <b>{0}</b>, l'invasion de l'armée maléfique en Wonderland a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
+	"en": "Dear <b>{0}</b>, the evil army's invasion to Mirelia continent has caused the Knights to be really busy. But we still need to maintain the resident's daily life. Please find out if the residents need something!",
+	"fr": "Cher <b>{0}</b>, l'invasion de l'armée maléfique en Mirelia a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9839,7 +9839,7 @@ locale["quest.10003.texts.objective"] = {
 	"id": ""
 };
 locale["quest.10003.texts.description"] = {
-	"en": "I really need a good belt for my collection, belts made of snake skin are very beautiful and tough. But in Serenia, snakes are rare. Well, in fact, my request is not so hard, just get me a belt made by yourself. ",
+	"en": "I really need a good belt for my collection, belts made of snake skin are very beautiful and tough. But in Mirelia, snakes are rare. Well, in fact, my request is not so hard, just get me a belt made by yourself. ",
 	"fr": "J'ai vraiment besoin d'une bonne ceinture pour ma collection, celles faites de peau de serpent sont vraiment belles et resistantes. Mais dans le coin, les serpents sont rares. En fait, ma demande n'est pas si difficile, apportez moi une ceinture que vous avez faites vous même.",
 	"es": "",
 	"ch": "",
@@ -9849,7 +9849,7 @@ locale["quest.10003.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ta thật sự cần một cái đai tốt cho bộ sưu tập, đai làm từ da rắn rất đẹp và cứng. Nhưng ở Serenia, rắn rất hiếm. Thì hay, thức tế là, nhiệm vụ ta giao cho cũng không có khó, chỉ cần ngươi tự làm cho ta một cái thôi.",
+	"vi": "Ta thật sự cần một cái đai tốt cho bộ sưu tập, đai làm từ da rắn rất đẹp và cứng. Nhưng ở Mirelia, rắn rất hiếm. Thì hay, thức tế là, nhiệm vụ ta giao cho cũng không có khó, chỉ cần ngươi tự làm cho ta một cái thôi.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -10331,7 +10331,7 @@ locale["quest.35000.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35000.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Serenia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Sérénia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"ch": "",
@@ -10341,7 +10341,7 @@ locale["quest.35000.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Kuroom muốn là con trùm tối thượng nhất ở Serenia! Nhưng trước đó, Kuroom muốn có một thành phố ngầm cho riêng nó. Như là một bãi quái rác thải vậy, Điện Tinh Anh, sẽ thật là tuyệt vời nếu chúng ta dựng lại nơi này thành ác điện của Kuroom!<br><br>Nếu ngươi muốn giúp, ta có thể cho ngươi cả một lục địa ngay sau khi ta trở thành chúa tể của thế giới này!",
+	"vi": "Kuroom muốn là con trùm tối thượng nhất ở Mirelia! Nhưng trước đó, Kuroom muốn có một thành phố ngầm cho riêng nó. Như là một bãi quái rác thải vậy, Điện Tinh Anh, sẽ thật là tuyệt vời nếu chúng ta dựng lại nơi này thành ác điện của Kuroom!<br><br>Nếu ngươi muốn giúp, ta có thể cho ngươi cả một lục địa ngay sau khi ta trở thành chúa tể của thế giới này!",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -11355,8 +11355,8 @@ locale["quest.40013.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40013.texts.description"] = {
-	"en": "New warriors are getting attacked by Bees, which stop them from progressing and mostly leads to their death! Help them by eliminating those bee and keeping the world of Serenia safe.",
-	"fr": "De nouveaux guerriers se font attaquer par des abeilles, ce qui les empêche de progresser et finit par les conduire à leur mort! Aidez-les en éliminant ces abeilles et en gardant le monde de Serenia en sécurité.",
+	"en": "New warriors are getting attacked by Bees, which stop them from progressing and mostly leads to their death! Help them by eliminating those bee and keeping the world of Mirelia safe.",
+	"fr": "De nouveaux guerriers se font attaquer par des abeilles, ce qui les empêche de progresser et finit par les conduire à leur mort! Aidez-les en éliminant ces abeilles et en gardant le monde de Mirelia en sécurité.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11365,7 +11365,7 @@ locale["quest.40013.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Những chiến binh mới đang bị Ong tấn công, ngăn cản bước tiến và dẫn họ đến với cái chết! Giúp họ bằng cách tiêu diệt lũ ong và giữ cho thế giới của Serenia an toàn.",
+	"vi": "Những chiến binh mới đang bị Ong tấn công, ngăn cản bước tiến và dẫn họ đến với cái chết! Giúp họ bằng cách tiêu diệt lũ ong và giữ cho thế giới của Mirelia an toàn.",
 	"ar": "",
 	"it": "",
 	"pl": "",
