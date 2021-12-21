@@ -38,7 +38,7 @@ locale["quest.0.texts.objective"] = {
 };
 locale["quest.0.texts.description"] = {
 	"en": "Welcome to Mirelia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
-	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'arbre monde, domaine du royaume de Kane, qui fait partie d'un royaume religieux qui croit au dieu de la création, Waen. Demande plus de renseignements au chef.",
+	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'arbre monde, domaine du Royaume de Kane, qui fait partie d'un Royaume religieux qui croit au dieu de la création, Bur. Demande plus de renseignements au chef.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -366,7 +366,7 @@ locale["quest.4.texts.description"] = {
 };
 locale["quest.4.texts.returnPopupMain"] = {
 	"en": "Ah! What's about that wound! I am so sorry i shouldn't let you go alone. It my fault.</br>Put this on, it will protect you.",
-	"fr": "Oh! Comment t'est tu fait cette blessure? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
+	"fr": "Oh! Comment t'es-tu fait cette blessure? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -494,7 +494,7 @@ locale["quest.6.name"] = {
 };
 locale["quest.6.texts.objective"] = {
 	"en": "Enter the Gold Shop and get the <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Military Food</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
-	"fr": "Ouvre le magasin et achète la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apporte la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
+	"fr": "Ouvrez le magasin et achètez la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apportez la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -512,7 +512,7 @@ locale["quest.6.texts.objective"] = {
 };
 locale["quest.6.texts.description"] = {
 	"en": "Batu is the guard captain who protects this town. He is camped just outside the village.The chief sends supplies to his guards everyday. Today the delivery boy was sick and couldn't work. Please buy some food and bring them to Batu.",
-	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'exterieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, achetez de la nourriture et amenez là à Batu",
+	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'extérieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, achetez de la nourriture et amenez là à Batu",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -549,7 +549,7 @@ locale["quest.6.texts.returnPopupMain"] = {
 
 locale["quest.7.name"] = {
 	"en": "Treefolk Town (8)",
-	"fr": "L'arbre du monde (8)",
+	"fr": "Arbre Monde (8)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -658,7 +658,7 @@ locale["quest.8.name"] = {
 };
 locale["quest.8.texts.objective"] = {
 	"en": "If you can collect some materials for <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>, he can craft a new weapon for you.",
-	"fr": "Si vous pouvez collecter des materiaux pour <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>, il peut fabriquer une nouvelle arme pour vous.",
+	"fr": "Si vous pouvez collecter des matériaux pour <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>, il peut fabriquer une nouvelle arme pour vous.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -676,7 +676,7 @@ locale["quest.8.texts.objective"] = {
 };
 locale["quest.8.texts.description"] = {
 	"en": "The first set of materials can be gathered from Baby Ostrider. Collect the two kinds of materials from Baby Ostriders and report to Hawking",
-	"fr": "Le premier ensemble de matériaux peut être collecté sur les bébé Ostrider. Collectez les 2 types de materiaux sur les bébé Ostrider et faites votre rapport a Hawking",
+	"fr": "Le premier ensemble de matériaux peut être collecté sur les bébé Ostrider. Collectez les 2 types de matériaux sur les bébé Ostrider et faites votre rapport a Hawking",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -694,7 +694,7 @@ locale["quest.8.texts.description"] = {
 };
 locale["quest.8.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquer votre arme.",
+	"fr": "Je ne vais pas prendre ces matériaux. Vous pouvez les garder et fabriquer votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -731,7 +731,7 @@ locale["quest.9.name"] = {
 };
 locale["quest.9.texts.objective"] = {
 	"en": "The Second set of materials can be collected from <span class='text-link' data-target-type='mob' data-target-id='5'>Prum Bear</span>. Collect the two types of materials and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le second ensemble de materiaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de materiaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le second ensemble de matériaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de matériaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -749,7 +749,7 @@ locale["quest.9.texts.objective"] = {
 };
 locale["quest.9.texts.description"] = {
 	"en": "It takes 3 to 5 materials to manufacture a weapon. We have just collected one of them, the next step is to get the next material.",
-	"fr": "Cela prend de 3 à 5 materiaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le materiaux suivant.",
+	"fr": "Cela prend de 3 à 5 matériaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le matériaux suivant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -767,7 +767,7 @@ locale["quest.9.texts.description"] = {
 };
 locale["quest.9.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquer votre arme.",
+	"fr": "Je ne vais pas prendre ces matériaux. Vous pouvez les garder et fabriquer votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -804,7 +804,7 @@ locale["quest.10.name"] = {
 };
 locale["quest.10.texts.objective"] = {
 	"en": "The final material can be collected from <span class='text-link' data-target-type='mob' data-target-id='10'>Goblin Thief</span>. Find Goblin's Stick and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le dernier materiaux peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le dernier matériaux peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -822,7 +822,7 @@ locale["quest.10.texts.objective"] = {
 };
 locale["quest.10.texts.description"] = {
 	"en": "It takes 3 to 5 materials to manufacture a weapon. We have just collected one of them, the next step is to get the next material.",
-	"fr": "Cela prend de 3 à 5 materiaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le materiaux suivant.",
+	"fr": "Cela prend de 3 à 5 matériaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le matériaux suivant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -840,7 +840,7 @@ locale["quest.10.texts.description"] = {
 };
 locale["quest.10.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquez votre arme.",
+	"fr": "Je ne vais pas prendre ces matériaux. Vous pouvez les garder et fabriquez votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -877,7 +877,7 @@ locale["quest.11.name"] = {
 };
 locale["quest.11.texts.objective"] = {
 	"en": "Open the <span class='text-link' onclick='game.craft.show();'>Craft Menu</span> and make a weapon using the materials. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Ouvrez le <span class='text-link' onclick='game.craft.show();'>Menu de Fabrication</span> et créer une arme en utilisant les materiaux. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Ouvrez le <span class='text-link' onclick='game.craft.show();'>Menu de Fabrication</span> et créer une arme en utilisant les matériaux. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -895,7 +895,7 @@ locale["quest.11.texts.objective"] = {
 };
 locale["quest.11.texts.description"] = {
 	"en": "All the materials are ready. Now open \"Craft\" menu and start crafting a weapon. Don't pick a weapon that's not for your class.",
-	"fr": "Tous les materiaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
+	"fr": "Tous les matériaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1606,7 +1606,7 @@ locale["quest.20.texts.objective"] = {
 };
 locale["quest.20.texts.description"] = {
 	"en": "Make some potions using the materials you just collected. It will be helpful in your future journey.",
-	"fr": "Fabriquez quelques potions en utilisant les materiaux que vous venez d'obtenir. Elles seront utiles lors de vos futures aventures.",
+	"fr": "Fabriquez quelques potions en utilisant les matériaux que vous venez d'obtenir. Elles seront utiles lors de vos futures aventures.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1679,7 +1679,7 @@ locale["quest.21.texts.objective"] = {
 };
 locale["quest.21.texts.description"] = {
 	"en": "The more powerful you are, the more duties you need to take. Now we have a dangerous task for you to complete. Why you? because everyone i sent before you is dead. I am pretty sure you have better luck than others.",
-	"fr": "Plus vous êtes puissant, plus vous devez assumer de tâches. Maintenant, nous avons une tâche dangereuse à vous faire accomplir. Pourquoi vous? Parce que chaque personne que j'ai envoyé avant vous est morte. Je suis sûr que vous aurez plus de chance que les autres.",
+	"fr": "Plus vous êtes puissant, plus vous devez assumer de tâches. Maintenant, nous avons une tâche dangereuse à vous faire accomplir. Pourquoi vous? Parce que chaque personne que j'ai envoyé avant vous est morte. Je suis sûr que vous aurez plus de chances que les autres.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1697,7 +1697,7 @@ locale["quest.21.texts.description"] = {
 };
 locale["quest.21.texts.returnPopupMain"] = {
 	"en": "Like i told you, you have better luck than others.",
-	"fr": "Comme je te l'ai dit, tu as plus de chance que les autres.",
+	"fr": "Comme je te l'ai dit, tu as plus de chances que les autres.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1770,7 +1770,7 @@ locale["quest.22.texts.description"] = {
 };
 locale["quest.22.texts.returnPopupMain"] = {
 	"en": "The people believed in Bur, and regarded the Bishop as the herald of the God. After reading the mage's magic is a threat, Bishop Geoff threw them in the prison as herectics. As a captain of the knight order, Spiker had to follow the Bishop. Finally, he realised that the Bishop was insane and the people of Vanderbot were in turmoil.",
-	"fr": "Les gens croient en 'Waen', et considérait l'Évêque comme le messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
+	"fr": "Les gens croient en 'Bur', et considérait l'Évêque comme le messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1989,7 +1989,7 @@ locale["quest.25.texts.objective"] = {
 };
 locale["quest.25.texts.description"] = {
 	"en": "Welcome to Cain dear adventurer. The Kingdom needs more warriors like you. You have done an exellent job so far, however the tasks might become way more difficult from now on, if you are ready to face trouble, visit the Bishop.",
-	"fr": "Bienvenue à Kane cher aventurier. Le royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile a partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
+	"fr": "Bienvenue à Kane cher aventurier. Le Royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile a partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2062,7 +2062,7 @@ locale["quest.26.texts.objective"] = {
 };
 locale["quest.26.texts.description"] = {
 	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Mirelia. In the end, Bur borrowed from the elemental Power of Mirelia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
-	"fr": "Il y a bien longtemps, le Dieu de la Création Waen et le Dieu maléfique Harlan ont mené une guerre épique en Mirelia. Au final, Waen emprunta la puissance des éléments de WonMirelia créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Waen cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
+	"fr": "Il y a bien longtemps, le Dieu de la Création Bur et le Dieu maléfique Harlan ont mené une guerre épique en Mirelia. Au final, Bur emprunta la puissance des éléments de WonMirelia créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Bur cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2153,7 +2153,7 @@ locale["quest.27.texts.description"] = {
 };
 locale["quest.27.texts.returnPopupMain"] = {
 	"en": "Greetings, adventurer! We are having a difficult time. To the South in Lahm Coast area, the fish are attacking. To the North, in the Celebeam Cave we have cave-ins. To the West in the King's graves, there are rumors of hauntings. May Bur protects us.",
-	"fr": "Bienvenue aventurier! Nous traversons une période difficile. Au Sud, dans les Rive de Lahm, les poissons nous attaquent. Au Nord, dans les Caves de Celebeam il y a des éboulements. À l'Ouest, dans les catacombes royales, les rumeurs disent que l'endroit serait hanté. Que Waen nous protège.",
+	"fr": "Bienvenue aventurier! Nous traversons une période difficile. Au Sud, dans les Rive de Lahm, les poissons nous attaquent. Au Nord, dans les Caves de Celebeam il y a des éboulements. À l'Ouest, dans les catacombes royales, les rumeurs disent que l'endroit serait hanté. Que Bur nous protège.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6420,7 +6420,7 @@ locale["quest.85.texts.objective"] = {
 };
 locale["quest.85.texts.description"] = {
 	"en": "You are tough, my friend! However your development is a bit slow. Go back to Cain Kingdom and talk to the quest agent. He will tell you something interesting and help you develop faster.",
-	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au royaume de Kane et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
+	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au Royaume de Kane et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8925,7 +8925,7 @@ locale["quest.1002.texts.objective"] = {
 //Lvl 5 part 2
 locale["quest.1003.texts.objective"] = {
 	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
-	"fr": "Parlez à la méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
+	"fr": "Parlez à la méssagère de Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8943,7 +8943,7 @@ locale["quest.1003.texts.objective"] = {
 };
 locale["quest.1004.texts.objective"] = {
 	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
-	"fr": "Parlez à la méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
+	"fr": "Parlez à la méssagère de Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8961,7 +8961,7 @@ locale["quest.1004.texts.objective"] = {
 };
 locale["quest.1005.texts.objective"] = {
 	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
-	"fr": "Parlez à la méssagère de Waen <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
+	"fr": "Parlez à la méssagère de Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10276,7 +10276,7 @@ locale["quest.30000.triggers.0.text"] = {
 };
 locale["quest.30000.texts.returnPopupMain"] = {
 	"en": "Take it, it is a testament to the contribution your guild has made for the kingdom.",
-	"fr": "Prenez-le, c'est une preuve de la contribution que votre guilde à faite au royaume.",
+	"fr": "Prenez-le, c'est une preuve de la contribution que votre guilde à faite au Royaume.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11064,7 +11064,7 @@ locale["quest.40009.texts.objective"] = {
 };
 locale["quest.40009.texts.description"] = {
 	"en": "The Evil Spirits are starting to haunt houses on the Kingdom, it seems that some of them managed to get out of the cave. Eradicate them to be sure they won't show up again.",
-	"fr": "Les Esprits Maléfique commencent a hanter les maisons du royaume, il semblerais que certains d'entre eux aient réussit a sortir de la Cave. Éliminez-les pour être sûr qu'ils ne réapparaîtront plus.",
+	"fr": "Les Esprits Maléfique commencent a hanter les maisons du Royaume, il semblerais que certains d'entre eux aient réussit a sortir de la Cave. Éliminez-les pour être sûr qu'ils ne réapparaîtront plus.",
 	"es": "",
 	"ch": "",
 	"kr": "",
