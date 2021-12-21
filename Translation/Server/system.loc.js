@@ -635,4 +635,41 @@ locale["system.blessing.requires-n-blessing"] = {
 	"id": ""
 };
 
+locale["system.fortify.invalid-parameter"] = {
+	"en":"The item chosen or the gem quantity is invalid",
+	"fr":"L'objet choisi ou la quantité de gemme est invalide",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.fortify.already-maxed-out"] = {
+	"en":"This gear is already maxed out",
+	"fr":"Cet equipement est déjà monté au maximum",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
