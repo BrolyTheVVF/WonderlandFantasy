@@ -3184,6 +3184,24 @@ locale["npc.100036.interact.GET_DAILY_QUEST"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100047.interact.GOTO_CONTINENT_1"] = {
+	"en": "Sail to Cain Kingdom",
+	"fr": "Naviguer jusqu'au Royaume de Kane",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100047.interact.GOTO_CONTINENT_2"] = {
 	"en": "Sail to Muradin Harbor (Lv 30)",
 	"fr": "Naviguer jusqu'au Port de Muradin (Nv 30)",
