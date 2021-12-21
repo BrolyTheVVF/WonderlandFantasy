@@ -3077,8 +3077,8 @@ locale["npc.100036.interact.GET_DAILY_QUEST"] = {
 	"id": ""
 };
 locale["npc.100047.interact.GOTO_CONTINENT_2"] = {
-	"en": "... npc.100047.interact.GOTO_CONTINENT_2 ...",
-	"fr": "",
+	"en": "Sail to the desert (Lv 30)",
+	"fr": "Naviguer jusqu'au desert (Nv 30)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3087,7 +3087,7 @@ locale["npc.100047.interact.GOTO_CONTINENT_2"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "... npc.100047.interact.GOTO_CONTINENT_2 ...",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
