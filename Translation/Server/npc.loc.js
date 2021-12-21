@@ -2617,6 +2617,42 @@ locale["npc.100052.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100053.name"] = {
+	"en": "Keloni",
+	"fr": "Keloni",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Keloni",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100053.title"] = {
+	"en": "Pirate Squad Leader",
+	"fr": "Chef d'Escouade Pirates",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **

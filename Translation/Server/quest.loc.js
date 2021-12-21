@@ -8552,6 +8552,79 @@ locale["quest.112.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.113.name"] = {
+	"en": "Pirates from a Foreign Land (2)",
+	"fr": "Pirates d'un pays étranger (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.113.texts.objective"] = {
+	"en": "Retrieve Captain Grant's ship.",
+	"fr": "Récupérer le bateau du Capitaine Grant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.113.texts.description"] = {
+	"en": "Traveler! Welcome to Fain Desert! I am in charge of this harbor. I should have given you a formal introduction about our land, but, I am not really in the mood.<br><br>No one can rest easily with a whole ship of cargo lost. Those Cat Pirates are so annoying! They took all the cargo, leaving not even a single coin. I do not have the ressources to replace it.",
+	"fr": "Voyageur! Bienvenue au Desert de Fain! Je suis responsable de ce port. J'aurais dû vous présenter formellement nos terre, mais je ne suis pas vraiment d'humeur.<br><br>Personne ne peut se reposer facilement avec tout un navire de cargaison perdu. Ces Pirates Chat sont tellement ennuyeux! Ils ont pris toute la cargaison, ne laissant même pas une seule pièce. Je n'ai pas les ressources pour la remplacer.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.113.texts.returnPopupMain"] = {
+	"en": "Negotiate? Are you kidding me rookie? You pay ransom to get back the ship. Or... Your life.",
+	"fr": "Négocier? Tu te moques de moi la recrue? Vous payez la rançon pour récupérer le navire. Ou... Votre vie.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
