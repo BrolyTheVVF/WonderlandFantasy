@@ -8479,6 +8479,80 @@ locale["quest.111.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.112.name"] = {
+	"en": "Pirates from a Foreign Land (1)",
+	"fr": "Pirates d'un pays étranger (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.112.texts.objective"] = {
+	"en": "Take the boat with <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> and reach Muradin Harbor, then talk to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Prennez le bateau avec <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> et atteignez le Port de Muradin, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.112.texts.description"] = {
+	"en": "My friend need help in desert! They are being attacked by multiple creatures that never been seen before! Help them please.",
+	"fr": "Mes amis ont besoin d'aide dans le désert ! Ils sont attaqués par de multiples créatures jamais vues auparavant ! Aidez-les s'il vous plaît.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.112.texts.returnPopupMain"] = {
+	"en": "Traveler! Welcome to the desert of Fain! I am in charge of the vessel traffic here.",
+	"fr": "Voyageur! Bienvenue dans le desert de Fain! Je suis responsable du trafic maritime ici.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
 	"fr": "Fortifier une Arme - Forgeron",
