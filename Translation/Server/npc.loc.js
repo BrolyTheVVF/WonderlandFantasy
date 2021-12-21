@@ -831,6 +831,24 @@ locale["npc.45.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.46.name"] = {
+	"en": "Captain Hook",
+	"fr": "Capitaine Crochet",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Sao Biển Tỏa Nắng",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
