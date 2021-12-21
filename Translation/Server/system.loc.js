@@ -671,5 +671,23 @@ locale["system.fortify.already-maxed-out"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.fortify.upgrade-failed"] = {
+	"en":"The upgrade of your gear failed",
+	"fr":"Le renforcement de votre équipement a échoué",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
