@@ -2,7 +2,7 @@ var locale = {};
 
 locale["quest.0.name"] = {
 	"en": "Treefolk Town (1)",
-	"fr": "Arbre Monde (1)",
+	"fr": "L'arbre du monde (1)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -20,7 +20,7 @@ locale["quest.0.name"] = {
 };
 locale["quest.0.texts.objective"] = {
 	"en": "Village Chief <span class='text-link' data-target-type='npc' data-target-id='100001'>Tamus</span> is excepting you. Talk to him.",
-	"fr": "Le Chef du village <span class='text-link' data-target-type='npc' data-target-id='100001'>Tom</span> vous recherche. Allez lui parler.",
+	"fr": "Le chef du village <span class='text-link' data-target-type='npc' data-target-id='100001'>Tom</span> vous recherche. Allez lui parler.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -37,17 +37,17 @@ locale["quest.0.texts.objective"] = {
 	"id": ""
 };
 locale["quest.0.texts.description"] = {
-	"en": "Welcome to Serenia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
-	"fr": "Bienvenue dans le monde de Wonderland. Ici, c'est la ville de de l'Arbre Monde, domaine du royaume de Kane, qui fait partie d'un Royaume religieux qui croit au dieu de la création, Waen. Demandez plus de renseignements au chef.",
+	"en": "Welcome to Mirelia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
+	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'arbre monde, domaine du royaume de Kane, qui fait partie d'un royaume religieux qui croit au dieu de la création, Waen. Demande plus de renseignements au chef.",
 	"es": "",
 	"ch": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Willkommen in Serenia. Diese Ort wird Treefolk Town genannt. Es ist Teil des Königreichs Cain, welches Teil des religiösen Königreichs ist, das den Gott der Schöpfung Bur anbetet. Rede mit dem Dorfhäuptling um mehr darüber zu erfahren. ",
+	"de": "Willkommen in Mirelia. Diese Ort wird Treefolk Town genannt. Es ist Teil des Königreichs Cain, welches Teil des religiösen Königreichs ist, das den Gott der Schöpfung Bur anbetet. Rede mit dem Dorfhäuptling um mehr darüber zu erfahren. ",
 	"jp": "",
 	"pt": "",
-	"vi": "Chào mừng đến với Serenia. Nơi đây được gọi là Cổ Thụ Trấn. Nó là một phần của Vương Đô Cain, thuộc một vương quốc tôn giáo thờ phụng Vị Thần Tạo Hóa Bur. Hãy nói chuyện với Trưởng Làng để biết thêm thông tin chi tiết.",
+	"vi": "Chào mừng đến với Mirelia. Nơi đây được gọi là Cổ Thụ Trấn. Nó là một phần của Vương Đô Cain, thuộc một vương quốc tôn giáo thờ phụng Vị Thần Tạo Hóa Bur. Hãy nói chuyện với Trưởng Làng để biết thêm thông tin chi tiết.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -75,7 +75,7 @@ locale["quest.0.texts.returnPopupMain"] = {
 
 locale["quest.1.name"] = {
 	"en": "Treefolk Town (2)",
-	"fr": "Arbre Monde (2)",
+	"fr": "L'arbre du monde (2)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -93,7 +93,7 @@ locale["quest.1.name"] = {
 };
 locale["quest.1.texts.objective"] = {
 	"en": "Find <span class='text-link' data-target-type='npc' data-target-id='100004'>Garnias</span> near the entrance of the village.",
-	"fr": "Trouvez <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
+	"fr": "Trouver <span class='text-link' data-target-type='npc' data-target-id='100004'>Galnas</span> à l'entrée du village.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -148,7 +148,7 @@ locale["quest.1.texts.returnPopupMain"] = {
 
 locale["quest.2.name"] = {
 	"en": "Treefolk Town (3)",
-	"fr": "Arbre Monde (3)",
+	"fr": "L'arbre du monde (3)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -239,7 +239,7 @@ locale["quest.2.objective.0.name"] = {
 
 locale["quest.3.name"] = {
 	"en": "Treefolk Town (4)",
-	"fr": "Arbre Monde (4)",
+	"fr": "L'arbre du monde (4)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -274,17 +274,17 @@ locale["quest.3.texts.objective"] = {
 	"id": ""
 };
 locale["quest.3.texts.description"] = {
-	"en": "To survive in Serenia, you need to hunt those monster.</br>You will get food and materials from them.",
-	"fr": "Pour survivre dans Serenia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des matériaux et des équiupements en les tuant.",
+	"en": "To survive in Mirelia, you need to hunt those monster.</br>You will get food and materials from them.",
+	"fr": "Pour survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des materiaux et des équiupements en les tuant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Um in Serenia zu überleben musst du Monster töten.</br>Du wirst etwas zu Nahrung und Materialien von Ihnen bekommen.",
+	"de": "Um in Mirelia zu überleben musst du Monster töten.</br>Du wirst etwas zu Nahrung und Materialien von Ihnen bekommen.",
 	"jp": "",
 	"pt": "",
-	"vi": "Để sống sót ở Serenia, cần phải săn những con quái thú.</br>Như vậy có thể lấy thịt và nguyên vật liệu từ chúng.",
+	"vi": "Để sống sót ở Mirelia, cần phải săn những con quái thú.</br>Như vậy có thể lấy thịt và nguyên vật liệu từ chúng.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -312,7 +312,7 @@ locale["quest.3.texts.returnPopupMain"] = {
 
 locale["quest.4.name"] = {
 	"en": "Treefolk Town (5)",
-	"fr": "Arbre Monde (5)",
+	"fr": "L'arbre du monde (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -348,7 +348,7 @@ locale["quest.4.texts.objective"] = {
 };
 locale["quest.4.texts.description"] = {
 	"en": "Good. Now i think you are good enough to challenge stronger monsters.</br></br>Those Baby Boars in Slime Plain always attack passengers. You need to teach them a lesson.",
-	"fr": "Bien, maintenant je suis rassuré que tu puisses défier des monstres plus puissants.<br><br>Ces petit sangliers de la Plaine des Slimes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
+	"fr": "Bien, maintenant je suis rassuré que tu puisse défier des monstres plus puissants.<br><br>Ces petit sangliers de la Plaine des Silmes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -366,7 +366,7 @@ locale["quest.4.texts.description"] = {
 };
 locale["quest.4.texts.returnPopupMain"] = {
 	"en": "Ah! What's about that wound! I am so sorry i shouldn't let you go alone. It my fault.</br>Put this on, it will protect you.",
-	"fr": "Oh! Comment t'es-tu fait cette blessure? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
+	"fr": "Oh! Comment t'est tu fait cette blessure? Je suis désolé, je n'aurais pas du te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègeras.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -385,7 +385,7 @@ locale["quest.4.texts.returnPopupMain"] = {
 
 locale["quest.5.name"] = {
 	"en": "Treefolk Town (6)",
-	"fr": "Arbre Monde (6)",
+	"fr": "L'arbre du monde (6)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -476,7 +476,7 @@ locale["quest.5.objective.0.name"] = {
 
 locale["quest.6.name"] = {
 	"en": "Treefolk Town (7)",
-	"fr": "Arbre Monde (7)",
+	"fr": "L'arbre du monde (7)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -494,7 +494,7 @@ locale["quest.6.name"] = {
 };
 locale["quest.6.texts.objective"] = {
 	"en": "Enter the Gold Shop and get the <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Military Food</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
-	"fr": "Ouvrez le magasin et achètez la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apportez la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
+	"fr": "Ouvre le magasin et achète la <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Nouriture Militaire</span>, puis apporte la à <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -512,7 +512,7 @@ locale["quest.6.texts.objective"] = {
 };
 locale["quest.6.texts.description"] = {
 	"en": "Batu is the guard captain who protects this town. He is camped just outside the village.The chief sends supplies to his guards everyday. Today the delivery boy was sick and couldn't work. Please buy some food and bring them to Batu.",
-	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'extérieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, achetez de la nourriture et amenez là à Batu",
+	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'exterieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, achetez de la nourriture et amenez là à Batu",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -549,7 +549,7 @@ locale["quest.6.texts.returnPopupMain"] = {
 
 locale["quest.7.name"] = {
 	"en": "Treefolk Town (8)",
-	"fr": "Arbre Monde (8)",
+	"fr": "L'arbre du monde (8)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -658,7 +658,7 @@ locale["quest.8.name"] = {
 };
 locale["quest.8.texts.objective"] = {
 	"en": "If you can collect some materials for <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>, he can craft a new weapon for you.",
-	"fr": "Si vous pouvez collecter des matériaux pour <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>, il peut fabriquer une nouvelle arme pour vous.",
+	"fr": "Si vous pouvez collecter des materiaux pour <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>, il peut fabriquer une nouvelle arme pour vous.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -676,7 +676,7 @@ locale["quest.8.texts.objective"] = {
 };
 locale["quest.8.texts.description"] = {
 	"en": "The first set of materials can be gathered from Baby Ostrider. Collect the two kinds of materials from Baby Ostriders and report to Hawking",
-	"fr": "Le premier ensemble de matériaux peut être collecté sur les Bébé Ostrider. Collectez les 2 types de matériaux sur les bébé Ostrider et faites votre rapport a Hawking",
+	"fr": "Le premier ensemble de matériaux peut être collecté sur les bébé Ostrider. Collectez les 2 types de materiaux sur les bébé Ostrider et faites votre rapport a Hawking",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -694,7 +694,7 @@ locale["quest.8.texts.description"] = {
 };
 locale["quest.8.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces matériaux. Vous pouvez les garder et fabriquer votre arme.",
+	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquer votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -731,7 +731,7 @@ locale["quest.9.name"] = {
 };
 locale["quest.9.texts.objective"] = {
 	"en": "The Second set of materials can be collected from <span class='text-link' data-target-type='mob' data-target-id='5'>Prum Bear</span>. Collect the two types of materials and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le second ensemble de matériaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de matériaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le second ensemble de materiaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de materiaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -749,7 +749,7 @@ locale["quest.9.texts.objective"] = {
 };
 locale["quest.9.texts.description"] = {
 	"en": "It takes 3 to 5 materials to manufacture a weapon. We have just collected one of them, the next step is to get the next material.",
-	"fr": "Cela prend de 3 à 5 matériaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le materiaux suivant.",
+	"fr": "Cela prend de 3 à 5 materiaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le materiaux suivant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -767,7 +767,7 @@ locale["quest.9.texts.description"] = {
 };
 locale["quest.9.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces matériaux. Vous pouvez les garder et fabriquer votre arme.",
+	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquer votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -804,7 +804,7 @@ locale["quest.10.name"] = {
 };
 locale["quest.10.texts.objective"] = {
 	"en": "The final material can be collected from <span class='text-link' data-target-type='mob' data-target-id='10'>Goblin Thief</span>. Find Goblin's Stick and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le dernier matériau peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le dernier materiaux peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -822,7 +822,7 @@ locale["quest.10.texts.objective"] = {
 };
 locale["quest.10.texts.description"] = {
 	"en": "It takes 3 to 5 materials to manufacture a weapon. We have just collected one of them, the next step is to get the next material.",
-	"fr": "Cela prend de 3 à 5 matériaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le matériau suivant.",
+	"fr": "Cela prend de 3 à 5 materiaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le materiaux suivant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -840,7 +840,7 @@ locale["quest.10.texts.description"] = {
 };
 locale["quest.10.texts.returnPopupMain"] = {
 	"en": "I won't take those materials , you can keep them and craft some weapons.",
-	"fr": "Je ne vais pas prendre ces matériaux. Vous pouvez les garder et fabriquez votre arme.",
+	"fr": "Je ne vais pas prendre ces materiaux. Vous pouvez les garder et fabriquez votre arme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -877,7 +877,7 @@ locale["quest.11.name"] = {
 };
 locale["quest.11.texts.objective"] = {
 	"en": "Open the <span class='text-link' onclick='game.craft.show();'>Craft Menu</span> and make a weapon using the materials. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Ouvrez le <span class='text-link' onclick='game.craft.show();'>Menu de Fabrication</span> et créez une arme en utilisant les matériaux. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Ouvrez le <span class='text-link' onclick='game.craft.show();'>Menu de Fabrication</span> et créer une arme en utilisant les materiaux. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -895,7 +895,7 @@ locale["quest.11.texts.objective"] = {
 };
 locale["quest.11.texts.description"] = {
 	"en": "All the materials are ready. Now open \"Craft\" menu and start crafting a weapon. Don't pick a weapon that's not for your class.",
-	"fr": "Tous les materiaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créez une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
+	"fr": "Tous les materiaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -931,7 +931,7 @@ locale["quest.11.texts.returnPopupMain"] = {
 };
 locale["quest.11.objective.0.name"] = {
 	"en": "Produce a Weapon",
-	"fr": "Fabriquez une Arme",
+	"fr": "Fabriquer une Arme",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -986,7 +986,7 @@ locale["quest.12.texts.objective"] = {
 };
 locale["quest.12.texts.description"] = {
 	"en": "I have taught you how to manufacture weapons. I will leave you to Aclair",
-	"fr": "Je vous ai appris à confectionner des armes. Je vous laisse entre les mains d'Aclair",
+	"fr": "Je vous ai appris à confectioner des armes. Je vous laisse entre les mains d'Aclair",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1041,7 +1041,7 @@ locale["quest.13.name"] = {
 };
 locale["quest.13.texts.objective"] = {
 	"en": "Use the world channel and let the world know that you are here! Then, say goodbye to <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span>.",
-	"fr": "Utilisez le canal monde et laissez savoir que vous êtes ici! Ensuite, dites au revoir à <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span>.",
+	"fr": "Utilisez le canal monde et laisser savoir que vous êtes ici! Ensuite, dites au revoir à <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1077,7 +1077,7 @@ locale["quest.13.texts.description"] = {
 };
 locale["quest.13.texts.returnPopupMain"] = {
 	"en": "Good! Talk to other adventurers and make some relationship.",
-	"fr": "Bien! Parlez à d'autres aventuriers et créez des relations.",
+	"fr": "Bien! Parle à d'autres aventuriers et créer des relations.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1095,7 +1095,7 @@ locale["quest.13.texts.returnPopupMain"] = {
 };
 locale["quest.13.objective.0.name"] = {
 	"en": "Speak in World Channel",
-	"fr": "Parlez dans le Canal Monde",
+	"fr": "Parlez dans le canal monde",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1150,7 +1150,7 @@ locale["quest.14.texts.objective"] = {
 };
 locale["quest.14.texts.description"] = {
 	"en": "Now you can set out from Treefolk Town. Knight Keros is in 'Lahm Coast' to the south fighting those Nagarians. He needs some help.<br>Keros is famous for his bad temper. Watch your mouth!",
-	"fr": "Maintenant, vous pouvez quitter la Ville de l'Arbre Monde. Le chevalier Keros est dans un campement, combattant ces Nagas sur les 'Rives de Lahm' au sud. Il a besoin d'aide.<br>Keros est connu pour sa mauvaise humeur. Surveille ton langage!",
+	"fr": "Maintenant, vous pouvez quitter la Ville de l'Arbre Monde. le chevalier Keros est dans un campement sur les 'Rives de Lahm' au sud, combattant ces Nagas. Il a besoin d'aide.<br>Keros est connu pour sa mauvaise humeur. Surveille ton langage!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1369,7 +1369,7 @@ locale["quest.17.name"] = {
 	};
 locale["quest.17.texts.objective"] = {
 	"en": "Use your Soul Gathering skill, and kill some <span class='text-link' data-target-type='mob' data-target-id='11'>Nagar Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
-	"fr": "Utilisez votre compétence de Collecte d'Âme, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='11'>Guerrier Nagar</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
+	"fr": "Utilisez votre compétence de Collecte d'Âme, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='11'>Guerrier Nagar</span>, puis faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1386,8 +1386,8 @@ locale["quest.17.texts.objective"] = {
 	"id": ""
 };
 locale["quest.17.texts.description"] = {
-	"en": "Raise your weapons, kids! Sweep those smallish monsters out of our land! Hail to the King!",
-	"fr": "Levez vos armes les enfants! Balayez ces petits monstres hors de nos terres! Vive le Roi!",
+	"en": "Raise your weapons, kids! Sweep those smallish monsters out of our land! Hail to the king!",
+	"fr": "Levez vos armes les enfants! Balayez ces petits monstres hors de nos terres! Vive le roi!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1460,7 +1460,7 @@ locale["quest.18.texts.objective"] = {
 };
 locale["quest.18.texts.description"] = {
 	"en": "I was a mercenary in the deserts years ago.<br>Do you know how people treat female warrior prisoners? Guess you don't want to know. Just remember that it won't work on those Nagarians. So the best solution is killing them all.",
-	"fr": "J'étais mercenaire dans le désert il y a quelques années.<br>Savez-vous comment les gens traitent les prisonnières guerrières? Je suppose que vous ne voulez pas le savoir. Rappelez-vous simplement que cela ne fonctionnera pas sur ces Nagas. Donc la meilleure solution est de tous les tuer.",
+	"fr": "J'étais mercenaire dans le desert il y a quelques années.<br>Savez-vous comment les gens traitent les prisonnières guerrières? Je suppose que vous ne voulez pas le savoir. Rappelez-vous simplement que cela ne fonctionnera pas sur ces Nagas. Donc la meilleure solution est de les tuer tous.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1623,8 +1623,8 @@ locale["quest.20.texts.description"] = {
 	"id": ""
 };
 locale["quest.20.texts.returnPopupMain"] = {
-	"en": "Stimulent? No no no, these potions are completly legal in Serenia. Don't worry they don't have any side effects... well, almost...",
-	"fr": "Stimulantes? Non non, ces potions sont complètement légales en Wonderland. Ne vous inquiétez pas elles n'ont pas d'effets secondaires... enfin, presque...",
+	"en": "Stimulent? No no no, these potions are completly legal in Mirelia. Don't worry they don't have any side effects... well, almost...",
+	"fr": "Stimulantes? Non non, ces potions sont complètement légales en Mirelia. Ne vous inquiétez pas elles n'ont pas d'effets secondaires... enfin, presque...",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1633,7 +1633,7 @@ locale["quest.20.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Chất kích thích? không không không, những lọ thuốc đấy hoàn toàn hợp pháp ở Serenia. Chớ có lo về việc nó sẽ có tác dụng phụ...thì, chắc vậy...",
+	"vi": "Chất kích thích? không không không, những lọ thuốc đấy hoàn toàn hợp pháp ở Mirelia. Chớ có lo về việc nó sẽ có tác dụng phụ...thì, chắc vậy...",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -1661,7 +1661,7 @@ locale["quest.21.name"] = {
 };
 locale["quest.21.texts.objective"] = {
 	"en": "You need to challenge the powerful <span class='text-link' data-target-type='mob' data-target-id='14'>Nagar Overseer</span>. Use the potions you just crafted and the battle will be easier. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
-	"fr": "Vous devez défier le puissant <span class='text-link' data-target-type='mob' data-target-id='14'>Surveillant Nagar</span>. Utilisez les potions que vous venez de fabriquer et le combat sera facile. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
+	"fr": "Vous devez defier le puissant <span class='text-link' data-target-type='mob' data-target-id='14'>Surveillant Nagar</span>. Utilisez les potions que vous venez de fabriquer et le combat sera facile. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1733,8 +1733,8 @@ locale["quest.22.name"] = {
 	"id": ""
 };
 locale["quest.22.texts.objective"] = {
-	"en": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> recognized your contribution to Lahm Coast. He suggested you to go to the King. But first, visit <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> in the Sacred Wilderness",
-	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> a reconnu votre contribution à Lahm Coast. il vous a parrainé auprès du Roi. Mais avant, rendez visite à <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> dans la Jungle Sacrée",
+	"en": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> recognized your contribution to Lahm Coast. He suggested you to go to the king. But first, visit <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> in the Sacred Wilderness",
+	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> a reconnu votre contribution à Lahm Coast. il vous a parrainé auprès du roi. Mais avant, rendez visite à <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> dans la Jungle Sacrée",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1751,8 +1751,8 @@ locale["quest.22.texts.objective"] = {
 	"id": ""
 };
 locale["quest.22.texts.description"] = {
-	"en": "The war here is turning in our favor because of your endeavor. You have shown the power and the capability of a Warrior! I will introduce you to the King. Head for the Cain Kingdom via Sacred Wilderness. The gravekeeper there is my old friend. Please salute him.",
-	"fr": "La guerre ici tourne en notre faveur grace à vos efforts. Vous avez démontré votre puissance et vos grandes capacités! Je vais vous présenter au Roi. Allez en direction du Royaume de Kane, en passant par la Jungle Sacrée. Le Gardien du Cimetière est un vieil ami. Passez-lui le bonjour.",
+	"en": "The war here is turning in our favor because of your endeavor. You have shown the power and the capability of a Warrior! I will introduce you to the king. Head for the Cain Kingdom via Sacred Wilderness. The gravekeeper there is my old friend. Please salute him.",
+	"fr": "La guerre ici tourne en notre faveur grace à vos efforts. Vous avez démontré votre puissance et vos grandes capacités! Je vais vous présenter au roi. Allez en direction du Royaume de Kane, en passant par la Jungle Sacrée. Le Gardien du Cimetière est un vieil ami. Passez lui le bonjour.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1770,7 +1770,7 @@ locale["quest.22.texts.description"] = {
 };
 locale["quest.22.texts.returnPopupMain"] = {
 	"en": "The people believed in Bur, and regarded the Bishop as the herald of the God. After reading the mage's magic is a threat, Bishop Geoff threw them in the prison as herectics. As a captain of the knight order, Spiker had to follow the Bishop. Finally, he realised that the Bishop was insane and the people of Vanderbot were in turmoil.",
-	"fr": "Les gens croient en 'Waen', et considéraient l'Évêque comme le messager du Dieu. Après avoir conclu que la magie des mages était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
+	"fr": "Les gens croient en 'Waen', et considérait l'Évêque comme le messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1807,7 +1807,7 @@ locale["quest.23.name"] = {
 };
 locale["quest.23.texts.objective"] = {
 	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> and prepare a gift for his son. Find some Sweet Honney from <span class='text-link' data-target-type='mob' data-target-id='16'>Bees</span>.",
-	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> et préparez un cadeau pour son fils. Trouvez du Miel doux sur des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeilles</span>.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> et preparez un cadeau pour son fils. Trouvez du Miel doux sur des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeilles</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1989,7 +1989,7 @@ locale["quest.25.texts.objective"] = {
 };
 locale["quest.25.texts.description"] = {
 	"en": "Welcome to Cain dear adventurer. The Kingdom needs more warriors like you. You have done an exellent job so far, however the tasks might become way more difficult from now on, if you are ready to face trouble, visit the Bishop.",
-	"fr": "Bienvenue à Kane cher aventurier. Le royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile à partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
+	"fr": "Bienvenue à Kane cher aventurier. Le royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile a partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2044,7 +2044,7 @@ locale["quest.26.name"] = {
 };
 locale["quest.26.texts.objective"] = {
 	"en": "Listen to the <span class='text-link' data-target-type='npc' data-target-id='100025'>Bishop</span>.",
-	"fr": "Écoutez l'<span class='text-link' data-target-type='npc' data-target-id='100025'>Évêque</span>.",
+	"fr": "Ecoutez l'<span class='text-link' data-target-type='npc' data-target-id='100025'>Évêque</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2061,8 +2061,8 @@ locale["quest.26.texts.objective"] = {
 	"id": ""
 };
 locale["quest.26.texts.description"] = {
-	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Serenia. In the end, Bur borrowed from the elemental Power of Serenia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
-	"fr": "Il y a bien longtemps, le Dieu de la Création Waen et le Dieu maléfique Harlan ont mené une guerre épique en Wonderland. Au final, Waen emprunta la puissance des éléments de Wonderland et créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'Épée Sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Waen cacha l'épée dans le Labyrinthe des Abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le Labyrinthe des Abysses et détruisez l'épée pour empêcher sa résurrection.",
+	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Mirelia. In the end, Bur borrowed from the elemental Power of Mirelia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
+	"fr": "Il y a bien longtemps, le Dieu de la Création Waen et le Dieu maléfique Harlan ont mené une guerre épique en Mirelia. Au final, Waen emprunta la puissance des éléments de WonMirelia créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Waen cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2071,7 +2071,7 @@ locale["quest.26.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Thuở xa xưa, Đấng Tạo Hóa Bur và Chúa Quỷ Harlan đã có một trận chiến long trời lở đất tại vùng đất Serenia này. Đến cuối cùng, Thần Bur đã mượn sức mạnh của các đại nguyên tố là Cội Nguồn Sức Mạnh của Serenia và tạo ra thần kiếm 'Lamborisa', nhờ đó mà đoạt được mạng Harlan.<br><br>Thanh thánh kiếm Lamborise đã phong ấn linh hồn của Harlan bên trong nó. Vì lẽ đó, Thánh Bur đã chôn giấu thanh kiếm ở trong Mê Cung Vực Sâu Ác Mộng nhằm ngăn Harlan tái sinh.<br><br> Nhiều thiên niên kỷ trôi qua, thanh thần kiếm đã dần bị ô uế bởi loài quỷ dữ.<br><br> Và khoảnh khắc mà Harlan thoát khỏi sự giam cầm, hắn sẽ trở lại và nhấn chìm mọi thứ trong cơn thù hận. Hãy tốc hành đến Mê Cung Vực Sâu Ác Mộng và phá hủy thanh kiếm ấy.",
+	"vi": "Thuở xa xưa, Đấng Tạo Hóa Bur và Chúa Quỷ Harlan đã có một trận chiến long trời lở đất tại vùng đất Mirelia này. Đến cuối cùng, Thần Bur đã mượn sức mạnh của các đại nguyên tố là Cội Nguồn Sức Mạnh của Mirelia và tạo ra thần kiếm 'Lamborisa', nhờ đó mà đoạt được mạng Harlan.<br><br>Thanh thánh kiếm Lamborise đã phong ấn linh hồn của Harlan bên trong nó. Vì lẽ đó, Thánh Bur đã chôn giấu thanh kiếm ở trong Mê Cung Vực Sâu Ác Mộng nhằm ngăn Harlan tái sinh.<br><br> Nhiều thiên niên kỷ trôi qua, thanh thần kiếm đã dần bị ô uế bởi loài quỷ dữ.<br><br> Và khoảnh khắc mà Harlan thoát khỏi sự giam cầm, hắn sẽ trở lại và nhấn chìm mọi thứ trong cơn thù hận. Hãy tốc hành đến Mê Cung Vực Sâu Ác Mộng và phá hủy thanh kiếm ấy.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2226,7 +2226,7 @@ locale["quest.28.texts.description"] = {
 };
 locale["quest.28.texts.returnPopupMain"] = {
 	"en": "What do you want Stranger?<br>I am a grocer here, selling basic weapons and armors, as well as potions. You can also sell your useless stuff for cash.<br>However, now I am totally out of job. Nothing for sale and nothing I would buy.",
-	"fr": "Que voulez-vous étranger?<br>Je suis l'épicière du coin, je vends des armes et armures basiques, et des potions. Vous pouvez aussi me vendre vos trucs inutiles.<br>Cependant, actuellement je suis sans emploi. Rien à vendre et rien à acheter.",
+	"fr": "Que voulez-vous étranger?<br>Je suis l'épicière du coin, je vend des armes et armures basiques, et des potions. Vous pouvez aussi me vendre vos trucs inutiles.<br>Cependant, actuellement je suis sans emploi. Rien à vendre et rien à acheter.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2409,7 +2409,7 @@ locale["quest.33.name"] = {
 };
 locale["quest.33.texts.objective"] = {
 	"en": "Frole's son was killed in the accident in Celebeam Cave. The sad Gravekeeper wishes that Kugarn at the Oracle Lake can ressurect his son. Bring some powder dropped by <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Le fils de Froles a été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Le fils de Frole a été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2418,7 +2418,7 @@ locale["quest.33.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Con của Froles đã chết trong tai nạn ở Hang Celebeam. Người Gác Mộ buồn bã ước rằng Kugarn ở Hồ Oracle có thể hồi sinh con trai anh ta. Đem phấn rơt ra từ <span class='text-link' data-target-type='mob' data-target-id='17'>Bướm Cầu Vồng</span> đến cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"vi": "Con của Frole đã chết trong tai nạn ở Hang Celebeam. Người Gác Mộ buồn bã ước rằng Kugarn ở Hồ Oracle có thể hồi sinh con trai anh ta. Đem phấn rơt ra từ <span class='text-link' data-target-type='mob' data-target-id='17'>Bướm Cầu Vồng</span> đến cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -2427,7 +2427,7 @@ locale["quest.33.texts.objective"] = {
 };
 locale["quest.33.texts.description"] = {
 	"en": "A couple of days ago, a messenger came from the city. He told me that my son James was killed in the accident in the Celebeam Cave. I can't accept this.",
-	"fr": "Il y a quelques jours, un message est arrivé de la ville. Il disait que mon fils James avait été tué dans un accident dans les Caves de Celebeam. Je ne peux l'accepter.",
+	"fr": "Il y a quelques jours, un message est arrivé de la ville. Il disait que mon fils James avait été tué dans un accident dans les Caves de Celebeam. Je ne peut l'accepter.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2482,7 +2482,7 @@ locale["quest.33.objective.0.name"] = {
 
 locale["quest.34.name"] = {
 	"en": "Son of the Gravekeeper (3)",
-	"fr": "Fils du Gardien du Cimetière (3)",
+	"fr": "Fils du Gardien du cimetière (3)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2591,7 +2591,7 @@ locale["quest.35.name"] = {
 };
 locale["quest.35.texts.objective"] = {
 	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beetle</span> to gather some Beetle's Tough Shell. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabée</span> pour recolter quelques Coquille Dure de Scarabée. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabée</span> pour recolter quelques Coquille de scarabée dure. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2609,7 +2609,7 @@ locale["quest.35.texts.objective"] = {
 };
 locale["quest.35.texts.description"] = {
 	"en": "This forest was a source of the magic power for the Cain Kingdom. Creatures with magical powers can be found everywhere, and they can be used to cast the spell. I need some Beetle's Tough Shell.",
-	"fr": "Cette forêt était la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisées pour lancer le sort. J'ai besoin de Coquille Dure de Scarabée.",
+	"fr": "Cette forêt était la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille de scarabée dure.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2645,7 +2645,7 @@ locale["quest.35.texts.returnPopupMain"] = {
 };
 locale["quest.35.objective.0.name"] = {
 	"en": "Beetle's Tough Shell",
-	"fr": "Coquille Dure de scarabée",
+	"fr": "Coquille de scarabée dure",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2664,7 +2664,7 @@ locale["quest.35.objective.0.name"] = {
 
 locale["quest.36.name"] = {
 	"en": "Son of the Gravekeeper (5)",
-	"fr": "Fils du Gardien du Cimetière (5)",
+	"fr": "Fils du Gardien du cimetière (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2755,7 +2755,7 @@ locale["quest.36.objective.0.name"] = {
 
 locale["quest.37.name"] = {
 	"en": "Son of the Gravekeeper (6)",
-	"fr": "Fils du Gardien du Cimetière (6)",
+	"fr": "Fils du Gardien du cimetière (6)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2773,7 +2773,7 @@ locale["quest.37.name"] = {
 };
 locale["quest.37.texts.objective"] = {
 	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> complete the ritual. Pray at the Mysterious Altar and defeat the <span class='text-link' data-target-type='mob' data-target-id='20'>Courier of Death</span>.<br><br>Then, talk to the revived James.",
-	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> a terminé le rituel. Priez à l'Autel Mystérieux et venez à bout du <span class='text-link' data-target-type='mob' data-target-id='20'>Gardien Mortel</span>.<br><br>Ensuite, parlez au James ressuscité.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> a terminer le rituel. Priez à l'Autel Mystérieux et venez à bout du <span class='text-link' data-target-type='mob' data-target-id='20'>Gardien Mortel</span>.<br><br>Ensuite, parlez au James ressuscité.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2918,7 +2918,7 @@ locale["quest.39.texts.returnPopupMain"] = {
 };
 locale["quest.39.objective.0.name"] = {
 	"en": "Beetle's Tough Shell",
-	"fr": "Coquille Dure de Scarabée ",
+	"fr": "Coquille de scarabée dure",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3009,7 +3009,7 @@ locale["quest.40.texts.objective"] = {
 };
 locale["quest.40.texts.description"] = {
 	"en": "Master Kugarn told me about everything. Thanks for helping me. I owe you my life.<br>Kugarn suggested he takes me as an apprentice. I think I should repay him and stay by his side? Please tell my father that I am ok now.",
-	"fr": "Maître Kugarn m'a tout dit. Merci de votre aide. Je vous doit la vie.<br>Kugarn m'a proposé de me prendre comme apprenti. Je pense que je lui dois bien. S'il vous plait, allez prévenir mon père que je vais bien maintenant.",
+	"fr": "Maître Kugarn m'a tout dit. Merci de votre aide. Je vous doit la vie.<br>Kugarn m'a proposer de me prendre comme apprenti. Je pense que je lui doit bien. S'il vous plait, allez prévenir mon père que je vais bien maintenant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3064,7 +3064,7 @@ locale["quest.41.name"] = {
 };
 locale["quest.41.texts.objective"] = {
 	"en": "Report back to the <span class='text-link' data-target-type='npc' data-target-id='100028'>Stashkeeper</span> that Froles is ok now.",
-	"fr": "Retournez voir le <span class='text-link' data-target-type='npc' data-target-id='100028'>Gardien de la réserve</span> pour le prévenir que Froles va mieux.",
+	"fr": "Retournez voir le <span class='text-link' data-target-type='npc' data-target-id='100028'>Gardien de la réserve</span> pour le prevenir que Froles va mieux.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3082,7 +3082,7 @@ locale["quest.41.texts.objective"] = {
 };
 locale["quest.41.texts.description"] = {
 	"en": "Thanks for your help! Please go back to Cain Kingdom and tell the Stashkeeper that I am ok now. You are my best friend!",
-	"fr": "Merci pour votre aide! S'il vous plait, retournez sur la Place Royale et dites au Gardien de la réserve que je vais mieux. Vous êtes mon meilleur ami!.",
+	"fr": "Merci pour votre aide! S'il vous plait, retournez sur la Place Royale et dites au Gardien de la réserver que je vais mieux. Vous êtes mon meilleur amis!.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3210,7 +3210,7 @@ locale["quest.43.name"] = {
 };
 locale["quest.43.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='21'>Familiar</span> in the Chaotic Hills. Then, report to <span class='text-link' data-target-type='npc' data-target-id='100032'>Recruit Drillmaster</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='21'>Familier</span> dans les Plaines Chaotiques. Puis faites votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100032'>Instructeur Militaire</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='21'>Familier</span> dans les Plaines Chaotiques. Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100032'>Instructeur Militaire</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3301,7 +3301,7 @@ locale["quest.44.texts.objective"] = {
 };
 locale["quest.44.texts.description"] = {
 	"en": "Talk with the quest agent, he need a lots of people to do his assignment",
-	"fr": "Parlez avec l'Agent de Quête, il a besoin de beaucoup de monde pour terminer sa mission",
+	"fr": "Parlez avec l'agent de quête, il a besoin de beaucoup de monde pour terminer sa mission",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3356,7 +3356,7 @@ locale["quest.45.name"] = {
 };
 locale["quest.45.texts.objective"] = {
 	"en": "Complete 10 daily quests, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Terminez 10 quêtes quotidienne, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Terminez 10 quêtes hebdomadaire, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3410,7 +3410,7 @@ locale["quest.45.texts.returnPopupMain"] = {
 };
 locale["quest.45.objective.0.name"] = {
 	"en": "10 Daily Quests",
-	"fr": "10 Quêtes Quoti.",
+	"fr": "10 Quêtes Hebdo.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3464,8 +3464,8 @@ locale["quest.46.texts.objective"] = {
 	"id": ""
 };
 locale["quest.46.texts.description"] = {
-	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Serenia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
-	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Serenia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le Roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
+	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Mirelia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
+	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Mirelia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3474,7 +3474,7 @@ locale["quest.46.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ngươi có biết về tổ chức của <i>Thợ Săn Quái Vật</i>? Nó không thuộc về bất kì quốc gia nào, nhưng lại là tổ chức cứ sức ảnh hưởng lan ra toàn lục địa Serenia. Họ là những người lính đánh thuê chuyên đi tiêu diệt quỷ dữ. Để có thể chống lại bọn quỷ ở Harlan, Nhà Vua đã thuê vài Thợ Săn Quái Vật, nhưng ta không tin chúng, đó là lý sao ta lại hỏi ngươi.",
+	"vi": "Ngươi có biết về tổ chức của <i>Thợ Săn Quái Vật</i>? Nó không thuộc về bất kì quốc gia nào, nhưng lại là tổ chức cứ sức ảnh hưởng lan ra toàn lục địa Mirelia. Họ là những người lính đánh thuê chuyên đi tiêu diệt quỷ dữ. Để có thể chống lại bọn quỷ ở Harlan, Nhà Vua đã thuê vài Thợ Săn Quái Vật, nhưng ta không tin chúng, đó là lý sao ta lại hỏi ngươi.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -3556,7 +3556,7 @@ locale["quest.47.texts.description"] = {
 };
 locale["quest.47.texts.returnPopupMain"] = {
 	"en": "You're my idol, I didn't know how to deal with them. I think it has something to do with the fact that people in Cain are blessed by Bur.",
-	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela à quelque chose à voir avec le fait que les habitants de Kane sont bénis par Waen.",
+	"fr": "Tu es mon idole, je ne savais pas comment m'occuper d'eux. Je pense que cela a quelque chose à voir avec le fait que les habitants de Kane sont bénis par Bur.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3757,7 +3757,7 @@ locale["quest.50.texts.objective"] = {
 };
 locale["quest.50.texts.description"] = {
 	"en": "The fight with the wax monsters is kind of hard for you, you may die if you enter the depths of the caves! My friend Sheriff Quinsto is waiting for you on the north highland of the Chaotic Hills. He'll tell you what you should do for the next step!",
-	"fr": "Le combat avec les monstres de cire est un peu dur pour vous, vous risquez de mourir si vous entrez dans les profondeurs des grottes! Mon ami le Shérif Quinsto vous attend sur les hautes terres du nord des Collines Chaotiques. Il vous dira ce que vous devez faire pour la prochaine étape!",
+	"fr": "Le combat avec les monstres de cire est un peu dur pour vous, vous risquez de mourir si vous entrez dans les profondeurs des grottes! Mon ami le shérif Quinsto vous attend sur les hautes terres du nord des Collines Chaotiques. Il vous dira ce que vous devez faire pour la prochaine étape!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3921,7 +3921,7 @@ locale["quest.52.texts.objective"] = {
 };
 locale["quest.52.texts.description"] = {
 	"en": "Destroying the traps is not the ultimate solution. Now go and get rid of those damn Poachers! Give them a lesson!",
-	"fr": "Détruire les pièges n'est qu'une solution provisoire. Maintenant, allez vous débarrasser de ces satanés braconniers! Donnez-leur une leçon!",
+	"fr": "Détruire les pièges n'est qu'une solution provisoire. Maintenant, allez vous débarrasser de ces satanés braconniers! Donnez leur une leçon!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4231,7 +4231,7 @@ locale["quest.56.name"] = {
 };
 locale["quest.56.texts.objective"] = {
 	"en": "Take the keys to open <span class='text-link' data-target-type='interacctible' data-target-id='10004'>Locked Chests</span>, find the treasures robbed by the bandits, then give them to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Prennez les clés pour ouvrir les <span class='text-link' data-target-type='interacctible' data-target-id='10004'>Coffres verrouillés</span>, trouvez les trésors volés par les bandits, puis donnez les a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Prennez les clés pour ouvrir les <span class='text-link' data-target-type='interacctible' data-target-id='10004'>Coffres verrouillés</span>, trouver les trésors volés par les bandits, puis donnez les a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4395,7 +4395,7 @@ locale["quest.58.name"] = {
 };
 locale["quest.58.texts.objective"] = {
 	"en": "Salna hopes you could beat some <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> again for her. After completing it, report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Salna espère que vous pourriez à nouveau battre des <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> pour elle. Après avoir terminer, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Salna espère que vous pourriez à nouveau battre des <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> pour elle. Apres avoir terminer, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4869,7 +4869,7 @@ locale["quest.64.texts.objective"] = {
 };
 locale["quest.64.texts.description"] = {
 	"en": "When we arrived here, the miners had already been killed by the demons, and they had turned the miners into a zombie army. May Bur protect them and liberate their souls. <b>{0}</b>, we need to help them!",
-	"fr": "Quand nous sommes arrivés, les mineurs avaient déjà été tués par les démons, et ils avaient déjà transformé les mineurs en une armée de zombies. Que Waen les protège et libère leurs âmes. <b>{0}</b>, nous devons les aider.",
+	"fr": "Quand nous sommes arrivés, les mineurs avaient déjà été tués par les démons, et ils avaient déjà transformé les mineurs en une armée de zombies. Que Bur les protège et libère leurs âmes. <b>{0}</b>, nous devons les aider.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5380,7 +5380,7 @@ locale["quest.71.name"] = {
 };
 locale["quest.71.texts.objective"] = {
 	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='26'>Elite Zombies</span> and <span class='text-link' data-target-type='mob' data-target-id='25'>Elite Skeleton Wizard</span> then report to <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies Elite</span> et des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes Elite</span> puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies Elite</span> et des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes Elite</span> puis faite votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5397,8 +5397,8 @@ locale["quest.71.texts.objective"] = {
 	"id": ""
 };
 locale["quest.71.texts.description"] = {
-	"en": "I'm Kuroom, the new evil lord in Serenia. One day in the future, I'll defeat Harlan and Bur and control the whole world!<br><br>But every evil lords start by recruiting minions. I need to hire enough minions. Could you ask the residents here if they want to join me? Kill them if they don't.",
-	"fr": "Je suis Kuroom, le nouveau seigneur maléfique de Serenia. Un jour, je tuerais Harlan et Waen et je contrôlerai le monde!<br><br>Mais tous les seigneurs maléfiques commencent par recruter des sbires. J'ai besoin d'en recruter un grand nombre. Pouvez-vous demander aux résidents de ces lieux de me rejoindre? Tuez-les s'ils ne veulent pas.",
+	"en": "I'm Kuroom, the new evil lord in Mirelia. One day in the future, I'll defeat Harlan and Bur and control the whole world!<br><br>But every evil lords start by recruiting minions. I need to hire enough minions. Could you ask the residents here if they want to join me? Kill them if they don't.",
+	"fr": "Je suis Kuroom, le nouveau seigneur maléfique de Mirelia. Un jour, je tuerais Harlan et Bur et je contrôlerais le monde!<br><br>Mais tous les seigneurs maléfiques commencent par recruter des sbires. J'ai besoin d'en recruter un grand nombre. Pouvez vous demander aux résidents de ces lieux de me rejoindre? Tuez les s'ils ne veulent pas.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5407,7 +5407,7 @@ locale["quest.71.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ta là Kuroom, chúa quỷ mới ở vùng đất Serenia này. Một ngày trong tương lai không xa, ta sẽ đánh bại Harlan và Bur sau đó chiếm đoạt cả thế giới này!<br><br>Nhưng mọi chúa quỷ đều bắt đầu bằng việc tuyển chọn quân tay sai. Ta cần phải có đủ tay sai. Liệu ngươi có thể hỏi người dân quanh đây liệu rằng họ có muốn gia nhập cùng ta không? Nếu chúng trả lời là không thì cứ giết quách cho ta.",
+	"vi": "Ta là Kuroom, chúa quỷ mới ở vùng đất Mirelia này. Một ngày trong tương lai không xa, ta sẽ đánh bại Harlan và Bur sau đó chiếm đoạt cả thế giới này!<br><br>Nhưng mọi chúa quỷ đều bắt đầu bằng việc tuyển chọn quân tay sai. Ta cần phải có đủ tay sai. Liệu ngươi có thể hỏi người dân quanh đây liệu rằng họ có muốn gia nhập cùng ta không? Nếu chúng trả lời là không thì cứ giết quách cho ta.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -5416,7 +5416,7 @@ locale["quest.71.texts.description"] = {
 };
 locale["quest.71.texts.returnPopupMain"] = {
 	"en": "Human, would you like to join us?",
-	"fr": "Humain, voudriez-vous nous rejoindre?",
+	"fr": "Humain, voudriez vous nous rejoindre?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5435,7 +5435,7 @@ locale["quest.71.texts.returnPopupMain"] = {
 
 locale["quest.72.name"] = {
 	"en": "Bur's Blessing",
-	"fr": "Bénédiction de Waen",
+	"fr": "Bénédiction de Bur",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5453,7 +5453,7 @@ locale["quest.72.name"] = {
 };
 locale["quest.72.texts.objective"] = {
 	"en": "Go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Allez parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5471,7 +5471,7 @@ locale["quest.72.texts.objective"] = {
 };
 locale["quest.72.texts.description"] = {
 	"en": "Samhan wants to help you get Bur's blessing. Go see him in town.",
-	"fr": "Samhan veut vous apprendre a obtenir la bénédiction de Waen. Allez le voir en ville.",
+	"fr": "Samhan veut vous apprendre a obtenir la bénédiction de Bur. Allez le voir en ville.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5508,7 +5508,7 @@ locale["quest.72.texts.returnPopupMain"] = {
 
 locale["quest.73.name"] = {
 	"en": "Bur's Blessing (1)",
-	"fr": "Bénédiction de Waen (1)",
+	"fr": "Bénédiction de Bur (1)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5543,8 +5543,8 @@ locale["quest.73.texts.objective"] = {
 	"id": ""
 };
 locale["quest.73.texts.description"] = {
-	"en": "Dear <b>{0}</b>, the evil army's invasion to Wonderland continent has caused the Knights to be really busy. But we still need to maintain the resident's daily life. Please find out if the residents need something!",
-	"fr": "Cher <b>{0}</b>, l'invasion de l'armée maléfique en Wonderland a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
+	"en": "Dear <b>{0}</b>, the evil army's invasion to Mirelia continent has caused the Knights to be really busy. But we still need to maintain the resident's daily life. Please find out if the residents need something!",
+	"fr": "Cher <b>{0}</b>, l'invasion de l'armée maléfique en Mirelia a rendu les chevaliers très occupés. Mais nous devons maintenir le quotidien des résidents. Veuillez vérifier si les résidents ont besoin de quelque chose!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5581,7 +5581,7 @@ locale["quest.73.texts.returnPopupMain"] = {
 
 locale["quest.74.name"] = {
 	"en": "Bur's Blessing (2)",
-	"fr": "Bénédiction de Waen (2)",
+	"fr": "Bénédiction de Bur (2)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5654,7 +5654,7 @@ locale["quest.74.texts.returnPopupMain"] = {
 
 locale["quest.75.name"] = {
 	"en": "Bur's Blessing (3)",
-	"fr": "Bénédiction de Waen (3)",
+	"fr": "Bénédiction de Bur (3)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5672,7 +5672,7 @@ locale["quest.75.name"] = {
 };
 locale["quest.75.texts.objective"] = {
 	"en": "Go to Cain Kingdom, and visit the merchant <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, see if she needs help.",
-	"fr": "Allez a Kane, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
+	"fr": "Allez a Cain, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5727,7 +5727,7 @@ locale["quest.75.texts.returnPopupMain"] = {
 
 locale["quest.76.name"] = {
 	"en": "Bur's Blessing (4)",
-	"fr": "Bénédiction de Waen (4)",
+	"fr": "Bénédiction de Bur (4)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5800,7 +5800,7 @@ locale["quest.76.texts.returnPopupMain"] = {
 
 locale["quest.77.name"] = {
 	"en": "Bur's Blessing (5)",
-	"fr": "Bénédiction de Waen (5)",
+	"fr": "Bénédiction de Bur (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5836,7 +5836,7 @@ locale["quest.77.texts.objective"] = {
 };
 locale["quest.77.texts.description"] = {
 	"en": "The guards are trying to kick me out of my stall since my husband died. I can't go out and deliver it myself. Can you bring the cloak to James and check if he's alright?",
-	"fr": "Les guardes essaye de m'expluser de mon étal depuis que mon mari est mort. Je ne peux pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
+	"fr": "Les guardes essaye de m'expluser de mon étal depuis que mon mari est mort. Je ne peut pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5873,7 +5873,7 @@ locale["quest.77.texts.returnPopupMain"] = {
 
 locale["quest.78.name"] = {
 	"en": "Bur's Blessing (6)",
-	"fr": "Bénédiction de Waen (6)",
+	"fr": "Bénédiction de Bur (6)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5891,7 +5891,7 @@ locale["quest.78.name"] = {
 };
 locale["quest.78.texts.objective"] = {
 	"en": "Go to Celebeam Cave, use <span class='text-link' data-target-type='item' data-target-id='20003'>Purity Potions</span> on Zombies, if it gets worse, just get rid of them!<br><br>After completing this, report to <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> in the Caves.<br><br><i>if you lost the purity potions, you can buy them in the personal shop.</i>",
-	"fr": "Allez dans les Caves de Celebeam et utilisez des <span class='text-link' data-target-type='item' data-target-id='20003'>Potions de Pureté</span> sur des Zombies, si leur état empire, tuez les!<br><br>Quand vous aurez fini, faîtes votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> dans les Caves.<br><br><i>Si vous perdez vos potions de pureté, vous pouvez en racheter dans le magasin personel.</i>",
+	"fr": "Allez dans les Caves de Celebeam et utilisez des <span class='text-link' data-target-type='item' data-target-id='20003'>Potions de Pureté</span> sur des Zombies, si leur etat empire, tuez les!<br><br>Quand vous aurez fini, faîtes votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> dans les Caves.<br><br><i>Si vous perdez vos potions de pureté, vous pouvez en racheter dans le magasin personel.</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5909,7 +5909,7 @@ locale["quest.78.texts.objective"] = {
 };
 locale["quest.78.texts.description"] = {
 	"en": "I learned a lot with Master Kugarn, though i'm not a qualified psychic wizard. I want to impress Master Kugarn, can you please try out this potion on some zombies and tell me what effect they have on them? Be careful, i'm not sure what could result of it.",
-	"fr": "J'ai beaucoup appris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet qu'elles ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
+	"fr": "J'ai beaucoup apris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet qu'elles ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5946,7 +5946,7 @@ locale["quest.78.texts.returnPopupMain"] = {
 
 locale["quest.79.name"] = {
 	"en": "Bur's Blessing (7)",
-	"fr": "Bénédiction de Waen (7)",
+	"fr": "Bénédiction de Bur (7)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6019,7 +6019,7 @@ locale["quest.79.texts.returnPopupMain"] = {
 
 locale["quest.80.name"] = {
 	"en": "Bur's Blessing (8)",
-	"fr": "Bénédiction de Waen (8)",
+	"fr": "Bénédiction de Bur (8)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6055,7 +6055,7 @@ locale["quest.80.texts.objective"] = {
 };
 locale["quest.80.texts.description"] = {
 	"en": "The following quest need you to be stronger, come here again when you're level 26.",
-	"fr": "La quête suivante requiert plus de puissance, reviens ici quand tu seras niveau 26.",
+	"fr": "La quête suivante requirs plus de puissance, reviens ici quand tu seras niveau 26.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6183,7 +6183,7 @@ locale["quest.82.name"] = {
 };
 locale["quest.82.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='25'>Skeleton Wizard</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelette</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelette</span> et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6256,7 +6256,7 @@ locale["quest.83.name"] = {
 };
 locale["quest.83.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Evil Spirits</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfique</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfique</span> et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6274,7 +6274,7 @@ locale["quest.83.texts.objective"] = {
 };
 locale["quest.83.texts.description"] = {
 	"en": "Celebeam ores possess great magical energy. It's used in magic research, transporting and equiping manufactures. I believe that <i>Harlan</i> also use it for energy source. See those Evil Spirits? They are here to absorb the magical power for <i>Harlan</i>. We cannot let them take the magic power back to <i>Harlan</i> and make him more powerfull.",
-	"fr": "Les minerais de Celebeam possèdent une energie magique. Elle est utilisée dans des recherches, dans le trasport et l'equipement d'usines. Je crois que <i>Harlan</i> l'utilise aussi comme source d'énergie. Vous voyez ces Esprits Maléfique? Ils sont ici pour absorber cette magie pour <i>Harlan</i>. Nous ne pouvons pas les laisser ramener cette puissance magique à <i>Harlan</i> et le laisser devenir plus puissant.",
+	"fr": "Les minerais de Celebeam possèdent une energie magique. Elle est utilisé dans des recherches, dans le trasport et l'equipement d'usines. Je crois que <i>Harlan</i> l'utilise aussi comme source d'énergie. Vous voyez ces Esprits Maléfique? Ils sont ici pour absorber cette magie pour <i>Harlan</i>. Nous ne pouvons pas les laisser ramener cette puissance magique à <i>Harlan</i> et le laisser devenir plus puissant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6329,7 +6329,7 @@ locale["quest.84.name"] = {
 };
 locale["quest.84.texts.objective"] = {
 	"en": "Find the <span class='text-link' data-target-type='mob' data-target-id='42'>Zombie Chief</span> deep in the caves and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
-	"fr": "Trouvez le <span class='text-link' data-target-type='mob' data-target-id='42'>Chef Zombie</span> dans les profondeur et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Trouvez le <span class='text-link' data-target-type='mob' data-target-id='42'>Chef Zombie</span> dans les profondeur et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6402,7 +6402,7 @@ locale["quest.85.name"] = {
 };
 locale["quest.85.texts.objective"] = {
 	"en": "Go back to Cain Kingdom and talk to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Retournez dans la ville de Kane, sur la Place Royale Impériale et allez voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
+	"fr": "Retournez dans la ville de Cain, sur la Place Royale Impériale et allez voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6420,7 +6420,7 @@ locale["quest.85.texts.objective"] = {
 };
 locale["quest.85.texts.description"] = {
 	"en": "You are tough, my friend! However your development is a bit slow. Go back to Cain Kingdom and talk to the quest agent. He will tell you something interesting and help you develop faster.",
-	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au Royaume de Kane et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
+	"fr": "Tu es fort, mon ami! Cependant, ton développement est un peu lent. Retourne au royaume de Kane et parle à l'agent de quête. Il te dira quelque chose d'intéressant et t'aidera à te développer plus rapidement.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6694,7 +6694,7 @@ locale["quest.89.name"] = {
 };
 locale["quest.89.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> and <span class='text-link' data-target-type='mob' data-target-id='25'>Skeleton Wizard</span>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionary Monde</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> et des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies</span> et des <span class='text-link' data-target-type='mob' data-target-id='25'>Mage Squelettes</span>, puis parler au <span class='text-link' data-target-type='npc' data-target-id='100046'>Missionnaire Monde</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6986,7 +6986,7 @@ locale["quest.93.name"] = {
 };
 locale["quest.93.texts.objective"] = {
 	"en": "Go to the outpost, see if <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span> need help.",
-	"fr": "Allez au poste avancé, voyez si <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span> a besoin d'aide.",
+	"fr": "Allez au poste avancé, voyez si <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span> as besoin d'aide.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7560,7 +7560,7 @@ locale["quest.100.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đúng rồi đấy. Bọn ta đang chuẩn bị căng buồm ra khơi. Ngươi muốn lên tàu chứ? Mọi thứ đã vào vị trí và chuẩn bị xuất phát, nhưng nếu ngươi trợ giúp thì, chúng ta có thể ra khơi sớm hơn dự tính. Nhưng ta vẫn cần thêm một vài thủy thủ. Ngươi có thể đi chiêu mộ thêm chứ?",
+	"vi": "Đúng rồi đấy. Bọn ta đang chuẩn bị căng buồm ra khơi. Ngươi muốn lên thuyền chứ? Mọi thứ đã vào vị trí và chuẩn bị xuất phát, nhưng nếu ngươi trợ giúp thì, chúng ta có thể ra khơi sớm hơn dự tính. Nhưng ta vẫn cần thêm một vài thủy thủ. Ngươi có thể đi chiêu mộ thêm chứ?",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -7651,7 +7651,7 @@ locale["quest.101.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đúng rồi đấy. Bọn ta đang chuẩn bị căng buồm ra khơi. Ngươi muốn lên tàu chứ? Mọi thứ đã vào vị trí và chuẩn bị xuất phát, nhưng nếu ngươi trợ giúp thì, chúng ta có thể ra khơi sớm hơn dự tính. Nhưng ta vẫn cần thêm một vài thủy thủ. Ngươi có thể đi chiêu mộ thêm chứ?",
+	"vi": "Đúng rồi đấy. Bọn ta đang chuẩn bị căng buồm ra khơi. Ngươi muốn lên thuyền chứ? Mọi thứ đã vào vị trí và chuẩn bị xuất phát, nhưng nếu ngươi trợ giúp thì, chúng ta có thể ra khơi sớm hơn dự tính. Nhưng ta vẫn cần thêm một vài thủy thủ. Ngươi có thể đi chiêu mộ thêm chứ?",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -7879,7 +7879,7 @@ locale["quest.104.name"] = {
 };
 locale["quest.104.texts.objective"] = {
 	"en": "Enter the gold shop, buy some <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rum</span>, then bring it to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
-	"fr": "Ouvrez le magasin et achètez du <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rhum</span>, puis apportez le à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"fr": "Ouvre le magasin et achète du <span class='text-link' onclick='game.fair.show();$(\".fair-tab-goldshop\").click();'>Rhum</span>, puis apporte le à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8490,7 +8490,7 @@ locale["quest.112.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (1)",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8508,7 +8508,7 @@ locale["quest.112.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Đi thuyền với <span class='text-link' data-target-type='npc' data-target-id='100050'>Hylan</span> và đi đến Cảng Muradin, sau đó nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8526,7 +8526,7 @@ locale["quest.112.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Bạn ta đang rất cần trợ giúp ở sa mạc! Họ đang bị rất nhiều loại quái vật chưa từng được thấy trước đây tấn công! Làm ơn hãy giúp họ. ",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8544,7 +8544,7 @@ locale["quest.112.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Lãng khách! Chào mừng đến với Sa Mạc Fain! Ta là người chức trách đảm nhiệm lưu thông đường tàu biển tại đây.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8563,7 +8563,7 @@ locale["quest.113.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (2)",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8572,7 +8572,7 @@ locale["quest.113.name"] = {
 };
 locale["quest.113.texts.objective"] = {
 	"en": "Retrieve Captain Grant's ship.",
-	"fr": "Récupérez le bateau du Capitaine Grant.",
+	"fr": "Récupérer le bateau du Capitaine Grant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8581,7 +8581,7 @@ locale["quest.113.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Nhận lấy thuyền của Thuyền Trưởng Grant.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8590,7 +8590,7 @@ locale["quest.113.texts.objective"] = {
 };
 locale["quest.113.texts.description"] = {
 	"en": "Traveler! Welcome to Fain Desert! I am in charge of this harbor. I should have given you a formal introduction about our land, but, I am not really in the mood.<br><br>No one can rest easily with a whole ship of cargo lost. Those Cat Pirates are so annoying! They took all the cargo, leaving not even a single coin. I do not have the ressources to replace it.",
-	"fr": "Voyageur! Bienvenue au Desert de Fain! Je suis responsable de ce port. J'aurais dû vous présenter formellement nos terres, mais je ne suis pas vraiment d'humeur.<br><br>Personne ne peut se reposer facilement avec tout un navire de cargaison perdu. Ces Pirates Chat sont tellement ennuyeux! Ils ont pris toute la cargaison, ne laissant même pas une seule pièce. Je n'ai pas les ressources pour la remplacer.",
+	"fr": "Voyageur! Bienvenue au Desert de Fain! Je suis responsable de ce port. J'aurais dû vous présenter formellement nos terre, mais je ne suis pas vraiment d'humeur.<br><br>Personne ne peut se reposer facilement avec tout un navire de cargaison perdu. Ces Pirates Chat sont tellement ennuyeux! Ils ont pris toute la cargaison, ne laissant même pas une seule pièce. Je n'ai pas les ressources pour la remplacer.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8599,7 +8599,7 @@ locale["quest.113.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Lãng khách! Chào mừng đến với Sa Mạc Fain! Ta là người chức trách đảm nhiệm khu vực cảng này. Đáng nhẽ ta nên có lời giới thiệu đầy đủ cho vùng đất này, nhưng, ta hiện tại thực sự không có tâm trạng.<br><br>Không ai có thể yên tâm nổi khi mà cả một con thuyền chở hàng đã biến mất. Cái lũ Mèo Hải Tặc đúng thật khó chịu! Chúng đã lấy hết đi hàng hóa, bỏ lại chẳng có một xu. Ta chẳng thể nào có tài nguyên khác để thay thế cho đống hàng đấy.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8617,7 +8617,7 @@ locale["quest.113.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Thương thảo sao? Ngươi đang đùa ta đó hả bạn trẻ? Ngươi phải trả tiền chuộc thì mới lấy được tàu đó. Hoặc... Bỏ lại mạng sống.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8782,7 +8782,7 @@ locale["quest.10007.objective.0.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Nâng Cấp Vũ Khí",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -9839,7 +9839,7 @@ locale["quest.10003.texts.objective"] = {
 	"id": ""
 };
 locale["quest.10003.texts.description"] = {
-	"en": "I really need a good belt for my collection, belts made of snake skin are very beautiful and tough. But in Serenia, snakes are rare. Well, in fact, my request is not so hard, just get me a belt made by yourself. ",
+	"en": "I really need a good belt for my collection, belts made of snake skin are very beautiful and tough. But in Mirelia, snakes are rare. Well, in fact, my request is not so hard, just get me a belt made by yourself. ",
 	"fr": "J'ai vraiment besoin d'une bonne ceinture pour ma collection, celles faites de peau de serpent sont vraiment belles et resistantes. Mais dans le coin, les serpents sont rares. En fait, ma demande n'est pas si difficile, apportez moi une ceinture que vous avez faites vous même.",
 	"es": "",
 	"ch": "",
@@ -9849,7 +9849,7 @@ locale["quest.10003.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ta thật sự cần một cái đai tốt cho bộ sưu tập, đai làm từ da rắn rất đẹp và cứng. Nhưng ở Serenia, rắn rất hiếm. Thì hay, thức tế là, nhiệm vụ ta giao cho cũng không có khó, chỉ cần ngươi tự làm cho ta một cái thôi.",
+	"vi": "Ta thật sự cần một cái đai tốt cho bộ sưu tập, đai làm từ da rắn rất đẹp và cứng. Nhưng ở Mirelia, rắn rất hiếm. Thì hay, thức tế là, nhiệm vụ ta giao cho cũng không có khó, chỉ cần ngươi tự làm cho ta một cái thôi.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -10331,7 +10331,7 @@ locale["quest.35000.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35000.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Serenia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Sérénia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"ch": "",
@@ -10341,7 +10341,7 @@ locale["quest.35000.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Kuroom muốn là con trùm tối thượng nhất ở Serenia! Nhưng trước đó, Kuroom muốn có một thành phố ngầm cho riêng nó. Như là một bãi quái rác thải vậy, Điện Tinh Anh, sẽ thật là tuyệt vời nếu chúng ta dựng lại nơi này thành ác điện của Kuroom!<br><br>Nếu ngươi muốn giúp, ta có thể cho ngươi cả một lục địa ngay sau khi ta trở thành chúa tể của thế giới này!",
+	"vi": "Kuroom muốn là con trùm tối thượng nhất ở Mirelia! Nhưng trước đó, Kuroom muốn có một thành phố ngầm cho riêng nó. Như là một bãi quái rác thải vậy, Điện Tinh Anh, sẽ thật là tuyệt vời nếu chúng ta dựng lại nơi này thành ác điện của Kuroom!<br><br>Nếu ngươi muốn giúp, ta có thể cho ngươi cả một lục địa ngay sau khi ta trở thành chúa tể của thế giới này!",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -11355,8 +11355,8 @@ locale["quest.40013.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40013.texts.description"] = {
-	"en": "New warriors are getting attacked by Bees, which stop them from progressing and mostly leads to their death! Help them by eliminating those bee and keeping the world of Serenia safe.",
-	"fr": "De nouveaux guerriers se font attaquer par des abeilles, ce qui les empêche de progresser et finit par les conduire à leur mort! Aidez-les en éliminant ces abeilles et en gardant le monde de Serenia en sécurité.",
+	"en": "New warriors are getting attacked by Bees, which stop them from progressing and mostly leads to their death! Help them by eliminating those bee and keeping the world of Mirelia safe.",
+	"fr": "De nouveaux guerriers se font attaquer par des abeilles, ce qui les empêche de progresser et finit par les conduire à leur mort! Aidez-les en éliminant ces abeilles et en gardant le monde de Mirelia en sécurité.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11365,7 +11365,7 @@ locale["quest.40013.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Những chiến binh mới đang bị Ong tấn công, ngăn cản bước tiến và dẫn họ đến với cái chết! Giúp họ bằng cách tiêu diệt lũ ong và giữ cho thế giới của Serenia an toàn.",
+	"vi": "Những chiến binh mới đang bị Ong tấn công, ngăn cản bước tiến và dẫn họ đến với cái chết! Giúp họ bằng cách tiêu diệt lũ ong và giữ cho thế giới của Mirelia an toàn.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -12123,7 +12123,7 @@ locale["quest.45001.texts.returnPopupMain"] = {
 
 locale["quest.45002.name"] = {
 	"en": "Elite Spirit",
-	"fr": "Esprit Élite",
+	"fr": "Esprit Elite",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12159,7 +12159,7 @@ locale["quest.45002.texts.objective"] = {
 };
 locale["quest.45002.texts.description"] = {
 	"en": "Seeing how you did well with those wizards, you surely can defeat some Evil Spirits right?",
-	"fr": "Vu comme vous avez réussi avec ces mages, vous pourriez sûrement vaincre certains Esprits Maléfique, n'est-ce pas?",
+	"fr": "Vu comme vous avez réussi avec ces mages, vous pourez sûrement vaincre certains Esprits Maléfique, n'est-ce pas?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12196,7 +12196,7 @@ locale["quest.45002.texts.returnPopupMain"] = {
 
 locale["quest.45003.name"] = {
 	"en": "Elite Wax Zombie",
-	"fr": "Zombies de Cire Élite",
+	"fr": "Zombies de Cire Elite",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12232,7 +12232,7 @@ locale["quest.45003.texts.objective"] = {
 };
 locale["quest.45003.texts.description"] = {
 	"en": "Vicent just created some new Wax Zombies, but those one are more powerfull. Can you take care of them?",
-	"fr": "Vincent vient de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peux-tu t'en occuper?",
+	"fr": "Vicent viens de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peut tu t'en occuper?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12250,7 +12250,7 @@ locale["quest.45003.texts.description"] = {
 };
 locale["quest.45003.texts.returnPopupMain"] = {
 	"en": "This wasn't an easy task, thanks.",
-	"fr": "Ce n'était pas une tâche facile, merci.",
+	"fr": "Ce n'était pas une tache facile, merci.",
 	"es": "",
 	"ch": "",
 	"kr": "",
