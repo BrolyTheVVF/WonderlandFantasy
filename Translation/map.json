@@ -521,7 +521,7 @@
         "th":"",
         "id":""
     },
-    "map.Muradin Harbor.name":{
+    "map.C2_Muradin_Harbor.name":{
         "en":"Muradin Harbor",
         "fr":"Port de Muradin",
         "es":"",
@@ -539,9 +539,45 @@
         "th":"",
         "id":""
     },
-    "map.Pirate Camp.name":{
+    "map.C2_Pirate_Camp.name":{
         "en":"Pirate Camp",
         "fr":"Camp Pirate",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.C2_Desert_Oasis.name":{
+        "en":"Desert Oasis",
+        "fr":"Oasis Désertique",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.C2_Muradin_Suburb.name":{
+        "en":"Muradin Suburb",
+        "fr":"Banlieue de Muradin",
         "es":"",
         "ch":"",
         "kr":"",
