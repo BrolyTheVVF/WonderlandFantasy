@@ -9172,6 +9172,79 @@ locale["quest.120.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.121.name"] = {
+	"en": "Youngman's Trouble (4)",
+	"fr": "Problème de jeune homme (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.121.texts.objective"] = {
+	"en": "Increase your level to 32, then report to <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>.",
+	"fr": "Montez niveau 32, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.121.texts.description"] = {
+	"en": "The following quests are really dangerous. They requires the strength of an adventurer level 32. Are you ready?",
+	"fr": "Les quêtes suivantes sont vraiment dangereuses. Elles nécessitent la puissance d'un aventurier de niveau 32. Êtes-vous prêt?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.121.texts.returnPopupMain"] = {
+	"en": "Good, let's continue!",
+	"fr": "Bien, continuons!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
