@@ -939,6 +939,24 @@ locale["npc.51.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.52.name"] = {
+	"en": "Hartland Plant",
+	"fr": "Plante d'Hartland",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
@@ -2908,6 +2926,24 @@ locale["npc.100056.name"] = {
 locale["npc.100056.title"] = {
 	"en": "Merchant Caravari",
 	"fr": "Marchand Caravari",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100057.name"] = {
+	"en": "Wounded Merchant",
+	"fr": "Marchand Blessé",
 	"es": "",
 	"ch": "",
 	"kr": "",
