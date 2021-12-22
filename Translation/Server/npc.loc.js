@@ -3288,8 +3288,26 @@ locale["npc.100054.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100055.interact.baseText"] = {
+	"en": "There are insects everywhere. Ewww that's scary.",
+	"fr": "Il y a des insectes partout. Ewww c'est effrayant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
-locale["npc.241000.baseText"] = {
+locale["npc.241000.name"] = {
 	"en": "Mysterious Altar",
 	"fr": "Autel Mystérieux",
 	"es": "",
@@ -3301,6 +3319,114 @@ locale["npc.241000.baseText"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Bàn Thờ Bí Hiểm",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241001.name"] = {
+	"en": "Trap",
+	"fr": "Piège",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241002.name"] = {
+	"en": "Chest",
+	"fr": "Coffre",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241003.name"] = {
+	"en": "Stolen Treasure",
+	"fr": "Trésor Volé",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241004.name"] = {
+	"en": "Stone",
+	"fr": "Pierre",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241005.name"] = {
+	"en": "Water Jar",
+	"fr": "Jarre d'Eau",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241006.name"] = {
+	"en": "Runestone",
+	"fr": "Pierre Runique",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
