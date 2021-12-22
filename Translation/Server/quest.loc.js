@@ -8772,8 +8772,8 @@ locale["quest.115.texts.returnPopupMain"] = {
 };
 
 locale["quest.116.name"] = {
-	"en": "Pirates from a Foreign Land (4)",
-	"fr": "Pirates d'un pays étranger (4)",
+	"en": "Pirates from a Foreign Land (5)",
+	"fr": "Pirates d'un pays étranger (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8782,7 +8782,7 @@ locale["quest.116.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Hải Tặc Nơi Đất Khách Quê Người (4)",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (5)",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8791,7 +8791,7 @@ locale["quest.116.name"] = {
 };
 locale["quest.116.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='46'>Captain Hook</span>, retreive Grant's ship, then report to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, récupérer le navire de Grant, pui faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, récupérer le navire de Grant, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8828,6 +8828,79 @@ locale["quest.116.texts.description"] = {
 locale["quest.116.texts.returnPopupMain"] = {
 	"en": "What? You defeated their boss?<br>That's... unexpected.<br><br>Good! I will fulfill my promise, and upgrade your Soul Gathering skill.",
 	"fr": "Quoi? Vous avez vaincue leur boss?<br>C'est... inattendu.<br><br>Bien! Je vais respecter ma promesse et améliorer votre collecte d'âme.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.117.name"] = {
+	"en": "Pirates from a Foreign Land (6)",
+	"fr": "Pirates d'un pays étranger (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (6)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.117.texts.objective"] = {
+	"en": "Reach level 31, then talk to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Atteignez le niveau 31, puis parler à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.117.texts.description"] = {
+	"en": "<b>{0}</b>, you are so great! Now, I can send this ship of cargo to Rhein. It's a free trade nation, my good will make me earn a nice fortune. If you want to go to Rhein, you can come to me.<br><br>Have some rest. I will need your help soon.",
+	"fr": "<b>{0}</b>, vous etes tellement génial! Maintenant, je peux envoyer ce cargo à Rhein. C'est une nation de libre échange, mes biens me ferons gagner une belle fortune. Si vous voulez aller à Rhein, vous pouvez venir me voir.<br><br>Reposez-vous. J'aurai bientôt besoin de votre aide.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.117.texts.returnPopupMain"] = {
+	"en": "Wow! I see you are stronger!",
+	"fr": "Wow! Je vois que vous etes plus fort!",
 	"es": "",
 	"ch": "",
 	"kr": "",
