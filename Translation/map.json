@@ -592,5 +592,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "map.C2_Muradin_Fair.name":{
+        "en":"Muradin Fair",
+        "fr":"Marché de Muradin",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.C2_Byron_City_Floor_1.name":{
+        "en":"Byron City 1",
+        "fr":"Ville de Byron 1",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
