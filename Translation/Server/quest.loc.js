@@ -8625,6 +8625,79 @@ locale["quest.113.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.114.name"] = {
+	"en": "Pirates from a Foreign Land (3)",
+	"fr": "Pirates d'un pays étranger (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (3)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.114.texts.objective"] = {
+	"en": "The negotiation broke down. Kill some <span class='text-link' data-target-type='mob' data-target-id='43'>Pirate Ambusher</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "La négociation a échoué. Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='43'>Pirates Sournois</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.114.texts.description"] = {
+	"en": "<i>[These pirates are so ignorant. They even blocked my way out. I think i need to teach them some manners.]</i>",
+	"fr": "<i>[Ces pirates sont si ignorants. Ils m'ont même bloqué la sortie. Je pense que je dois leur apprendre quelques manières.]</i>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.114.texts.returnPopupMain"] = {
+	"en": "Ransom? If I had money, I would hire mercenaries. I wouldn't pay a ransom!",
+	"fr": "Une rançon? Si j'avais de l'argent, j'engagerais des mercenaires. Je ne paierais pas de rançon!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
