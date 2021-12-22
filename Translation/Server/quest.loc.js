@@ -9028,7 +9028,7 @@ locale["quest.119.texts.objective"] = {
 };
 locale["quest.119.texts.description"] = {
 	"en": "I lost all the starfish I picked up today.<br>Father will be mad at me.",
-	"fr": "J'ai perdu toutes les etoiles de mer que j'ai ramassé aujourd'hui.<br>Père va être furieux.",
+	"fr": "J'ai perdu toutes les étoiles de mer que j'ai ramassé aujourd'hui.<br>Père va être furieux.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9119,7 +9119,7 @@ locale["quest.120.texts.objective"] = {
 };
 locale["quest.120.texts.description"] = {
 	"en": "Those bad guys stole my bags. My stuff is in there. I have been collecting those shells for a long time. Can you help get them back?",
-	"fr": "Ces méchants on volé mes sacs. Mes affaires etaient dedan. Je collecte ces coquillages depuis longtemps. Pouvez-vous m'aider a les récupérer?",
+	"fr": "Ces méchants on volé mes sacs. Mes affaires étaient dedans. Je collecte ces coquillages depuis longtemps. Pouvez-vous m'aider a les récupérer?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9137,7 +9137,7 @@ locale["quest.120.texts.description"] = {
 };
 locale["quest.120.texts.returnPopupMain"] = {
 	"en": "<b>{0}</b>, you are awesome. I want to be like you when i grow up.",
-	"fr": "<b>{0}</b>, tu est génial. Je veut devenir comme toi quand je serais plus grand.",
+	"fr": "<b>{0}</b>, tu es génial. Je veux devenir comme toi quand je serais plus grand.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9520,7 +9520,7 @@ locale["quest.125.texts.description"] = {
 };
 locale["quest.125.texts.returnPopupMain"] = {
 	"en": "It means nothing to you. It's written in a special code. Just give it to me!",
-	"fr": "Ce ne veut rien dire pour vous. C'est ecris en code spécial. Donnez la moi!",
+	"fr": "Ce ne veut rien dire pour vous. C'est écris en code spécial. Donnez-la moi!",
 	"es": "",
 	"ch": "",
 	"kr": "",
