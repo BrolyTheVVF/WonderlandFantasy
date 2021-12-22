@@ -9081,6 +9081,97 @@ locale["quest.119.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.120.name"] = {
+	"en": "Youngman's Trouble (3)",
+	"fr": "Problème de jeune homme (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.120.texts.objective"] = {
+	"en": "Go to Pirate Camp an defeat some <span class='text-link' data-target-type='mob' data-target-id='44'>Cat Pirate</span>. Get some Laphrey's Shell, then report to <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>.",
+	"fr": "Allez au Camp Pirate et tuez des <span class='text-link' data-target-type='mob' data-target-id='44'>Chat Pirate</span>. Trouvez des Coquillages de Laphrey, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.120.texts.description"] = {
+	"en": "Those bad guys stole my bags. My stuff is in there. I have been collecting those shells for a long time. Can you help get them back?",
+	"fr": "Ces méchants on volé mes sacs. Mes affaires etaient dedan. Je collecte ces coquillages depuis longtemps. Pouvez-vous m'aider a les récupérer?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.120.texts.returnPopupMain"] = {
+	"en": "<b>{0}</b>, you are awesome. I want to be like you when i grow up.",
+	"fr": "<b>{0}</b>, tu est génial. Je veut devenir comme toi quand je serais plus grand.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.120.objective.0.name"] = {
+	"en": "Laphrey's Shell",
+	"fr": "Coquillages de Laphrey",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
