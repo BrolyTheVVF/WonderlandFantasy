@@ -12232,7 +12232,7 @@ locale["quest.45003.texts.objective"] = {
 };
 locale["quest.45003.texts.description"] = {
 	"en": "Vicent just created some new Wax Zombies, but those one are more powerfull. Can you take care of them?",
-	"fr": "Vicent viens de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peux-tu t'en occuper?",
+	"fr": "Vicent vient de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peux-tu t'en occuper?",
 	"es": "",
 	"ch": "",
 	"kr": "",
