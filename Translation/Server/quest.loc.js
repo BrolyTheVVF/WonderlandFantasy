@@ -4140,7 +4140,7 @@ locale["quest.55.name"] = {
 };
 locale["quest.55.texts.objective"] = {
 	"en": "Find some keys from <span class='text-link' data-target-type='mob' data-target-id='31'>Treasure Watchers</span>, give them to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Trouvez des clés sur les <span class='text-link' data-target-type='mob' data-target-id='31'>Gardiens des Trésors</span>, donnez les a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Trouvez des clés sur les <span class='text-link' data-target-type='mob' data-target-id='31'>Gardiens des Trésors</span>, donnez les à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4158,7 +4158,7 @@ locale["quest.55.texts.objective"] = {
 };
 locale["quest.55.texts.description"] = {
 	"en": "According to the latest news, those crafty bandits locked the treasure in their chest and set guardians around it. I think you can get the key from the Treasure Watchers.",
-	"fr": "D'après de recentes informations, ces bandits rusés ont enfermé le trésor dans leur coffre et l'ont entouré de gardiens. Je pense que vous pouvez obtenir la clé auprès des Gardiens des Trésors.",
+	"fr": "D'après de récentes informations, ces bandits rusés ont enfermé le trésor dans leur coffre et l'ont entouré de gardiens. Je pense que vous pouvez obtenir la clé auprès des Gardiens des Trésors.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4231,7 +4231,7 @@ locale["quest.56.name"] = {
 };
 locale["quest.56.texts.objective"] = {
 	"en": "Take the keys to open <span class='text-link' data-target-type='interacctible' data-target-id='10004'>Locked Chests</span>, find the treasures robbed by the bandits, then give them to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Prennez les clés pour ouvrir les <span class='text-link' data-target-type='interacctible' data-target-id='10004'>Coffres verrouillés</span>, trouver les trésors volés par les bandits, puis donnez les a <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Prennez les clés pour ouvrir les <span class='text-link' data-target-type='interacctible' data-target-id='10004'>Coffres verrouillés</span>, trouvez les trésors volés par les bandits, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4395,7 +4395,7 @@ locale["quest.58.name"] = {
 };
 locale["quest.58.texts.objective"] = {
 	"en": "Salna hopes you could beat some <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> again for her. After completing it, report to <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
-	"fr": "Salna espère que vous pourriez à nouveau battre des <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> pour elle. Apres avoir terminer, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
+	"fr": "Salna espère que vous pourriez à nouveau battre des <span class='text-link' data-target-type='mob' data-target-id='30'>Bandits</span> pour elle. Après avoir terminer, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100037'>Quinsto</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4450,7 +4450,7 @@ locale["quest.58.texts.returnPopupMain"] = {
 
 locale["quest.59.name"] = {
 	"en": "Sentry Post (1)",
-	"fr": "Poste de sentinelle (1)",
+	"fr": "Poste de Sentinelle (1)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4523,7 +4523,7 @@ locale["quest.59.texts.returnPopupMain"] = {
 
 locale["quest.60.name"] = {
 	"en": "Sentry Post (2)",
-	"fr": "Poste de sentinelle (2)",
+	"fr": "Poste de Sentinelle (2)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4614,7 +4614,7 @@ locale["quest.60.objective.0.name"] = {
 
 locale["quest.61.name"] = {
 	"en": "Sentry Post (3)",
-	"fr": "Poste de sentinelle (3)",
+	"fr": "Poste de Sentinelle (3)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4650,7 +4650,7 @@ locale["quest.61.texts.objective"] = {
 };
 locale["quest.61.texts.description"] = {
 	"en": "Snaketail Rooster love to inhabit this place. This is bad. It will delay our work. The demon army will be upon us at any minute.<br>We have to hurry!<br><br><b>{0}</b>, help us get rid of those Snaketail Roosters.",
-	"fr": "Les Coqs à queue de serpent aiment habiter cet endroit. C'est mauvais. Ca va retarder notre travail. L'armée des démons sera sur nous à tout moment.<br>Nous devons nous dépêcher!<br><br><b>{0}</b>, Aidez-nous à nous débarrasser de ces Coqs à queue de serpent",
+	"fr": "Les Coqs à queue de serpent aiment habiter cet endroit. C'est mauvais. Ça va retarder notre travail. L'armée des démons sera sur nous à tout moment.<br>Nous devons nous dépêcher!<br><br><b>{0}</b>, Aidez-nous à nous débarrasser de ces Coqs à queue de serpent",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4687,7 +4687,7 @@ locale["quest.61.texts.returnPopupMain"] = {
 
 locale["quest.62.name"] = {
 	"en": "Sentry Post (4)",
-	"fr": "Poste de sentinelle (4)",
+	"fr": "Poste de Sentinelle (4)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4760,7 +4760,7 @@ locale["quest.62.texts.returnPopupMain"] = {
 
 locale["quest.63.name"] = {
 	"en": "Sentry Post (5)",
-	"fr": "Poste de sentinelle (5)",
+	"fr": "Poste de Sentinelle (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -4796,7 +4796,7 @@ locale["quest.63.texts.objective"] = {
 };
 locale["quest.63.texts.description"] = {
 	"en": "According to your performance here, i don't agree with Horay at all, you're a young man with real strength! I think Horay just thought you're a little young and wanted to make you have more training. Now you can go back, and I'll tell Horay my thoughts.",
-	"fr": "D'après ta performance ici, je ne suis pas du tout d'accord avec Horay, tu es un jeune homme avec une vraie force ! Je pense que Horay pensait juste que tu étais un peu jeune et voulais que tu t'entraînes davantage. Maintenant, vous pouvez revenir en arrière, et je dirai à Horay mes pensées.",
+	"fr": "D'après ta performance ici, je ne suis pas du tout d'accord avec Horay, tu es un jeune homme avec une vraie force ! Je pense que Horay pensait juste que tu étais un peu jeune et voulait que tu t'entraînes davantage. Maintenant, vous pouvez revenir en arrière, et je dirai à Horay mes pensées.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5051,7 +5051,7 @@ locale["quest.66.texts.description"] = {
 };
 locale["quest.66.texts.returnPopupMain"] = {
 	"en": "Do I smell fear on you? There's no turning back now!",
-	"fr": "Est-ce de la peur que je sent? Vous ne pouvez pas revenir en arrière maintenant!",
+	"fr": "Est-ce de la peur que je sens? Vous ne pouvez pas revenir en arrière maintenant!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5307,7 +5307,7 @@ locale["quest.70.name"] = {
 };
 locale["quest.70.texts.objective"] = {
 	"en": "Go to the Elite Hall of Celebeam Caves, find <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.",
-	"fr": "Allez dans la salle Elite des Caves de Celebeam, puis trouvez <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
+	"fr": "Allez dans la salle Élite des Caves de Celebeam, puis trouvez <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5325,7 +5325,7 @@ locale["quest.70.texts.objective"] = {
 };
 locale["quest.70.texts.description"] = {
 	"en": "There is a new demon in Elite Hall, he is not with these monsters. Though he is a demon, he may be useful for us.",
-	"fr": "Il y a un nouveau démon dans le Hall d'Elite, il n'est pas avec ces monstres. Bien qu'il soit un démon, il peut nous être utile.",
+	"fr": "Il y a un nouveau démon dans le Hall d'Élite, il n'est pas avec ces monstres. Bien qu'il soit un démon, il peut nous être utile.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5453,7 +5453,7 @@ locale["quest.72.name"] = {
 };
 locale["quest.72.texts.objective"] = {
 	"en": "Go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Aller parler à <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5672,7 +5672,7 @@ locale["quest.75.name"] = {
 };
 locale["quest.75.texts.objective"] = {
 	"en": "Go to Cain Kingdom, and visit the merchant <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, see if she needs help.",
-	"fr": "Allez a Cain, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
+	"fr": "Allez a Kane, rendez visite a la marchande <span class='text-link' data-target-type='npc' data-target-id='100027'>Rina Lily</span>, voyez si elle a besoin d'aide.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5836,7 +5836,7 @@ locale["quest.77.texts.objective"] = {
 };
 locale["quest.77.texts.description"] = {
 	"en": "The guards are trying to kick me out of my stall since my husband died. I can't go out and deliver it myself. Can you bring the cloak to James and check if he's alright?",
-	"fr": "Les guardes essaye de m'expluser de mon étal depuis que mon mari est mort. Je ne peut pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
+	"fr": "Les guardes essayent de m'expluser de mon étal depuis que mon mari est mort. Je ne peux pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5891,7 +5891,7 @@ locale["quest.78.name"] = {
 };
 locale["quest.78.texts.objective"] = {
 	"en": "Go to Celebeam Cave, use <span class='text-link' data-target-type='item' data-target-id='20003'>Purity Potions</span> on Zombies, if it gets worse, just get rid of them!<br><br>After completing this, report to <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> in the Caves.<br><br><i>if you lost the purity potions, you can buy them in the personal shop.</i>",
-	"fr": "Allez dans les Caves de Celebeam et utilisez des <span class='text-link' data-target-type='item' data-target-id='20003'>Potions de Pureté</span> sur des Zombies, si leur etat empire, tuez les!<br><br>Quand vous aurez fini, faîtes votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> dans les Caves.<br><br><i>Si vous perdez vos potions de pureté, vous pouvez en racheter dans le magasin personel.</i>",
+	"fr": "Allez dans les Caves de Celebeam et utilisez des <span class='text-link' data-target-type='item' data-target-id='20003'>Potions de Pureté</span> sur des Zombies, si leur état empire, tuez les!<br><br>Quand vous aurez fini, faîtes votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100034'>James</span> dans les Caves.<br><br><i>Si vous perdez vos potions de pureté, vous pouvez en racheter dans le magasin personel.</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -5909,7 +5909,7 @@ locale["quest.78.texts.objective"] = {
 };
 locale["quest.78.texts.description"] = {
 	"en": "I learned a lot with Master Kugarn, though i'm not a qualified psychic wizard. I want to impress Master Kugarn, can you please try out this potion on some zombies and tell me what effect they have on them? Be careful, i'm not sure what could result of it.",
-	"fr": "J'ai beaucoup apris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet qu'elles ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
+	"fr": "J'ai beaucoup appris avec Maître Kugarn ici, mais je ne suis pas un mage psychique qualifié. Je veux impressionner Maître Kugarn, pouvez-vous s'il vous plaît essayer cette potion sur certains zombies et me dire l'effet qu'elles ont sur eux ? En faisant attention, je ne suis pas sûr de ce qui pourrait en résulter.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6055,7 +6055,7 @@ locale["quest.80.texts.objective"] = {
 };
 locale["quest.80.texts.description"] = {
 	"en": "The following quest need you to be stronger, come here again when you're level 26.",
-	"fr": "La quête suivante requirs plus de puissance, reviens ici quand tu seras niveau 26.",
+	"fr": "La quête suivante requiert plus de puissance, reviens ici quand tu seras niveau 26.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6110,7 +6110,7 @@ locale["quest.81.name"] = {
 };
 locale["quest.81.texts.objective"] = {
 	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span> in the Caves.",
-	"fr": "Parlez a <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span> dans les Caves.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span> dans les Caves.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6256,7 +6256,7 @@ locale["quest.83.name"] = {
 };
 locale["quest.83.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Evil Spirits</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfique</span> et faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfique</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6274,7 +6274,7 @@ locale["quest.83.texts.objective"] = {
 };
 locale["quest.83.texts.description"] = {
 	"en": "Celebeam ores possess great magical energy. It's used in magic research, transporting and equiping manufactures. I believe that <i>Harlan</i> also use it for energy source. See those Evil Spirits? They are here to absorb the magical power for <i>Harlan</i>. We cannot let them take the magic power back to <i>Harlan</i> and make him more powerfull.",
-	"fr": "Les minerais de Celebeam possèdent une energie magique. Elle est utilisé dans des recherches, dans le trasport et l'equipement d'usines. Je crois que <i>Harlan</i> l'utilise aussi comme source d'énergie. Vous voyez ces Esprits Maléfique? Ils sont ici pour absorber cette magie pour <i>Harlan</i>. Nous ne pouvons pas les laisser ramener cette puissance magique à <i>Harlan</i> et le laisser devenir plus puissant.",
+	"fr": "Les minerais de Celebeam possèdent une énergie magique. Elle est utilisé dans des recherches, dans le trasport et l'équipement d'usines. Je crois que <i>Harlan</i> l'utilise aussi comme source d'énergie. Vous voyez ces Esprits Maléfique? Ils sont ici pour absorber cette magie pour <i>Harlan</i>. Nous ne pouvons pas les laisser ramener cette puissance magique à <i>Harlan</i> et le laisser devenir plus puissant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6402,7 +6402,7 @@ locale["quest.85.name"] = {
 };
 locale["quest.85.texts.objective"] = {
 	"en": "Go back to Cain Kingdom and talk to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Retournez dans la ville de Cain, sur la Place Royale Impériale et allez voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
+	"fr": "Retournez dans la ville de Kane, sur la Place Royale Impériale et allez voir l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6803,7 +6803,7 @@ locale["quest.90.texts.description"] = {
 };
 locale["quest.90.texts.returnPopupMain"] = {
 	"en": "You can't imagine how much demon wants his energy.",
-	"fr": "Vous ne pouvez pas imaginer a quel point le demon veut son energie.",
+	"fr": "Vous ne pouvez pas imaginer a quel point le demon veut son énergie.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -6931,7 +6931,7 @@ locale["quest.92.texts.objective"] = {
 };
 locale["quest.92.texts.description"] = {
 	"en": "The following quests are really dangerous, it requires the strength of at least a level 28. Are you ready?",
-	"fr": "Les quêtes suivantes sont vraiment dangereuses, elles requirent au minimum la puissance d'un niveau 28. Êtes-vous prêt?",
+	"fr": "Les quêtes suivantes sont vraiment dangereuses, elles requièrent au minimum la puissance d'un niveau 28. Êtes-vous prêt?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7004,7 +7004,7 @@ locale["quest.93.texts.objective"] = {
 };
 locale["quest.93.texts.description"] = {
 	"en": "Puchius has a good evaluation for you, go and continue to help the outpost!",
-	"fr": "Puchius a un bon test pour vous, partez, et continuez à aider le poste avancé!",
+	"fr": "Puchius a un bon test pour vous, partez, et continuez à aider le avant-poste!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7241,7 +7241,7 @@ locale["quest.96.texts.objective"] = {
 };
 locale["quest.96.texts.description"] = {
 	"en": "Do not get in my way, I am very busy. If you have free time, please help me take care of the snakes that have the body of a chicken... No matter what it is, i do not like snakes ! ! !",
-	"fr": "Ne me gêne pas, je suis très occupé. Si vous avez du temps libre, aidez-moi à m'occuper des serpents qui ont un corps de poulet... Peu importe la forme qu'ils ont, je déteste pas les serpents ! ! !",
+	"fr": "Ne me gêne pas, je suis très occupé. Si vous avez du temps libre, aide-moi à m'occuper des serpents qui ont un corps de poulet... Peu importe la forme qu'ils ont, je déteste les serpents ! ! !",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7314,7 +7314,7 @@ locale["quest.97.texts.objective"] = {
 };
 locale["quest.97.texts.description"] = {
 	"en": "Haha, you got rid of those \"snakes\"? I feel so energetic! Tell Foreman I can complete the work on time!",
-	"fr": "haha, tu t'es occupé de ces \"seprents\"? Je me sent plein d'energie! Dit au Contremaître que je peux terminer le travail à temps!",
+	"fr": "haha, tu t'es occupé de ces \"seprents\"? Je me sens plein d'energie! Dit au Contremaître que je peux terminer le travail à temps!",
 	"es": "",
 	"ch": "",
 	"kr": "",
