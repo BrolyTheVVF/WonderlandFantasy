@@ -8771,6 +8771,79 @@ locale["quest.115.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.116.name"] = {
+	"en": "Pirates from a Foreign Land (4)",
+	"fr": "Pirates d'un pays étranger (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.116.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='46'>Captain Hook</span>, retreive Grant's ship, then report to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, récupérer le navire de Grant, pui faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.116.texts.description"] = {
+	"en": "<i>[Captain Hook? He must be the boss of those cat pirates. I don't think I will leave here without a fight.]</i>",
+	"fr": "<i>[Capitaine Crochet? Il doit être le chef de ces chat pirates. Je ne pense pas pouvoir partir d'ici sans un combat.]</i>",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.116.texts.returnPopupMain"] = {
+	"en": "What? You defeated their boss?<br>That's... unexpected.<br><br>Good! I will fulfill my promise, and upgrade your Soul Gathering skill.",
+	"fr": "Quoi? Vous avez vaincue leur boss?<br>C'est... inattendu.<br><br>Bien! Je vais respecter ma promesse et améliorer votre collecte d'âme.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
