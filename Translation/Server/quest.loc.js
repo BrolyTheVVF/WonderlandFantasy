@@ -8698,6 +8698,79 @@ locale["quest.114.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.115.name"] = {
+	"en": "Pirates from a Foreign Land (4)",
+	"fr": "Pirates d'un pays étranger (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hải Tặc Nơi Đất Khách Quê Người (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.115.texts.objective"] = {
+	"en": "Teach <span class='text-link' data-target-type='npc' data-target-id='100053'>Keloni</span> a lesson by killing some <span class='text-link' data-target-type='mob' data-target-id='44'>Cat Pirate</span>.",
+	"fr": "Donnez à <span class='text-link' data-target-type='npc' data-target-id='100053'>Keloni</span> une leçon ehn tuant quelques <span class='text-link' data-target-type='mob' data-target-id='44'>Chat Pirate</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.115.texts.description"] = {
+	"en": "You can defeat them? Then, I am all relying on you. If you can get my ship back, I will reward you greatly!<br><br>Kill those pirates to teach the Squad Leaders a lesson. They will fear you.",
+	"fr": "Pouvez-vous les vaincre? Alors, je compte sur vous. Si vous pouvez récupérer mon navire, je vous récompenserai grandement!<br><br>Tuez ces pirates pour donner une leçon aux chefs d'escouade. Ils vous craindront.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.115.texts.returnPopupMain"] = {
+	"en": "You dare challenge me? Wait! Captain Hook won't let you go!",
+	"fr": "Vous osez me défier? Attendez! Le Capitaine Crochet ne vous laisseras pas partir!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
