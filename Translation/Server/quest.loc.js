@@ -9391,6 +9391,79 @@ locale["quest.123.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.124.name"] = {
+	"en": "Treasure Hunter (3)",
+	"fr": "Chasseur de Trésor (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.124.texts.objective"] = {
+	"en": "In the Pirate Camp, defeat some <span class='text-link' data-target-type='mob' data-target-id='44'>Cat Pirate</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"fr": "Dans le Camp Pirate, tuez quelques <span class='text-link' data-target-type='mob' data-target-id='44'>Chat Pirate</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.124.texts.description"] = {
+	"en": "How about Cat Pirate? You can have a try there!",
+	"fr": "Que diriez-vous de Chat Pirate? Vous pouvez essayer sur eux!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.124.texts.returnPopupMain"] = {
+	"en": "No?",
+	"fr": "Non plus?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
