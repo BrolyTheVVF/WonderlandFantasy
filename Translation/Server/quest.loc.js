@@ -2153,7 +2153,7 @@ locale["quest.27.texts.description"] = {
 };
 locale["quest.27.texts.returnPopupMain"] = {
 	"en": "Greetings, adventurer! We are having a difficult time. To the South in Lahm Coast area, the fish are attacking. To the North, in the Celebeam Cave we have cave-ins. To the West in the King's graves, there are rumors of hauntings. May Bur protects us.",
-	"fr": "Bienvenue aventurier! Nous traversons une période difficile. Au Sud, dans les Rive de Lahm, les poissons nous attaquent. Au Nord, dans les Caves de Celebeam il y a des éboulements. À l'Ouest, dans les catacombes royales, les rumeurs disent que l'endroit serait hanté. Que Bur nous protège.",
+	"fr": "Bienvenue aventurier! Nous traversons une période difficile. Au Sud, dans les Rive de Lahm, les poissons nous attaquent. Au Nord, dans les Caves de Celebeam il y a des éboulements. À l'Ouest, dans les Catacombes Royales, les rumeurs disent que l'endroit serait hanté. Que Bur nous protège.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2354,7 +2354,7 @@ locale["quest.32.texts.objective"] = {
 };
 locale["quest.32.texts.description"] = {
 	"en": "Do you know about the accident in the Celebeam Cave? It was tragic. A lot of young men lost their lives, including the kids of one of my friends. He is so sad now. I wish you could go visit him. He is guarding the king's grave in the Sacred Wilderness.",
-	"fr": "Avez-vous entendu parler de l'incident dans les Caves de Celebeam? C'était tragique. Beaucoup de jeunes gens y ont perdu la vie, et parmis eux le fils de l'un de mes amis. Il est si triste maintenant. J'espérais que vous pourriez aller lui rendre visite. Il garde la tombe du roi dans la Jungle Sacrée.",
+	"fr": "Avez-vous entendu parler de l'incident dans les Caves de Celebeam? C'était tragique. Beaucoup de jeunes gens y ont perdu la vie, et parmis eux le fils de l'un de mes amis. Il est si triste maintenant. J'espérais que vous pourriez aller lui rendre visite. Il garde la tombe du Roi dans la Jungle Sacrée.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2409,7 +2409,7 @@ locale["quest.33.name"] = {
 };
 locale["quest.33.texts.objective"] = {
 	"en": "Frole's son was killed in the accident in Celebeam Cave. The sad Gravekeeper wishes that Kugarn at the Oracle Lake can ressurect his son. Bring some powder dropped by <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Le fils de Frole a été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Le fils de Froles a été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse ressusciter son fils. Apporter de la poudre trouvé sur les <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2482,7 +2482,7 @@ locale["quest.33.objective.0.name"] = {
 
 locale["quest.34.name"] = {
 	"en": "Son of the Gravekeeper (3)",
-	"fr": "Fils du Gardien du cimetière (3)",
+	"fr": "Fils du Gardien du Cimetière (3)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2500,7 +2500,7 @@ locale["quest.34.name"] = {
 };
 locale["quest.34.texts.objective"] = {
 	"en": "Gather some Dawn Grass for <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Recoltez de l'Herbe de l'Aube pour <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Récoltez de l'Herbe de l'Aube pour <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2591,7 +2591,7 @@ locale["quest.35.name"] = {
 };
 locale["quest.35.texts.objective"] = {
 	"en": "Kill <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beetle</span> to gather some Beetle's Tough Shell. Then report to <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabée</span> pour recolter quelques Coquille de scarabée dure. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabée</span> pour recolter quelques Coquille Dure de Scarabée. Ensuite, faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2609,7 +2609,7 @@ locale["quest.35.texts.objective"] = {
 };
 locale["quest.35.texts.description"] = {
 	"en": "This forest was a source of the magic power for the Cain Kingdom. Creatures with magical powers can be found everywhere, and they can be used to cast the spell. I need some Beetle's Tough Shell.",
-	"fr": "Cette forêt était la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille de scarabée dure.",
+	"fr": "Cette forêt était la source de pouvoir magique pour le Royaume de Kane. Des créatures aux pouvoirs magiques peuvent être trouvées partout, et elles peuvent être utilisés pour lancer le sort. J'ai besoin de Coquille Dure de Scarabée.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2645,7 +2645,7 @@ locale["quest.35.texts.returnPopupMain"] = {
 };
 locale["quest.35.objective.0.name"] = {
 	"en": "Beetle's Tough Shell",
-	"fr": "Coquille de scarabée dure",
+	"fr": "Coquille Dure de Scarabée",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2664,7 +2664,7 @@ locale["quest.35.objective.0.name"] = {
 
 locale["quest.36.name"] = {
 	"en": "Son of the Gravekeeper (5)",
-	"fr": "Fils du Gardien du cimetière (5)",
+	"fr": "Fils du Gardien du Cimetière (5)",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2773,7 +2773,7 @@ locale["quest.37.name"] = {
 };
 locale["quest.37.texts.objective"] = {
 	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> complete the ritual. Pray at the Mysterious Altar and defeat the <span class='text-link' data-target-type='mob' data-target-id='20'>Courier of Death</span>.<br><br>Then, talk to the revived James.",
-	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> a terminer le rituel. Priez à l'Autel Mystérieux et venez à bout du <span class='text-link' data-target-type='mob' data-target-id='20'>Gardien Mortel</span>.<br><br>Ensuite, parlez au James ressuscité.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span> à terminer le rituel. Priez à l'Autel Mystérieux et venez à bout du <span class='text-link' data-target-type='mob' data-target-id='20'>Gardien Mortel</span>.<br><br>Ensuite, parlez au James ressuscité.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2864,7 +2864,7 @@ locale["quest.39.name"] = {
 };
 locale["quest.39.texts.objective"] = {
 	"en": "Bring James some of the Beetle's Tough Shells, Powder of Rainbow Moth and Hornwolf's Horn.<br>You can get them by hunting <span class='text-link' data-target-type='mob' data-target-id='18'>Tiny Beatle</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> and <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>.",
-	"fr": "Apportez à James quelques Coquille de scarabée dure, de la Poudre de Mite Arc-en-Ciel et la Corne du Loup Licorne.<br>Vous pouvez les obtenir en chassant les <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabé</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> et <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>.",
+	"fr": "Apportez à James quelques Coquille Dure de Scarabée, de la Poudre de Mite Arc-en-Ciel et la Corne du Loup Licorne.<br>Vous pouvez les obtenir en chassant les <span class='text-link' data-target-type='mob' data-target-id='18'>Petit Scarabé</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Mite Arc-en-Ciel</span> et <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2918,7 +2918,7 @@ locale["quest.39.texts.returnPopupMain"] = {
 };
 locale["quest.39.objective.0.name"] = {
 	"en": "Beetle's Tough Shell",
-	"fr": "Coquille de scarabée dure",
+	"fr": "Coquille Dure de Scarabée",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3009,7 +3009,7 @@ locale["quest.40.texts.objective"] = {
 };
 locale["quest.40.texts.description"] = {
 	"en": "Master Kugarn told me about everything. Thanks for helping me. I owe you my life.<br>Kugarn suggested he takes me as an apprentice. I think I should repay him and stay by his side? Please tell my father that I am ok now.",
-	"fr": "Maître Kugarn m'a tout dit. Merci de votre aide. Je vous doit la vie.<br>Kugarn m'a proposer de me prendre comme apprenti. Je pense que je lui doit bien. S'il vous plait, allez prévenir mon père que je vais bien maintenant.",
+	"fr": "Maître Kugarn m'a tout dit. Merci de votre aide. Je vous dois la vie.<br>Kugarn m'a proposé de me prendre comme apprenti. Je pense que je lui dois bien. S'il vous plait, allez prévenir mon père que je vais bien maintenant.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3064,7 +3064,7 @@ locale["quest.41.name"] = {
 };
 locale["quest.41.texts.objective"] = {
 	"en": "Report back to the <span class='text-link' data-target-type='npc' data-target-id='100028'>Stashkeeper</span> that Froles is ok now.",
-	"fr": "Retournez voir le <span class='text-link' data-target-type='npc' data-target-id='100028'>Gardien de la réserve</span> pour le prevenir que Froles va mieux.",
+	"fr": "Retournez voir le <span class='text-link' data-target-type='npc' data-target-id='100028'>Gardien de la réserve</span> pour le prévenir que Froles va mieux.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3155,7 +3155,7 @@ locale["quest.42.texts.objective"] = {
 };
 locale["quest.42.texts.description"] = {
 	"en": "The Rookie Drillmaster has something to teach you. Visit him.",
-	"fr": "L'instructeur de bleusaille à quelque chose a t'apprendre. Rendez-lui visite.",
+	"fr": "L'instructeur de bleusaille à quelque chose à t'apprendre. Rendez-lui visite.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3356,7 +3356,7 @@ locale["quest.45.name"] = {
 };
 locale["quest.45.texts.objective"] = {
 	"en": "Complete 10 daily quests, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Terminez 10 quêtes hebdomadaire, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Terminez 10 quêtes quotidiennes, Puis faitez votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3410,7 +3410,7 @@ locale["quest.45.texts.returnPopupMain"] = {
 };
 locale["quest.45.objective.0.name"] = {
 	"en": "10 Daily Quests",
-	"fr": "10 Quêtes Hebdo.",
+	"fr": "10 Quêtes Quotidiennes.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3465,7 +3465,7 @@ locale["quest.46.texts.objective"] = {
 };
 locale["quest.46.texts.description"] = {
 	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Mirelia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
-	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Mirelia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
+	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Mirelia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le Roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3538,7 +3538,7 @@ locale["quest.47.texts.objective"] = {
 };
 locale["quest.47.texts.description"] = {
 	"en": "Hey, stop! It's dangerous if you move further forward, this place has been blocked... Wait, I know you, you are the warrior recognized by the king.<br><br>Ha-ha, I am the trainee of the demon hunter. Hunting demons is my job, but I got overwhelmed by the current situation.",
-	"fr": "Hey, stop! C'est dangereux si tu vas plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
+	"fr": "Hey, stop! C'est dangereux si tu vas plus loin, cet endroit a été bloqué... Attends, je te connais, tu es le guerrier reconnu par le Roi.<br><br>Ha-ha, je suis l'apprenti chasseur de démons. Chasser les démons est mon travail, mais j'ai été dépassé par la situation actuelle.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3593,7 +3593,7 @@ locale["quest.48.name"] = {
 };
 locale["quest.48.texts.objective"] = {
 	"en": "Go to the Celebeam Cave and Talk to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
-	"fr": "Allez dans les Caves de Celebeam et parlez a <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"fr": "Allez dans les Caves de Celebeam et parlez à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3666,7 +3666,7 @@ locale["quest.49.name"] = {
 };
 locale["quest.49.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='23'>Wax Zombies</span> then talk to <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='23'>Zombies de Cire</span> puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='23'>Zombies de Cire</span> puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100035'>Horay</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -3939,7 +3939,7 @@ locale["quest.52.texts.description"] = {
 };
 locale["quest.52.texts.returnPopupMain"] = {
 	"en": "Well done! I think they will be quiet for some time!",
-	"fr": "Bien joué! Je pense qu'ils serons calme pendant un petit moment!",
+	"fr": "Bien joué! Je pense qu'ils seront calme pendant un petit moment!",
 	"es": "",
 	"ch": "",
 	"kr": "",
