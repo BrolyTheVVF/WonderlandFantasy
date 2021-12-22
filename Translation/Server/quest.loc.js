@@ -9318,6 +9318,79 @@ locale["quest.122.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.123.name"] = {
+	"en": "Treasure Hunter (2)",
+	"fr": "Chasseur de Trésor (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.123.texts.objective"] = {
+	"en": "In the Pirate Camp, defeat some <span class='text-link' data-target-type='mob' data-target-id='43'>Pirate Ambusher</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"fr": "Dans le Camp Pirate, tuez quelques <span class='text-link' data-target-type='mob' data-target-id='43'>Pirate Sournois</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.123.texts.description"] = {
+	"en": "Hi, my friend! I see you are busy helping these captains deal with the pirates. I'm wondering if you found something valuable! I guess you did not search them carefully, If you can search it for me, I'll pay you!",
+	"fr": "Salut mon ami! Je vois que vous êtes occupé à aider ces capitaines à s'occuper des pirates. Je me demandais si vous aviez trouvé quelque chose de valeur! Je suppose que vous ne les avez pas fouillés attentivement, si vous pouvez chercher pour moi, je vous paierai!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.123.texts.returnPopupMain"] = {
+	"en": "Nothing? Let me think about it, maybe what I said is not clear. OK let me get this straight. The treasure map is written in ancient glyphs!",
+	"fr": "Rien? Laissez-moi réfléchir, peut-être que ce que j'ai dit n'est pas clair. OK, laissez-moi comprendre. La carte au trésor est écrite en glyphes anciens!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
