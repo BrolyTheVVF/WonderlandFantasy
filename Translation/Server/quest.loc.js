@@ -8864,7 +8864,7 @@ locale["quest.117.name"] = {
 };
 locale["quest.117.texts.objective"] = {
 	"en": "Reach level 31, then talk to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
-	"fr": "Atteignez le niveau 31, puis parler à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Atteignez le niveau 31, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8901,6 +8901,79 @@ locale["quest.117.texts.description"] = {
 locale["quest.117.texts.returnPopupMain"] = {
 	"en": "Wow! I see you are stronger!",
 	"fr": "Wow! Je vois que vous etes plus fort!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.118.name"] = {
+	"en": "Youngman's Trouble (1)",
+	"fr": "Problème de jeune homme (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.118.texts.objective"] = {
+	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>, see if he is in trouble.",
+	"fr": "Parlez avec <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>, voyez s'il as des ennuis.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.118.texts.description"] = {
+	"en": "The child is crying, so annoying.",
+	"fr": "L'enfant pleure, c'est tellement agaçant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.118.texts.returnPopupMain"] = {
+	"en": "<i>(Crying...)</i>",
+	"fr": "<i>(Pleurs...)</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
