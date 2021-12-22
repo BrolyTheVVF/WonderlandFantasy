@@ -3198,6 +3198,24 @@ locale["npc.100052.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100054.interact.baseText"] = {
+	"en": "Treasure is my life! It keeps me alive!",
+	"fr": "Les trésors sont toute ma vie! Ca me permet de rester vivant!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.baseText"] = {
 	"en": "Mysterious Altar",
