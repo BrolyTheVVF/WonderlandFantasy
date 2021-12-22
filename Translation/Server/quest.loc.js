@@ -895,7 +895,7 @@ locale["quest.11.texts.objective"] = {
 };
 locale["quest.11.texts.description"] = {
 	"en": "All the materials are ready. Now open \"Craft\" menu and start crafting a weapon. Don't pick a weapon that's not for your class.",
-	"fr": "Tous les matériaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas a votre classe.",
+	"fr": "Tous les matériaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas à votre classe.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1077,7 +1077,7 @@ locale["quest.13.texts.description"] = {
 };
 locale["quest.13.texts.returnPopupMain"] = {
 	"en": "Good! Talk to other adventurers and make some relationship.",
-	"fr": "Bien! Parle à d'autres aventuriers et créer des relations.",
+	"fr": "Bien! Parlez à d'autres aventuriers et créez des relations.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1150,7 +1150,7 @@ locale["quest.14.texts.objective"] = {
 };
 locale["quest.14.texts.description"] = {
 	"en": "Now you can set out from Treefolk Town. Knight Keros is in 'Lahm Coast' to the south fighting those Nagarians. He needs some help.<br>Keros is famous for his bad temper. Watch your mouth!",
-	"fr": "Maintenant, vous pouvez quitter la Ville de l'Arbre Monde. le chevalier Keros est dans un campement sur les 'Rives de Lahm' au sud, combattant ces Nagas. Il a besoin d'aide.<br>Keros est connu pour sa mauvaise humeur. Surveille ton langage!",
+	"fr": "Maintenant, vous pouvez quitter la Ville de l'Arbre Monde. le chevalier Keros est dans un campement sur les 'Rives de Lahm' au sud, combattant ces Nagas. Il a besoin d'aide.<br>Keros est connu pour sa mauvaise humeur. Surveillez votre langage!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1369,7 +1369,7 @@ locale["quest.17.name"] = {
 	};
 locale["quest.17.texts.objective"] = {
 	"en": "Use your Soul Gathering skill, and kill some <span class='text-link' data-target-type='mob' data-target-id='11'>Nagar Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
-	"fr": "Utilisez votre compétence de Collecte d'Âme, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='11'>Guerrier Nagar</span>, puis faite votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
+	"fr": "Utilisez votre compétence de Collecte d'Âme, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='11'>Guerrier Nagar</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100016'>Monri</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1387,7 +1387,7 @@ locale["quest.17.texts.objective"] = {
 };
 locale["quest.17.texts.description"] = {
 	"en": "Raise your weapons, kids! Sweep those smallish monsters out of our land! Hail to the king!",
-	"fr": "Levez vos armes les enfants! Balayez ces petits monstres hors de nos terres! Vive le roi!",
+	"fr": "Levez vos armes les enfants! Balayez ces petits monstres hors de nos terres! Vive le Roi!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1734,7 +1734,7 @@ locale["quest.22.name"] = {
 };
 locale["quest.22.texts.objective"] = {
 	"en": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> recognized your contribution to Lahm Coast. He suggested you to go to the king. But first, visit <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> in the Sacred Wilderness",
-	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> a reconnu votre contribution à Lahm Coast. il vous a parrainé auprès du roi. Mais avant, rendez visite à <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> dans la Jungle Sacrée",
+	"fr": "<span class='text-link' data-target-type='npc' data-target-id='100016'>Keros</span> a reconnu votre contribution à Lahm Coast. il vous a parrainé auprès du Roi. Mais avant, rendez visite à <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> dans la Jungle Sacrée",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1752,7 +1752,7 @@ locale["quest.22.texts.objective"] = {
 };
 locale["quest.22.texts.description"] = {
 	"en": "The war here is turning in our favor because of your endeavor. You have shown the power and the capability of a Warrior! I will introduce you to the king. Head for the Cain Kingdom via Sacred Wilderness. The gravekeeper there is my old friend. Please salute him.",
-	"fr": "La guerre ici tourne en notre faveur grace à vos efforts. Vous avez démontré votre puissance et vos grandes capacités! Je vais vous présenter au roi. Allez en direction du Royaume de Kane, en passant par la Jungle Sacrée. Le Gardien du Cimetière est un vieil ami. Passez lui le bonjour.",
+	"fr": "La guerre ici tourne en notre faveur grace à vos efforts. Vous avez démontré votre puissance et vos grandes capacités! Je vais vous présenter au Roi. Allez en direction du Royaume de Kane, en passant par la Jungle Sacrée. Le Gardien du Cimetière est un vieil ami. Passez lui le bonjour.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1770,7 +1770,7 @@ locale["quest.22.texts.description"] = {
 };
 locale["quest.22.texts.returnPopupMain"] = {
 	"en": "The people believed in Bur, and regarded the Bishop as the herald of the God. After reading the mage's magic is a threat, Bishop Geoff threw them in the prison as herectics. As a captain of the knight order, Spiker had to follow the Bishop. Finally, he realised that the Bishop was insane and the people of Vanderbot were in turmoil.",
-	"fr": "Les gens croient en 'Bur', et considérait l'Évêque comme le messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
+	"fr": "Les gens croient en 'Bur', et considéraient l'Évêque comme le Messager du Dieu. Après avoir conclu que la magie du mage était une menace, l'Évêque les a jeté en prison pour hérésie. En tant que capitaine des chevaliers de l'ordre, Spiker devait suivre les ordres de l'Évêque. Enfin, il réalisa que l'évêque était fou, et les habitants de Vanderbot étaient en colère.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1807,7 +1807,7 @@ locale["quest.23.name"] = {
 };
 locale["quest.23.texts.objective"] = {
 	"en": "Help <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> and prepare a gift for his son. Find some Sweet Honney from <span class='text-link' data-target-type='mob' data-target-id='16'>Bees</span>.",
-	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> et preparez un cadeau pour son fils. Trouvez du Miel doux sur des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeilles</span>.",
+	"fr": "Aidez <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span> et préparez un cadeau pour son fils. Trouvez du Miel doux sur des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeilles</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -1989,7 +1989,7 @@ locale["quest.25.texts.objective"] = {
 };
 locale["quest.25.texts.description"] = {
 	"en": "Welcome to Cain dear adventurer. The Kingdom needs more warriors like you. You have done an exellent job so far, however the tasks might become way more difficult from now on, if you are ready to face trouble, visit the Bishop.",
-	"fr": "Bienvenue à Kane cher aventurier. Le Royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile a partir de maintenant, si vous êtes prêt a faire face aux problèmes, rendez visite a l'Évêque.",
+	"fr": "Bienvenue à Kane cher aventurier. Le Royaume a besoin de plus de guerier comme vous. Vous avez fait un excellent travail jusque la, toutefois, la tâche pourrait devenir plus dificile à partir de maintenant, si vous êtes prêt à faire face aux problèmes, rendez visite à l'Évêque.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -2062,7 +2062,7 @@ locale["quest.26.texts.objective"] = {
 };
 locale["quest.26.texts.description"] = {
 	"en": "Long ago, the God of Creation Bur and the evil God Harlan fought an epic war in Mirelia. In the end, Bur borrowed from the elemental Power of Mirelia and created the sword 'Lamborisa', and killed Harlan.<br><br>The Holy Sword lamborisa sealed Harlan's soul within itself, so Bur hid the sword in the Abyss Labyrinth to prevent him from ever returning.<br><br>In those long years, the Holy Sword has been tainted by the evil.<br><br>Harlan's one purpose is to take revenge after ressurection! Enter the Abyss Labyrinth and destroy the Sword to prevent that from happening.",
-	"fr": "Il y a bien longtemps, le Dieu de la Création Bur et le Dieu maléfique Harlan ont mené une guerre épique en Mirelia. Au final, Bur emprunta la puissance des éléments de WonMirelia créa l'épée 'Lamborisa', et tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Bur cacha l'épée dans le labyrinthe des abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'épée sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le labyrinthe de l'abysse et détruisez l'épée pour empêcher sa résurrection.",
+	"fr": "Il y a bien longtemps, le Dieu de la Création Bur et le Dieu maléfique Harlan ont mené une guerre épique en Mirelia. Au final, Bur emprunta la puissance des éléments de Mirelia et créa l'épée 'Lamborisa' avec laquelle il tua Harlan.<br><br>L'épée sainte Lamborisa scella l'âme d'Harlan en elle-même, alors Bur cacha l'épée dans le Labyrinthe des Abysses pour l'empêcher de revenir à la vie.<br><br>Pendant ces longues années, l'Épée Sacrée a été entachée par le mal.<br><br>L'unique but d'Harlan est de prendre sa revanche après sa résurrection! Entrez dans le Labyrinthe des Abysses et détruisez l'épée pour empêcher sa résurrection.",
 	"es": "",
 	"ch": "",
 	"kr": "",
