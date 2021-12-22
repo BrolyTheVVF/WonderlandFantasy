@@ -2743,6 +2743,42 @@ locale["npc.100053.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100054.name"] = {
+	"en": "Ankasai",
+	"fr": "Ankasai",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Ankasai",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100054.title"] = {
+	"en": "Treasure Hunter",
+	"fr": "Chasseur de Trésor",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
