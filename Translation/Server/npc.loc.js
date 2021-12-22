@@ -957,6 +957,24 @@ locale["npc.52.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.53.name"] = {
+	"en": "Desert Raider",
+	"fr": "Pillard du Désert",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
