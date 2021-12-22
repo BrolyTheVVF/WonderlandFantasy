@@ -8663,7 +8663,7 @@ locale["quest.114.texts.objective"] = {
 };
 locale["quest.114.texts.description"] = {
 	"en": "<i>[These pirates are so ignorant. They even blocked my way out. I think i need to teach them some manners.]</i>",
-	"fr": "<i>[Ces pirates sont si ignorants. Ils m'ont même pas bloqué la sortie. Je pense que je dois leur apprendre quelques manières.]</i>",
+	"fr": "<i>[Ces pirates sont si ignorants. Ils m'ont même bloqué la sortie. Je pense que je dois leur apprendre quelques manières.]</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
