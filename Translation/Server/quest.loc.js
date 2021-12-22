@@ -9245,6 +9245,79 @@ locale["quest.121.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.122.name"] = {
+	"en": "Treasure Hunter (1)",
+	"fr": "Chasseur de Trésor (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.122.texts.objective"] = {
+	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>, see if he is in trouble.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>, voyez s'il as des ennuis.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.122.texts.description"] = {
+	"en": "You made it, thank you for bringing that stupid Bohr back! While you were gone, a Treasure Hunter came here and wanted to meet you!",
+	"fr": "Vous avez réussi, merci d'avoir ramené ce stupide Bohr! Pendant que vous étiez parti, un chasseur de trésor est venu ici et voulais vous rencontrer!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.122.texts.returnPopupMain"] = {
+	"en": "Yes, i tried to find you.",
+	"fr": "Oui, je vous cherchais.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
