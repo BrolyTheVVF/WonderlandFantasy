@@ -9464,6 +9464,79 @@ locale["quest.124.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.125.name"] = {
+	"en": "Treasure Hunter (4)",
+	"fr": "Chasseur de Trésor (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.125.texts.objective"] = {
+	"en": "Find the treasure map on <span class='text-link' data-target-type='mob' data-target-id='46'>Captain Hook</span>, then give it to <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"fr": "Trouvez la carte au trésor sur le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.125.texts.description"] = {
+	"en": "Ah, I'm a fool. The Treasure Map must be on the body of the Head!",
+	"fr": "Ah, je suis un imbécile. La carte au trésor doit être sur le corps de la tête!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.125.texts.returnPopupMain"] = {
+	"en": "It means nothing to you. It's written in a special code. Just give it to me!",
+	"fr": "Ce ne veut rien dire pour vous. C'est ecris en code spécial. Donnez la moi!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
