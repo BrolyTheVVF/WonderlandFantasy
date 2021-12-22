@@ -849,6 +849,24 @@ locale["npc.46.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.47.name"] = {
+	"en": "The Immortal",
+	"fr": "L'Immortel",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
