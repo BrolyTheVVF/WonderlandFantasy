@@ -8990,6 +8990,97 @@ locale["quest.118.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.119.name"] = {
+	"en": "Youngman's Trouble (2)",
+	"fr": "Problème de jeune homme (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.119.texts.objective"] = {
+	"en": "Go to Pirate Camp an defeat some <span class='text-link' data-target-type='mob' data-target-id='45'>Sunny Starfish</span>. Find some Sunny Starfish Skin, then report to <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>.",
+	"fr": "Allez au Camp Pirate et tuez des <span class='text-link' data-target-type='mob' data-target-id='45'>Étoile de mer Ensoleillée</span>. Trouvez des Peau d'Étoile de mer Ensoleillée, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.119.texts.description"] = {
+	"en": "I lost all the starfish I picked up today.<br>Father will be mad at me.",
+	"fr": "J'ai perdu toutes les etoiles de mer que j'ai ramassé aujourd'hui.<br>Père va être furieux.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.119.texts.returnPopupMain"] = {
+	"en": "Enough! That's too many for me.",
+	"fr": "Stop! Il y en a bien trop pour moi.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.119.objective.0.name"] = {
+	"en": "Sunny Starfish Skin",
+	"fr": "Peau d'Étoile de mer Ensoleillée",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
