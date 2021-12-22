@@ -7641,8 +7641,8 @@ locale["quest.101.texts.objective"] = {
 	"id": ""
 };
 locale["quest.101.texts.description"] = {
-	"en": "That's correct. We are about to set sail. Do you want to come aboard? Everything is set and ready, but if you can help, we can set off earlier. I still need a few more sailors. Can you help me recruit some?",
-	"fr": "C'est vrai. Nous sommes sur le point de mettre les voiles. Vous voulez monter à bord? Tout est prêt, mais si vous pouvez nous aider, nous pourons partir plus tôt. Il me faut encore quelques marins. Pouvez-vous m'aider à en recruter?",
+	"en": "The crew is quite perfect! However, Mrs.Vario, who is supposed to prepare our food, has some troubles. Maybe her cooking is so great that the food attracted monsters! Please help her, and make sure our food is prepared.",
+	"fr": "L'équipage est assez parfait ! Cependant, Mme Vario, qui est censée préparer notre nourriture, a quelques problèmes. Peut-être que sa cuisine est si bonne que la nourriture a attiré des monstres ! S'il vous plaît, aidez-la et assurez-vous que notre nourriture est préparée.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7651,7 +7651,7 @@ locale["quest.101.texts.description"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đúng rồi đấy. Bọn ta đang chuẩn bị căng buồm ra khơi. Ngươi muốn lên thuyền chứ? Mọi thứ đã vào vị trí và chuẩn bị xuất phát, nhưng nếu ngươi trợ giúp thì, chúng ta có thể ra khơi sớm hơn dự tính. Nhưng ta vẫn cần thêm một vài thủy thủ. Ngươi có thể đi chiêu mộ thêm chứ?",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
