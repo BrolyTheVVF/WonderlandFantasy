@@ -7788,7 +7788,7 @@ locale["quest.103.name"] = {
 };
 locale["quest.103.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='36'>Chocolate Slimes</span> and obtain Chocolate Cream, then give them to <span class='text-link' data-target-type='npc' data-target-id='100049'>Mrs. Vario</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='36'>Slimes Chocolat</span> et recolter des Cremes au Chocolat, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='36'>Slimes Chocolat</span> et recoltez des Crèmes au Chocolat, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100049'>Mme. Vario</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -7806,7 +7806,7 @@ locale["quest.103.texts.objective"] = {
 };
 locale["quest.103.texts.description"] = {
 	"en": "Elite likes my chocolate pie very much. He said that he cannot steer without it! Oh, where is my Chocolate Cream ?",
-	"fr": "Elite aime beaucoup ma tarte au chocolat. Il a dit qu'il ne peut pas diriger sans lui ! Oh, où est ma crème au chocolat ?",
+	"fr": "Élite aime beaucoup ma tarte au chocolat. Il a dit qu'il ne peut pas diriger sans lui ! Oh, où est ma crème au chocolat ?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8043,7 +8043,7 @@ locale["quest.106.texts.objective"] = {
 };
 locale["quest.106.texts.description"] = {
 	"en": "Where is Hylan? Can you find her?",
-	"fr": "Ou est Hylan? Peut-tu la trouver?",
+	"fr": "Où est Hylan? Peut-tu la trouver?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8663,7 +8663,7 @@ locale["quest.114.texts.objective"] = {
 };
 locale["quest.114.texts.description"] = {
 	"en": "<i>[These pirates are so ignorant. They even blocked my way out. I think i need to teach them some manners.]</i>",
-	"fr": "<i>[Ces pirates sont si ignorants. Ils m'ont même bloqué la sortie. Je pense que je dois leur apprendre quelques manières.]</i>",
+	"fr": "<i>[Ces pirates sont si ignorants. Ils m'ont même pas bloqué la sortie. Je pense que je dois leur apprendre quelques manières.]</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8718,7 +8718,7 @@ locale["quest.115.name"] = {
 };
 locale["quest.115.texts.objective"] = {
 	"en": "Teach <span class='text-link' data-target-type='npc' data-target-id='100053'>Keloni</span> a lesson by killing some <span class='text-link' data-target-type='mob' data-target-id='44'>Cat Pirate</span>.",
-	"fr": "Donnez à <span class='text-link' data-target-type='npc' data-target-id='100053'>Keloni</span> une leçon ehn tuant quelques <span class='text-link' data-target-type='mob' data-target-id='44'>Chat Pirate</span>.",
+	"fr": "Donnez à <span class='text-link' data-target-type='npc' data-target-id='100053'>Keloni</span> une leçon en tuant quelques <span class='text-link' data-target-type='mob' data-target-id='44'>Chat Pirate</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8754,7 +8754,7 @@ locale["quest.115.texts.description"] = {
 };
 locale["quest.115.texts.returnPopupMain"] = {
 	"en": "You dare challenge me? Wait! Captain Hook won't let you go!",
-	"fr": "Vous osez me défier? Attendez! Le Capitaine Crochet ne vous laisseras pas partir!",
+	"fr": "Vous osez me défier? Attendez! Le Capitaine Crochet ne vous laissera pas partir!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8791,7 +8791,7 @@ locale["quest.116.name"] = {
 };
 locale["quest.116.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='46'>Captain Hook</span>, retreive Grant's ship, then report to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, récupérer le navire de Grant, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, récupérez le navire de Grant, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8827,7 +8827,7 @@ locale["quest.116.texts.description"] = {
 };
 locale["quest.116.texts.returnPopupMain"] = {
 	"en": "What? You defeated their boss?<br>That's... unexpected.<br><br>Good! I will fulfill my promise, and upgrade your Soul Gathering skill.",
-	"fr": "Quoi? Vous avez vaincue leur boss?<br>C'est... inattendu.<br><br>Bien! Je vais respecter ma promesse et améliorer votre collecte d'âme.",
+	"fr": "Quoi? Vous avez vaincu leur boss?<br>C'est... inattendu.<br><br>Bien! Je vais respecter ma promesse et améliorer votre collecte d'âme.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8882,7 +8882,7 @@ locale["quest.117.texts.objective"] = {
 };
 locale["quest.117.texts.description"] = {
 	"en": "<b>{0}</b>, you are so great! Now, I can send this ship of cargo to Rhein. It's a free trade nation, my good will make me earn a nice fortune. If you want to go to Rhein, you can come to me.<br><br>Have some rest. I will need your help soon.",
-	"fr": "<b>{0}</b>, vous etes tellement génial! Maintenant, je peux envoyer ce cargo à Rhein. C'est une nation de libre échange, mes biens me ferons gagner une belle fortune. Si vous voulez aller à Rhein, vous pouvez venir me voir.<br><br>Reposez-vous. J'aurai bientôt besoin de votre aide.",
+	"fr": "<b>{0}</b>, vous êtes tellement génial! Maintenant, je peux envoyer ce cargo à Rhein. C'est une nation de libre échange, mes biens me feront gagner une belle fortune. Si vous voulez aller à Rhein, vous pouvez venir me voir.<br><br>Reposez-vous. J'aurai bientôt besoin de votre aide.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8900,7 +8900,7 @@ locale["quest.117.texts.description"] = {
 };
 locale["quest.117.texts.returnPopupMain"] = {
 	"en": "Wow! I see you are stronger!",
-	"fr": "Wow! Je vois que vous etes plus fort!",
+	"fr": "Wow! Je vois que vous êtes plus fort!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -8937,7 +8937,7 @@ locale["quest.118.name"] = {
 };
 locale["quest.118.texts.objective"] = {
 	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>, see if he is in trouble.",
-	"fr": "Parlez avec <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>, voyez s'il as des ennuis.",
+	"fr": "Parlez avec <span class='text-link' data-target-type='npc' data-target-id='100051'>Laphrey</span>, voyez s'il a des ennuis.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9558,7 +9558,7 @@ locale["quest.10006.name"] = {
 };
 locale["quest.10006.texts.objective"] = {
 	"en": "Go back to Cain, find the blacksmith <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, he'll teach you how to fortify weapons.",
-	"fr": "Retournez a Kane, trouvez le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, il vous apprendras a fortifier vos armes.",
+	"fr": "Retournez à Kane, trouvez le forgeron <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, il vous apprendras a fortifier vos armes.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9780,7 +9780,7 @@ locale["quest.1002.texts.returnPopupMain"] = {
 };
 locale["quest.1000.texts.objective"] = {
 	"en": "Talk to the Swordmaster <span class='text-link' data-target-type='npc' data-target-id='100009'>Sid</span>",
-	"fr": "Parler au Maître d'Armes <span class='text-link' data-target-type='npc' data-target-id='100009'>Sid</span>",
+	"fr": "Parlez au Maître d'Armes <span class='text-link' data-target-type='npc' data-target-id='100009'>Sid</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9798,7 +9798,7 @@ locale["quest.1000.texts.objective"] = {
 };
 locale["quest.1001.texts.objective"] = {
 	"en": "Talk to the Hunter <span class='text-link' data-target-type='npc' data-target-id='100007'>Phil</span>",
-	"fr": "Parler au Chasseur <span class='text-link' data-target-type='npc' data-target-id='100007'>Phil</span>",
+	"fr": "Parlez au Chasseur <span class='text-link' data-target-type='npc' data-target-id='100007'>Phil</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9816,7 +9816,7 @@ locale["quest.1001.texts.objective"] = {
 };
 locale["quest.1002.texts.objective"] = {
 	"en": "Talk to the Wizard <span class='text-link' data-target-type='npc' data-target-id='100010'>Schlein</span>",
-	"fr": "Parler au Mage <span class='text-link' data-target-type='npc' data-target-id='100010'>Schlein</span>",
+	"fr": "Parlez au Mage <span class='text-link' data-target-type='npc' data-target-id='100010'>Schlein</span>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10515,7 +10515,7 @@ locale["quest.10000.name"] = {
 };
 locale["quest.10000.texts.objective"] = {
 	"en": "<span class='text-link' data-target-type='npc' data-target-id='100014'>Collector</span> likes to collect hand-made gears, if you'd like to make gear for him, continue this talk with him.",
-	"fr": "Le <span class='text-link' data-target-type='npc' data-target-id='100014'>Collectionneur</span> aime recolter de l'equipement fait main, si vous voulez fabriquer de l'equipement pour lui, continuer cette conversation avec lui.",
+	"fr": "Le <span class='text-link' data-target-type='npc' data-target-id='100014'>Collectionneur</span> aime recolter de l'equipement fait main, si vous voulez fabriquer de l'equipement pour lui, continuez cette conversation avec lui.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10843,7 +10843,7 @@ locale["quest.10004.texts.description"] = {
 };
 locale["quest.10004.texts.returnPopupMain"] = {
 	"en": "Look, what a beautiful ring! I'll give it to the next-door neighbor's child as a marriage gift. It can save them lots of money!<br><i>Quest will remove gear 'Sweet Seal'</i>",
-	"fr": "Regardez moi cet anneau magnifique! Je le donnerais à l'enfant du voisin d'en face comme cadeau de mariage. Ça pourrait leur faire éconnomiser beaucoup d'argent!<br><i>La quête va supprimer l'equipement 'Sceau agréable'</i>",
+	"fr": "Regardez moi cet anneau magnifique! Je le donnerais à l'enfant du voisin d'en face comme cadeau de mariage. Ça pourrait leur faire éconnomiser beaucoup d'argent!<br><i>La quête va supprimer l'équipement 'Sceau agréable'</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10916,7 +10916,7 @@ locale["quest.10005.texts.description"] = {
 };
 locale["quest.10005.texts.returnPopupMain"] = {
 	"en": "It's good, I think you can make the best one.<br><i>Quest will remove gear 'Hardskin Chestguard'</i>",
-	"fr": "C'est beaux, je pense que tu peut faire les meilleurs equipements.<br><i>La quête va supprimer l'equipement 'Plastron Peau Dure'</i>",
+	"fr": "C'est beau, je pense que tu peux faire les meilleurs équipements.<br><i>La quête va supprimer l'équipement 'Plastron Peau Dure'</i>",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11244,7 +11244,7 @@ locale["quest.35000.texts.objective"] = {
 };
 locale["quest.35000.texts.description"] = {
 	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
-	"fr": "Kuroom veut devenir le BOSS ultime de Sérénia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
+	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11301,7 +11301,7 @@ locale["quest.40000.name"] = {
 };
 locale["quest.40000.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='21'>Familiars</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11374,7 +11374,7 @@ locale["quest.40001.name"] = {
 };
 locale["quest.40001.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11447,7 +11447,7 @@ locale["quest.40002.name"] = {
 };
 locale["quest.40002.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='36'>Chocolate Slime</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='36'>Slime Chocolat</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='36'>Slime Chocolat</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11520,7 +11520,7 @@ locale["quest.40003.name"] = {
 };
 locale["quest.40003.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='32'>Padilla Bears</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='32'>Ours Padilla</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='32'>Ours Padilla</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11593,7 +11593,7 @@ locale["quest.40004.name"] = {
 };
 locale["quest.40004.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='33'>Snaketail Rooster</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='33'>Coq à queue de serpent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11666,7 +11666,7 @@ locale["quest.40005.name"] = {
 };
 locale["quest.40005.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='34'>Ostrider</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11739,7 +11739,7 @@ locale["quest.40006.name"] = {
 };
 locale["quest.40006.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='29'>Poacher</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='29'>Braconnier</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='29'>Braconnier</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -11958,7 +11958,7 @@ locale["quest.40009.name"] = {
 };
 locale["quest.40009.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='28'>Evil Spirit</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprit Maléfique</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprit Maléfique</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12031,7 +12031,7 @@ locale["quest.40010.name"] = {
 };
 locale["quest.40010.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='9'>Prum Bear</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='9'>Ours Brun</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='9'>Ours Brun</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12104,7 +12104,7 @@ locale["quest.40011.name"] = {
 };
 locale["quest.40011.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='15'>Bunny</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='15'>Lapin</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='15'>Lapin</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12177,7 +12177,7 @@ locale["quest.40012.name"] = {
 };
 locale["quest.40012.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='12'>Nagar Wizard</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='12'>Mage Naga</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='12'>Mage Naga</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12250,7 +12250,7 @@ locale["quest.40013.name"] = {
 };
 locale["quest.40013.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='16'>Bee</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeille</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='16'>Abeille</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12323,7 +12323,7 @@ locale["quest.40014.name"] = {
 };
 locale["quest.40014.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='26'>Zombie</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombie</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombie</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12396,7 +12396,7 @@ locale["quest.40015.name"] = {
 };
 locale["quest.40015.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12469,7 +12469,7 @@ locale["quest.40016.name"] = {
 };
 locale["quest.40016.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='38'>King Bee</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='38'>Roi des Abeille</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='38'>Roi des Abeille</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12542,7 +12542,7 @@ locale["quest.40017.name"] = {
 };
 locale["quest.40017.texts.objective"] = {
 	"en": "Use 5 <span class='text-link' data-target-type='item' data-target-id='7000'>Minor Healing Potion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7000'>Potion de guérison Mineure</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7000'>Potion de guérison Mineure</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12615,7 +12615,7 @@ locale["quest.40018.name"] = {
 };
 locale["quest.40018.texts.objective"] = {
 	"en": "Use 5 <span class='text-link' data-target-type='item' data-target-id='7100'>Magic Potion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7100'>Potion de Mana</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7100'>Potion de Mana</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12761,7 +12761,7 @@ locale["quest.44001.name"] = {
 };
 locale["quest.44001.texts.objective"] = {
 	"en": "Gather some Celebeam Ores and then go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Rassemblez des minerais de Celebeam puis aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Rassemblez des minerais de Celebeam puis allez parler à <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12834,7 +12834,7 @@ locale["quest.44002.name"] = {
 };
 locale["quest.44002.texts.objective"] = {
 	"en": "Gather some Round Mushrooms and then go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Rassemblez des Champignons Rond puis aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Rassemblez des Champignons Rond puis allez parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12907,7 +12907,7 @@ locale["quest.45000.name"] = {
 };
 locale["quest.45000.texts.objective"] = {
 	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='25'>Elite Skeleton Wizard</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mages Squelette Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='25'>Mages Squelette Élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12925,7 +12925,7 @@ locale["quest.45000.texts.objective"] = {
 };
 locale["quest.45000.texts.description"] = {
 	"en": "Zombies are too simple for you, how about challenging the Skeleton Wizard?",
-	"fr": "Les zombies sont trop facile pour vous, que diriez vous de defier les Mages Squelette?",
+	"fr": "Les zombies sont trop faciles pour vous, que diriez vous de defier les Mages Squelette?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12943,7 +12943,7 @@ locale["quest.45000.texts.description"] = {
 };
 locale["quest.45000.texts.returnPopupMain"] = {
 	"en": "Even them are too easy for you it seems",
-	"fr": "Même eux semble trop facile pour vous",
+	"fr": "Même eux semblent trop faciles pour vous",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -12980,7 +12980,7 @@ locale["quest.45001.name"] = {
 };
 locale["quest.45001.texts.objective"] = {
 	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='26'>Elite Zombies</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='26'>Zombies Élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -13016,7 +13016,7 @@ locale["quest.45001.texts.description"] = {
 };
 locale["quest.45001.texts.returnPopupMain"] = {
 	"en": "Be brave, braver, the bravest!",
-	"fr": "Soit courageux, le plus courageux de tous!",
+	"fr": "Sois courageux, le plus courageux de tous!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -13053,7 +13053,7 @@ locale["quest.45002.name"] = {
 };
 locale["quest.45002.texts.objective"] = {
 	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Elite Spirits</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -13071,7 +13071,7 @@ locale["quest.45002.texts.objective"] = {
 };
 locale["quest.45002.texts.description"] = {
 	"en": "Seeing how you did well with those wizards, you surely can defeat some Evil Spirits right?",
-	"fr": "Vu comme vous avez réussi avec ces mages, vous pourez sûrement vaincre certains Esprits Maléfique, n'est-ce pas?",
+	"fr": "Vu comme vous avez réussi avec ces mages, vous pourriez sûrement vaincre certains Esprits Maléfique, n'est-ce pas?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -13126,7 +13126,7 @@ locale["quest.45003.name"] = {
 };
 locale["quest.45003.texts.objective"] = {
 	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='23'>Elite Wax Zombie</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='23'>Zombies de Cire Élite</span>, puis faîtes votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='23'>Zombies de Cire Élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -13144,7 +13144,7 @@ locale["quest.45003.texts.objective"] = {
 };
 locale["quest.45003.texts.description"] = {
 	"en": "Vicent just created some new Wax Zombies, but those one are more powerfull. Can you take care of them?",
-	"fr": "Vicent viens de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peut tu t'en occuper?",
+	"fr": "Vicent vient de créer des nouveaux Zombies de Cire, mais ceux la sont plus puissants. Peux-tu t'en occuper?",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -13162,7 +13162,7 @@ locale["quest.45003.texts.description"] = {
 };
 locale["quest.45003.texts.returnPopupMain"] = {
 	"en": "This wasn't an easy task, thanks.",
-	"fr": "Ce n'était pas une tache facile, merci.",
+	"fr": "Ce n'était pas une tâche facile, merci.",
 	"es": "",
 	"ch": "",
 	"kr": "",
