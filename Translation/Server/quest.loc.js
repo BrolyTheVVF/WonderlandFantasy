@@ -10595,6 +10595,79 @@ locale["quest.139.objective.0.name"] = {
 	"id": ""
 };
 
+locale["quest.140.name"] = {
+	"en": "Curse of Ancient City (4)",
+	"fr": "Malédiction de l'Anciènne Cité (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.140.texts.objective"] = {
+	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.140.texts.description"] = {
+	"en": "In order to prove that you're not a bandit, you must meet the Sheriff.",
+	"fr": "Afin de prouver que tu n'es pas un bandit, tu dois rencontrer le shérif.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.140.texts.returnPopupMain"] = {
+	"en": "What? Can't imagine!",
+	"fr": "Quoi? C'est inimaginable!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
