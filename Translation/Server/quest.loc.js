@@ -10212,6 +10212,79 @@ locale["quest.134.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.135.name"] = {
+	"en": "Merchant Caravan (6)",
+	"fr": "Caravane Marchande (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.135.texts.objective"] = {
+	"en": "Deliver the message to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Apportez le message à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.135.texts.description"] = {
+	"en": "Tell Tazman, it's okay, I give discounts for old customers.",
+	"fr": "Dites à Tazman, c'est bon, je fais des réductions pour les anciens clients.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.135.texts.returnPopupMain"] = {
+	"en": "Wow, good!",
+	"fr": "Wow, parfait!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
