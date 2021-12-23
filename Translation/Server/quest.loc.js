@@ -9920,6 +9920,79 @@ locale["quest.130.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.131.name"] = {
+	"en": "Merchant Caravan (2)",
+	"fr": "Caravane Marchande (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.131.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='46'>Hartland Plants</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='46'>Plantes d'Hartland</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.131.texts.description"] = {
+	"en": "The weather in the desert is rough. You are so lucky to meet us. I can tell that there are a lot of Hartland Plants along the way. Hartland Plant is a hybrid of cactus and sandworms. They will disguise as normal plants and ambush the passengers. The merchant convoy needs to deliver a batch of cargo from the harbor.",
+	"fr": "La météo est rude dans le désert. Vous avez de la chance de nous rencontrer. Je peux dire qu'il y a beaucoup de Plantes d'Hartland le long du chemin. La Plante d'Hartland est un hybride de cactus et de vers de sable. Elles se déguisent en plantes normales et tendent une embuscade aux passants. Le convoi marchand doit livrer une cargaison depuis le port.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.131.texts.returnPopupMain"] = {
+	"en": "I will repay you. In business, credit is the most important thing.",
+	"fr": "Je vous rembourserai. Dans les affaires, le crédit est la chose la plus importante.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
