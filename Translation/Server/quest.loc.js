@@ -10139,6 +10139,79 @@ locale["quest.133.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.134.name"] = {
+	"en": "Merchant Caravan (5)",
+	"fr": "Caravane Marchande (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.134.texts.objective"] = {
+	"en": "Tazman is looking for a cargo ship. Go to the harbor and talk to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Tazman chercher un navire de transport. Allez au port et parler à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.134.texts.description"] = {
+	"en": "I have a batch of goods to deliver to Letin Harbor. Do you know someone in the harbors? If you can find me a ship, I will reward you.",
+	"fr": "J'ai un lot de marchandises à livrer au Port de Letin. Connaissez-vous quelqu'un dans les docks? Si vous pouvez me trouver un navire, je vous récompenserai.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.134.texts.returnPopupMain"] = {
+	"en": "Transport some cargo? No problem! My ship has just arrived, and we are looking for business.",
+	"fr": "Transporter des marchandises? Pas de problème! Mon navire vient d'arriver, et nous cherchons à faire des affaires.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
