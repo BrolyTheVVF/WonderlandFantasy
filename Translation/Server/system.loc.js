@@ -646,7 +646,7 @@ locale["system.fortify.invalid-parameter"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Vật phẩm được chọn hoặc số lượng ngọc không đủ điều kiện",
+	"vi": "Vật phẩm được chọn hoặc số lượng ngọc không đạt đủ điều kiện",
 	"ar": "",
 	"it": "",
 	"pl": "",
