@@ -3995,6 +3995,24 @@ locale["npc.241007.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.241008.name"] = {
+	"en": "Styptic Herb",
+	"fr": "Herbe Styptique",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999999.name"] = {
