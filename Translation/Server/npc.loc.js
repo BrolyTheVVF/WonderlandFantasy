@@ -3724,6 +3724,24 @@ locale["npc.100055.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.300002.interact.baseText"] = {
+	"en": "This is a teleport cristal. It can teleport you in many places, if you are powerfull enough.",
+	"fr": "Ceci est un cristal de téléportation. Il peut vous enmener dans plein d'endrois, si vous êtes assez puissant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.name"] = {
 	"en": "Mysterious Altar",
