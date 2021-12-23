@@ -3229,6 +3229,42 @@ locale["npc.100064.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100065.name"] = {
+	"en": "Gonzales",
+	"fr": "Gonzales",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Gonzales",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100064.title"] = {
+	"en": "Blacksmith",
+	"fr": "Forgeron",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
