@@ -10814,6 +10814,79 @@ locale["quest.142.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.143.name"] = {
+	"en": "Curse of Ancient City (7)",
+	"fr": "Malédiction de l'Anciènne Cité (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.143.texts.objective"] = {
+	"en": "Increase your level to 35, then report to <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"fr": "Montez au niveau 35, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.143.texts.description"] = {
+	"en": "Just control the pace, it needs a level 35 for the following quests.",
+	"fr": "Il suffit de contrôler le rythme, il faut un niveau 35 pour les quêtes suivantes.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.143.texts.returnPopupMain"] = {
+	"en": "It's time to start following this quest!",
+	"fr": "Il est temps de commencer à suivre cette quête !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
