@@ -10741,6 +10741,79 @@ locale["quest.141.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.142.name"] = {
+	"en": "Curse of Ancient City (6)",
+	"fr": "Malédiction de l'Anciènne Cité (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.142.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='55'>Doomsday Mercenaries</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='55'>Mercenaire du Jugement Dernier</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.142.texts.description"] = {
+	"en": "Weird! The mercenaries I sent have turned weird!",
+	"fr": "Bizarre! Les mercenaires que j'ai envoyés sont devenus bizarres!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.142.texts.returnPopupMain"] = {
+	"en": "What happened?",
+	"fr": "Qu s'est-il passé?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
