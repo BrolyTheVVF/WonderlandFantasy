@@ -10285,6 +10285,79 @@ locale["quest.135.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.136.name"] = {
+	"en": "Merchant Caravan (7)",
+	"fr": "Caravane Marchande (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.136.texts.objective"] = {
+	"en": "Increase your level to 34, then talk with <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Montez niveau 34, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.136.texts.description"] = {
+	"en": "Just control the pace, it needs a level 34 for the following quests.",
+	"fr": "Il suffit de contrôler le rythme, il faut un niveau 34 pour les quêtes suivantes.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.136.texts.returnPopupMain"] = {
+	"en": "It's time to start following this quest!",
+	"fr": "Il est temps de commencer à suivre cette quête !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
