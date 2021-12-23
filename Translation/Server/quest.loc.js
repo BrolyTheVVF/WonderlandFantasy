@@ -10668,6 +10668,79 @@ locale["quest.140.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.141.name"] = {
+	"en": "Curse of Ancient City (5)",
+	"fr": "Malédiction de l'Anciènne Cité (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.141.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='54'>Rampaging Treasure Seeker</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='54'>Chercheur de trésor déchaîné</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.141.texts.description"] = {
+	"en": "Wanted: There are a group of bandits outside Muradin. In order to maintain the security of the city, anyone who kills the crazy Treasure Seekers will get a reward.",
+	"fr": "Recherché: Il y a un groupe de bandits à l'extérieur de Muradin. Afin de maintenir la sécurité de la ville, toute personne qui tuera les chercheurs de trésors fous recevra une récompense.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.141.texts.returnPopupMain"] = {
+	"en": "I really hate those criminals.",
+	"fr": "Je deteste vraiment ces criminels.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
