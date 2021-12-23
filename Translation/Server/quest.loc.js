@@ -9683,6 +9683,243 @@ locale["quest.127.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.128.name"] = {
+	"en": "Treasure Hunter (7)",
+	"fr": "Chasseur de Trésor (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thợ Săn Châu Báu (7)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.128.texts.objective"] = {
+	"en": "Collect the Slime Powder from <span class='text-link' data-target-type='mob' data-target-id='48'>Golden Slimes</span> in the Desert Oasis, then give them to <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"fr": "Récoltez de la Poudre de Slime sur les <span class='text-link' data-target-type='mob' data-target-id='48'>Slimes Dorés</span> dans l'Oasis Désertique, puis donnez les à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.128.texts.description"] = {
+	"en": "Lots of interesting things happened to me during my travel. This is one of them! Runestone is a magic tool from ancient Byron. Slime in the desert can use it to change the sand into a power! So someone secretly took it. But it's not gonne be helpful to them. As time goes on, the magic power of the stone weakens when it's far from Byron.",
+	"fr": "Beaucoup de choses intéressantes me sont arrivées pendant mon voyage. Voici l'une d'entre elles! La pierre runique est un outil magique de l'ancien Byron. Les Slimes dans le désert peut l'utiliser pour changer le sable en pouvoir! Donc quelqu'un l'a secrètement prise. Mais ça ne va pas leur être utile. Avec le temps, le pouvoir magique de la pierre s'affaiblit quand elle est loin de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.128.texts.returnPopupMain"] = {
+	"en": "Wow! Runestones can work like this?!",
+	"fr": "Wow! Les pierres runiques peuvent fonctionner comme ça?!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.128.objective.0.name"] = {
+	"en": "Slime Powder",
+	"fr": "Poudre de Slime",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.129.name"] = {
+	"en": "Treasure Hunter (8)",
+	"fr": "Chasseur de Trésor (8)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thợ Săn Châu Báu (8)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.129.texts.objective"] = {
+	"en": "Reach level 33 and report to <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"fr": "Atteignez le niveau 27 et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.129.texts.description"] = {
+	"en": "The following tasks will be dangerous! It requires at least Lv.33. Are you ready?",
+	"fr": "Les tâches suivantes sont dangereuses! Elle nécessite au moins le niveau 33. Etes-vous prêt?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.129.texts.returnPopupMain"] = {
+	"en": "Good! Let's go on!",
+	"fr": "Bien ! Allons-y !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.130.name"] = {
+	"en": "Merchant Caravan (1)",
+	"fr": "Caravane Marchande (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.130.texts.objective"] = {
+	"en": "Talk with <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.130.texts.description"] = {
+	"en": "Hi, don't be upset, the next treasure is waiting for me! We should say goodbye, just follow this caravan if you want to go to Muradin!",
+	"fr": "Salut, ne t'énerve pas, le prochain trésor m'attend! Nous devrions nous dire au revoir, suivez cette caravane si vous voulez aller à Muradin!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.130.texts.returnPopupMain"] = {
+	"en": "You want to go to Muradin?",
+	"fr": "Vous voulez allez a Muradin?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
