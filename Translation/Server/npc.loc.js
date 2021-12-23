@@ -3998,5 +3998,41 @@ locale["npc.100048.interact.QUEST_100_RECUIT_SAILOR"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.300002.interact.TELEPORT_CONTINENT_1"] = {
+	"en": "Teleport to Cain Kingdom",
+	"fr": "Se téléporter au Royaume de Kane",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
+	"en": "Teleport to Muradin Fair (Lv 30)",
+	"fr": "Se téléporter jusqu'au Marché de Muradin (Nv 30)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
