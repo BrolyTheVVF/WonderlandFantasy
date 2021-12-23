@@ -10504,6 +10504,97 @@ locale["quest.138.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.139.name"] = {
+	"en": "Curse of Ancient City (3)",
+	"fr": "Malédiction de l'Anciènne Cité (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.139.texts.objective"] = {
+	"en": "Find some <span class='text-link' data-target-type='mob' data-target-id='53'>Desert Raider</span> and get back the goods for the <span class='text-link' data-target-type='npc' data-target-id='100057'>Wounded Merchant</span>.",
+	"fr": "Trouvez des <span class='text-link' data-target-type='mob' data-target-id='53'>Pillard du Désert</span> et récuperer les marchandises volées pour le <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.139.texts.description"] = {
+	"en": "Can you get my goods back?",
+	"fr": "Pouvez-vous récupérer mes marchandises?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.139.texts.returnPopupMain"] = {
+	"en": "Yes, that's my goods! How did you get them back, you...",
+	"fr": "Oui, ce sont mes marchandises! Comment avez-vous put les récupérer, vous...",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.139.objective.0.name"] = {
+	"en": "Stolen Goods",
+	"fr": "Marchandises volées",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
