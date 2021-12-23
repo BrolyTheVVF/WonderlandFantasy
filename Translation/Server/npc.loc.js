@@ -1011,6 +1011,114 @@ locale["npc.55.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.56.name"] = {
+	"en": "Potpent",
+	"fr": "Potpent",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.57.name"] = {
+	"en": "Brown Bat",
+	"fr": "Chauve-souris Brune",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.58.name"] = {
+	"en": "Sabath Candlestick",
+	"fr": "Chandelier du Sabat",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.59.name"] = {
+	"en": "Chest Ghost",
+	"fr": "Coffre Fantôme",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.60.name"] = {
+	"en": "Byron Mummy",
+	"fr": "Momie de Byron",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.61.name"] = {
+	"en": "Star Kindler",
+	"fr": "Allumeur d'Étoiles",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
@@ -3139,6 +3247,136 @@ locale["npc.100061.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100062.name"] = {
+	"en": "Kudodo",
+	"fr": "Kudodo",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Kudodo",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100062.title"] = {
+	"en": "Kuroom's Supporter",
+	"fr": "Partisan de Kuroom",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100063.name"] = {
+	"en": "Sena Lily",
+	"fr": "Sena Lily",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Sena Lily",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100064.name"] = {
+	"en": "Tyster",
+	"fr": "Tyster",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Tyster",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100064.title"] = {
+	"en": "Sufer Merchant",
+	"fr": "Marchand de Souffrance",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100065.name"] = {
+	"en": "Gonzales",
+	"fr": "Gonzales",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Gonzales",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100064.title"] = {
+	"en": "Blacksmith",
+	"fr": "Forgeron",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+//Those lines are temporary and only exists to not render any names on some interactibles entities
+locale["npc.300001.name"] = {"en": "","fr": "","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["npc.300002.name"] = {"en": "","fr": "","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
 
 //** ***************************** **
@@ -3594,6 +3832,24 @@ locale["npc.100055.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.300002.interact.baseText"] = {
+	"en": "This is a teleport cristal. It can teleport you in many places, if you are powerfull enough.",
+	"fr": "Ceci est un cristal de téléportation. Il peut vous enmener dans plein d'endrois, si vous êtes assez puissant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.241000.name"] = {
 	"en": "Mysterious Altar",
@@ -3862,6 +4118,42 @@ locale["npc.100048.interact.QUEST_100_RECUIT_SAILOR"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Chiêu Mộ Thủy Thủ",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.300002.interact.TELEPORT_CONTINENT_1"] = {
+	"en": "Teleport to Cain Kingdom",
+	"fr": "Se téléporter au Royaume de Kane",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
+	"en": "Teleport to Muradin Fair (Lv 30)",
+	"fr": "Se téléporter jusqu'au Marché de Muradin (Nv 30)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
