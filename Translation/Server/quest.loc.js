@@ -10066,6 +10066,79 @@ locale["quest.132.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.133.name"] = {
+	"en": "Merchant Caravan (4)",
+	"fr": "Caravane Marchande (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.133.texts.objective"] = {
+	"en": "Collect some Weed nearby and report to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Récolter de l'herbe dans les alentours et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.133.texts.description"] = {
+	"en": "Oh! God! We have lost our camel fodder! If we don't feed them in time, they will be starved before reaching the harbor. Our camels have been walking for too long time. Luckily, is an oasis here. We can find some new fodder.",
+	"fr": "Oh ! Mon Dieu ! Nous avons perdu le fourrage pour nos chameaux ! Si nous ne les nourrissons pas à temps, ils seront affamés avant d'atteindre le port. Nos chameaux ont marché pendant trop longtemps. Heureusement, il y a une oasis ici. Nous pouvons trouver du nouveau fourrage.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.133.texts.returnPopupMain"] = {
+	"en": "Thanks to you, they can have a nice dinner. The caravans can go on with the journey.",
+	"fr": "Grâce à vous, ils peuvent avoir un bon dîner. Les caravanes peuvent continuer leur voyage.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
