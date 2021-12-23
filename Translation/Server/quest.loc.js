@@ -9794,7 +9794,7 @@ locale["quest.129.name"] = {
 };
 locale["quest.129.texts.objective"] = {
 	"en": "Reach level 33 and report to <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
-	"fr": "Atteignez le niveau 27 et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
+	"fr": "Atteignez le niveau 33 et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100054'>Ankasai</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9812,7 +9812,7 @@ locale["quest.129.texts.objective"] = {
 };
 locale["quest.129.texts.description"] = {
 	"en": "The following tasks will be dangerous! It requires at least Lv.33. Are you ready?",
-	"fr": "Les tâches suivantes sont dangereuses! Elle nécessite au moins le niveau 33. Etes-vous prêt?",
+	"fr": "Les tâches suivantes sont dangereuses! Elles nécessitent au moins le niveau 33. Etes-vous prêt?",
 	"es": "",
 	"ch": "",
 	"kr": "",
