@@ -10431,6 +10431,79 @@ locale["quest.137.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.138.name"] = {
+	"en": "Curse of Ancient City (2)",
+	"fr": "Malédiction de l'Anciènne Cité (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.138.texts.objective"] = {
+	"en": "Collect Styptic Herb for the <span class='text-link' data-target-type='npc' data-target-id='100057'>Wounded Merchant</span>.",
+	"fr": "Recolter de l'Herbe Styptique pour le <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.138.texts.description"] = {
+	"en": "You're not a bandit? These damned bandits robbed my goods and hurt me.",
+	"fr": "Tu n'es pas un bandit? Ces maudits bandits ont volé mes biens et m'ont blessé.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.138.texts.returnPopupMain"] = {
+	"en": "It.. it's poison!",
+	"fr": "Ce... c'est du poison!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
