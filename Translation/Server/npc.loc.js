@@ -3139,6 +3139,42 @@ locale["npc.100061.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100062.name"] = {
+	"en": "Kudodo",
+	"fr": "Kudodo",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Kudodo",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100062.title"] = {
+	"en": "Kuroom's Supporter",
+	"fr": "Partisan de Kuroom",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
