@@ -9939,8 +9939,8 @@ locale["quest.131.name"] = {
 	"id": ""
 };
 locale["quest.131.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='46'>Hartland Plants</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='46'>Plantes d'Hartland</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='52'>Hartland Plants</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='52'>Plantes d'Hartland</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -9977,6 +9977,79 @@ locale["quest.131.texts.description"] = {
 locale["quest.131.texts.returnPopupMain"] = {
 	"en": "I will repay you. In business, credit is the most important thing.",
 	"fr": "Je vous rembourserai. Dans les affaires, le crédit est la chose la plus importante.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.132.name"] = {
+	"en": "Merchant Caravan (3)",
+	"fr": "Caravane Marchande (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.132.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='48'>Golden Slimes</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='46'>Slimes Dorés</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.132.texts.description"] = {
+	"en": "Are you from Cain? Do you have Slimes over there? I am so pissed off by those slimy things! Our camels won't follow our orders if they step on them. Can you help us with that?",
+	"fr": "Êtes-vous de Caïn? Vous avez des Slimes là-bas? Je suis tellement énervé par ces choses gluantes! Nos chameaux ne suivront pas nos ordres s'ils marchent dessus. Pouvez-vous nous aider?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.132.texts.returnPopupMain"] = {
+	"en": "Now I feel safe! My camels will follow my orders.",
+	"fr": "Maintenant je me sent en sécurité! Mes chameaux vont suivre mes ordres.",
 	"es": "",
 	"ch": "",
 	"kr": "",
