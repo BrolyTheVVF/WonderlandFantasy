@@ -10305,7 +10305,7 @@ locale["quest.136.name"] = {
 };
 locale["quest.136.texts.objective"] = {
 	"en": "Increase your level to 34, then talk with <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
-	"fr": "Montez niveau 34, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"fr": "Montez niveau 34, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10342,6 +10342,79 @@ locale["quest.136.texts.description"] = {
 locale["quest.136.texts.returnPopupMain"] = {
 	"en": "It's time to start following this quest!",
 	"fr": "Il est temps de commencer à suivre cette quête !",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.137.name"] = {
+	"en": "Curse of Ancient City (1)",
+	"fr": "Malédiction de l'Anciènne Cité (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.137.texts.objective"] = {
+	"en": "Talk with the <span class='text-link' data-target-type='npc' data-target-id='100057'>Wounded Merchant</span>.",
+	"fr": "Parlez au <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.137.texts.description"] = {
+	"en": "Seems some merchants are in trouble! Find out who sent the signal for help!",
+	"fr": "Il semble que certains marchands aient des problèmes! Découvrez qui a envoyé le signal d'aide!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.137.texts.returnPopupMain"] = {
+	"en": "What...what do you want?",
+	"fr": "Que... que voulez-vous?",
 	"es": "",
 	"ch": "",
 	"kr": "",
