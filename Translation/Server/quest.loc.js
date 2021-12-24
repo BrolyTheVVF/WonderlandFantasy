@@ -14091,6 +14091,152 @@ locale["quest.40019.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40020.name"] = {
+	"en": "Pirate Hunter: Cat Pirate",
+	"fr": "Chasse au Pirate: Chat Pirate",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40020.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='44'>Cats Pirates</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='44'>Chats Pirates</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40020.texts.description"] = {
+	"en": "The Cat Pirates took over the base in the desert. Therefore, we need to send you there so you can clean that territory.",
+	"fr": "Les Chats Pirates ont récupérer la base dans le desert. Par conséquent, nous devons vous y envoyer afin que vous puissiez nettoyer ce territoire.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40020.texts.returnPopupMain"] = {
+	"en": "Thank you, this bas is a strategic point for us.",
+	"fr": "Merci, cette base est un point strategique pour nous.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40021.name"] = {
+	"en": "Pirate Hunter: Captain Hook",
+	"fr": "Chasse au Pirate: Capitaine Crochet",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40021.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='46'>Captain Hook</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40021.texts.description"] = {
+	"en": "The Pirate leader is still alive! We need you adventurer! Eliminate the boss and bring peace to the Desert.",
+	"fr": "Le chef des pirates est toujours en vie! Nous avons besoin de vous aventurier! Éliminez le chef et apportez de nouveau la paix dans le desert.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40021.texts.returnPopupMain"] = {
+	"en": "You have helped the kingdom, and earned my respect.",
+	"fr": "Vous avez aider a sauver le royaume, et avez gagner mon respect.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
 	"fr": "Orbe Illuminé",
