@@ -13965,7 +13965,7 @@ locale["quest.40018.name"] = {
 };
 locale["quest.40018.texts.objective"] = {
 	"en": "Use 5 <span class='text-link' data-target-type='item' data-target-id='7100'>Magic Potion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Utilisez 5 <span class='text-link' data-target-type='mob' data-target-id='7100'>Potion de Mana</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Utilisez 5 <span class='text-link' data-target-type='item' data-target-id='7100'>Potion de Mana</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -14011,6 +14011,79 @@ locale["quest.40018.texts.returnPopupMain"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Tốt, ngươi đã quay lại!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40019.name"] = {
+	"en": "Pirate Hunter: Pirate Ambusher",
+	"fr": "Chasse au Pirate: Pirate Sournois",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40019.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='43'>Pirates Ambushers</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='43'>Pirates Sournois</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40019.texts.description"] = {
+	"en": "Pirate are starting to attack people on the desert! Help the people by eliminating them.",
+	"fr": "Les pirates commencent à attaquer les gens dans le desert! Aidez les en les éliminant.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40019.texts.returnPopupMain"] = {
+	"en": "Thank you for the help soldier!",
+	"fr": "Merci pour le coup de main soldat!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
