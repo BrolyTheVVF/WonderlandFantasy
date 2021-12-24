@@ -3374,9 +3374,25 @@ locale["npc.100064.title"] = {
 	"id": ""
 };
 
-//Those lines are temporary and only exists to not render any names on some interactibles entities
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
-locale["npc.300002.name"] = {"en": "","fr": "","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["npc.300002.name"] = {
+	"en": "Teleport Stone",
+	"fr": "Pierre de Téléportation",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
