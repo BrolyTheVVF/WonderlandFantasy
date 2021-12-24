@@ -14529,6 +14529,79 @@ locale["quest.40025.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40026.name"] = {
+	"en": "Hunting: Sweettail Manticore",
+	"fr": "Chasse: Manticore à Queue de Velours",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40026.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='51'>Sweettail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='51'>Manticore à Queue de Velours</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40026.texts.description"] = {
+	"en": "A merchant reported that a massive manticore is roaming the Desert Oasis. Can you get rid of it?",
+	"fr": "Un marchand a signalé qu'une manticore massive erre dans l'Oasis Désertique. Pouvez-vous vous en débarrasser?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40026.texts.returnPopupMain"] = {
+	"en": "Wow, this thing was massive! It's good to know you're safe.",
+	"fr": "Wow, ce truc était énorme! C'est bon de savoir que vous etes en sécurité.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
 	"fr": "Orbe Illuminé",
