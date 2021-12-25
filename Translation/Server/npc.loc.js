@@ -3867,6 +3867,24 @@ locale["npc.300002.interact.baseText"] = {
 	"id": ""
 };
 
+locale["npc.240004.name"] = {
+	"en": "Dawn Grass",
+	"fr": "Herbe de l'Aube",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.241000.name"] = {
 	"en": "Mysterious Altar",
 	"fr": "Autel Mystérieux",
