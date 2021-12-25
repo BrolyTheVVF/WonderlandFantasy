@@ -10159,7 +10159,7 @@ locale["quest.134.name"] = {
 };
 locale["quest.134.texts.objective"] = {
 	"en": "Tazman is looking for a cargo ship. Go to the harbor and talk to <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
-	"fr": "Tazman chercher un navire de transport. Allez au port et parler à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
+	"fr": "Tazman cherche un navire de transport. Allez au port et parlez à <span class='text-link' data-target-type='npc' data-target-id='100052'>Grant</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10451,7 +10451,7 @@ locale["quest.138.name"] = {
 };
 locale["quest.138.texts.objective"] = {
 	"en": "Collect Styptic Herb for the <span class='text-link' data-target-type='npc' data-target-id='100057'>Wounded Merchant</span>.",
-	"fr": "Recolter de l'Herbe Styptique pour le <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
+	"fr": "Recoltez de l'Herbe Styptique pour le <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10524,7 +10524,7 @@ locale["quest.139.name"] = {
 };
 locale["quest.139.texts.objective"] = {
 	"en": "Find some <span class='text-link' data-target-type='mob' data-target-id='53'>Desert Raider</span> and get back the goods for the <span class='text-link' data-target-type='npc' data-target-id='100057'>Wounded Merchant</span>.",
-	"fr": "Trouvez des <span class='text-link' data-target-type='mob' data-target-id='53'>Pillard du Désert</span> et récuperer les marchandises volées pour le <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
+	"fr": "Trouvez des <span class='text-link' data-target-type='mob' data-target-id='53'>Pillard du Désert</span> et récuperez les marchandises volées pour le <span class='text-link' data-target-type='npc' data-target-id='100057'>Marchand Blessé</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10560,7 +10560,7 @@ locale["quest.139.texts.description"] = {
 };
 locale["quest.139.texts.returnPopupMain"] = {
 	"en": "Yes, that's my goods! How did you get them back, you...",
-	"fr": "Oui, ce sont mes marchandises! Comment avez-vous put les récupérer, vous...",
+	"fr": "Oui, ce sont mes marchandises! Comment avez-vous pu les récupérer, vous...",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10779,7 +10779,7 @@ locale["quest.142.texts.objective"] = {
 };
 locale["quest.142.texts.description"] = {
 	"en": "Weird! The mercenaries I sent have turned weird!",
-	"fr": "Bizarre! Les mercenaires que j'ai envoyés sont devenus bizarres!",
+	"fr": "Bizarre! Les mercenaires que j'ai envoyé sont devenus bizarres!",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -10797,7 +10797,7 @@ locale["quest.142.texts.description"] = {
 };
 locale["quest.142.texts.returnPopupMain"] = {
 	"en": "What happened?",
-	"fr": "Qu s'est-il passé?",
+	"fr": "Que s'est-il passé?",
 	"es": "",
 	"ch": "",
 	"kr": "",
