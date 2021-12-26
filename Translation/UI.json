@@ -4840,5 +4840,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.mails.button.delete":{
+        "en":"Delete",
+        "fr":"Supprimer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.mails.button.send":{
+        "en":"Send",
+        "fr":"Envoyer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
