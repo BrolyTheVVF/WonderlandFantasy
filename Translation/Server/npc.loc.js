@@ -1119,6 +1119,42 @@ locale["npc.61.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.62.name"] = {
+	"en": "Sphinx",
+	"fr": "Sphinx",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.63.name"] = {
+	"en": "Pharaoh",
+	"fr": "Pharaon",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
