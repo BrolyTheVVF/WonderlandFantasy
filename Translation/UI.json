@@ -4877,6 +4877,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.mails.button.take-item":{
+        "en":"Take",
+        "fr":"Récupérer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.mails.delete.confirm.title":{
         "en":"Mail - Deleted",
         "fr":"Mail - Supprimer",
