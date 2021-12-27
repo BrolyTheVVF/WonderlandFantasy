@@ -761,5 +761,59 @@ locale["system.mail.consign.content"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.mail.send.invalid-to-field"] = {
+	"en":"The player you tried to send the mail to doesn't exists or is invalid",
+	"fr":"Le joueur auquel vous avez essayé d'envoyer le courrier n'existe pas ou n'est pas valide",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.send.cant-send-bound-item"] = {
+	"en":"You cannot send a bound item",
+	"fr":"Vous ne pouvez pas envoyer un objet lié",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.send.invalid-consign"] = {
+	"en":"A valid consign requires an item and a gold amount",
+	"fr":"Une vente valide nécessite un objet et un montant en or",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
