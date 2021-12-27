@@ -4877,6 +4877,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.mails.field.attachement":{
+        "en":"Attach.",
+        "fr":"Joindre",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.mails.button.delete":{
         "en":"Delete",
         "fr":"Supprimer",
