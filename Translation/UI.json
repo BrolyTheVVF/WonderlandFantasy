@@ -4876,5 +4876,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.mails.delete.confirm.title":{
+        "en":"Mail - Deleted",
+        "fr":"Mail - Supprimer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.mails.delete.confirm":{
+        "en":"The mails and their attachments will be deleted forever. Continue?",
+        "fr":"Les mails et leurs pièces jointes seront définitivement supprimés. Continuez?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
