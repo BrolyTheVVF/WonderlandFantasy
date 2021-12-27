@@ -5003,7 +5003,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.mails.delete.confirm":{
+    "UI.windows.mails.take.confirm":{
         "en":"Your are about to buy this item for {0} Gold. Continue?",
         "fr":"Vous allez acheter cet objet pour {0} Or. Continuer?",
         "es":"",
