@@ -4788,7 +4788,7 @@
         "id":""
     },
     "UI.windows.mails.table.from":{
-        "en":"from",
+        "en":"From",
         "fr":"De",
         "es":"",
         "ch":"",
@@ -4805,8 +4805,26 @@
         "th":"",
         "id":""
     },
+    "UI.windows.mails.table.to":{
+        "en":"To",
+        "fr":"Dest.",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.mails.table.subject":{
-        "en":"subject",
+        "en":"Subject",
         "fr":"Sujet",
         "es":"",
         "ch":"",
