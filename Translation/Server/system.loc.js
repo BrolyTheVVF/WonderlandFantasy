@@ -18,6 +18,24 @@ locale["system.item.inventoryIsFull"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.not-enough-gold"] = {
+	"en": "You don't have enough gold",
+	"fr": "Vous n'avez pas assez d'Or",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.chat.notInGuild"] = {
 	"en": "Your must be in a guild to use this channel.",
 	"fr": "Vous devez être dans un guilde pour parler dans ce canal",
@@ -683,6 +701,60 @@ locale["system.fortify.upgrade-failed"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Nâng cấp trang bị thất bại",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.consign.from"] = {
+	"en":"Consign",
+	"fr":"Vente",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.consign.subject"] = {
+	"en":"One of your item has sold",
+	"fr":"Un de vos objet s'est vendu",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.consign.content"] = {
+	"en":"The item {0} has been sold to {1} for {2} Gold",
+	"fr":"L'objet {0} a été vendu à {1} pour un montent de {2} Or",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
