@@ -914,7 +914,7 @@ locale["npc.50.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Máy Đập Bé",
+	"vi": "Tiểu Sa Trung",
 	"ar": "",
 	"it": "",
 	"pl": "",
