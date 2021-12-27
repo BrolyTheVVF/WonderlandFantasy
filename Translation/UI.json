@@ -4930,5 +4930,41 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.mails.take.confirm.title":{
+        "en":"Mail - Take",
+        "fr":"Mail - Récupérer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.mails.delete.confirm":{
+        "en":"Your are about to buy this item for {0} Gold. Continue?",
+        "fr":"Vous allez acheter cet objet pour {0} Or. Continuer?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
