@@ -835,7 +835,7 @@ locale["system.item.split.invalid-item"] = {
 };
 locale["system.item.split.invalid-qty"] = {
 	"en":"You have to enter a valid quantity",
-	"fr":"Vous devez saisir une quantitée valide",
+	"fr":"Vous devez saisir une quantité valide",
 	"es": "",
 	"ch": "",
 	"kr": "",
