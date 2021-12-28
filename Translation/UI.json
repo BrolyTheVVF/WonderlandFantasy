@@ -1979,6 +1979,24 @@
         "th":"",
         "id":"[Terkunci]"
     },
+    "UI.windows.bag.split.title":{
+        "en":"Split",
+        "fr":"Séparer",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.stash.title":{
         "en":"Stash",
         "fr":"Réserve",
