@@ -815,5 +815,23 @@ locale["system.mail.send.invalid-consign"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.item.split.invalid-item"] = {
+	"en":"The item choosen is invalid or doesn't exists",
+	"fr":"L'objet choisit n'est pas valide ou n'existe pas",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
