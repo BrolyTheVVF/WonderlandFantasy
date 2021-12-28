@@ -833,5 +833,23 @@ locale["system.item.split.invalid-item"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.item.split.invalid-qty"] = {
+	"en":"You have to enter a valid quantity",
+	"fr":"Vous devez saisir une quantitée valide",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
