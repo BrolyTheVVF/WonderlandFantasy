@@ -2556,8 +2556,8 @@
         "id": ""
     },
     "skills.TMD_ARCANE_BOOST.effect.level10": {
-        "en": "Damage of Fire Bolt +66",
-        "fr": "Dégâts de Boule de Feu +66",
+        "en": "Damage of Fire Bolt +20",
+        "fr": "Dégâts de Boule de Feu +20",
         "es": "",
         "ch": "",
         "kr": "",
@@ -2566,7 +2566,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Sát Thương của Hỏa Cầu +66.",
+        "vi": "Sát Thương của Hỏa Cầu +20.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -4608,8 +4608,8 @@
         "id": ""
     },
     "skills.TML_ENHC_MAGIC_BOLT.effect.level10": {
-        "en": "Base damage of Magic Bolt +100",
-        "fr": "Dégâts de Missile Magique +100",
+        "en": "Base damage of Magic Bolt +20",
+        "fr": "Dégâts de Missile Magique +20",
         "es": "",
         "ch": "",
         "kr": "",
@@ -4618,7 +4618,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Sát Thương Gốc Đạn Ma Pháp +100.",
+        "vi": "Sát Thương Gốc Đạn Ma Pháp +20.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -5634,8 +5634,8 @@
         "id": ""
     },
     "skills.TRR_ENHC_TRIPLE_SHOT.effect.level10": {
-        "en": "Damage of Triple Shot +66",
-        "fr": "Dégâts de Coup Triple +66",
+        "en": "Damage of Triple Shot +20",
+        "fr": "Dégâts de Coup Triple +20",
         "es": "",
         "ch": "",
         "kr": "",
@@ -5644,7 +5644,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Sát Thương của Tam Liên Kích Tiễn +66.",
+        "vi": "Sát Thương của Tam Liên Kích Tiễn +20.",
         "ar": "",
         "it": "",
         "pl": "",
@@ -8730,8 +8730,8 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.effect.level15": {
-        "en": "Increases the Skill DMG of Slam by 99",
-        "fr": "Dégâts de la compétences Coup Puissant +99",
+        "en": "Increases the Skill DMG of Slam by 30",
+        "fr": "Dégâts de la compétences Coup Puissant +30",
         "es": "",
         "ch": "",
         "kr": "",
@@ -8740,7 +8740,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng 99 Sát Thương Kỹ Năng của Trọng Kích.",
+        "vi": "Tăng 30 Sát Thương Kỹ Năng của Trọng Kích.",
         "ar": "",
         "it": "",
         "pl": "",
