@@ -1155,6 +1155,24 @@ locale["npc.63.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.64.name"] = {
+	"en": "Byron Warrior Spirit",
+	"fr": "Esprit Guerrier de Byron",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
