@@ -1166,7 +1166,7 @@ locale["npc.64.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Hồn Chiến Binh Byron",
 	"ar": "",
 	"it": "",
 	"pl": "",
