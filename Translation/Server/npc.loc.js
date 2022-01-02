@@ -3409,7 +3409,7 @@ locale["npc.100065.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.100064.title"] = {
+locale["npc.100065.title"] = {
 	"en": "Blacksmith",
 	"fr": "Forgeron",
 	"es": "",
