@@ -10960,6 +10960,79 @@ locale["quest.144.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.145.name"] = {
+	"en": "City of Mercenary (2)",
+	"fr": "Cité des mercenaires (2)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.145.texts.objective"] = {
+	"en": "Go in Muradin Suburb and clean the place, then report to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Muradin Fair.",
+	"fr": "Allez dans la Banlieue de Muradin et nettoyez-la, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> au Marché de Muradin.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.145.texts.description"] = {
+	"en": "To get in Byron City, you have to be strong! So do you to get help from me.The Muradin Suburb is full of raiders and cursed mercenaries. Clean the place once and for all, then we will talk about the cursed city of Byron.",
+	"fr": "Pour entrer dans la Ville de Byron, il faut être fort! De même que pour obtenir mon aide. La banlieue de Muradin est pleine de pillards et de mercenaires maudits. Nettoyez l'endroit une fois pour toutes, puis nous parlerons de la ville maudite de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.145.texts.returnPopupMain"] = {
+	"en": "I knew you where the right choice for this job!",
+	"fr": "Je savais que vous etiez le bon choix pour ce travail!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
