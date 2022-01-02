@@ -3427,6 +3427,24 @@ locale["npc.100065.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100066.name"] = {
+	"en": "Manissa",
+	"fr": "Manissa",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Manissa",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","ch": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["npc.300002.name"] = {
