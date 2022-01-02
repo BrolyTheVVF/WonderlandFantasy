@@ -10887,6 +10887,79 @@ locale["quest.143.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.144.name"] = {
+	"en": "City of Mercenary (1)",
+	"fr": "Cité des mercenaires (1)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.144.texts.objective"] = {
+	"en": "Go talk to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Muradin Fair.",
+	"fr": "Allez parler à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> au Marché de Muradin.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.144.texts.description"] = {
+	"en": "You want to enter the city? Be careful, it's not safe there. Muradin was built on the ruins of Ancient Byron City. It's usually safe, but i don't know what happend, someone said the dead underground was awakened by a mysterious strenght!",
+	"fr": "Vous voulez entrer dans la ville? Attention, ce n'est pas sûr là-bas. Muradin a été construit sur les ruines de l'ancienne ville de Byron. C'est sûr en temps normal, mais je ne sais pas ce qui s'est passé, quelqu'un a dit que les morts avaient été réveillés par une force mystérieuse!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.144.texts.returnPopupMain"] = {
+	"en": "Hi adventurer. Do you need any help?",
+	"fr": "Bonjour aventurier. Avez-vous besoin d'aide?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
