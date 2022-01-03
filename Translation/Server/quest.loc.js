@@ -11033,6 +11033,225 @@ locale["quest.145.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.146.name"] = {
+	"en": "City of Mercenary (3)",
+	"fr": "Cité des mercenaires (3)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Đâm Thuê Chém Mướn (3)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.146.texts.objective"] = {
+	"en": "Go to Byron City Floor 2, and kill some <span class='text-link' data-target-type='mob' data-target-id='56'>Potpent</span> and <span class='text-link' data-target-type='mob' data-target-id='57'>Brown Bat</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Byron City Floor 3.",
+	"fr": "Allez a l'étage 2 de la Ville de Byron, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='56'>Potpent</span> et <span class='text-link' data-target-type='mob' data-target-id='57'>Chauve-souris Brune</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> a l'étage 3 de la Ville de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.146.texts.description"] = {
+	"en": "Archeologists seems to have awaken strong forces in Byron City, let's get them back to sleep. They reported that a roar came from floor 3, but we can't just get there like that. We have to clean our way in. Help me out, we will get to the end of it.",
+	"fr": "Les archéologues semblent avoir réveillé des forces puissantes à Byron City, Allons les rendormir. Ils ont signalé qu'un rugissement provenait du troisième étage, mais nous ne pouvons pas nous y rendre comme ça. Nous devons nettoyer notre entrée. Aidez-moi, nous irons au bout.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.146.texts.returnPopupMain"] = {
+	"en": "We are doing a great job so far, let's go, we must keep moving!",
+	"fr": "Nous faisons un excellent travail jusqu'à présent, allons-y, nous devons continuer à avancer!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.147.name"] = {
+	"en": "City of Mercenary (4)",
+	"fr": "Cité des mercenaires (4)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Đâm Thuê Chém Mướn (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.147.texts.objective"] = {
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='62'>Sphinx</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Byron City Floor 3.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='62'>Sphinx</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> a l'étage 3 de la Ville de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.147.texts.description"] = {
+	"en": "There it is, we found it! Look at this beast, i've never seen anything like this. Be careful, he will probably be a dangerous opponent.",
+	"fr": "Ça y est, on l'a trouvé ! Regardez cette bête, je n'ai jamais rien vu de tel. Attention, il sera probablement un adversaire dangereux.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.147.texts.returnPopupMain"] = {
+	"en": "What a fight! But I'm sure this is not it. I can feel it in the air, this power, something else is causing this abominations to rise.",
+	"fr": "Quel combat! Mais je suis sûr que ce n'est pas terminé. Je peux le sentir dans l'air, ce pouvoir, quelque chose d'autre fait surgir ces abominations.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.148.name"] = {
+	"en": "City of Mercenary (5)",
+	"fr": "Cité des mercenaires (5)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Đâm Thuê Chém Mướn (5)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.148.texts.objective"] = {
+	"en": "Go to Byron City Floor 4, and kill some <span class='text-link' data-target-type='mob' data-target-id='59'>Chest Ghost</span> and <span class='text-link' data-target-type='mob' data-target-id='60'>Byron Mummy</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Byron City Floor 3.",
+	"fr": "Allez a l'étage 4 de la Ville de Byron, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='59'>Coffre Fantôme</span> et des <span class='text-link' data-target-type='mob' data-target-id='60'>Momie de Byron</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> a l'étage 3 de la Ville de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.148.texts.description"] = {
+	"en": "We have to go deeper. From now on, none of the archeologists has ever gone this far. Pray to <i>Bur</i>, adventurer, i hope we won't get cursed.",
+	"fr": "Nous devons aller plus loin. Désormais, aucun des archéologues n'est jamais allé aussi loin. Priez <i>Bur</i>, aventurier, j'espère que nous ne serons pas maudits.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.148.texts.returnPopupMain"] = {
+	"en": "That's not it, something else is causing this.",
+	"fr": "Ce n'est pas ça, quelque chose d'autre est à l'origine de cela.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
