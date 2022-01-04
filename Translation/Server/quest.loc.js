@@ -11016,7 +11016,7 @@ locale["quest.145.texts.description"] = {
 };
 locale["quest.145.texts.returnPopupMain"] = {
 	"en": "I knew you where the right choice for this job!",
-	"fr": "Je savais que vous etiez le bon choix pour ce travail!",
+	"fr": "Je savais que vous étiez le bon choix pour ce travail!",
 	"es": "",
 	"ch": "",
 	"kr": "",
