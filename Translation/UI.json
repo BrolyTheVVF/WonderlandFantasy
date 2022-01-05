@@ -4211,6 +4211,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.instance.ask.join-instance":{
+        "en":"The instance just started. Do you want to join.",
+        "fr":"L'instance viens de démarer. Voulez vous la rejoindre?",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.challenges.title":{
         "en":"Challenges",
         "fr":"Challenges",
