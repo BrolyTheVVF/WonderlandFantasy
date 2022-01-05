@@ -11252,6 +11252,152 @@ locale["quest.148.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.149.name"] = {
+	"en": "City of Mercenary (6)",
+	"fr": "Cité des mercenaires (6)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Đâm Thuê Chém Mướn (6)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.149.texts.objective"] = {
+	"en": "Go to Byron City Floor 5, and kill some <span class='text-link' data-target-type='mob' data-target-id='61'>Star Kindlers</span> and <span class='text-link' data-target-type='mob' data-target-id='60'>Byron Mummy</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Byron City Floor 3.",
+	"fr": "Allez a l'étage 5 de la Ville de Byron, et tuez quelques <span class='text-link' data-target-type='mob' data-target-id='61'>Allumeurs d'Étoiles</span> et des <span class='text-link' data-target-type='mob' data-target-id='60'>Momie de Byron</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> a l'étage 3 de la Ville de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.149.texts.description"] = {
+	"en": "It seems there is yet another floor. This is insane. How far can this go? Please go and see if you can find the source of this evil. I'll stay here and cover your back, but be quick.",
+	"fr": "Il semble qu'il y ait encore un autre étage. C'est insensé. Jusqu'où cela peut-il aller ? S'il vous plaît, allez voir si vous pouvez trouver la source de ce mal. Je vais rester ici et te couvrir le dos, mais fais vite.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.149.texts.returnPopupMain"] = {
+	"en": "You find what? You're sure?",
+	"fr": "Qu'avez vous trouvé? Vous en êtes certain?",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.150.name"] = {
+	"en": "City of Mercenary (7)",
+	"fr": "Cité des mercenaires (7)",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Đâm Thuê Chém Mướn (7)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.150.texts.objective"] = {
+	"en": "Go to Byron City Floor 5, and kill the <span class='text-link' data-target-type='mob' data-target-id='63'>Pharaoh</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> in Byron City Floor 3.",
+	"fr": "Allez a l'étage 5 de la Ville de Byron, et tuez le <span class='text-link' data-target-type='mob' data-target-id='63'>Pharaon</span>, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100066'>Manissa</span> a l'étage 3 de la Ville de Byron.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.150.texts.description"] = {
+	"en": "We have to try to kill it. This is it, we might actually be able to deep clean this place of this dark power.",
+	"fr": "Nous devons essayer de le tuer. Ça y est, on va peut être pouvoir purger cet endrois de cette energie maléfique.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.150.texts.returnPopupMain"] = {
+	"en": "What a mistake! It was not his power, it was just a minion! We must flee now!",
+	"fr": "Quel erreur! Ce n'était pas son pouvoir, c'était juste un serviteur! Il faut fuir maintenant!",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
