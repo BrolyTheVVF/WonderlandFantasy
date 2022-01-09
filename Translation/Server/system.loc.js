@@ -851,5 +851,41 @@ locale["system.item.split.invalid-qty"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.consign.add.undefined-item"] = {
+	"en":"The item you are trying to add to your consign can't be found",
+	"fr":"L'object que vous vuolez ajouter a vos ventes est introuvable",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.consign.add.invalide-price"] = {
+	"en":"Item prices in consigns must be higher than 0 gold",
+	"fr":"Les prix des objects en vente doivent dépasser 0 Or",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
