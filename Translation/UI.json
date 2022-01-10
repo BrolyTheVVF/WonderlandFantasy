@@ -2538,6 +2538,24 @@
         "id":""
     },
     "UI.windows.consign.filter.consignorName":{
+        "en":"Consignor Name",
+        "fr":"Nom du Vendeur",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.consign.table.consignor":{
         "en":"Consignor",
         "fr":"Vendeur",
         "es":"",
