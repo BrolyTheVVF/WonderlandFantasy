@@ -1258,5 +1258,23 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "general.label.item":{
+        "en":"Item",
+        "fr":"Objet",
+        "es":"",
+        "ch":"道具復活",
+        "kr":"",
+        "ru":"Предмет",
+        "tr":"",
+        "de":"Objekt",
+        "jp":"",
+        "pt":"",
+        "vi":"Vật Phẩm",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Item"
     }
 }
