@@ -2573,6 +2573,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.consign.table.timeleft":{
+        "en":"Time Left",
+        "fr":"Temps Restant",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Thời Gian Còn",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.title":{
         "en":"Skills",
         "fr":"Compétences",
