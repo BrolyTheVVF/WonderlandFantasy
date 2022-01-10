@@ -1173,6 +1173,42 @@ locale["npc.64.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.65.name"] = {
+	"en": "Baby Dragon",
+	"fr": "Bébé Dragon",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.66.name"] = {
+	"en": "Burning Mummy",
+	"fr": "Momie Enflammée",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
