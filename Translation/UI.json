@@ -2538,8 +2538,8 @@
         "id":""
     },
     "UI.windows.consign.filter.consignorName":{
-        "en":"Consignor Name",
-        "fr":"Nom du Vendeur",
+        "en":"Consignor",
+        "fr":"Vendeur",
         "es":"",
         "ch":"",
         "kr":"",
