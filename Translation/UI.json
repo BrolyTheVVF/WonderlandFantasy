@@ -2591,6 +2591,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.consign.table.unitprice":{
+        "en":"Unit price",
+        "fr":"Prix Unitaire",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.title":{
         "en":"Skills",
         "fr":"Compétences",
