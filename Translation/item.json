@@ -3437,6 +3437,24 @@
         "th":"",
         "id":""
     },
+    "item.3061.name":{
+        "en":"[Spirit Egg] Desert Raider",
+        "fr":"[Oeuf d'esprit] Corsaire du Désert",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"[Linh Trứng] Tướng Cướp Sa Mạc",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.3036.name":{
         "en":"[Spirit Egg] Byron Warrior Spirit",
         "fr":"[Oeuf d'esprit] Esprit Guerrier de Byron",
@@ -3473,9 +3491,9 @@
         "th":"",
         "id":""
     },
-    "item.3061.name":{
-        "en":"[Spirit Egg] Desert Raider",
-        "fr":"[Oeuf d'esprit] Corsaire du Désert",
+    "item.3062.name":{
+        "en":"[Spirit Egg] Baby Dragon",
+        "fr":"[Oeuf d'esprit] Bébé Dragon",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3484,7 +3502,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"[Linh Trứng] Tướng Cướp Sa Mạc",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
