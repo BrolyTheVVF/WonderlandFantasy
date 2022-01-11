@@ -1276,5 +1276,23 @@
         "pl":"",
         "th":"",
         "id":"Item"
+    },
+    "general.label.gear":{
+        "en":"Gear",
+        "fr":"Equipement",
+        "es":"",
+        "ch":"裝備",
+        "kr":"",
+        "ru":"Экипировка",
+        "tr":"",
+        "de":"Ausrüstung",
+        "jp":"",
+        "pt":"",
+        "vi":"Trang Bị",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Peralatan"
     }
 }
