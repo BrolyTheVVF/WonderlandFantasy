@@ -2609,6 +2609,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.consign.btn.show-all":{
+        "en":"Show All",
+        "fr":"Tout Voir",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.title":{
         "en":"Skills",
         "fr":"Compétences",
