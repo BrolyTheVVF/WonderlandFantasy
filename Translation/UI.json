@@ -3456,8 +3456,8 @@
         "id":""
     },
     "UI.windows.guild.btn.leave":{
-        "en":"Leave",
-        "fr":"Partir",
+        "en":"Quit Guild",
+        "fr":"Quiter la Guilde",
         "es":"",
         "ch":"",
         "kr":"",
