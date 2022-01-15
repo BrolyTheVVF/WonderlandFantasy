@@ -2663,6 +2663,24 @@
         "th":"",
         "id":""
     },
+    "UI.windows.consign.btn.click-to-consign":{
+        "en":"Right click to consign",
+        "fr":"Click droit pour vendre",
+        "es":"",
+        "ch":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.title":{
         "en":"Skills",
         "fr":"Compétences",
