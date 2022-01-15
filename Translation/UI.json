@@ -2341,7 +2341,7 @@
     },
     "UI.windows.craft.btn.stop":{
         "en":"Stop",
-        "fr":"Arreter",
+        "fr":"Arrêter",
         "es":"",
         "ch":"停止",
         "kr":"",
@@ -2773,7 +2773,7 @@
     },
     "UI.windows.skills.buyPoints.popup_title":{
         "en":"Buy Skill Points",
-        "fr":"Achetez des Points de Compétence",
+        "fr":"Acheter des Points de Compétence",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3079,7 +3079,7 @@
     },
     "UI.windows.guild.requirement":{
         "en":"Guild creation requires Lv. 20 & 300,000 Gold",
-        "fr":"La création de guilde requiers le Nv. 20 & 300,000 Or",
+        "fr":"La création de guilde requiert le Nv. 20 & 300,000 Or",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3367,7 +3367,7 @@
     },
     "UI.windows.guild.askDisband":{
         "en":"Once you disband a guild, you will have to wait a day before joining a new one and the guild will be lost forever. Continue ?",
-        "fr":"Une fois la guilde disoute, vous devrez attendre un jour avant de pouvoir un joindre une nouvelle et la guilde seras perdue a jamais. Continuer ?",
+        "fr":"Une fois la guilde dissoute, vous devrez attendre un jour avant de pouvoir un joindre une nouvelle et la guilde sera perdue à jamais. Continuer ?",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3457,7 +3457,7 @@
     },
     "UI.windows.guild.btn.leave":{
         "en":"Quit Guild",
-        "fr":"Quiter la Guilde",
+        "fr":"Quitter la Guilde",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3475,7 +3475,7 @@
     },
     "UI.windows.guild.btn.disband":{
         "en":"Disband",
-        "fr":"Disoudre",
+        "fr":"Dissoudre",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3493,7 +3493,7 @@
     },
     "UI.windows.guild.popup.donate.gold.label":{
         "en":"You are about to donate gold to your guild.<br><b>Once you have donated gold to a guild, you can't take it back.</b>",
-        "fr":"Vous allez donner de l'or a votre guilde.<br><b>Une fois l'or donné à la guilde, il est impossible de le récupérer.</b>",
+        "fr":"Vous allez donner de l'or à votre guilde.<br><b>Une fois l'or donné à la guilde, il est impossible de le récupérer.</b>",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3511,7 +3511,7 @@
     },
     "UI.windows.guild.popup.donate.ressource.label":{
         "en":"You are about to donate guild ressources to your guild.<br><b>Once you have donated ressources to a guild, you can't take it back.</b>",
-        "fr":"Vous allez donner des ressources a votre guilde.<br><b>Une fois donnée à la guilde, il est impossible de le récupérer.</b>",
+        "fr":"Vous allez donner des ressources à votre guilde.<br><b>Une fois donnée à la guilde, il est impossible de le récupérer.</b>",
         "es":"",
         "ch":"",
         "kr":"",
@@ -3655,7 +3655,7 @@
     },
     "UI.windows.spirit.nospirit.line5":{
         "en":"Most monsters can be changed into Spirits. If you find a Spirit Egg, you can right click it to try to hatch it, but it has a chance to fail.<br> 1) Elite monsters can drop an egg.<br> 2) During instances, the boss and specials monsters can drop an egg.<br> 3) There is a small chance for world bosses to drop an egg.<br> 4) The rarer the egg, the more powerful it is, and the more luck it has to hatch successfully.",
-        "fr":"La grande majorité de monstres peuvent se transformer en Esprit. Si vous trouvez un Oeuf d'Esprit, il vous suffit de faire un clic droit pour l'ouvrir et essayer d'en récupérer son essence.<br> 1) Les monstres élite peuvent laisser tomber un oeuf comme butin.<br> 2) Au cours des instances, le boss ou les monstres spéciaux peuvent laisser tomber des oeuf comme butin.<br> 3) Il y a aussi une petite probabilité pour que les Boss du Monde laissent des oeufs comme butin.<br> 4) Plus un oeuf est rare, plus l'Esprit qu'il contient est puissant, et plus il auraa de chance d'être récupéré avec succès.",
+        "fr":"La grande majorité de monstres peuvent se transformer en Esprit. Si vous trouvez un Oeuf d'Esprit, il vous suffit de faire un clic droit pour l'ouvrir et essayer d'en récupérer son essence.<br> 1) Les monstres élite peuvent laisser tomber un oeuf comme butin.<br> 2) Au cours des instances, le boss ou les monstres spéciaux peuvent laisser tomber des oeuf comme butin.<br> 3) Il y a aussi une petite probabilité pour que les Boss du Monde laissent des oeufs comme butin.<br> 4) Plus un oeuf est rare, plus l'Esprit qu'il contient est puissant, et plus il aura de chance d'être récupéré avec succès.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4645,7 +4645,7 @@
     },
     "UI.windows.rankings.rules.title":{
         "en":"Ranking Rules",
-        "fr":"Regles",
+        "fr":"Règles",
         "es":"",
         "ch":"",
         "kr":"",
@@ -4663,7 +4663,7 @@
     },
     "UI.windows.rankings.rules.text":{
         "en":"The ranking list refreshes once a day. You can click \"Praise\" or \"Decry\" to vote for a player.",
-        "fr":"Le classement est mis a jours une fois par jour. Vous pouvez cliquer sur \"Éloge\" ou \"Dénigrer\" pour voter pour un joueur.",
+        "fr":"Le classement est mis a jour une fois par jour. Vous pouvez cliquer sur \"Éloge\" ou \"Dénigrer\" pour voter pour un joueur.",
         "es":"",
         "ch":"",
         "kr":"",
@@ -5203,7 +5203,7 @@
     },
     "UI.windows.mails.delete.confirm":{
         "en":"The mails and their attachments will be deleted forever. Continue?",
-        "fr":"Les mails et leurs pièces jointes seront définitivement supprimés. Continuez?",
+        "fr":"Les mails et leurs pièces jointes seront définitivement supprimés. Continuer?",
         "es":"",
         "ch":"",
         "kr":"",
