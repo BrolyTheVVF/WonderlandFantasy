@@ -13058,7 +13058,7 @@ locale["quest.30000.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Lấy đi, đây là minh chứng cho sự đóng góp bang hội của ngươi cho vương đô.",
+	"vi": "Lấy đi, đây là minh chứng cho sự đóng góp công hội của ngươi cho vương đô.",
 	"ar": "",
 	"it": "",
 	"pl": "",
