@@ -3715,7 +3715,7 @@ locale["npc.100029.interact.baseText"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Chiến đấu vì vinh quang của bang hội!",
+	"vi": "Chiến đấu vì vinh quang của công hội!",
 	"ar": "",
 	"it": "",
 	"pl": "",
