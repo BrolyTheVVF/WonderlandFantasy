@@ -2691,7 +2691,7 @@ locale["quest.36.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đánh bại quái vật mạnh mẽ <span class='text-link' data-target-type='mob' data-target-id='19'>Sói Kỳ Lân</span>, và thu thập sừng của nó. Rồi báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>Bạn giờ có thể dùng Hòa Vàng để ngay lập tức giết quái. Chọn quái vật, và bấm vào biểu tượng Hóa Vàng.",
+	"vi": "Đánh bại quái vật mạnh mẽ <span class='text-link' data-target-type='mob' data-target-id='19'>Sói Kỳ Lân</span>, và thu thập sừng của nó. Rồi báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>Bạn giờ có thể dùng Hòa Vàng để ngay lập tức giết quái. Chọn quái vật, và nhấn vào biểu tượng Hóa Vàng.",
 	"ar": "",
 	"it": "",
 	"pl": "",
