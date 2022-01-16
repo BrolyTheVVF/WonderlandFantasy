@@ -905,5 +905,23 @@ locale["system.consign.remove.undefined-item"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.consign.remove.undefined-system-error"] = {
+	"en":"An error occured when trying to remove the item from the consignment item list. Please try again later or contact an admin if the problem persist.",
+	"fr":"Une erreur est survenue pendant la supression de votre item de la list des ventes. Veuillez réessayer plus tard ou contacter un administrateur si le problème persiste.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
