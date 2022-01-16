@@ -853,7 +853,7 @@ locale["system.item.split.invalid-qty"] = {
 };
 locale["system.consign.add.undefined-item"] = {
 	"en":"The item you are trying to add to your consign can't be found",
-	"fr":"L'object que vous vuolez ajouter a vos ventes est introuvable",
+	"fr":"L'object que vous voulez ajouter a vos ventes est introuvable",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -881,6 +881,24 @@ locale["system.consign.add.invalide-price"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Giá vật phẩm trong mục gửi bán phải lớn hơn 0 vàng",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.consign.remove.undefined-item"] = {
+	"en":"The item you are trying to get can't be found",
+	"fr":"L'object que vous cherchez est introuvable",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
