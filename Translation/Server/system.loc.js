@@ -761,6 +761,24 @@ locale["system.mail.consign.content"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.mail.consign.removed-subject"] = {
+	"en":"One of your item has been removed from consignment",
+	"fr":"Un de vos objet à été retiré de la vente",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.mail.send.invalid-to-field"] = {
 	"en":"The player you tried to send the mail to doesn't exists or is invalid",
 	"fr":"Le joueur auquel vous avez essayé d'envoyer le courrier n'existe pas ou n'est pas valide",
