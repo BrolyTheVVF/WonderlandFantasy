@@ -761,6 +761,42 @@ locale["system.mail.consign.content"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.mail.consign.bought-subject"] = {
+	"en":"You just bought an item",
+	"fr":"Vous avez acheté un objet",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.consign.bought-content"] = {
+	"en":"You just bought the item {0} for {1} Gold",
+	"fr":"Vous avez acheté l'objet {0} pour un montent de {1} Or",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.mail.consign.removed-subject"] = {
 	"en":"One of your item has been removed from consignment",
 	"fr":"Un de vos objet à été retiré de la vente",
