@@ -15553,7 +15553,7 @@ locale["quest.40031.texts.returnPopupMain"] = {
 
 locale["quest.40032.name"] = {
 	"en": "Hunting: Sabath Candlestick",
-	"fr": "Chasse: Mercenaire Jugement Dernier",
+	"fr": "Chasse: Chandelier du Sabat",
 	"es": "",
 	"ch": "",
 	"kr": "",
