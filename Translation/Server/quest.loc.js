@@ -14330,7 +14330,7 @@ locale["quest.40015.name"] = {
 };
 locale["quest.40015.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='19'>Unicorn Wolf</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='19'>Loup Licorne</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"ch": "",
 	"kr": "",
@@ -15553,7 +15553,7 @@ locale["quest.40031.texts.returnPopupMain"] = {
 
 locale["quest.40032.name"] = {
 	"en": "Hunting: Sabath Candlestick",
-	"fr": "Chasse: Mercenaire Jugement Dernier",
+	"fr": "Chasse: Chandelier du Sabat",
 	"es": "",
 	"ch": "",
 	"kr": "",
