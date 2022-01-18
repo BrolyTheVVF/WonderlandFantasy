@@ -977,5 +977,23 @@ locale["system.consign.remove.undefined-system-error"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.onlineTimeReward.outOfTry"] = {
+	"en":"You have already gotten all your daily gifts today.",
+	"fr":"Vous avez déjà reçu tous vos cadeaux quotidiens aujourd'hui.",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
