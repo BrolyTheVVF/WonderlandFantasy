@@ -869,6 +869,60 @@ locale["system.mail.send.invalid-consign"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.mail.onlineTimeReward.from"] = {
+	"en": "Online Time Reward",
+	"fr": "Récompense de Temps de Jeu",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.onlineTimeReward.subject"] = {
+	"en":"Your bag is full",
+	"fr":"Votre sac est plein",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.onlineTimeReward.content"] = {
+	"en":"Your bag was full and the item {0} was sent by mail",
+	"fr":"Votre sac etait plein et l'object {0} vous as été envoyé par courrier",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.item.split.invalid-item"] = {
 	"en":"The item choosen is invalid or doesn't exists",
 	"fr":"L'objet choisit n'est pas valide ou n'existe pas",
