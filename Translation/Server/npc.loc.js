@@ -1220,7 +1220,7 @@ locale["npc.67.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Chỉ Huy Tiên Phong Địa Ngục",
 	"ar": "",
 	"it": "",
 	"pl": "",
