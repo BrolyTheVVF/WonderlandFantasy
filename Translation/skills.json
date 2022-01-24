@@ -11662,5 +11662,23 @@
         "pl": "",
         "th": "",
         "id": ""
+    },
+    "skills.upgrade.requires": {
+        "en": "To upgrade this skill, you need the folowing items:",
+        "fr": "Pour améliorer cette compétence, vous avez besoin des objets suivant:",
+        "es": "",
+        "ch": "",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "",
+        "jp": "",
+        "pt": "",
+        "vi": "",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
     }
 }
