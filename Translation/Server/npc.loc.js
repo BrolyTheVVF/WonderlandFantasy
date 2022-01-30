@@ -4691,4 +4691,45 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 	"id": ""
 };
 
+
+
+locale["instance.INSTANCE_30.npc.20011.talk_thankful_1"] = {
+	"en": "You saved my life! They where going to trap me in this filthy cage. Thanks!",
+	"fr": "Vous m'avez sauvé! Ils voulaient m'enfermer dans cette cellule miteuse. Merci!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["instance.INSTANCE_30.npc.20011.talk_thankful_1"] = {
+	"en": "Quick! you have to kill their chief before he flees, or this nightmare is never going to stop.",
+	"fr": "Vite-fait! vous devez tuer leur chef avant qu'il ne s'enfuie, sinon ce cauchemar ne s'arrêtera jamais.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
