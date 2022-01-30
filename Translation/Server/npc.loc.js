@@ -1465,6 +1465,24 @@ locale["npc.20007.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20008.name"] = {
+	"en": "Thresher",
+	"fr": "Batteuse",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
