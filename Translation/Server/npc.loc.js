@@ -1641,6 +1641,25 @@ locale["npc.20011.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20012.name"] = {
+	"en": "Pirate Leader",
+	"fr": "Chef des Pirates",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
