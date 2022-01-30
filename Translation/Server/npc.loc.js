@@ -1483,6 +1483,42 @@ locale["npc.20008.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20009.name"] = {
+	"en": "Cat Pirate",
+	"fr": "Pirate Chat",
+	"es": "",
+	"ch": "貓海盜",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Mèo Hải Tặc",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20010.name"] = {
+	"en": "Pirate Guard",
+	"fr": "Garde Pirate",
+	"es": "",
+	"ch": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
