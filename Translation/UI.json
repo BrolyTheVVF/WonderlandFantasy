@@ -5603,5 +5603,24 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "UI.windows.elements.current-exp":{
+        "en":"Current total element EXP: {0}",
+        "fr":"EXP Total d'élément: {0}",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
