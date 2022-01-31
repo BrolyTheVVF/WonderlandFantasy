@@ -5623,6 +5623,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.elements.needed-exp":{
+        "en":"Needed element EXP: {0}",
+        "fr":"EXP d'élément nécessaire: {0}",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.elements.effect.fire":{
         "en":"Elemental Attack",
         "fr":"Attaque Élémentaire",
