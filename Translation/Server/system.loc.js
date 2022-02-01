@@ -739,7 +739,7 @@ locale["system.elements.requires-exp"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Bạn cần thêm {0} điểm K.Nghiệm Nguyên Tố để nâng cấp lên cấp tiếp theo",
+	"vi": "Bạn cần thêm {0} điểm k.nghiệm nguyên tố để nâng cấp lên cấp tiếp theo",
 	"ar": "",
 	"it": "",
 	"pl": "",
