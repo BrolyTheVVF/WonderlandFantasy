@@ -689,6 +689,64 @@ locale["system.blessing.requires-n-blessing"] = {
 	"id": ""
 };
 
+locale["system.elements.invalid-element"] = {
+	"en":"This element seems to be invalid",
+	"fr":"L'élément sélectionné semble invalide",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.elements.already-maxed-out"] = {
+	"en":"This element is already max out",
+	"fr":"Cet élément est déjà au maximum",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.elements.requires-exp"] = {
+	"en":"You need {0} Element EXP to upgrade to the next level",
+	"fr":"Vous avez besoin de {0} EXP d'Élément pour passer au niveau suivant",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["system.fortify.invalid-parameter"] = {
 	"en":"The item chosen or the gem quantity is invalid",
 	"fr":"L'objet choisi ou la quantité de gemme est invalide",
@@ -710,7 +768,7 @@ locale["system.fortify.invalid-parameter"] = {
 };
 locale["system.fortify.already-maxed-out"] = {
 	"en":"This gear is already maxed out",
-	"fr":"Cet equipement est déjà monté au maximum",
+	"fr":"Cet équipement est déjà monté au maximum",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",

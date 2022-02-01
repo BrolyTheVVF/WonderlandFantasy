@@ -4736,7 +4736,7 @@ locale["instance.INSTANCE_30.npc.20011.talk_thankful_1"] = {
 };
 locale["instance.INSTANCE_30.npc.20011.talk_thankful_2"] = {
 	"en": "Quick! you have to kill their chief before he flees, or this nightmare is never going to stop.",
-	"fr": "Vite-fait! vous devez tuer leur chef avant qu'il ne s'enfuie, sinon ce cauchemar ne s'arrêtera jamais.",
+	"fr": "Vite-fait! Vous devez tuer leur chef avant qu'il ne s'enfuie, sinon ce cauchemar ne s'arrêtera jamais.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
