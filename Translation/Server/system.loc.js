@@ -710,7 +710,7 @@ locale["system.elements.invalid-element"] = {
 };
 locale["system.elements.already-maxed-out"] = {
 	"en":"This element is already max out",
-	"fr":"Cette élément est déjà au maximum",
+	"fr":"Cet élément est déjà au maximum",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -768,7 +768,7 @@ locale["system.fortify.invalid-parameter"] = {
 };
 locale["system.fortify.already-maxed-out"] = {
 	"en":"This gear is already maxed out",
-	"fr":"Cet equipement est déjà monté au maximum",
+	"fr":"Cet équipement est déjà monté au maximum",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
