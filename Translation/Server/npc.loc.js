@@ -3805,6 +3805,44 @@ locale["npc.100066.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100067.name"] = {
+	"en": "Tio",
+	"fr": "Tio",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Tio",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100067.title"] = {
+	"en": "Training Master",
+	"fr": "Maître d'apprentissage",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 locale["npc.300002.name"] = {
