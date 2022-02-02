@@ -6289,8 +6289,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_10":{
-        "en":"Lv10: +1000 HP, Elemental Attack raised by 300, Elemental Healing +100",
-        "fr":"Nv10: +1000 PV, Attaque Élémentaire augmenté de 300 points, Soin Élémentaire +100",
+        "en":"Lv10: +1000 HP, Elemental Attack raised by 300",
+        "fr":"Nv10: +1000 PV, Attaque Élémentaire augmenté de 300 points",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6308,8 +6308,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_20":{
-        "en":"Lv20: +2000 HP, 5% chance of enhanced damage being raised by 15%, Elemental Healing +500",
-        "fr":"Nv20: +2000 PV, 5% de chance de gagner 15% de dégâts amélioré, Soin Élémentaire +300",
+        "en":"Lv20: +2000 HP, 5% chance of enhanced damage being raised by 15% for 8 seconds",
+        "fr":"Nv20: +2000 PV, 5% de chance de gagner 15% de dégâts amélioré pendant 8 secondes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6327,8 +6327,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_30":{
-        "en":"Lv30: +7000 HP, 5% chance of enhanced damage being raised by 35%, Elemental Healing +1000",
-        "fr":"Nv30: +7000 PV, 5% de chance de gagner 35% de dégâts amélioré, Soin Élémentaire +300",
+        "en":"Lv30: +7000 HP, 5% chance of enhanced damage being raised by 35% for 8 seconds",
+        "fr":"Nv30: +7000 PV, 5% de chance de gagner 35% de dégâts amélioré pendant 8 secondes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6346,8 +6346,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_40":{
-        "en":"Lv40: +10 000 HP, 5% chance of enhanced damage being raised by 55%, Elemental Healing +2000",
-        "fr":"Nv40: +10 000 PV, 5% de chance de gagner 55% de dégâts amélioré, Soin Élémentaire +300",
+        "en":"Lv40: +10 000 HP, 5% chance of enhanced damage being raised by 55% for 8 seconds",
+        "fr":"Nv40: +10 000 PV, 5% de chance de gagner 55% de dégâts amélioré pendant 8 secondes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6365,8 +6365,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_50":{
-        "en":"Lv50: +15 000 HP, 5% chance of enhanced damage being raised by 75%, Elemental Healing +5000",
-        "fr":"Nv50: +15 000 PV, 5% de chance de gagner 75% de dégâts amélioré, Soin Élémentaire +300",
+        "en":"Lv50: +15 000 HP, 5% chance of enhanced damage being raised by 75% for 8 seconds",
+        "fr":"Nv50: +15 000 PV, 5% de chance de gagner 75% de dégâts amélioré pendant 8 secondes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6384,8 +6384,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_60":{
-        "en":"Lv60: +20 000 HP, 5% chance of enhanced damage being raised by 95%, Elemental Healing +10 000",
-        "fr":"Nv60: +20 000 PV, 5% de chance de gagner 95% de dégâts amélioré, Soin Élémentaire +300",
+        "en":"Lv60: +20 000 HP, 5% chance of enhanced damage being raised by 95% for 8 seconds",
+        "fr":"Nv60: +20 000 PV, 5% de chance de gagner 95% de dégâts amélioré pendant 8 secondes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6422,8 +6422,8 @@
         "id":""
     },
     "UI.windows.elements.light.bonus_20":{
-        "en":"Lv20: +2000 HP, 5% chance of damage reduction being raised by 15%, Elemental Healing +500",
-        "fr":"Nv20: +2000 PV, 5% de chance de gagner 15% de réduction de dégâts, Soin Élémentaire +300",
+        "en":"Lv20: +2000 HP, 5% chance of damage reduction being raised by 15% for 8 seconds, Elemental Healing +500",
+        "fr":"Nv20: +2000 PV, 5% de chance de gagner 15% de réduction de dégâts pendant 8 secondes, Soin Élémentaire +300",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6441,8 +6441,8 @@
         "id":""
     },
     "UI.windows.elements.light.bonus_30":{
-        "en":"Lv30: +7000 HP, 5% chance of damage reduction being raised by 45%, Elemental Healing +1000",
-        "fr":"Nv30: +7000 PV, 5% de chance de gagner 45% de réduction de dégâts, Soin Élémentaire +300",
+        "en":"Lv30: +7000 HP, 5% chance of damage reduction being raised by 45% for 8 seconds, Elemental Healing +1000",
+        "fr":"Nv30: +7000 PV, 5% de chance de gagner 45% de réduction de dégâts pendant 8 secondes, Soin Élémentaire +300",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6460,8 +6460,8 @@
         "id":""
     },
     "UI.windows.elements.light.bonus_40":{
-        "en":"Lv40: +10 000 HP, 5% chance of damage reduction being raised by 75%, Elemental Healing +2000",
-        "fr":"Nv40: +10 000 PV, 5% de chance de gagner 75% de réduction de dégâts, Soin Élémentaire +300",
+        "en":"Lv40: +10 000 HP, 5% chance of damage reduction being raised by 75% for 8 seconds, Elemental Healing +2000",
+        "fr":"Nv40: +10 000 PV, 5% de chance de gagner 75% de réduction de dégâts pendant 8 secondes, Soin Élémentaire +300",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6479,8 +6479,8 @@
         "id":""
     },
     "UI.windows.elements.light.bonus_50":{
-        "en":"Lv50: +15 000 HP, 5% chance of damage reduction being raised by 110%, Elemental Healing +5000",
-        "fr":"Nv50: +15 000 PV, 5% de chance de gagner 110% de réduction de dégâts, Soin Élémentaire +300",
+        "en":"Lv50: +15 000 HP, 5% chance of damage reduction being raised by 110% for 8 seconds, Elemental Healing +5000",
+        "fr":"Nv50: +15 000 PV, 5% de chance de gagner 110% de réduction de dégâts pendant 8 secondes, Soin Élémentaire +300",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6498,8 +6498,8 @@
         "id":""
     },
     "UI.windows.elements.light.bonus_60":{
-        "en":"Lv60: +20 000 HP, 5% chance of damage reduction being raised by 150%, Elemental Healing +10 000",
-        "fr":"Nv60: +20 000 PV, 5% de chance de gagner 150% de réduction de dégâts, Soin Élémentaire +300",
+        "en":"Lv60: +20 000 HP, 5% chance of damage reduction being raised by 150% for 8 seconds, Elemental Healing +10 000",
+        "fr":"Nv60: +20 000 PV, 5% de chance de gagner 150% de réduction de dégâts pendant 8 secondes, Soin Élémentaire +300",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
