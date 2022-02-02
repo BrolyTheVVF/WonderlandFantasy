@@ -170,6 +170,25 @@
         "th":"",
         "id":"Exp"
     },
+    "general.POINT.ELEMENTS_EXP":{
+        "en":"Element Exp",
+        "fr":"Exp Élémentaire",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.POINT.MAGIPOINT":{
         "en":"Magipoint",
         "fr":"Magie noire",
