@@ -3836,7 +3836,7 @@ locale["npc.100067.title"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Bậc Thầy Huấn Luyện",
 	"ar": "",
 	"it": "",
 	"pl": "",
