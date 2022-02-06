@@ -1413,7 +1413,7 @@ locale["npc.10005.name"] = {
 };
 locale["npc.10006.name"] = {
 	"en": "Warrior",
-	"fr": "Warrior",
+	"fr": "Guerrier",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -1432,7 +1432,7 @@ locale["npc.10006.name"] = {
 };
 locale["npc.10007.name"] = {
 	"en": "Ranger",
-	"fr": "Ranger",
+	"fr": "Archer",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",

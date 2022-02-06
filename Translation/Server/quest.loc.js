@@ -13978,7 +13978,7 @@ locale["quest.35100.texts.objective"] = {
 };
 locale["quest.35100.texts.description"] = {
 	"en": "You have to feel the elements. They are flowing through your body. If you want to develop this power, you have to follow a hard training, completes challenges that you though you would never be able to. Let's start with my first apprentice. Defeat the mage over there, then report back to me, if you succeed of course.",
-	"fr": "Sentez les éléments. Ils traversent votre corps. Si vous voulez développer ce pouvoir, vous devez suivre un entraînement dur, compléter des défis que vous pensiez ne jamais pouvoir relever. Commençons par mon premier apprenti. Battez le mage là-bas, puis revenez me voir, si vous réussissez bien sûr.",
+	"fr": "Sentez les éléments. Ils traversent votre corps. Si vous voulez développer ce pouvoir, vous devez suivre un entraînement intense, complétez les défis que vous ne pensiez ne jamais pouvoir relever. Commençons par mon premier apprenti. Battez le mage là-bas, puis revenez me voir, si vous réussissez bien sûr.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -14036,7 +14036,7 @@ locale["quest.35101.name"] = {
 };
 locale["quest.35101.texts.objective"] = {
 	"en": "Defeat the Warrior, then report back to me.",
-	"fr": "Battez le Warrior, puis faites-moi votre rapport.",
+	"fr": "Battez le Guerrier, puis faites-moi votre rapport.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -14132,7 +14132,7 @@ locale["quest.35102.texts.objective"] = {
 };
 locale["quest.35102.texts.description"] = {
 	"en": "The only task left is the ranger. I told him how to infuse his arrows with his elemental power. Good luck!",
-	"fr": "La seule tâche qui reste est le ranger. Je lui ai dit comment infuser ses flèches avec son pouvoir élémentaire. Bonne chance!",
+	"fr": "La seule tâche qui reste est l'archer. Je lui ai dit comment infuser ses flèches avec son pouvoir élémentaire. Bonne chance!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -14209,7 +14209,7 @@ locale["quest.35103.texts.objective"] = {
 };
 locale["quest.35103.texts.description"] = {
 	"en": "You have to feel the elements. They are flowing through your body. If you want to develop this power, you have to follow a hard training, completes challenges that you though you would never be able to. Let's start with my first apprentice. Defeat the mage over there, then report back to me, if you succeed of course.",
-	"fr": "Sentez les éléments. Ils traversent votre corps. Si vous voulez développer ce pouvoir, vous devez suivre un entraînement dur, compléter des défis que vous pensiez ne jamais pouvoir relever. Commençons par mon premier apprenti. Battez le mage là-bas, puis revenez me voir, si vous réussissez bien sûr.",
+	"fr": "Sentez les éléments. Ils traversent votre corps. Si vous voulez développer ce pouvoir, vous devez suivre un entraînement intense, complétez les défis que vous pensiez ne jamais pouvoir relever. Commençons par mon premier apprenti. Battez le mage là-bas, puis revenez me voir, si vous réussissez bien sûr.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -14267,7 +14267,7 @@ locale["quest.35104.name"] = {
 };
 locale["quest.35104.texts.objective"] = {
 	"en": "Defeat the Warrior, then report back to me.",
-	"fr": "Battez le Warrior, puis faites-moi votre rapport.",
+	"fr": "Battez le Guerrier, puis faites-moi votre rapport.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -14363,7 +14363,7 @@ locale["quest.35105.texts.objective"] = {
 };
 locale["quest.35105.texts.description"] = {
 	"en": "The only task left is the ranger. I told him how to infuse his arrows with his elemental power. Good luck!",
-	"fr": "La seule tâche qui reste est le ranger. Je lui ai dit comment infuser ses flèches avec son pouvoir élémentaire. Bonne chance!",
+	"fr": "La seule tâche qui reste est l'Archer. Je lui ai dit comment infuser ses flèches avec son pouvoir élémentaire. Bonne chance!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
