@@ -6479,8 +6479,8 @@
         "id":""
     },
     "UI.windows.elements.darkness.bonus_10":{
-        "en":"Lv10: +1000 HP, Elemental Attack raised by 300",
-        "fr":"Nv10: +1000 PV, Attaque Élémentaire augmenté de 300 points",
+        "en":"Lv10: +1000 HP, Elemental Defence raised by 300",
+        "fr":"Nv10: +1000 PV, Défense Élémentaire augmenté de 300 points",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -6593,8 +6593,8 @@
         "id":""
     },
     "UI.windows.elements.light.bonus_10":{
-        "en":"Lv10: +1000 HP, Elemental Defence raised by 300, Elemental Healing +100",
-        "fr":"Nv10: +1000 PV, Défense Élémentaire augmenté de 300 points, Soin Élémentaire +100",
+        "en":"Lv10: +1000 HP, Elemental Attack raised by 300, Elemental Healing +100",
+        "fr":"Nv10: +1000 PV, Attaque Élémentaire augmenté de 300 points, Soin Élémentaire +100",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
