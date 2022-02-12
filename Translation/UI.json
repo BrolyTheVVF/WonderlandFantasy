@@ -6725,6 +6725,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.runes.bonus":{
+        "en":"Rune Bonus",
+        "fr":"Bonus de Rune",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.runes.foxhound.name":{
         "en":"Foxhound",
         "fr":"Foxhound",
