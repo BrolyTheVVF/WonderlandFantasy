@@ -6784,7 +6784,7 @@
     },
     "UI.windows.runes.description":{
         "en":"To use a rune on a gear, you must put the gear in the slot above, then click confirm. Using a rune on an item will destroy the rune and replace an existing one if there is any.",
-        "fr":"Pour utiliser une rune sur un equipement, vous devez le mettre l'emplacement ci-dessus, puis cliquer sur confirmer. L'utilisation d'une rune sur un objet détruira la rune et en remplacera une existante s'il y en a une.",
+        "fr":"Pour utiliser une rune sur un équipement, vous devez le mettre l'emplacement ci-dessus, puis cliquez sur confirmer. L'utilisation d'une rune sur un objet détruira la rune et en remplacera l'existante s'il y a.",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
