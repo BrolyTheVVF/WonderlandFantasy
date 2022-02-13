@@ -6744,6 +6744,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.runes.requires":{
+        "en":"Requires level {0} {1} minimum",
+        "fr":"Requiert {1} niveau {0} minimum",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.runes.foxhound.name":{
         "en":"Foxhound",
         "fr":"Foxhound",
