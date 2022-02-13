@@ -5129,6 +5129,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.rankings.btn.gears":{
+        "en":"Gears",
+        "fr":"Equipement",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.rankings.rules.title":{
         "en":"Ranking Rules",
         "fr":"Règles",
