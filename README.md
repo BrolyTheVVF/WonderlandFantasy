@@ -11,7 +11,8 @@ Here is the full list of translations possible :
  - fr - French
  - es - Spanish
  - de - German
- - ch - Chinese
+ - zh-cn - Chinese (Simplified)
+ - zh-tw - Chinese (Traditional)
  - kr - Korean
  - ja - Japanese
  - ru - Russian
