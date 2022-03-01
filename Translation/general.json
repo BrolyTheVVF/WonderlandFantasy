@@ -1442,5 +1442,43 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "general.label.take":{
+        "en":"Take",
+        "fr":"Prendre",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "general.label.taken":{
+        "en":"Taken",
+        "fr":"Pris",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
