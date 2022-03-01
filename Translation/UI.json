@@ -4521,7 +4521,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.title":{
+    "UI.windows.daily_recommended.title":{
         "en":"Daily Recomended List",
         "fr":"Liste Journalière Recommandée",
         "es":"",
@@ -4540,7 +4540,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.login":{
+    "UI.windows.daily_recommended.type.login":{
         "en":"Log-in to Wonderland Fantasy",
         "fr":"Se connecter a Wonderland Fantasy",
         "es":"",
@@ -4559,7 +4559,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_exp":{
+    "UI.windows.daily_recommended.type.daily_exp":{
         "en":"Collect Daily EXP Reward",
         "fr":"Récompense d'EXP Journalière",
         "es":"",
@@ -4578,7 +4578,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_quest_normal":{
+    "UI.windows.daily_recommended.type.daily_quest_normal":{
         "en":"Complete 10 Daily Quests",
         "fr":"Terminez 10 Quêtes Journalière",
         "es":"",
@@ -4597,7 +4597,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_quest_bur":{
+    "UI.windows.daily_recommended.type.daily_quest_bur":{
         "en":"Complete 5 Bur Quests",
         "fr":"Terminez 5 Quêtes de Bur",
         "es":"",
@@ -4616,7 +4616,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.mob_elite":{
+    "UI.windows.daily_recommended.type.mob_elite":{
         "en":"Kill 10 Elite Monsters",
         "fr":"Tuez 10 Monstres Elite",
         "es":"",
@@ -4635,7 +4635,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.gold_touch":{
+    "UI.windows.daily_recommended.type.gold_touch":{
         "en":"Use Gold Touch",
         "fr":"Utilisez le Toucher D'or",
         "es":"",
@@ -4654,7 +4654,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.soul_gathering":{
+    "UI.windows.daily_recommended.type.soul_gathering":{
         "en":"Use Soul Gathering",
         "fr":"Utilisez la Récolte d'Âme",
         "es":"",
@@ -4673,7 +4673,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.soul_blessing":{
+    "UI.windows.daily_recommended.type.soul_blessing":{
         "en":"Gather some souls",
         "fr":"Récolter des âmes",
         "es":"",
@@ -4692,7 +4692,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_instance":{
+    "UI.windows.daily_recommended.type.daily_instance":{
         "en":"Daily instance",
         "fr":"Instance Journalière",
         "es":"",
@@ -4711,7 +4711,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.exp_instance":{
+    "UI.windows.daily_recommended.type.exp_instance":{
         "en":"Join in EXP Instance",
         "fr":"Rejoind l'instance d'EXP",
         "es":"",
@@ -4730,7 +4730,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.attendant_training":{
+    "UI.windows.daily_recommended.type.attendant_training":{
         "en":"Join in Attendant's Training",
         "fr":"Rejoind la Formation des Serviteurs",
         "es":"",
@@ -4749,7 +4749,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_events":{
+    "UI.windows.daily_recommended.type.daily_events":{
         "en":"Do 2 <span title='Do 2 Werewolf, Masquerade or Battlefield'>events</span>",
         "fr":"participer a 2 Do 2 <span title='Loup-garou, Masquerade, ou Champ de bataille'>evènement</span>",
         "es":"",
@@ -4768,7 +4768,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_energy":{
+    "UI.windows.daily_recommended.type.daily_energy":{
         "en":"Use up 500 Energy point",
         "fr":"Utilisez 500 points d'énergie",
         "es":"",
@@ -4787,7 +4787,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.devil_transport":{
+    "UI.windows.daily_recommended.type.devil_transport":{
         "en":"Complete one Devil's Transport",
         "fr":"Terminez un Transport du Démon",
         "es":"",
@@ -4806,7 +4806,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.righteous_robbers":{
+    "UI.windows.daily_recommended.type.righteous_robbers":{
         "en":"Complete one 'Righteous Robber'",
         "fr":"Terminez un 'Voleur Vertueux'",
         "es":"",
@@ -4825,7 +4825,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.3_player_trial":{
+    "UI.windows.daily_recommended.type.3_player_trial":{
         "en":"Join in 3-Player's Trial",
         "fr":"Rejoignez un Entrainement 3 Joueurs",
         "es":"",
@@ -4844,7 +4844,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.interserver_arena":{
+    "UI.windows.daily_recommended.type.interserver_arena":{
         "en":"Fight in the Inter-Server Arena",
         "fr":"Combattez dans l'arène Inter-Serveurs",
         "es":"",
@@ -4863,7 +4863,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.meditation":{
+    "UI.windows.daily_recommended.type.meditation":{
         "en":"Join in Meditation",
         "fr":"Meditation Journalière",
         "es":"",
@@ -4882,7 +4882,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.abysse":{
+    "UI.windows.daily_recommended.type.abysse":{
         "en":"Join in Abyss",
         "fr":"Etage d'Abysse Journalier",
         "es":"",
@@ -4901,7 +4901,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recomended.type.daily_elements_quest":{
+    "UI.windows.daily_recommended.type.daily_elements_quest":{
         "en":"Element Challenge Quests",
         "fr":"Quêtes de Challenge Élémentaire",
         "es":"",
