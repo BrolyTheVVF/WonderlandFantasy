@@ -5072,25 +5072,6 @@
         "th":"",
         "id":""
     },
-    "UI.windows.daily_recommended.zeal-reward.incomplete":{
-        "en":"Imcomplete",
-        "fr":"Imcomplet",
-        "es":"",
-        "zh-cn":"",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
     "UI.windows.daily_recommended.zeal-reward.rank1":{
         "en":"Great, keep trying to get 7 stars!",
         "fr":"Super, continuez d'essayer d'obtenir 7 étoiles!",
