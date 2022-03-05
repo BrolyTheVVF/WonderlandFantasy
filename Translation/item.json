@@ -14845,7 +14845,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> - Thuốc Hồi Máu x 10<br>  - Thuốc Năng Lượng Nhiều x 10<br> - Pha Lê Dịch Chuyển Nhỏ<br> - Hắc Ma Pháp x 2000",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14853,7 +14853,7 @@
         "id":""
     },
     "item.35011.description":{
-        "en":"Right click to get :<br> - Healing Potion x 20<br> - Greater Magic Potion x 20<br> - Instant Healing Flask x 2<br> - Greater Instant Magic Flask x 2<br> - Mini Teleport Crystal x 2<br> - Town Portal Scroll x 2 - Gold x 2500<br> - Element Gem",
+        "en":"Right click to get :<br> - Healing Potion x 20<br> - Greater Magic Potion x 20<br> - Instant Healing Flask x 2<br> - Greater Instant Magic Flask x 2<br> - Mini Teleport Crystal x 2<br> - Town Portal Scroll x 2 - Gold x 2500<br> - Elemental Gem",
         "fr":"Click droit pour obtenir:<br> - Potion de Soin x 20<br> - Grande Potion de Mana x 20<br> - Flacon de Guérison Instantanée x 2<br> - Flacon de Mana Instantané x 2<br> - Mini Cristal de Téléportation x 2<br> - Parchemin Portail de la Ville x 2<br> - Or x 2500<br> - Gemme Élementaire",
         "es":"",
         "zh-cn":"",
@@ -14864,7 +14864,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> - Thuốc Hồi Máu x 20<br> - Thuốc Năng Lượng Nhiều x 20<br> - Bình Hồi Máu Tức Thì x 2<br> - Bình Hồi Máu Tức Thì Nhiều x 2<br> - Pha Lê Dịch Chuyển Nhỏ x 2<br> - Trục Hồi Thành x 2 - Vàng x 2500<br> - Ngọc Nguyên Tố",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14872,7 +14872,7 @@
         "id":""
     },
     "item.35012.description":{
-        "en":"Right click to get :<br> - Upgrade Gem [Lv. 1-30] x 3<br> - Revival<br> - Element Gem x 2<br> - Daily Refresh",
+        "en":"Right click to get :<br> - Upgrade Gem [Lv. 1-30] x 3<br> - Revival<br> - Elemental Gem x 2<br> - Daily Refresh",
         "fr":"Click droit pour obtenir:<br> - Gemme d'Amélioration [Lv. 1-30] x 3<br> - Pierre de Résurrection<br> - Gemme Élementaire x 2<br> - Rafraichisseur de Quêtes",
         "es":"",
         "zh-cn":"",
@@ -14883,7 +14883,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> - Ngọc Nâng Cấp [Lv. 1-30] x 3<br> - Thánh Giá Phục Sinh<br> - Ngọc Nguyên Tố x 2<br> - Sách Đổi Mới Nhiệm Vụ Ngày",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14891,7 +14891,7 @@
         "id":""
     },
     "item.35013.description":{
-        "en":"Right click to get :<br> - Upgrade Gem [Lv. 1-30] x 5<br> - Advanced Upgrade Gem [Lv. 1-30]<br> - Revival x 2<br> - Element Gem x 3<br> - Daily Refresh x 2<br> - Gold x 5000",
+        "en":"Right click to get :<br> - Upgrade Gem [Lv. 1-30] x 5<br> - Advanced Upgrade Gem [Lv. 1-30]<br> - Revival x 2<br> - Elemental Gem x 3<br> - Daily Refresh x 2<br> - Gold x 5000",
         "fr":"Click droit pour obtenir:<br> - Gemme d'Amélioration [Lv. 1-30] x 5<br> Gemme d'Amélioration avancé [Lv. 1-30]<br> - Pierre de Résurrection x 2<br> - Gemme Élementaire x 3<br> - Rafraichisseur de Quêtes x 2<br> - Or x 5000",
         "es":"",
         "zh-cn":"",
@@ -14902,7 +14902,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> - Ngọc Nâng Cấp [Lv. 1-30] x 5<br> - Ngọc Nâng Cấp Nâng Cao [Lv. 1-30]<br> - Thánh Giá Phục Sinh x 2<br> - Ngọc Nguyên Tố x 3<br> - Sách Đổi Mới Nhiệm Vụ Ngày x 2<br> - Vàng x 5000",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14921,7 +14921,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> - Thuốc Hồi Máu Nhiều x 10<br> - Thuốc Năng Lượng Nhiều x 10<br> - Pha Lê Dịch Chuyển Nhỏ<br> - Hắc Ma Pháp x 4000",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14929,7 +14929,7 @@
         "id":""
     },
     "item.35015.description":{
-        "en":"Right click to get :<br> - Greater Healing Potion x 20<br> - Greater Magic Potion x 20<br> - Instant Greater Healing Flask x 2<br> - Greater Instant Magic Flask x 2<br> - Mini Teleport Crystal x 2<br> - Town Portal Scroll x 2<br> - Gold x 3000<br> - Element Gem",
+        "en":"Right click to get :<br> - Greater Healing Potion x 20<br> - Greater Magic Potion x 20<br> - Instant Greater Healing Flask x 2<br> - Greater Instant Magic Flask x 2<br> - Mini Teleport Crystal x 2<br> - Town Portal Scroll x 2<br> - Gold x 3000<br> - Elemental Gem",
         "fr":"Click droit pour obtenir:<br> - Grande Potion de Soin x 20<br> - Grande Potion de Mana x 20<br> - Flacon de Guérison Instantanée x 2<br> - Flacon de Mana Instantané x 2<br> - Mini Cristal de Téléportation x 2<br> - Parchemin Portail de la Ville x 2<br> - Or x 300<br> - Gemme Élementaire",
         "es":"",
         "zh-cn":"",
@@ -14940,7 +14940,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> - Thuốc Hồi Máu Nhiều x 20<br> - Thuốc Năng Lượng Nhiều x 20<br> - Bình Hồi Máu Tức Thì Nhiều x 2<br> - Bình Năng Lượng Tức Thì Nhiều x 2<br> - Pha Lê Dịch Chuyển Nhỏ x 2<br> - Trục Hồi Thành x 2<br> - Vàng x 3000<br> - Ngọc Nguyên Tố",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14948,7 +14948,7 @@
         "id":""
     },
     "item.35016.description":{
-        "en":"Right click to get :<br> - Upgrade Gem [Lv. 40] x 3<br> - Revival<br> - Element Gem x 2<br> - Daily Refresh",
+        "en":"Right click to get :<br> - Upgrade Gem [Lv. 40] x 3<br> - Revival<br> - Elemental Gem x 2<br> - Daily Refresh",
         "fr":"Click droit pour obtenir:<br> - Gemme d'Amélioration [Lv. 40] x 3<br> - Pierre de Résurrection<br> - Gemme Élementaire x 2<br> - Rafraichisseur de Quêtes",
         "es":"",
         "zh-cn":"",
@@ -14959,7 +14959,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Nhấn chuột phải để nhận :<br> -Ngọc Nâng Cấp [Lv. 40] x 3<br> - Thánh Giá Phục Sinh<br> - Ngọc Nguyên Tố x 2<br> - Sách Đổi Mới Nhiệm Vụ Ngày",
         "ar":"",
         "it":"",
         "pl":"",
@@ -14968,7 +14968,7 @@
     },
 
     "item.35017.description":{
-        "en":"Right click to get :<br> - Upgrade Gem [Lv. 40] x 5<br> - Advanced Upgrade Gem [Lv. 40]<br> - Revival x 2<br> - Element Gem x 3<br> - Daily Refresh x 2<br> - Gold x 6000",
+        "en":"Right click to get :<br> - Upgrade Gem [Lv. 40] x 5<br> - Advanced Upgrade Gem [Lv. 40]<br> - Revival x 2<br> - Elemental Gem x 3<br> - Daily Refresh x 2<br> - Gold x 6000",
         "fr":"Click droit pour obtenir:<br> - Gemme d'Amélioration [Lv. 40] x 5<br> Gemme d'Amélioration avancé [Lv. 40]<br> - Pierre de Résurrection x 2<br> - Gemme Élementaire x 3<br> - Rafraichisseur de Quêtes x 2<br> - Or x 6000",
         "es":"",
         "zh-cn":"",
@@ -14979,7 +14979,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"",
+        "vi":"Chuột phải để nhận :<br> - Ngọc Nâng Cấp [Lv. 40] x 5<br> - Ngọc Nâng Cấp Nâng Cao [Lv. 40]<br> - Thánh Giá Phục Sinh x 2<br> - Ngọc Nguyên Tố x 3<br> - Sách Đổi Mới Nhiệm Vụ Ngày x 2<br> - Vàng x 6000",
         "ar":"",
         "it":"",
         "pl":"",
