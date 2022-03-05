@@ -11523,7 +11523,7 @@ locale["quest.144.texts.objective"] = {
 	"id": ""
 };
 locale["quest.144.texts.description"] = {
-	"en": "You want to enter the city? Be careful, it's not safe there. Muradin was built on the ruins of Ancient Byron City. It's usually safe, but i don't know what happend, someone said the dead underground was awakened by a mysterious strenght!",
+	"en": "You want to enter the city? Be careful, it's not safe there. Muradin was built on the ruins of the Ancient Byron City. It's usually safe, but i don't know what happened, someone said the dead underground was awakened by a mysterious strength!",
 	"fr": "Vous voulez entrer dans la ville? Attention, ce n'est pas sûr là-bas. Muradin a été construit sur les ruines de l'ancienne ville de Byron. C'est sûr en temps normal, mais je ne sais pas ce qui s'est passé, quelqu'un a dit que les morts avaient été réveillés par une force mystérieuse!",
 	"es": "",
 	"zh-cn": "",
