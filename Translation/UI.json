@@ -4542,7 +4542,7 @@
     },
     "UI.windows.daily_recommended.type.login":{
         "en":"Log-in to Wonderland Fantasy",
-        "fr":"Se connecter a Wonderland Fantasy",
+        "fr":"Se connecter à Wonderland Fantasy",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4675,7 +4675,7 @@
     },
     "UI.windows.daily_recommended.type.soul_blessing":{
         "en":"Gather some souls",
-        "fr":"Récolter des âmes",
+        "fr":"Récoltez des âmes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4713,7 +4713,7 @@
     },
     "UI.windows.daily_recommended.type.exp_instance":{
         "en":"Join in EXP Instance",
-        "fr":"Rejoind l'instance d'EXP",
+        "fr":"Rejoins l'Instance d'EXP",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4732,7 +4732,7 @@
     },
     "UI.windows.daily_recommended.type.attendant_training":{
         "en":"Join in Attendant's Training",
-        "fr":"Rejoind la Formation des Serviteurs",
+        "fr":"Rejoins la Formation des Serviteurs",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4751,7 +4751,7 @@
     },
     "UI.windows.daily_recommended.type.daily_events":{
         "en":"Do 2 <span title='Do 2 Werewolf, Masquerade or Battlefield'>events</span>",
-        "fr":"participer a 2 Do 2 <span title='Loup-garou, Masquerade, ou Champ de bataille'>evènement</span>",
+        "fr":"Participez à 2 <span title='Loup-garou, Masquerade, ou Champ de bataille'>evènement</span>",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4865,7 +4865,7 @@
     },
     "UI.windows.daily_recommended.type.meditation":{
         "en":"Join in Meditation",
-        "fr":"Meditation Journalière",
+        "fr":"Méditation Journalière",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4979,7 +4979,7 @@
     },
     "UI.windows.daily_recommended.tab.event-today":{
         "en":"Events Today",
-        "fr":"Évenements Aujourd'hui",
+        "fr":"Évenements du Jour",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4998,7 +4998,7 @@
     },
     "UI.windows.daily_recommended.zeal-today":{
         "en":"Zeal Today",
-        "fr":"Zeal Aujourd'hui",
+        "fr":"Zeal du Jour",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5074,7 +5074,7 @@
     },
     "UI.windows.daily_recommended.zeal-reward.rank1":{
         "en":"Great, keep trying to get 7 stars!",
-        "fr":"Super, continuez d'essayer d'obtenir 7 étoiles!",
+        "fr":"Super, Essayez d'obtenir 7 étoiles !",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5112,7 +5112,7 @@
     },
     "UI.windows.daily_recommended.zeal-reward.rank3":{
         "en":"You're almost done, keep up the good work!",
-        "fr":"Vous avez presque terminé, continuez cet excelent travail!",
+        "fr":"Vous avez presque terminé, continuez cet excellent travail!",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5131,7 +5131,7 @@
     },
     "UI.windows.daily_recommended.zeal-reward.rank4":{
         "en":"Well done! Congrats! You will get all the chest rewards!",
-        "fr":"Bien joué! Félicitations! Vous obtiendrez touts les coffres en récompense!",
+        "fr":"Bien joué! Félicitations! Vous obtiendrez touts les coffres en récompenses!",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
