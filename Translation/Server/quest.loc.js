@@ -6078,7 +6078,7 @@ locale["quest.76.texts.objective"] = {
 	"id": ""
 };
 locale["quest.76.texts.description"] = {
-	"en": "It's been getting cold recently. James is working as the apprentice of Master Kugarn. Nani was worried about him and ask me to make him a cloak. I've collected a lots of materials, but i need a base to work on. Can you bring me a rainbow clock please?",
+	"en": "It's been getting cold recently. James is working as the apprentice of Master Kugarn. Nani was worried about him and ask me to make him a cloak. I've collected a lots of materials, but i need a base to work on. Can you bring me a rainbow cloak please?",
 	"fr": "Il fait froid depuis peu. James travaille comme apprenti de Maître Kugarn. Nani s'est inquiétée pour lui et m'a demandé de lui faire une cape. J'ai rassemblé beaucoup de matériaux, mais j'ai besoin d'une base sur laquelle travailler. Pouvez-vous m'apporter une horloge arc-en-ciel s'il vous plaît?",
 	"es": "",
 	"zh-cn": "",
