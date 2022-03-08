@@ -246,6 +246,25 @@
         "th":"",
         "id":"Ambil Hadiah"
     },
+    "general.quest.getDoubleReward":{
+        "en":"Double Reward",
+        "fr":"Récompense Double",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.quest.reward":{
         "en":"Quest Reward",
         "fr":"Récompense de quête",
