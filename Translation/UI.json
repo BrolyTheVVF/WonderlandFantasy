@@ -1690,6 +1690,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.quest.ask.getDoubleReward":{
+        "en":"Getting double reward will consume: {0} x1. Continue?",
+        "fr":"Obtenir une récompense double va consomer: {0} x1. Contunuer?",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.character.title":{
         "en":"Character",
         "fr":"Personnage",
