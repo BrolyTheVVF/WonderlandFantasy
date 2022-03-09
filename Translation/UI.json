@@ -1692,7 +1692,7 @@
     },
     "UI.windows.quest.ask.getDoubleReward":{
         "en":"Getting double reward will consume: {0} x1. Continue?",
-        "fr":"Obtenir une récompense double va consomer: {0} x1. Contunuer?",
+        "fr":"Obtenir une récompense double consommera: {0} x1. Continuer?",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
