@@ -3952,8 +3952,8 @@
         "id":""
     },
     "item.3063.name":{
-        "en":"[Spirit Egg] Shako",
-        "fr":"[Oeuf d'esprit] Shako",
+        "en":"[Spirit Egg] Sand Minion",
+        "fr":"[Oeuf d'esprit] Serviteur des Sables",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -3963,7 +3963,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"[Linh Trứng] Shako",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
@@ -3971,8 +3971,8 @@
         "id":""
     },
     "item.3064.name":{
-        "en":"[Spirit Egg] Shamu",
-        "fr":"[Oeuf d'esprit] Shamu",
+        "en":"[Spirit Egg] Ostrider",
+        "fr":"[Oeuf d'esprit] Ostrider",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -3982,7 +3982,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"[Linh Trứng] Shamu",
+        "vi":"[Linh Trứng] Lục Hành Kê",
         "ar":"",
         "it":"",
         "pl":"",
@@ -5187,8 +5187,8 @@
         "id":""
     },
     "item.4063.name":{
-        "en":"Shako",
-        "fr":"Shako",
+        "en":"Sand Minion",
+        "fr":"Serviteur des Sables",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5198,7 +5198,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Shako",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
@@ -5206,8 +5206,8 @@
         "id":""
     },
     "item.4064.name":{
-        "en":"Shamu",
-        "fr":"Shamu",
+        "en":"Ostrider",
+        "fr":"Ostrider",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5217,7 +5217,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Shamu",
+        "vi":"Lục Hành Kê",
         "ar":"",
         "it":"",
         "pl":"",
