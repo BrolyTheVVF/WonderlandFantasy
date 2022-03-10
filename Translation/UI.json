@@ -7562,8 +7562,8 @@
         "id":""
     },
     "UI.windows.dps_meter.desc":{
-        "en":"<i>Numbers since last 30 seconds</i>",
-        "fr":"<i>Chiffres depuis les 30 dernière secondes</i>",
+        "en":"<i>Damages since last 30 seconds</i>",
+        "fr":"<i>Dégâts depuis les 30 dernière secondes</i>",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
