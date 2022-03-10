@@ -1709,6 +1709,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.quest.btn.complete":{
+        "en":"Complete",
+        "fr":"Terminer",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.character.title":{
         "en":"Character",
         "fr":"Personnage",
