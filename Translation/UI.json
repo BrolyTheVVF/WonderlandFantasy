@@ -7561,6 +7561,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.dps_meter.desc":{
+        "en":"<i>Numbers since last 30 seconds</i>",
+        "fr":"<i>Chiffres depuis les 30 dernière secondes</i>",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.dps_meter.text.last":{
         "en":"Last DPS",
         "fr":"Dernier DPS",
