@@ -1295,6 +1295,44 @@ locale["npc.67.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.68.name"] = {
+	"en": "Sand Minion",
+	"fr": "Serviteur des Sables",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Sa Nô",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.69.name"] = {
+	"en":"Ostrider",
+	"fr":"Ostrider",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Lục Hành Kê",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
