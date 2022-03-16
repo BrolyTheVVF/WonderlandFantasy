@@ -16251,8 +16251,8 @@ locale["quest.40023.texts.returnPopupMain"] = {
 };
 
 locale["quest.40024.name"] = {
-	"en": "Hunting: Thresher Egg",
-	"fr": "Chasse: Oeuf de Batteuse",
+	"en": "Hunting: Sandworm Egg",
+	"fr": "Chasse: Oeuf de Ver des Sables",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -16270,8 +16270,8 @@ locale["quest.40024.name"] = {
 	"id": ""
 };
 locale["quest.40024.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='49'>Thresher Eggs</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='49'>Oeufs de Batteuse</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='49'>Sandworm Eggs</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='49'>Oeufs de Ver des Sables</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -16366,8 +16366,8 @@ locale["quest.40025.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40025.texts.description"] = {
-	"en": "Some Thresher mutated with local plants, forming a new species of dangerous monsters. Can you help cleaning the Oasis Desert of those atrocities?",
-	"fr": "Certains Thresher ont muté avec les plantes locales, formant une nouvelle espèce de monstres dangereux. Pouvez-vous aider à nettoyer l'Oasis Désertique de ces atrocités?",
+	"en": "Some Golden Slimes mutated with local plants, forming a new species of dangerous monsters. Can you help cleaning the Oasis Desert of those atrocities?",
+	"fr": "Certains Slimes Dorés ont muté avec les plantes locales, formant une nouvelle espèce de monstres dangereux. Pouvez-vous aider à nettoyer l'Oasis Désertique de ces atrocités?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
