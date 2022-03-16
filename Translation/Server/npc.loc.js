@@ -935,8 +935,8 @@ locale["npc.48.name"] = {
 	"id": ""
 };
 locale["npc.49.name"] = {
-	"en": "Thresher Egg",
-	"fr": "Oeuf de Batteuse",
+	"en": "Sandworm Egg",
+	"fr": "Oeuf de Ver des Sables",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -946,7 +946,7 @@ locale["npc.49.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Trứng Sa Trùng",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -954,8 +954,8 @@ locale["npc.49.name"] = {
 	"id": ""
 };
 locale["npc.50.name"] = {
-	"en": "Lesser Thresher",
-	"fr": "Batteuse Inférieure",
+	"en": "Lesser Sandworm",
+	"fr": "Ver des Sables Inférieure",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -965,7 +965,7 @@ locale["npc.50.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Tiểu Sa Trùng",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -1642,8 +1642,8 @@ locale["npc.20007.name"] = {
 	"id": ""
 };
 locale["npc.20008.name"] = {
-	"en": "Thresher",
-	"fr": "Batteuse",
+	"en": "Sandworm",
+	"fr": "Ver des Sables",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -1653,7 +1653,7 @@ locale["npc.20008.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Sa Trùng",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
