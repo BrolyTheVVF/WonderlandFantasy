@@ -3990,8 +3990,8 @@
         "id":""
     },
     "item.3065.name":{
-        "en":"[Spirit Egg] Thresher",
-        "fr":"[Oeuf d'esprit] Batteuse",
+        "en":"[Spirit Egg] Sandworm",
+        "fr":"[Oeuf d'esprit] Ver des Sables",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -4009,8 +4009,8 @@
         "id":""
     },
     "item.3066.name":{
-        "en":"[Spirit Egg] Bloody Thresher",
-        "fr":"[Oeuf d'esprit] Batteuse Sanglante",
+        "en":"[Spirit Egg] Red Sandworm",
+        "fr":"[Oeuf d'esprit] Ver des Sables Rouge",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5263,8 +5263,8 @@
         "id":""
     },
     "item.4065.name":{
-        "en":"Thresher",
-        "fr":"Batteuse",
+        "en":"Sandworm",
+        "fr":"Ver des Sables",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -5282,8 +5282,8 @@
         "id":""
     },
     "item.4066.name":{
-        "en":"Bloody Thresher",
-        "fr":"Batteuse Sanglante",
+        "en":"Red Sandworm",
+        "fr":"Ver des Sables Rouge",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
