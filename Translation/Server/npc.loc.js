@@ -1447,6 +1447,26 @@ locale["npc.75.name"] = {
 	"th":"",
 	"id":""
 };
+};
+locale["npc.76.name"] = {
+	"en":"Tormented Spirit",
+	"fr":"Esprit Tourmenté",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {
