@@ -1447,7 +1447,6 @@ locale["npc.75.name"] = {
 	"th":"",
 	"id":""
 };
-};
 locale["npc.76.name"] = {
 	"en":"Tormented Spirit",
 	"fr":"Esprit Tourmenté",
@@ -1461,6 +1460,25 @@ locale["npc.76.name"] = {
 	"jp":"",
 	"pt":"",
 	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.77.name"] = {
+	"en":"Eyetail Manticore",
+	"fr":"Manticore à Qued'Oeil",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Nhãn Vĩ Yết Sư",
 	"ar":"",
 	"it":"",
 	"pl":"",
