@@ -11623,25 +11623,6 @@
         "id":""
     },
     "item.20017.name":{
-        "en":"Telluric water",
-        "fr":"Eau tellurique",
-        "es":"",
-        "zh-cn":"",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
-    "item.20018.name":{
         "en":"Telluric Water",
         "fr":"Eau Tellurique",
         "es":"",
@@ -11660,7 +11641,7 @@
         "th":"",
         "id":""
     },
-    "item.20019.name":{
+    "item.20018.name":{
         "en":"Telluric Ice",
         "fr":"Glace Tellurique",
         "es":"",
@@ -11679,9 +11660,28 @@
         "th":"",
         "id":""
     },
-    "item.20020.name":{
+    "item.20019.name":{
         "en":"Telluric Gear",
         "fr":"Engrenage Tellurique",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.20020.name":{
+        "en":"Telluric Source",
+        "fr":"Source Tellurique",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
