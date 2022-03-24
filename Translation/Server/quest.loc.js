@@ -18638,6 +18638,82 @@ locale["quest.45009.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.45010.name"] = {
+	"en": "Elite Lava Familiar",
+	"fr": "Familier de lave Elite",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45010.texts.objective"] = {
+	"en": "In the Hall of Elite of Fiery Tower, kill some <span class='text-link' data-target-type='mob' data-target-id='78'>Lava Familiar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite de la Tour de Feu, tuez des <span class='text-link' data-target-type='mob' data-target-id='78'>Familier de lave</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45010.texts.description"] = {
+	"en": "Those familiar that were lurking around celebeam cave seem to have found their way back to the tower, and they are much more powerful there. Help us get rid of all of them!",
+	"fr": "Les familiers qui rôdaient autour de la grotte de Celebeam semblent avoir retrouvé le chemin de la tour, et ils y sont beaucoup plus puissants. Aidez-nous à nous en débarrasser, jusqu'au dernier!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45010.texts.returnPopupMain"] = {
+	"en": "Thank, one day this place will be our.",
+	"fr": "Merci, un jour cet endroit sera notre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
