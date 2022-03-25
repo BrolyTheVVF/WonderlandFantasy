@@ -13890,7 +13890,7 @@ locale["quest.35001.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Dọn dẹp đống quái vật vinh anh ở Điện Tinh Anh của Thành Phố Byron, và thu thập Địa Hồn cho <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Nhiệm vụ này vẫn còn khả dụng cho đến khi bạn đạt cấp 29</i>",
+	"vi": "Dọn dẹp đống quái vật vinh anh ở Điện Tinh Anh của Thành Phố Byron, và thu thập Địa Hồn cho <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Nhiệm vụ này vẫn còn khả dụng cho đến khi bạn đạt cấp 39</i>",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -13917,6 +13917,83 @@ locale["quest.35001.texts.description"] = {
 	"id": ""
 };
 locale["quest.35001.texts.returnPopupMain"] = {
+	"en": "Thank you for helping Kuroom! You will be rewarded when time comes!",
+	"fr": "Merci d'avoir aidé Kuroom! Vous serez grandement récompensé le moment venu!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Cảm ơn ngươi vì đã giúp Kuroom! Ngươi sẽ được trao thưởng khi thời gian đến!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.35002.name"] = {
+	"en": "[Repeatable] Naive Evil Lord",
+	"fr": "[Répétable] Seigneur du Mal Naif",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "[Lặp] Chúa Tể Ác Quỷ Ngây Thơ",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35002.texts.objective"] = {
+	"en": "Clear the elite monsters in the Elite Hall of Fiery Tower, and collect Firecord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 49</i>",
+	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Lavcorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 49</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35002.texts.description"] = {
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own lava nest. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir son propre nid de lave. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.35002.texts.returnPopupMain"] = {
 	"en": "Thank you for helping Kuroom! You will be rewarded when time comes!",
 	"fr": "Merci d'avoir aidé Kuroom! Vous serez grandement récompensé le moment venu!",
 	"es": "",
