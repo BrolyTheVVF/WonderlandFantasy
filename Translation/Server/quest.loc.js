@@ -19479,6 +19479,83 @@ locale["quest.45014.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.45015.name"] = {
+	"en": "Elite Fiery Guardian",
+	"fr": "Gardien ardent Elite",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hỏa Viêm Giám Hộ Tinh Anh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45015.texts.objective"] = {
+	"en": "In the Hall of Elite of Fiery Tower, kill some <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite de la Tour de Feu, tuez des <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45015.texts.description"] = {
+	"en": "Those guardians are protecting this tower since it was created, and let me tell you they are good at their job. We lost too much of brave soldiers trying to get rid of them. Please help us!",
+	"fr": "Ces gardiens protègent cette tour depuis sa création, et laissez-moi vous dire qu'ils font bien leur travail. Nous avons perdu trop de braves soldats en essayant de nous en débarrasser. Aidez nous s'il vous plaît!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45015.texts.returnPopupMain"] = {
+	"en": "Thank, one day this place will be our.",
+	"fr": "Merci, un jour cet endroit sera notre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Cảm ơn, một ngày nơi đây sẽ là của chúng ta.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
 	"fr": "Passez Niveau {0}",
