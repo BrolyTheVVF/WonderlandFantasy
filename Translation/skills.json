@@ -1520,23 +1520,23 @@
         "id":"Menambahkan HP Player, untuk kemampuan bertahan yang lebih baik melawan monster."
     },
     "skills.warrior.TENACITY.effect":{
-        "en":"Increases Warrior's base HP by {0}%.",
-        "fr":"Aumente les PV de base de {0}%.",
+        "en":"Increases Warrior's base HP by {0}% and also by {1}.",
+        "fr":"Aumente les PV de base de {0}% et aussi de {1}.",
         "es":"",
-        "zh-cn":"增加戰士基礎生命值 {0}%.",
+        "zh-cn":"/!\\ 增加戰士基礎生命值 {0}%.",
         "zh-tw":"",
         "kr":"",
-        "ru":"Увеличивает базовый HP воина на {0}%",
+        "ru":"/!\\ Увеличивает базовый HP воина на {0}%",
         "tr":"",
-        "de":"Erhöht die Basis-HP des Kriegers um {0}%.",
+        "de":"/!\\ Erhöht die Basis-HP des Kriegers um {0}%.",
         "jp":"",
         "pt":"",
-        "vi":"Tăng thêm Máu Gốc của Chiến Sĩ lên {0}%.",
+        "vi":"/!\\ Tăng thêm Máu Gốc của Chiến Sĩ lên {0}%.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan HP dasar Warrior sebanyak {0}%."
+        "id":"/!\\ Meningkatkan HP dasar Warrior sebanyak {0}%."
     },
     "skills.warrior.PITCH.name":{
         "en":"Pitch",
