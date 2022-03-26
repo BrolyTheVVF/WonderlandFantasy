@@ -19325,6 +19325,83 @@ locale["quest.45012.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.45013.name"] = {
+	"en": "Elite Fiery Minion",
+	"fr": "Sbire Ardent Elite",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hỏa Viêm Nô Bộc Tinh Anh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45013.texts.objective"] = {
+	"en": "In the Hall of Elite of Fiery Tower, kill some <span class='text-link' data-target-type='mob' data-target-id='81'>Fiery Minion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite de la Tour de Feu, tuez des <span class='text-link' data-target-type='mob' data-target-id='81'>Sbire Ardent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45013.texts.description"] = {
+	"en": "This creature comes from the desert, and was a peaceful race of minions, before they were corrupted by this dark magic.",
+	"fr": "Cette créature vient du désert et était une race pacifique de sbires avant d'être corrompue par cette magie noire.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45013.texts.returnPopupMain"] = {
+	"en": "Thank, one day this place will be our.",
+	"fr": "Merci, un jour cet endroit sera notre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Cảm ơn, một ngày nơi đây sẽ là của chúng ta.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
 	"fr": "Passez Niveau {0}",
