@@ -19171,6 +19171,82 @@ locale["quest.45010.texts.returnPopupMain"] = {
 	"th": "",
 	"id": ""
 };
+locale["quest.45011.name"] = {
+	"en": "Elite Fiery Flame",
+	"fr": "Flamme Ardente Elite",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Chân Viêm Hỏa Tinh Anh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45011.texts.objective"] = {
+	"en": "In the Hall of Elite of Fiery Tower, kill some <span class='text-link' data-target-type='mob' data-target-id='79'>Lava Familiar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite de la Tour de Feu, tuez des <span class='text-link' data-target-type='mob' data-target-id='79'>Familier de lave</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45011.texts.description"] = {
+	"en": "A monster high in this tower created those monsters. Quick, we must get rid of them, they are getting more powerful by the minute!",
+	"fr": "Un monstre élevé dans cette tour a créé ces monstres. Vite, il faut s'en débarrasser, ils gagnent en puissance de minute en minute!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45011.texts.returnPopupMain"] = {
+	"en": "Thank, one day this place will be our.",
+	"fr": "Merci, un jour cet endroit sera notre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Cảm ơn, một ngày nơi đây sẽ là của chúng ta.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
