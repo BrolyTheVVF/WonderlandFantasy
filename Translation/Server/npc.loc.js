@@ -1563,7 +1563,7 @@ locale["npc.81.name"] = {
 };
 locale["npc.82.name"] = {
 	"en":"Balrog Warrior",
-	"fr":"Guerrier de Balrog",
+	"fr":"Guerrier du Balrog",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
