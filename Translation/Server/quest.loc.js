@@ -19248,6 +19248,83 @@ locale["quest.45011.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.45012.name"] = {
+	"en": "Elite Lava Golem",
+	"fr": "Golem de Lave Elite",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Nham Ma Tượng Tinh Anh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45012.texts.objective"] = {
+	"en": "In the Hall of Elite of Fiery Tower, kill some <span class='text-link' data-target-type='mob' data-target-id='80'>Lava Golem</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite de la Tour de Feu, tuez des <span class='text-link' data-target-type='mob' data-target-id='80'>Golem de Lave</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45012.texts.description"] = {
+	"en": "Something is pouring so much power in this lava that some lava abominations are being created out of pure lava. You know what to do with them, right ?",
+	"fr": "Quelque chose déverse tellement de puissance dans cette lave que certaines abominations de lave sont créées à partir de lave pure. Vous savez quoi en faire, n'est-ce pas?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.45012.texts.returnPopupMain"] = {
+	"en": "Thank, one day this place will be our.",
+	"fr": "Merci, un jour cet endroit sera notre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Cảm ơn, một ngày nơi đây sẽ là của chúng ta.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
 	"fr": "Passez Niveau {0}",
