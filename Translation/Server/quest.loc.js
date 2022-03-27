@@ -12740,6 +12740,63 @@ locale["quest.1011.texts.description"] = {
 	"th": "",
 	"id": ""
 };
+locale["quest.1009.texts.description"] = {
+	"en": "You seem to have what it takes. Let me show you some moves. They will be very helpful in your future battles.",
+	"fr": "Vous semblez avoir ce qu'il faut. Laissez-moi vous montrer quelques mouvements. Ils vous seront très utiles dans vos futures batailles.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.1010.texts.description"] = {
+	"en": "You seem to have what it takes. Let me show you some moves. They will be very helpful in your future battles.",
+	"fr": "Vous semblez avoir ce qu'il faut. Laissez-moi vous montrer quelques mouvements. Ils vous seront très utiles dans vos futures batailles.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.1011.texts.description"] = {
+	"en": "You seem to have what it takes. Let me show you some moves. They will be very helpful in your future battles.",
+	"fr": "Vous semblez avoir ce qu'il faut. Laissez-moi vous montrer quelques mouvements. Ils vous seront très utiles dans vos futures batailles.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 //Lvl 15 part 1
 locale["quest.1012.texts.objective"] = {
 	"en": "Talk to the Warrior Trainer <span class='text-link' data-target-type='npc' data-target-id='100018'>Zacks</span> in Cain Kingdom",
