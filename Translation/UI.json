@@ -2184,6 +2184,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.revive.title":{
+        "en":"Revive",
+        "fr":"Réanimer",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.revive.normal":{
         "en":"Manual",
         "fr":"Manuel",
@@ -2240,6 +2259,25 @@
         "pl":"",
         "th":"",
         "id":"Item"
+    },
+    "UI.windows.revive.gold.cost":{
+        "en":"Reviving with gold will cost {0} gold.",
+        "fr":"La réanimation avec de l'or vous coûtera {0} Or.",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "UI.windows.minimap.line":{
         "en":"Line",
