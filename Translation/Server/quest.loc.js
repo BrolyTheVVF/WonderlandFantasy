@@ -13030,6 +13030,64 @@ locale["quest.1017.texts.description"] = {
 	"id": ""
 };
 
+locale["quest.1015.texts.returnPopupMain"] = {
+	"en": "You're brave. I'm glad Schlein recommended you to me.",
+	"fr": "Vous êtes courageux. Je suis content que Schlein vous ait recommandé.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.1016.texts.returnPopupMain"] = {
+	"en": "You're brave. I'm glad Schlein recommended you to me.",
+	"fr": "Vous êtes courageux. Je suis content que Schlein vous ait recommandé.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.1017.texts.returnPopupMain"] = {
+	"en": "You're brave. I'm glad Schlein recommended you to me.",
+	"fr": "Vous êtes courageux. Je suis content que Schlein vous ait recommandé.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.10000.name"] = {
