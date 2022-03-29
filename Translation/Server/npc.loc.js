@@ -1391,8 +1391,8 @@ locale["npc.72.name"] = {
 	"id": ""
 };
 locale["npc.73.name"] = {
-	"en":"Inferno's Pioneer Leader",
-	"fr":"Chef pionnier de l'Enfer",
+	"en":"Flame Dragon's Offspring",
+	"fr":"Progéniture du dragon de flammes",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -1402,7 +1402,7 @@ locale["npc.73.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Chỉ Huy Tiên Phong Địa Ngục",
+	"vi":"",
 	"ar": "",
 	"it": "",
 	"pl": "",
