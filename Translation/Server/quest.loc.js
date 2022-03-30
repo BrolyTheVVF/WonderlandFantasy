@@ -18131,6 +18131,83 @@ locale["quest.40040.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40041.name"] = {
+	"en": "Hunting: Ostrider",
+	"fr": "Chasse: Ostrider",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Lục Hành Kê",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40041.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='69'>Ostrider</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='69'>Ostrider</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='69'>Lục Hành Kê</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40041.texts.description"] = {
+	"en": "Ostriders have migrated to the desert, even though it's not a great land to live, they figured it would be better than being slaugthered in the Vanderbot Plains. Well it seems they where wrong, they are in our way again.",
+	"fr": "Les ostriders ont migré vers le désert, même si ce n'est pas une terre où il fait bon vivre, ils ont pensé que ce serait mieux que d'être abattus dans les plaines de Vanderbot. Eh bien, il semble qu'ils se soient trompés, ils sont à nouveau sur notre chemin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40041.texts.returnPopupMain"] = {
+	"en": "Those poor things didn't have luck. They couldn't choose a worst place to live.",
+	"fr": "Ces pauvres bêtes n'ont pas eu de chance. Elles ne pouvaient pas choisir de pire endroit où vivre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
