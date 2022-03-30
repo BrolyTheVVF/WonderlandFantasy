@@ -18054,6 +18054,83 @@ locale["quest.40039.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40040.name"] = {
+	"en": "Hunting: Sand Minion",
+	"fr": "Chasse: Serviteur des Sables",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Sa Nô",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40040.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='68'>Sand Minion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='68'>Serviteur des Sables</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='68'>Sa Nô</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40040.texts.description"] = {
+	"en": "There is some kind of big lizards all over the Endless Desert. Can you go regulate their population to prevent future problems?",
+	"fr": "Il y a des sortes de gros lézards partout dans le Désert Sans Fin. Pouvez-vous aller réguler leur population pour prévenir de futurs problèmes?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40040.texts.returnPopupMain"] = {
+	"en": "It's better, it should be enough for a while.",
+	"fr": "C'est mieux, ca devrait suffir pour un moment.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
