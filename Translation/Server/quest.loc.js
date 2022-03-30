@@ -18247,8 +18247,8 @@ locale["quest.40042.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40042.texts.description"] = {
-	"en": "The Endless Desert id so hot, it seems some kind of flaming monster came from nowhere. We shouldn't let them get out of this desert.",
-	"fr": "Le Désert Sans Fin est si chaud qu'il semble qu'une sorte de monstre enflammé soit venu de nulle part. Nous ne devrions pas les laisser sortir de ce désert.",
+	"en": "The Burning Tomb id so hot, it seems some kind of flaming monster came from nowhere. We shouldn't let them get out of this desert.",
+	"fr": "La Tombe Brulante est si chaud qu'il semble qu'une sorte de monstre enflammé soit venu de nulle part. Nous ne devrions pas les laisser sortir de ce désert.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
