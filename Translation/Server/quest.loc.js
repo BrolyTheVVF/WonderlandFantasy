@@ -17746,6 +17746,83 @@ locale["quest.40035.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40036.name"] = {
+	"en": "Hunting: Byron Warrior Spirit",
+	"fr": "Chasse: Esprit Guerrier de Byron",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Hồn Chiến Binh Byron",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40036.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='64'>Byron Warrior Spirit</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='64'>Esprit Guerrier de Byron</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='64'>Hồn Chiến Binh Byron</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40036.texts.description"] = {
+	"en": "Before it was invaded with monsters, there where a civilization living in Byron. Now the spirits of the slained warriors have come back to haunt the place. You'll have no problem getting them back to rest right?",
+	"fr": "Avant d'être envahi par des monstres, il y avait une civilisation vivant à Byron. Maintenant, les esprits des guerriers tués sont revenus hanter l'endroit. Vous n'aurez aucun problème à les remettre au repos, n'est-ce pas?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40036.texts.returnPopupMain"] = {
+	"en": "I knew you had spirit. Thanks",
+	"fr": "Je savais que tu as de l'esprit. Merci.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
