@@ -17823,6 +17823,83 @@ locale["quest.40036.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40037.name"] = {
+	"en": "Hunting: Baby Dragon",
+	"fr": "Chasse: Bébé Dragon",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Rồng Con",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40037.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='65'>Baby Dragon</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='65'>Bébé Dragon</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='65'>Rồng Con</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40037.texts.description"] = {
+	"en": "One day, a giant dragon crossed this land and lay some eggs. They where hidden, but the warrior at the time mannage to push the dragon out of their land. Now we have plenty of baby dragon all over the place. It seems some dark magic got them back to life or something? i don't know. Just get rid of them.",
+	"fr": "Un jour, un dragon géant traversa cette terre et y pondit des œufs. Ils étaient cachés, mais le guerrier à l'époque réussit à pousser le dragon hors de leur terre. Maintenant, nous avons beaucoup de bébés dragons partout. Il semble qu'une magie noire les ait ramenés à la vie ou quoi ? je ne sais pas. Débarrassez-vous d'eux.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40037.texts.returnPopupMain"] = {
+	"en": "They looked so cute! But we couldn't let them grow up and become giants monsters.",
+	"fr": "Ils avaient l'air si mignons! Mais nous ne pouvions pas les laisser grandir et devenir des monstres géants.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
