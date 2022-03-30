@@ -18285,6 +18285,84 @@ locale["quest.40042.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40043.name"] = {
+	"en": "Hunting: Sandworm",
+	"fr": "Chasse: Ver des Sables",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Sa Trùng",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40043.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='71'>Sandworm</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='71'>Ver des Sables</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='71'>Sa Trùng</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40043.texts.description"] = {
+	"en": "Even after cleaning the Desert Oasis of these eggs, they hatched. And the sandworm grew stronger. Now they infest the Burning Tomb. Show they what <b>Heat</b> means.",
+	"fr": "Même après avoir nettoyé l'Oasis Désertique de ces œufs, ils ont éclos. Et les Vers des Sables sont devenus plus fort. Maintenant, ils infestent la Tombe Brulante. Montrez-leur ce que signifie le mot <b>chaleur</b>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40043.texts.returnPopupMain"] = {
+	"en": "Thoses monsters really give me the chill.",
+	"fr": "Ces monstres de donnent vraiment des frissons.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
