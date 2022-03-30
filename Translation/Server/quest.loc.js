@@ -17977,6 +17977,83 @@ locale["quest.40038.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40039.name"] = {
+	"en": "Hunting: Inferno's Pioneer Leader",
+	"fr": "Chasse: Leader pionnier de l'Enfer",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Chỉ Huy Tiên Phong Địa Ngục",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40039.texts.objective"] = {
+	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='67'>Inferno's Pioneer Leader</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='67'>Leader pionnier de l'Enfer</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40039.texts.description"] = {
+	"en": "<i>Harlan</i> summoned one of his Pioneer Leader. They are not really powerful to him, but they are deadly to us. Be careful.",
+	"fr": "<i>Harlan</i> a invoqué l'un de ses Leader Pionniers. Ils ne sont pas vraiment puissants pour lui, mais ils sont mortels pour nous. Fais attention.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40039.texts.returnPopupMain"] = {
+	"en": "It didn't seem that bad in the end. Good job.",
+	"fr": "Ça n'avais pas l'air si dur finallement. Bien joué.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
