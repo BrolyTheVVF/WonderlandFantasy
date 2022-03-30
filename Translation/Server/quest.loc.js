@@ -18208,6 +18208,83 @@ locale["quest.40041.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40042.name"] = {
+	"en": "Hunting: Twin Flame",
+	"fr": "Chasse: Flamme Jumelle",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Song Hỏa",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40042.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='70'>Twin Flame</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='70'>Flamme Jumelle</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='70'>Song Hỏa</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40042.texts.description"] = {
+	"en": "The Endless Desert id so hot, it seems some kind of flaming monster came from nowhere. We shouldn't let them get out of this desert.",
+	"fr": "Le Désert Sans Fin est si chaud qu'il semble qu'une sorte de monstre enflammé soit venu de nulle part. Nous ne devrions pas les laisser sortir de ce désert.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40042.texts.returnPopupMain"] = {
+	"en": "As always, nothing's too hot for you. Good job.",
+	"fr": "Comme toujours, rien n'est trop chaud pour vous. Bon travail.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
