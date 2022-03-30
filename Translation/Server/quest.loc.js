@@ -17900,6 +17900,83 @@ locale["quest.40037.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40038.name"] = {
+	"en": "Hunting: Burning Mummy",
+	"fr": "Chasse: Momie Enflammée",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Xác Ướp Bốc Cháy",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40038.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='66'>Burning Mummy</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='66'>Momie Enflammée</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='66'>Xác Ướp Bốc Cháy</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40038.texts.description"] = {
+	"en": "You remember when i told you to burn thoses mummies in Byron City? Well, it didn't work. At all. And they are stronger now. Can you fix this situation please?",
+	"fr": "Vous vous rappellez quand je vous ai dit de brûler ces momies dans la Ville de Byron? Eh bien, ça n'a pas marché. Du tout. Et elles sont plus fortes maintenant. Pouvez-vous régler cette situation s'il vous plait ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40038.texts.returnPopupMain"] = {
+	"en": "Look like you got burnt. What happened? Ho, right. My bad.",
+	"fr": "On dirait que tu t'es brûlé. Qu'est-il arrivé? Ho, c'est vrai. Ma faute.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
