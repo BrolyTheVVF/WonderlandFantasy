@@ -1402,7 +1402,7 @@ locale["npc.73.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"",
+	"vi":"Hậu Duệ Hỏa Long",
 	"ar": "",
 	"it": "",
 	"pl": "",
