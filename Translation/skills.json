@@ -1121,23 +1121,23 @@
         "id":"Meningkatkan kemampuan menghindar Player."
     },
     "skills.ranger.EVASION.effect":{
-        "en":"Increases Evasion and Skill Evasion by {0}%. Lasts 6 sec.",
-        "fr":"Augmente l'Evasion et l'Evasion des compétences de {0}%. Dure 6 secondes.",
+        "en":"Increases Evasion and Skill Evasion by {0}%. Lasts {1} sec.",
+        "fr":"Augmente l'Evasion et l'Evasion des compétences de {0}%. Dure {1} secondes.",
         "es":"",
         "zh-cn":"增强閃避和技能閃避 {0}%. 持續6秒.",
         "zh-tw":"",
         "kr":"",
-        "ru":"Повышает Уклонение и Уклониение от навыков на {0}%. Действует 6 секунд.",
+        "ru":"Повышает Уклонение и Уклониение от навыков на {0}%. Действует {1} секунд.",
         "tr":"",
-        "de":"Erhöht Ausweichen und Fähigkeitsausweichen um {0}%. Hält 6 Sekunden an.",
+        "de":"Erhöht Ausweichen und Fähigkeitsausweichen um {0}%. Hält {1} Sekunden an.",
         "jp":"",
         "pt":"",
-        "vi":"Tăng thêm Né Tránh và Né Tránh Kỹ Năng lên {0}%. Kéo dài 6 giây.",
+        "vi":"Tăng thêm Né Tránh và Né Tránh Kỹ Năng lên {0}%. Kéo dài {1} giây.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan Evasion dan Skill Evasion sebesar {0}%. Durasi 6 detik."
+        "id":"Meningkatkan Evasion dan Skill Evasion sebesar {0}%. Durasi {1} detik."
     },
     "skills.ranger.PRECISION.name":{
         "en":"Precision",
