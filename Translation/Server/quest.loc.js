@@ -18362,6 +18362,83 @@ locale["quest.40043.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40044.name"] = {
+	"en": "Hunting: Flame Dragon's Offspring",
+	"fr": "Chasse: Progéniture du dragon de flammes",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40044.texts.objective"] = {
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='73'>Flame Dragon's Offspring</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='73'>Progéniture du dragon de flammes</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40044.texts.description"] = {
+	"en": "One dragon seem to have grown faster than the others, or maybe he isn't the same batch? He is way stronger than the others, can you help us deal with it?",
+	"fr": "Un dragon semble avoir grandi plus vite que les autres, ou peut-être n'est-il pas de la même portée? Il est bien plus fort que les autres, pouvez-vous nous aider à y faire face?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40044.texts.returnPopupMain"] = {
+	"en": "This one was close. Thank you very much for the help.",
+	"fr": "C'etait moins une. Merci beaucoup pour le coup de main.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.44000.name"] = {
