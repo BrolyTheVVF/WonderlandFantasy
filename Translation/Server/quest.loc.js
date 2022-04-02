@@ -18439,6 +18439,83 @@ locale["quest.40044.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40045.name"] = {
+	"en": "Hunting: Blossom Potpent",
+	"fr": "Chasse: Potpent Épanoui",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Niêu Xà Hoa",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40045.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='75'>Blossom Potpent</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='75'>Potpent Épanoui</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='75'>Niêu Xà Hoa</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40045.texts.description"] = {
+	"en": "Some poptent escaped Byron City years ago, and they started infesting Sultan Ruins for decades now. I'm sure you can help with this situation.",
+	"fr": "Certains poptent se sont échappés de Byron City il y a des années et ils ont commencé à infester les ruines du sultan depuis des décennies maintenant. Je suis sûr que vous pouvez aider avec cette situation.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40045.texts.returnPopupMain"] = {
+	"en": "Ian was so pleased he came back to Cain just to asked me to thank you a million time. So thank you!",
+	"fr": "Ian était tellement content qu'il est revenu à Kane juste pour me demander de vous remercier un million de fois. Alors merci!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.44000.name"] = {
