@@ -18747,6 +18747,83 @@ locale["quest.40048.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40049.name"] = {
+	"en": "Hunting: Fiery Flame",
+	"fr": "Chasse: Flamme Ardente",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Chân Viêm Hỏa",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40049.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='79'>Fiery Flame</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='79'>Flamme Ardente</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='79'>Chân Viêm Hỏa</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40049.texts.description"] = {
+	"en": "Did you know the balrog at the far end of the Fiery Tower had split himself? Well sort of. Those flames are remains of part of him. They are now a whole species, but are only produced by the balrog.",
+	"fr": "Saviez-vous que le balrog au bout de la Fiery Tower s'était divisé? Enfin, en quelque sorte. Ces flammes sont les restes d'une partie de lui. Ils sont maintenant une espèce à part entière, mais ne sont produits que par le balrog.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40049.texts.returnPopupMain"] = {
+	"en": "Thank you, this world is a little better off without so many of them.",
+	"fr": "Merci, ce monde est un peu mieux sans autant d'entre eux.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
 	"fr": "Orbe Illuminé",
