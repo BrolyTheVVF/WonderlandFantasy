@@ -1497,7 +1497,7 @@ locale["npc.78.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Nham Tiểu Ác Ma",
+	"vi":"Tiểu Nham Ma",
 	"ar":"",
 	"it":"",
 	"pl":"",
