@@ -19055,6 +19055,83 @@ locale["quest.40052.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40053.name"] = {
+	"en": "Hunting: Elite Fiery Guardian",
+	"fr": "Chasse: Gardien ardent d'élite",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Viêm Ma Giám Hộ Tinh Anh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40053.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='83'>Elite Fiery Guardian</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent d'élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='83'>Viêm Ma Giám Hộ Tinh Anh</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40053.texts.description"] = {
+	"en": "Those guardians are a pain. Well they guard well their tower, as they should, so that's not good for us. Help us go through their defence, please, for the love of <i>Bur</i>.",
+	"fr": "Ces gardiens sont casse pieds. Eh bien, ils gardent bien leur tour, comme il se doit, ce qui n'est pas bon pour nous. Aidez-nous à traverser leur défense, s'il vous plaît, pour l'amour de <i>Bur</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40053.texts.returnPopupMain"] = {
+	"en": "I can feel Bur's power, just looking at you. You're promised to a great destiny. Thanks for the help.",
+	"fr": "Je peux sentir le pouvoir de Bur rien qu'en te regardant. Vous êtes promis à un grand destin. Merci pour l'aide.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
