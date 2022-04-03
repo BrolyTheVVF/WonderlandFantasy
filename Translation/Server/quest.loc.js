@@ -18901,6 +18901,84 @@ locale["quest.40050.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40051.name"] = {
+	"en": "Hunting: Fiery Minion",
+	"fr": "Chasse: Sbire Ardent",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Viêm Ma Nô Bộc",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40051.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='81'>Fiery Minion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='81'>Sbire Ardent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='81'>Viêm Ma Nô Bộc</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40051.texts.description"] = {
+	"en": "I never liked this kind of monsters, not that i really likes any at one point, i really don't like those. Just looking them in their eyes, you see there is only evil in their minds.",
+	"fr": "Je n'ai jamais aimé ce genre de monstres, pas que j'en aime vraiment à un moment donné, je n'aime vraiment pas ceux-là. Rien qu'en les regardant dans les yeux, vous voyez qu'il n'y a que du mal dans leur esprit.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40051.texts.returnPopupMain"] = {
+	"en": "Thank you, this world is a little better off without so many of them.",
+	"fr": "Merci, ce monde est un peu mieux sans autant d'entre eux.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
 	"fr": "Orbe Illuminé",
