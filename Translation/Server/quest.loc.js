@@ -18710,7 +18710,7 @@ locale["quest.40048.texts.objective"] = {
 };
 locale["quest.40048.texts.description"] = {
 	"en": "Those are the Balrog's familiars, they are just lava monsters. Make sense right? A big fire monster having a lava familiars?<br><br>Don't try and pet them, they can burn you!",
-	"fr": "Ce sont les familiers de Balrog, ce ne sont que des monstres de lave. Logique, non? Un gros monstre de feu ayant des familiers de lave?<br><br>N'essayez pas de les caresser, ils peuvent vous brûler!",
+	"fr": "Ce sont les familiers du Balrog, ce ne sont que des monstres de lave. Logique, non? Un gros monstre de feu ayant des familiers de lave?<br><br>N'essayez pas de les caresser, ils peuvent vous brûler!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18980,7 +18980,7 @@ locale["quest.40051.texts.returnPopupMain"] = {
 
 locale["quest.40052.name"] = {
 	"en": "Hunting: Balrog Warrior",
-	"fr": "Chasse: Guerrier de Balrog",
+	"fr": "Chasse: Guerrier du Balrog",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18999,7 +18999,7 @@ locale["quest.40052.name"] = {
 };
 locale["quest.40052.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='82'>Balrog Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier de Balrog</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier du Balrog</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
