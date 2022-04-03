@@ -18593,6 +18593,82 @@ locale["quest.40046.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40047.name"] = {
+	"en": "Hunting: Eyetail Manticore",
+	"fr": "Chasse: Manticore à Qued'Oeil",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Nhãn Vĩ Yết Sư",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40047.texts.objective"] = {
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='77'>Eyetail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='77'>Manticore à Qued'Oeil</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại <span class='text-link' data-target-type='mob' data-target-id='77'>Nhãn Vĩ Yết Sư</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40047.texts.description"] = {
+	"en": "There is a powerful manticore killing mechants. It looks really creepy. We can't let this abomination roam around this land.",
+	"fr": "Il y a une puissante manticore qui tue les méchants. Ça a l'air vraiment effrayant. Nous ne pouvons pas laisser cette abomination errer sur cette terre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40047.texts.returnPopupMain"] = {
+	"en": "I don't know where he came from, but I know where he's going now.",
+	"fr": "Je ne sais pas d'où il vient, mais je sais où il va maintenant.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["quest.44000.name"] = {
