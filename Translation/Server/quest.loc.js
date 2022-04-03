@@ -18824,6 +18824,83 @@ locale["quest.40049.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40050.name"] = {
+	"en": "Hunting: Lava Golem",
+	"fr": "Chasse: Golem de Lave",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Nham Ma Tượng",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40050.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='80'>Lava Golem</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='80'>Golem de Lave</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='80'>Nham Ma Tượng</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40050.texts.description"] = {
+	"en": "It might sound weird, but those Lava Golems havn't been created by the Balrog, but by <i>Harlan</i> himself. Some says it was a mistake and he is so powerfull that just a sneeze could have created those creatures. I hope you won't ever have to fight against him.",
+	"fr": "Cela peut sembler bizarre, mais ces golems de lave n'ont pas été créés par les Balrog, mais par <i>Harlan</i> lui-même. Certains disent que c'était une erreur et qu'il est si puissant qu'un simple éternuement aurait pu créer ces créatures. J'espère que vous n'aurez jamais à vous battre contre lui.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40050.texts.returnPopupMain"] = {
+	"en": "Thank you, this world is a little better off without so many of them.",
+	"fr": "Merci, ce monde est un peu mieux sans autant d'entre eux.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
 	"fr": "Orbe Illuminé",
