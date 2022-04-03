@@ -18036,7 +18036,7 @@ locale["quest.40039.texts.description"] = {
 };
 locale["quest.40039.texts.returnPopupMain"] = {
 	"en": "It didn't seem that bad in the end. Good job.",
-	"fr": "Ça n'avais pas l'air si dur finallement. Bien joué.",
+	"fr": "Ça n'avais pas l'air si dur finalement. Bien joué.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18113,7 +18113,7 @@ locale["quest.40040.texts.description"] = {
 };
 locale["quest.40040.texts.returnPopupMain"] = {
 	"en": "It's better, it should be enough for a while.",
-	"fr": "C'est mieux, ca devrait suffir pour un moment.",
+	"fr": "C'est mieux, ça devrait suffir pour un moment.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18248,7 +18248,7 @@ locale["quest.40042.texts.objective"] = {
 };
 locale["quest.40042.texts.description"] = {
 	"en": "The Burning Tomb is so hot, it seems some kind of flaming monster came from nowhere. We shouldn't let them get out of this desert.",
-	"fr": "La Tombe Brulante est si chaud qu'il semble qu'une sorte de monstre enflammé soit venu de nulle part. Nous ne devrions pas les laisser sortir de ce désert.",
+	"fr": "La Tombe Brûlante est si chaude qu'il semble qu'une sorte de monstre enflammé soit venu de nulle part. Nous ne devrions pas les laisser sortir de ce désert.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18710,7 +18710,7 @@ locale["quest.40048.texts.objective"] = {
 };
 locale["quest.40048.texts.description"] = {
 	"en": "Those are the Balrog's familiars, they are just lava monsters. Make sense right? A big fire monster having a lava familiars?<br><br>Don't try and pet them, they can burn you!",
-	"fr": "Ce sont les familiers du Balrog, ce ne sont que des monstres de lave. Logique, non? Un gros monstre de feu ayant des familierq de lave?<br><br>N'essayez pas de les caresser, ils peuvent vous brûler!",
+	"fr": "Ce sont les familiers de Balrog, ce ne sont que des monstres de lave. Logique, non? Un gros monstre de feu ayant des familiers de lave?<br><br>N'essayez pas de les caresser, ils peuvent vous brûler!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18980,7 +18980,7 @@ locale["quest.40051.texts.returnPopupMain"] = {
 
 locale["quest.40052.name"] = {
 	"en": "Hunting: Balrog Warrior",
-	"fr": "Chasse: Guerrier du Balrog",
+	"fr": "Chasse: Guerrier de Balrog",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -18999,7 +18999,7 @@ locale["quest.40052.name"] = {
 };
 locale["quest.40052.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='82'>Balrog Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier du Balrog</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier de Balrog</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -19057,7 +19057,7 @@ locale["quest.40052.texts.returnPopupMain"] = {
 
 locale["quest.40053.name"] = {
 	"en": "Hunting: Elite Fiery Guardian",
-	"fr": "Chasse: Gardien ardent d'élite",
+	"fr": "Chasse: Gardien Ardent d'Élite",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
