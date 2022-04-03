@@ -18670,6 +18670,82 @@ locale["quest.40047.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40048.name"] = {
+	"en": "Hunting: Lava Familiar",
+	"fr": "Chasse: Familier de lave",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Nham Tiểu Ác Ma",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40048.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='78'>Lava Familiar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='78'>Familier de lave</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='78'>Nham Tiểu Ác Ma</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40048.texts.description"] = {
+	"en": "Those are the Balrog's familiars, they are just lava monsters. Make sense right? A big fire monster having a lava familiars?<br><br>Don't try and pet them, they can burn you!",
+	"fr": "Ce sont les familiers du Balrog, ce ne sont que des monstres de lave. Logique, non? Un gros monstre de feu ayant des familierq de lave?<br><br>N'essayez pas de les caresser, ils peuvent vous brûler!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40048.texts.returnPopupMain"] = {
+	"en": "How can such monsters can be charged with this much energy?",
+	"fr": "Comment de tels monstres peuvent-ils être chargés avec autant d'énergie?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
