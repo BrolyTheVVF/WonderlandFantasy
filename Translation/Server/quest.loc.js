@@ -18978,6 +18978,83 @@ locale["quest.40051.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40052.name"] = {
+	"en": "Hunting: Balrog Warrior",
+	"fr": "Chasse: Guerrier du Balrog",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Diễm Ma Chiến Binh",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40052.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='82'>Balrog Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier du Balrog</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='82'>Diễm Ma Chiến Binh</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40052.texts.description"] = {
+	"en": "The balrog choose and train his warriors himself. This is why there are so powerful. They don't really fear heat either. Be careful.",
+	"fr": "Le balrog choisit et entraîne lui-même ses guerriers. C'est pourquoi ils sont si puissants. Ils ne craignent pas vraiment la chaleur non plus. Fais attention.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40052.texts.returnPopupMain"] = {
+	"en": "Without those warriors defending this tower, i'm sure one day we could take this tower. One day, the Fain Desert will thrive again.",
+	"fr": "Sans ces guerriers qui défendent cette tour, je suis sûr qu'un jour nous pourrions prendre cette tour. Un jour, le Desert de Fain prospèreras de nouveau.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
