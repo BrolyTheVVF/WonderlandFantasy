@@ -18516,6 +18516,83 @@ locale["quest.40045.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40046.name"] = {
+	"en": "Hunting: Tormented Spirit",
+	"fr": "Chasse: Esprit Tourmenté",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Vong Hồn Khổ Đau",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40046.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='76'>Tormented Spirit</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='76'>Esprit Tourmenté</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='76'>Vong Hồn Khổ Đau</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40046.texts.description"] = {
+	"en": "First Sand Minions, now Tormented Spirits? It seems the Celebeam Caves weren't that well contained. Those spirits consumed so many celebeams that they now are way stronger. We can't let them bring all this power to <i>Harlan</i>.",
+	"fr": "D'abord des Serviteurs des Sables, maintenant des Esprit Tourmenté? Il semble que les grottes de Celebeam n'étaient pas si bien confinées que ça. Ces esprits ont consommé tellement de Celebeams qu'ils sont maintenant bien plus forts. Nous ne pouvons pas les laisser apporter tout ce pouvoir à <i>Harlan</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40046.texts.returnPopupMain"] = {
+	"en": "This is weird, why would they go that way if they wanted to serve their master?",
+	"fr": "C'est bizarre, pourquoi iraient-ils par là s'ils voulaient servir leur maître ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 locale["quest.44000.name"] = {
