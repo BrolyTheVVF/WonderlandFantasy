@@ -18324,7 +18324,7 @@ locale["quest.40043.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40043.texts.description"] = {
-	"en": "Even after cleaning the Desert Oasis of these eggs, they hatched. And the sandworm grew stronger. Now they infest the Burning Tomb. Show they what <b>Heat</b> means.",
+	"en": "Even after cleaning the Desert Oasis of these eggs, they hatched. And the sandworm grew stronger. Now they infest the Burning Tomb. Show them what <b>Heat</b> means.",
 	"fr": "Même après avoir nettoyé l'Oasis Désertique de ces œufs, ils ont éclos. Et les Vers des Sables sont devenus plus fort. Maintenant, ils infestent la Tombe Brulante. Montrez-leur ce que signifie le mot <b>chaleur</b>.",
 	"es": "",
 	"zh-cn": "",
@@ -18343,7 +18343,7 @@ locale["quest.40043.texts.description"] = {
 	"id": ""
 };
 locale["quest.40043.texts.returnPopupMain"] = {
-	"en": "Thoses monsters really give me the chill.",
+	"en": "Those monsters really give me the chill.",
 	"fr": "Ces monstres de donnent vraiment des frissons.",
 	"es": "",
 	"zh-cn": "",
