@@ -10672,6 +10672,25 @@
         "th":"",
         "id":"Tali Serbaguna"
     },
+    "item.12003.name":{
+        "en":"Lava Core",
+        "fr":"Noyeau de Lave",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.13000.name":{
         "en":"Skill Book [Slam]",
         "fr":"Livre de Sort [Coup Puissant]",
