@@ -5756,7 +5756,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.mail.button.take-all":{
+    "UI.windows.mails.button.take-all":{
         "en":"Take all",
         "fr":"Tout prendre",
         "es":"",
@@ -5775,7 +5775,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.mail.button.select-all":{
+    "UI.windows.mails.button.select-all":{
         "en":"Select all",
         "fr":"Tout selectionner",
         "es":"",
@@ -5794,7 +5794,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.mail.button.unselect-all":{
+    "UI.windows.mails.button.unselect-all":{
         "en":"Unselect all",
         "fr":"Tout déselectionner",
         "es":"",
