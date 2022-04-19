@@ -10640,8 +10640,8 @@
         "id": ""
     },
     "skills.TWM_RAVAGE.effect": {
-        "en": "Increases your Attack Speed by {0}% for 5 sec. when Ravage effect is triggered. Can stack up to 4 times",
-        "fr": "Augmente la Vitesse d'Attaque de {0}% pendant 5 sec quand l'effet Ravage est activé. Peut s'accumuler 4 fois",
+        "en": "Increases your Attack Speed by {0}% for 5 sec when you hit your target with a normal attack. Can stack up to 4 times",
+        "fr": "Augmente la Vitesse d'Attaque de {0}% pendant 5 sec lorsque vous touchez votre cible avec une attaque normale. Peut s'accumuler 4 fois",
         "es": "",
         "zh-cn": "",
         "zh-tw":"",
@@ -10651,7 +10651,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng Tốc Độ Tấn Công thêm {0}% trong 5 giây. Khi hiệu ứng Tàn Phá được kích hoạt. Có thể cộng dồn hiệu ứng 4 lần",
+        "vi": "",
         "ar": "",
         "it": "",
         "pl": "",
