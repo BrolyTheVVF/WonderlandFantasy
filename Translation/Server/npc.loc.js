@@ -1611,7 +1611,7 @@ locale["npc.84.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"",
+	"vi":"Hỏa Vương Leo",
 	"ar":"",
 	"it":"",
 	"pl":"",
