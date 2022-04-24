@@ -6308,7 +6308,7 @@
         "id": ""
     },
     "skills.TRR_FULL_PREP.effect": {
-        "en": "For every 10 common attacks, a special arrow is lunched dealing {0} addiotional damage. Also stuns target for 0.3 sec.",
+        "en": "For every 10 common attacks, a special arrow is launched dealing {0} addiotional damage. Also stuns target for 0.3 sec.",
         "fr": "Toutes les 10 attaques normales, une flèche spéciale est lancé, infligeant {0} de dégâts supplémenntaires et étourdissant la cible pendant 0,3sec",
         "es": "",
         "zh-cn": "",
