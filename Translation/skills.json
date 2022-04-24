@@ -5225,8 +5225,8 @@
         "id": ""
     },
     "skills.TML_LIFE_FORCE.effect": {
-        "en": "Every 1040 points of HP increases your Holy Attack by {0}",
-        "fr": "Tous les 1040 PV, augmente l'Attaque Sacrée de {0}",
+        "en": "Every 3000 points of HP increases your Holy Attack by {0}",
+        "fr": "Tous les 3000 PV, augmente l'Attaque Sacrée de {0}",
         "es": "",
         "zh-cn": "",
         "zh-tw":"",
@@ -5236,7 +5236,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Mỗi 1040 Máu có được tăng {0} Công Kích Thần Thánh.",
+        "vi": "Mỗi 3000 Máu có được tăng {0} Công Kích Thần Thánh.",
         "ar": "",
         "it": "",
         "pl": "",
