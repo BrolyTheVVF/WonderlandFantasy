@@ -3267,6 +3267,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.map.askTeleport":{
+        "en":"Teleport to this map will cost: {0} x1",
+        "fr":"La téléportation à cet endroit coûtera: {0} x1",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.checkgear.title":{
         "en":"{0}'s Gears Info",
         "fr":"Equipement de {0}",
