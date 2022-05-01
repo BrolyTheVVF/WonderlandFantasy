@@ -366,7 +366,7 @@ locale["group.request.criticalError"] = {
 	"en":"A critical error occured in the group request system. Please try again later.",
 	"fr":"Une erreur critique est survenue dans le système de requête de groupe. Veuillez réessayer plus tard.",
 	"es": "",
-	"zh-cn": "组队邀请系统出现严重错误。请稍后再试。"",
+	"zh-cn": "组队邀请系统出现严重错误。请稍后再试。",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
