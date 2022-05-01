@@ -1618,6 +1618,25 @@ locale["npc.84.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.85.name"] = {
+	"en":"Molten Lord Geal",
+	"fr":"Seigneur fondu Geal",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {
