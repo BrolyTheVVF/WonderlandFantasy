@@ -2347,7 +2347,7 @@ locale["quest.28.texts.description"] = {
 	"id": ""
 };
 locale["quest.28.texts.returnPopupMain"] = {
-	"en": "What do you want Stranger?I am a grocer here, selling basic weapons and armors, as well as potions. You can also sell your useless stuff for cash.<br>However, now I am totally out of job. Nothing for sale and nothing I would buy.",
+	"en": "What do you want Stranger?<br>I am a grocer here, selling basic weapons and armors, as well as potions. You can also sell your useless stuff for cash.<br>However, now I am totally out of job. Nothing for sale and nothing I would buy.",
 	"fr": "Que voulez-vous étranger?<br>Je suis l'épicière du coin, je vend des armes et armures basiques, et des potions. Vous pouvez aussi me vendre vos trucs inutiles.<br>Cependant, actuellement je suis sans emploi. Rien à vendre et rien à acheter.",
 	"es": "",
 	"zh-cn": "你想要什么,陌生人？<br>我这是家杂货店,出售基本的武器和盔甲,以及药剂.你也可以出售你不用的东西换取金钱.<br>然而,现在我完全失业了.没有出售的东西,也没有我想买的东西.",
@@ -4712,7 +4712,7 @@ locale["quest.59.name"] = {
 	"id": ""
 };
 locale["quest.59.texts.objective"] = {
-	"en": "Find and talk to<span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
+	"en": "Find and talk to <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
 	"fr": "Trouvez et parlez à <span class='text-link' data-target-type='npc' data-target-id='100039'>Puchius</span>",
 	"es": "",
 	"zh-cn": "找到<span class='text-link' data-target-type='npc' data-target-id='100039'>普丘斯</span>并与之交谈 ",
@@ -10564,7 +10564,7 @@ locale["quest.132.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='48'>Golden Slimes</span> and report to <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='46'>Slimes Dorés</span> et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
 	"es": "",
-	"zh-cn": "杀死一些<span class='text-link' data-target-type='mob' data-target-id='48'>黄金史莱姆</span>然后向<span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
+	"zh-cn": "杀死一些<span class='text-link' data-target-type='mob' data-target-id='48'>黄金史莱姆</span>然后向<span class='text-link' data-target-type='npc' data-target-id='100056'>塔兹曼</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -10572,7 +10572,7 @@ locale["quest.132.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Giết một vài <span class='text-link' data-target-type='mob' data-target-id='48'>Golden Slimes</span> và báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100056'>塔兹曼</span>报告.",
+	"vi": "Giết một vài <span class='text-link' data-target-type='mob' data-target-id='48'>Golden Slimes</span> và báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100056'>Tazman</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -12197,24 +12197,7 @@ locale["quest.10007.objective.0.name"] = {
 	"id": ""
 };
 
-locale["quest.1000.name"] = {
-	"en": "Learning Lv.5 Skills",
-	"fr": "Apprentissage Nv.5",
-	"es": "",
-	"zh-cn": "学习5级技能",
-	"kr": "",
-	"ru": "",
-	"tr": "",
-	"de": "",
-	"jp": "",
-	"pt": "",
-	"vi": "Học Kỹ Năng Cấp 5",
-	"ar": "",
-	"it": "",
-	"pl": "",
-	"th": "",
-	"id": ""
-};
+locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1003.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
@@ -16631,8 +16614,7 @@ locale["quest.40021.texts.objective"] = {
 	"en": "Defeat <span class='text-link' data-target-type='mob' data-target-id='46'>Captain Hook</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='46'>Capitaine Crochet</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败<span class='text-link' data-target-type='mob' data-target-id='46'>胡克船长</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败<span class='text-link' data-target-type='mob' data-target-id='46'>胡克船长</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -16709,8 +16691,7 @@ locale["quest.40022.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='45'>Sunny Starfish</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='45'>Étoiles de mer Ensoleillées</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='45'>阳光海星</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='45'>阳光海星</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -16864,8 +16845,7 @@ locale["quest.40024.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='49'>Sandworm Eggs</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='49'>Oeufs de Ver des Sables</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='49'>沙虫卵</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='49'>沙虫卵</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -16942,8 +16922,7 @@ locale["quest.40025.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='52'>Hartland Plants</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='52'>Plantes d'Hartland</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='52'>阿特兰草</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='52'>阿特兰草</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17020,8 +16999,7 @@ locale["quest.40026.texts.objective"] = {
 	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='51'>Sweettail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='51'>Manticore à Queue de Velours</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败<span class='text-link' data-target-type='mob' data-target-id='51'>甜尾沙蝎</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败<span class='text-link' data-target-type='mob' data-target-id='51'>甜尾沙蝎</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17098,8 +17076,7 @@ locale["quest.40027.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='53'>Desert Raiders</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='53'>Pillard du Désert</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='53'>沙漠突击者</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='53'>沙漠突击者</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17176,8 +17153,7 @@ locale["quest.40028.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='54'>Rampaging Treasure Seekers</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='54'>Chercheurs de trésors déchaînés</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='54'>疯狂寻宝者</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='54'>疯狂寻宝者</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17254,8 +17230,7 @@ locale["quest.40029.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='55'>Doomsday Mercenaries</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='55'>Mercenaires Jugement Dernier</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='55'>末日佣兵</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='55'>末日佣兵</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17332,8 +17307,7 @@ locale["quest.40030.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='56'>Potpent</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='56'>Potpent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='56'>寄罐蛇/span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='56'>寄罐蛇/span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17410,8 +17384,7 @@ locale["quest.40031.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='57'>Brow Bat</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='57'>Chauve-souris Brune</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='57'>褐色蝙蝠</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='57'>褐色蝙蝠</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -17488,8 +17461,7 @@ locale["quest.40032.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='58'>Sabath Candlestick</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='58'>Chandelier du Sabat</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='58'>安息烛台</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='58'>安息烛台</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -18105,8 +18077,7 @@ locale["quest.40040.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='68'>Sand Minion</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='68'>Serviteur des Sables</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='68'>沙漠蜥蜴</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='68'>沙漠蜥蜴</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -18183,8 +18154,7 @@ locale["quest.40041.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='69'>Ostrider</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='69'>Ostrider</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='69'>陆行鸟</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='69'>陆行鸟</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -18415,8 +18385,7 @@ locale["quest.40044.texts.objective"] = {
 	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='73'>Flame Dragon's Offspring</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='73'>Progéniture du dragon de flammes</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "击败<span class='text-link' data-target-type='mob' data-target-id='73'>炎龙之子</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "击败<span class='text-link' data-target-type='mob' data-target-id='73'>炎龙之子</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
