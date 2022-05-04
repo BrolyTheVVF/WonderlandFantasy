@@ -1582,7 +1582,7 @@ locale["npc.82.name"] = {
 };
 locale["npc.83.name"] = {
 	"en":"Fiery Guardian",
-	"fr":"Gardien ardent d'élite",
+	"fr":"Gardien ardent",
 	"es":"",
 	"zh-cn":"火焰护卫",
 	"zh-tw":"",
