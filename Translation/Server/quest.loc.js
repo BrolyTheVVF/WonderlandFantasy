@@ -19088,7 +19088,7 @@ locale["quest.40052.texts.returnPopupMain"] = {
 
 locale["quest.40053.name"] = {
 	"en": "Hunting: Fiery Guardian",
-	"fr": "Chasse: Gardien Ardent d'Élite",
+	"fr": "Chasse: Gardien Ardent",
 	"es": "",
 	"zh-cn": "狩猎: 火焰护卫",
 	"zh-tw":"",
@@ -19107,7 +19107,7 @@ locale["quest.40053.name"] = {
 };
 locale["quest.40053.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien Ardent</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "击败一些<span class='text-link' data-target-type='mob' data-target-id='83'>火焰护卫</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
@@ -21012,8 +21012,8 @@ locale["quest.45014.texts.returnPopupMain"] = {
 };
 
 locale["quest.45015.name"] = {
-	"en": "Elite Fiery Guardian",
-	"fr": "Gardien ardent Elite",
+	"en": "Fiery Guardian",
+	"fr": "Gardien ardent",
 	"es": "",
 	"zh-cn": "精英 火焰护卫",
 	"zh-tw":"",
