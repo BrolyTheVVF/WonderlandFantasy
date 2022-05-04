@@ -1581,8 +1581,8 @@ locale["npc.82.name"] = {
 	"id":""
 };
 locale["npc.83.name"] = {
-	"en":"Elite Fiery Guardian",
-	"fr":"Gardien ardent d'élite",
+	"en":"Fiery Guardian",
+	"fr":"Gardien ardent",
 	"es":"",
 	"zh-cn":"精锐火焰护卫",
 	"zh-tw":"",
