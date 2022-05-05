@@ -11909,7 +11909,7 @@ locale["quest.149.texts.objective"] = {
 };
 locale["quest.149.texts.description"] = {
 	"en": "It seems there is yet another floor. This is insane. How far can this go? Please go and see if you can find the source of this evil. I'll stay here and cover your back, but be quick.",
-	"fr": "Il semble qu'il y ait encore un autre étage. C'est insensé. Jusqu'où cela peut-il aller ? S'il vous plaît, allez voir si vous pouvez trouver la source de ce mal. Je vais rester ici et te couvrir le dos, mais fais vite.",
+	"fr": "Il semble qu'il y ait encore un autre étage. C'est insensé. Jusqu'où cela peut-il aller ? S'il vous plaît, allez voir si vous pouvez trouver la source de ce mal. Je vais rester ici pour te couvrir, mais fais vite.",
 	"es": "",
 	"zh-cn": "似乎还有下一层.这太疯狂了.还能走多远？请你去看看能不能找到邪恶源头.我会留在这里掩护你,但要快点.",
 	"zh-tw":"",
