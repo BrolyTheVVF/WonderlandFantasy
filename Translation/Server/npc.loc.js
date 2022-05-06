@@ -4242,6 +4242,25 @@ locale["npc.100067.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100068.name"] = {
+	"en": "Elrik",
+	"fr": "Elrik",
+	"es": "",
+	"zh-cn": "埃尔里克",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -4769,7 +4788,7 @@ locale["npc.240004.name"] = {
 	"en": "Dawn Grass",
 	"fr": "Herbe de l'Aube",
 	"es": "",
-	"zh-cn": "曙光草场",
+	"zh-cn": "黎明草",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4921,7 +4940,7 @@ locale["npc.241007.name"] = {
 	"en": "Weed",
 	"fr": "Herbe",
 	"es": "",
-	"zh-cn": "威德",
+	"zh-cn": "野草",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
