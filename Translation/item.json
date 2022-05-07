@@ -14588,7 +14588,7 @@
     },
     "item.70009.name": {
 		"en": "Bat - I",
-		"fr": "Chauve Souris - I",
+		"fr": "Chauve-Souris - I",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14607,7 +14607,7 @@
 	},
 	"item.70010.name": {
 		"en": "Bat - I",
-		"fr": "Chauve Souris - I",
+		"fr": "Chauve-Souris - I",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14626,7 +14626,7 @@
 	},
 	"item.70011.name": {
 		"en": "Bat - I",
-		"fr": "Chauve Souris - I",
+		"fr": "Chauve-Souris - I",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14645,7 +14645,7 @@
 	},
 	"item.70012.name": {
 		"en": "Bat - II",
-		"fr": "Chauve Souris - II",
+		"fr": "Chauve-Souris - II",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14664,7 +14664,7 @@
 	},
 	"item.70013.name": {
 		"en": "Bat - II",
-		"fr": "Chauve Souris - II",
+		"fr": "Chauve-Souris - II",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14683,7 +14683,7 @@
 	},
 	"item.70014.name": {
 		"en": "Bat - II",
-		"fr": "Chauve Souris - II",
+		"fr": "Chauve-Souris - II",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14702,7 +14702,7 @@
 	},
 	"item.70015.name": {
 		"en": "Bat - III",
-		"fr": "Chauve Souris - III",
+		"fr": "Chauve-Souris - III",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14721,7 +14721,7 @@
 	},
 	"item.70016.name": {
 		"en": "Bat - III",
-		"fr": "Chauve Souris - III",
+		"fr": "Chauve-Souris - III",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14740,7 +14740,7 @@
 	},
 	"item.70017.name": {
 		"en": "Bat - III",
-		"fr": "Chauve Souris - III",
+		"fr": "Chauve-Souris - III",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14759,7 +14759,7 @@
 	},
 	"item.70018.name": {
 		"en": "Bat - IV",
-		"fr": "Chauve Souris - IV",
+		"fr": "Chauve-Souris - IV",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14778,7 +14778,7 @@
 	},
 	"item.70019.name": {
 		"en": "Bat - IV",
-		"fr": "Chauve Souris - IV",
+		"fr": "Chauve-Souris - IV",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -14797,7 +14797,7 @@
 	},
 	"item.70020.name": {
 		"en": "Bat - IV",
-		"fr": "Chauve Souris - IV",
+		"fr": "Chauve-Souris - IV",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15600,7 +15600,7 @@
 
 	"item.70062.name": {
 		"en": "Grey Magical Rock - I",
-		"fr": "Rocher Magique Grise - I",
+		"fr": "Rocher Magique Gris - I",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15657,7 +15657,7 @@
 	},
 	"item.70065.name": {
 		"en": "Grey Magical Rock - II",
-		"fr": "Rocher Magique Grise - II",
+		"fr": "Rocher Magique Gris - II",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15714,7 +15714,7 @@
 	},
 	"item.70068.name": {
 		"en": "Grey Magical Rock - III",
-		"fr": "Rocher Magique Grise - III",
+		"fr": "Rocher Magique Gris - III",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -16420,7 +16420,7 @@
     },
     "item.1220.description":{
         "en":"This mythical creature is the most beautiful someone can get.",
-        "fr":"Cette créature mythique est la plus belle que l'on puisse posseder.",
+        "fr":"Cette créature mythique est la plus belle que l'on puisse posséder.",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -16439,7 +16439,7 @@
     },
     "item.1224.description":{
         "en":"The God of Bur was using this Skateboard back then",
-        "fr":"Le dieu de Bur utilisait ce skateboard à l'époque",
+        "fr":"Le Dieu de Bur utilisait ce skateboard à l'époque",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -16458,7 +16458,7 @@
     },
     "item.1225.description":{
         "en":"Many heroes are known for riding this magical creature, it can talk and help you in dangerous situation.",
-        "fr":"De nombreux héros sont connus par ce qu'ils chevauchent cette créature magique, elle peut parler et vous aider dans des situations dangereuses.",
+        "fr":"De nombreux héros sont connus parce qu'ils chevauchent cette créature magique, elle peut parler et vous aider dans des situations dangereuses.",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
