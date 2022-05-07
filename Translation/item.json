@@ -3115,9 +3115,66 @@
         "th":"",
         "id":""
     },
-    "item.1220.name":{
-        "en":"Phoenix",
-        "fr":"Phoenix",
+    "item.1224.name":{
+        "en":"Speed Phoenix",
+        "fr":"Phoenix de Vitesse",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.1225.name":{
+        "en":"Skill Phoenix",
+        "fr":"Phoenix de Compétence",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.1226.name":{
+        "en":"Energy Phoenix",
+        "fr":"Phoenix d'Energie",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.1227.name":{
+        "en":"Wizard Phoenix",
+        "fr":"Phoenix de Sorcier",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -14988,8 +15045,8 @@
 	},
 
 	"item.70033.name": {
-		"en": "White Skeleton - I",
-		"fr": "Squelette Blanc - I",
+		"en": "White Skeleton Dragon - I",
+		"fr": "Dragon Squelette Blanc - I",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15007,8 +15064,8 @@
 		"id": ""
 	},
 	"item.70034.name": {
-		"en": "Black Skeleton - I",
-		"fr": "Squelette Noir - I",
+		"en": "Black Skeleton Dragon - I",
+		"fr": "Dragon Squelette Noir - I",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15026,8 +15083,8 @@
 		"id": ""
 	},
 	"item.70035.name": {
-		"en": "White Skeleton - II",
-		"fr": "Squelette Blanc - II",
+		"en": "White Skeleton Dragon - II",
+		"fr": "Dragon Squelette Blanc - II",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15045,8 +15102,8 @@
 		"id": ""
 	},
 	"item.70036.name": {
-		"en": "Black Skeleton - II",
-		"fr": "Squelette Noir - II",
+		"en": "Black Skeleton Dragon - II",
+		"fr": "Dragon Squelette Noir - II",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15064,8 +15121,8 @@
 		"id": ""
 	},
 	"item.70037.name": {
-		"en": "White Skeleton - III",
-		"fr": "Squelette Blanc - III",
+		"en": "White Skeleton Dragon - III",
+		"fr": "Dragon Squelette Blanc - III",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15083,8 +15140,8 @@
 		"id": ""
 	},
 	"item.70038.name": {
-		"en": "Black Skeleton - III",
-		"fr": "Squelette Noir - III",
+		"en": "Black Skeleton Dragon - III",
+		"fr": "Dragon Squelette Noir - III",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15102,8 +15159,8 @@
 		"id": ""
 	},
 	"item.70039.name": {
-		"en": "White Skeleton - IV",
-		"fr": "Squelette Blanc - IV",
+		"en": "White Skeleton Dragon - IV",
+		"fr": "Dragon Squelette Blanc - IV",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -15121,8 +15178,8 @@
 		"id": ""
 	},
 	"item.70040.name": {
-		"en": "Black Skeleton - IV",
-		"fr": "Squelette Noir - IV",
+		"en": "Black Skeleton Dragon - IV",
+		"fr": "Dragon Squelette Noir - IV",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
