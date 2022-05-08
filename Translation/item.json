@@ -3767,10 +3767,6 @@
         "es":"",
         "zh-cn":"[精灵蛋] 蜜蜂",
         "zh-tw":"",
-=======
-        "zh-cn":"",
-        "zh-tw":"[精灵蛋] 蜜蜂",
->>>>>>> master
         "kr":"",
         "ru":"",
         "tr":"",
@@ -8659,7 +8655,6 @@
         "ru":"",
         "tr":"",
         "de":"",
-=======
         "jp":"",
         "pt":"",
         "vi":"Đám Cưới (Nâu)",
@@ -9148,7 +9143,6 @@
         "ru":"Малое Лечебное Зелье",
         "tr":"",
         "de":"kleiner Heiltrank",
->>>>>>> master
         "jp":"",
         "pt":"",
         "vi":"Đám Cưới (Nâu)",
@@ -9170,7 +9164,6 @@
         "jp":"",
         "pt":"",
         "vi":"Túp (Vàng Nhạt)",
-=======
         "id":"Ramuan Penyembuhan Sedang"
     },
     "item.7002.name":{
@@ -9433,7 +9426,6 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng Nhiều",
->>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -10151,7 +10143,10 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng",
-=======
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
         "id":"Ramuan Mana Hebat"
     },
     "item.7102.name":{
@@ -10167,7 +10162,6 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng Lớn",
->>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -10187,7 +10181,10 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng Nhiều",
-=======
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
         "id":"Ramuan Mana Besar"
     },
     "item.7150.name":{
@@ -10203,7 +10200,6 @@
         "jp":"",
         "pt":"",
         "vi":"Bình Năng Lượng Tức Thì",
->>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -10223,7 +10219,10 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng Lớn",
-=======
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
         "id":"Ramuan Mana Instan"
     },
     "item.7151.name":{
@@ -10239,7 +10238,6 @@
         "jp":"",
         "pt":"",
         "vi":"Bình Năng Lượng Tức Thì Nhiều",
->>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -10259,7 +10257,10 @@
         "jp":"",
         "pt":"",
         "vi":"Bình Năng Lượng Tức Thì",
-=======
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
         "id":"Ramuan Instan Hebat"
     },
     "item.7200.name":{
@@ -10275,7 +10276,6 @@
         "jp":"",
         "pt":"",
         "vi":"Ngọc Gấp Đôi K.Nghiệm",
->>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -10485,7 +10485,10 @@
         "jp":"",
         "pt":"",
         "vi":"Đá Celebream Lam Nứt",
-=======
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
         "id":""
     },
     "item.7300.name":{
@@ -10501,15 +10504,11 @@
         "jp":"",
         "pt":"",
         "vi":"Bình Nhanh Nhẹn",
->>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
         "id":"Retakan Celebeam Biru"
-    },
-=======
-        "id":""
     },
     "item.7301.name":{
         "en":"Combat Flask",
@@ -10663,7 +10662,6 @@
         "th":"",
         "id":"Retakan Celebeam Biru"
     },
->>>>>>> master
     "item.10007.name":{
         "en":"Crude Yellow Celebeam",
         "fr":"Celebeam Jaune Brut",
@@ -15476,9 +15474,6 @@
         "fr":"Rocher Volant - II",
         "es":"",
         "zh-cn":"浮石 - II",
-=======
-        "zh-cn":"浮石 - I",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -15498,9 +15493,6 @@
         "fr":"Rocher Volant - II",
         "es":"",
         "zh-cn":"浮石 - II",
-=======
-        "zh-cn":"浮石 - I",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -15520,9 +15512,6 @@
         "fr":"Rocher Volant - II",
         "es":"",
         "zh-cn":"浮石 - II",
-=======
-        "zh-cn":"浮石 - I",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -15542,9 +15531,6 @@
         "fr":"Rocher Volant - III",
         "es":"",
         "zh-cn":"浮石 - III",
-=======
-        "zh-cn":"浮石 - I",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -15564,9 +15550,6 @@
         "fr":"Rocher Volant - III",
         "es":"",
         "zh-cn":"浮石 - III",
-=======
-        "zh-cn":"浮石 - I",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -15586,9 +15569,6 @@
         "fr":"Rocher Volant - III",
         "es":"",
         "zh-cn":"浮石 - III",
-=======
-        "zh-cn":"浮石 - I",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -15605,14 +15585,9 @@
     },
     "item.70009.name": {
 		"en": "Bat - I",
-		"fr": "Chauve Souris - I",
-		"es": "",
-		"zh-cn": "蝙蝠 - I",
-=======
 		"fr": "Chauve-Souris - I",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - I",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15629,14 +15604,9 @@
 	},
 	"item.70010.name": {
 		"en": "Bat - I",
-		"fr": "Chauve Souris - I",
-		"es": "",
-		"zh-cn": "蝙蝠 - I",
-=======
 		"fr": "Chauve-Souris - I",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - I",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15653,14 +15623,9 @@
 	},
 	"item.70011.name": {
 		"en": "Bat - I",
-		"fr": "Chauve Souris - I",
-		"es": "",
-		"zh-cn": "蝙蝠 - I",
-=======
 		"fr": "Chauve-Souris - I",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - I",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15677,14 +15642,9 @@
 	},
 	"item.70012.name": {
 		"en": "Bat - II",
-		"fr": "Chauve Souris - II",
-		"es": "",
-		"zh-cn": "蝙蝠 - II",
-=======
 		"fr": "Chauve-Souris - II",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - II",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15701,14 +15661,9 @@
 	},
 	"item.70013.name": {
 		"en": "Bat - II",
-		"fr": "Chauve Souris - II",
-		"es": "",
-		"zh-cn": "蝙蝠 - II",
-=======
 		"fr": "Chauve-Souris - II",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - II",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15725,14 +15680,9 @@
 	},
 	"item.70014.name": {
 		"en": "Bat - II",
-		"fr": "Chauve Souris - II",
-		"es": "",
-		"zh-cn": "蝙蝠 - II",
-=======
 		"fr": "Chauve-Souris - II",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - II",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15749,14 +15699,9 @@
 	},
 	"item.70015.name": {
 		"en": "Bat - III",
-		"fr": "Chauve Souris - III",
-		"es": "",
-		"zh-cn": "蝙蝠 - III",
-=======
 		"fr": "Chauve-Souris - III",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - III",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15773,14 +15718,9 @@
 	},
 	"item.70016.name": {
 		"en": "Bat - III",
-		"fr": "Chauve Souris - III",
-		"es": "",
-		"zh-cn": "蝙蝠 - III",
-=======
 		"fr": "Chauve-Souris - III",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - III",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15797,14 +15737,9 @@
 	},
 	"item.70017.name": {
 		"en": "Bat - III",
-		"fr": "Chauve Souris - III",
-		"es": "",
-		"zh-cn": "蝙蝠 - III",
-=======
 		"fr": "Chauve-Souris - III",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - III",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15821,14 +15756,9 @@
 	},
 	"item.70018.name": {
 		"en": "Bat - IV",
-		"fr": "Chauve Souris - IV",
-		"es": "",
-		"zh-cn": "蝙蝠 - IV",
-=======
 		"fr": "Chauve-Souris - IV",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - IV",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15845,14 +15775,9 @@
 	},
 	"item.70019.name": {
 		"en": "Bat - IV",
-		"fr": "Chauve Souris - IV",
-		"es": "",
-		"zh-cn": "蝙蝠 - IV",
-=======
 		"fr": "Chauve-Souris - IV",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - IV",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15869,14 +15794,9 @@
 	},
 	"item.70020.name": {
 		"en": "Bat - IV",
-		"fr": "Chauve Souris - IV",
-		"es": "",
-		"zh-cn": "蝙蝠 - IV",
-=======
 		"fr": "Chauve-Souris - IV",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "蝙蝠 - IV",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15896,9 +15816,6 @@
 		"fr": "Avion Rouge - I",
 		"es": "",
 		"zh-cn": "红色战斗机 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15918,9 +15835,6 @@
 		"fr": "Avion Orange - I",
 		"es": "",
 		"zh-cn": "橙色战斗机 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15940,9 +15854,6 @@
 		"fr": "Avion Violet - I",
 		"es": "",
 		"zh-cn": "紫色战斗机 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15962,9 +15873,6 @@
 		"fr": "Avion Rouge - II",
 		"es": "",
 		"zh-cn": "红色战斗机 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15984,9 +15892,6 @@
 		"fr": "Avion Orange - II",
 		"es": "",
 		"zh-cn": "橙色战斗机 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16006,9 +15911,6 @@
 		"fr": "Avion Violet - II",
 		"es": "",
 		"zh-cn": "紫色战斗机 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16028,9 +15930,6 @@
 		"fr": "Avion Rouge - III",
 		"es": "",
 		"zh-cn": "红色战斗机 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16050,9 +15949,6 @@
 		"fr": "Avion Orange - III",
 		"es": "",
 		"zh-cn": "橙色战斗机 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16072,9 +15968,6 @@
 		"fr": "Avion Violet - III",
 		"es": "",
 		"zh-cn": "紫色战斗机 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16094,9 +15987,6 @@
 		"fr": "Avion Rouge - IV",
 		"es": "",
 		"zh-cn": "红色战斗机 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16116,9 +16006,6 @@
 		"fr": "Avion Orange - IV",
 		"es": "",
 		"zh-cn": "橙色战斗机 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16138,9 +16025,6 @@
 		"fr": "Avion Rouge - IV",
 		"es": "",
 		"zh-cn": "紫色战斗机 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16160,9 +16044,6 @@
 		"fr": "Dragon Squelette Blanc - I",
 		"es": "",
 		"zh-cn": "白色骨龙 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16182,9 +16063,6 @@
 		"fr": "Dragon Squelette Noir - I",
 		"es": "",
 		"zh-cn": "黑色骨龙 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16204,9 +16082,6 @@
 		"fr": "Dragon Squelette Blanc - II",
 		"es": "",
 		"zh-cn": "白色骨龙 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16226,9 +16101,6 @@
 		"fr": "Dragon Squelette Noir - II",
 		"es": "",
 		"zh-cn": "黑色骨龙 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16248,9 +16120,6 @@
 		"fr": "Dragon Squelette Blanc - III",
 		"es": "",
 		"zh-cn": "白色骨龙 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16270,9 +16139,6 @@
 		"fr": "Dragon Squelette Noir - III",
 		"es": "",
 		"zh-cn": "黑色骨龙 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16292,9 +16158,6 @@
 		"fr": "Dragon Squelette Blanc - IV",
 		"es": "",
 		"zh-cn": "白色骨龙 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16314,9 +16177,6 @@
 		"fr": "Dragon Squelette Noir - IV",
 		"es": "",
 		"zh-cn": "黑色骨龙 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16336,9 +16196,6 @@
 		"fr": "Scarabée Jaune - I",
 		"es": "",
 		"zh-cn": "黄色甲虫 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16358,9 +16215,6 @@
 		"fr": "Scarabée Violet Clair - I",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16380,9 +16234,6 @@
 		"fr": "Scarabée Violet - I",
 		"es": "",
 		"zh-cn": "紫色甲虫 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16402,9 +16253,6 @@
 		"fr": "Scarabée Jaune - II",
 		"es": "",
 		"zh-cn": "黄色甲虫 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16424,9 +16272,6 @@
 		"fr": "Scarabée Violet Clair - II",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16446,9 +16291,6 @@
 		"fr": "Scarabée Violet - II",
 		"es": "",
 		"zh-cn": "紫色甲虫 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16468,9 +16310,6 @@
 		"fr": "Scarabée Jaune - III",
 		"es": "",
 		"zh-cn": "黄色甲虫 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16490,9 +16329,6 @@
 		"fr": "Scarabée Violet Clair - III",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16512,9 +16348,6 @@
 		"fr": "Scarabée Violet - III",
 		"es": "",
 		"zh-cn": "紫色甲虫 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16534,9 +16367,6 @@
 		"fr": "Scarabée Jaune - IV",
 		"es": "",
 		"zh-cn": "黄色甲虫 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16556,9 +16386,6 @@
 		"fr": "Scarabée Violet Clair - IV",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16578,9 +16405,6 @@
 		"fr": "Scarabée Violet - IV",
 		"es": "",
 		"zh-cn": "紫色甲虫 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16600,9 +16424,6 @@
 		"fr": "Serpoiseau Bleu - I",
 		"es": "",
 		"zh-cn": "蓝色蛇鸟 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16622,9 +16443,6 @@
 		"fr": "Serpoiseau Violet - I",
 		"es": "",
 		"zh-cn": "紫色蛇鸟 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16644,9 +16462,6 @@
 		"fr": "Serpoiseau jaune - I",
 		"es": "",
 		"zh-cn": "黄色蛇鸟 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16666,9 +16481,6 @@
 		"fr": "Serpoiseau Bleu - II",
 		"es": "",
 		"zh-cn": "蓝色蛇鸟 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16688,9 +16500,6 @@
 		"fr": "Serpoiseau Violet - II",
 		"es": "",
 		"zh-cn": "紫色蛇鸟 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16710,9 +16519,6 @@
 		"fr": "Serpoiseau Jaune - II",
 		"es": "",
 		"zh-cn": "黄色蛇鸟 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16732,9 +16538,6 @@
 		"fr": "Serpoiseau Bleu - III",
 		"es": "",
 		"zh-cn": "蓝色蛇鸟 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16754,9 +16557,6 @@
 		"fr": "Serpoiseau Violet - III",
 		"es": "",
 		"zh-cn": "紫色蛇鸟 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16776,9 +16576,6 @@
 		"fr": "Serpoiseau Jaune - III",
 		"es": "",
 		"zh-cn": "黄色蛇鸟 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16795,14 +16592,9 @@
 	},
 	"item.70062.name": {
 		"en": "Grey Magical Rock - I",
-		"fr": "Rocher Magique Grise - I",
-		"es": "",
-		"zh-cn": "灰色真·浮石 - I",
-=======
 		"fr": "Rocher Magique Gris - I",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "灰色真·浮石 - I",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16822,9 +16614,6 @@
 		"fr": "Rocher Magique Marron - I",
 		"es": "",
 		"zh-cn": "棕色真·浮石 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16844,9 +16633,6 @@
 		"fr": "Rocher Magique Vert - I",
 		"es": "",
 		"zh-cn": "绿色真·浮石 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16863,14 +16649,9 @@
 	},
 	"item.70065.name": {
 		"en": "Grey Magical Rock - II",
-		"fr": "Rocher Magique Grise - II",
-		"es": "",
-		"zh-cn": "灰色真·浮石 - II",
-=======
 		"fr": "Rocher Magique Gris - II",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "灰色真·浮石 - II",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16890,9 +16671,6 @@
 		"fr": "Rocher Magique Marron - II",
 		"es": "",
 		"zh-cn": "棕色真·浮石 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16912,9 +16690,6 @@
 		"fr": "Rocher Magique Vert - II",
 		"es": "",
 		"zh-cn": "绿色真·浮石 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16931,14 +16706,9 @@
 	},
 	"item.70068.name": {
 		"en": "Grey Magical Rock - III",
-		"fr": "Rocher Magique Grise - III",
-		"es": "",
-		"zh-cn": "灰色真·浮石 - III",
-=======
 		"fr": "Rocher Magique Gris - III",
 		"es": "",
-		"zh-cn": "",
->>>>>>> master
+		"zh-cn": "灰色真·浮石 - III",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16958,9 +16728,6 @@
 		"fr": "Rocher Magique Marron - III",
 		"es": "",
 		"zh-cn": "棕色真·浮石 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16980,9 +16747,6 @@
 		"fr": "Rocher Magique Vert - III",
 		"es": "",
 		"zh-cn": "绿色真·浮石 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17002,9 +16766,6 @@
 		"fr": "Phoenix - I",
 		"es": "",
 		"zh-cn": "凤凰 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17024,9 +16785,6 @@
 		"fr": "Phoenix - II",
 		"es": "",
 		"zh-cn": "凤凰 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17046,9 +16804,6 @@
 		"fr": "Phoenix - III",
 		"es": "",
 		"zh-cn": "凤凰 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17068,9 +16823,6 @@
 		"fr": "Phoenix - IV",
 		"es": "",
 		"zh-cn": "凤凰 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17090,9 +16842,6 @@
 		"fr": "Cerf-volant Bleu - I",
 		"es": "",
 		"zh-cn": "蓝风筝 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17112,9 +16861,6 @@
 		"fr": "Cerf-volant Orange - I",
 		"es": "",
 		"zh-cn": "橙风筝 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17134,9 +16880,6 @@
 		"fr": "Cerf-volant Blanc - I",
 		"es": "",
 		"zh-cn": "白风筝 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17156,9 +16899,6 @@
 		"fr": "Cerf-volant Bleu - II",
 		"es": "",
 		"zh-cn": "蓝风筝 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17178,9 +16918,6 @@
 		"fr": "Cerf-volant Orange - II",
 		"es": "",
 		"zh-cn": "橙风筝 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17200,9 +16937,6 @@
 		"fr": "Cerf-volant Blanc - II",
 		"es": "",
 		"zh-cn": "白风筝 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17222,9 +16956,6 @@
 		"fr": "Cerf-volant Bleu - III",
 		"es": "",
 		"zh-cn": "蓝风筝 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17244,9 +16975,6 @@
 		"fr": "Cerf-volant Orange - III",
 		"es": "",
 		"zh-cn": "橙风筝 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17266,9 +16994,6 @@
 		"fr": "Cerf-volant Blanc - III",
 		"es": "",
 		"zh-cn": "白风筝 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17288,9 +17013,6 @@
 		"fr": "Cerf-volant Bleu - IV",
 		"es": "",
 		"zh-cn": "蓝风筝 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17310,9 +17032,6 @@
 		"fr": "Cerf-volant Orange - IV",
 		"es": "",
 		"zh-cn": "橙风筝 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17332,9 +17051,6 @@
 		"fr": "Cerf-volant Blanc - IV",
 		"es": "",
 		"zh-cn": "白风筝 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17354,9 +17070,6 @@
 		"fr": "Skateboard - I",
 		"es": "",
 		"zh-cn": "滑板 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17376,9 +17089,6 @@
 		"fr": "Skateboard - II",
 		"es": "",
 		"zh-cn": "滑板 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17398,9 +17108,6 @@
 		"fr": "Skateboard - III",
 		"es": "",
 		"zh-cn": "滑板 -III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17420,9 +17127,6 @@
 		"fr": "Skateboard - IV",
 		"es": "",
 		"zh-cn": "滑板 -IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17442,9 +17146,6 @@
 		"fr": "Nuage Magique - I",
 		"es": "",
 		"zh-cn": "浮云 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17464,9 +17165,6 @@
 		"fr": "Nuage Magique - II",
 		"es": "",
 		"zh-cn": "浮云 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17486,9 +17184,6 @@
 		"fr": "Nuage Magique - III",
 		"es": "",
 		"zh-cn": "浮云 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17508,9 +17203,6 @@
 		"fr": "Nuage Magique - IV",
 		"es": "",
 		"zh-cn": "浮云 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17530,9 +17222,6 @@
 		"fr": "Tapis Magique - I",
 		"es": "",
 		"zh-cn": "魔毯 - I",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17552,9 +17241,6 @@
 		"fr": "Tapis Magique - II",
 		"es": "",
 		"zh-cn": "魔毯 - II",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17574,9 +17260,6 @@
 		"fr": "Tapis Magique - III",
 		"es": "",
 		"zh-cn": "魔毯 - III",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17596,9 +17279,6 @@
 		"fr": "Tapis Magique - IV",
 		"es": "",
 		"zh-cn": "魔毯 - IV",
-=======
-		"zh-cn": "",
->>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -17729,14 +17409,9 @@
     },
     "item.1220.description":{
         "en":"This mythical creature is the most beautiful someone can get.",
-        "fr":"Cette créature mythique est la plus belle que l'on puisse posseder.",
-        "es":"",
-        "zh-cn":"这个神秘的生物是人们所能得到的最美丽的一种。",
-=======
         "fr":"Cette créature mythique est la plus belle que l'on puisse posséder.",
         "es":"",
-        "zh-cn":"",
->>>>>>> master
+        "zh-cn":"这个神秘的生物是人们所能得到的最美丽的一种。",
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -17752,15 +17427,10 @@
         "id":""
     },
     "item.1224.description":{
-        "en":"The God of Bur was using this Skateboard back then",
-        "fr":"Le dieu de Bur utilisait ce skateboard à l'époque",
+        "en":"The God Bur was using this Skateboard back then",
+        "fr":"Le Dieu Bur utilisait ce skateboard à l'époque",
         "es":"",
         "zh-cn":"瓦恩之神当时正在玩滑板",
-=======
-        "fr":"Le Dieu de Bur utilisait ce skateboard à l'époque",
-        "es":"",
-        "zh-cn":"",
->>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -17777,14 +17447,9 @@
     },
     "item.1225.description":{
         "en":"Many heroes are known for riding this magical creature, it can talk and help you in dangerous situation.",
-        "fr":"De nombreux héros sont connus par ce qu'ils chevauchent cette créature magique, elle peut parler et vous aider dans des situations dangereuses.",
-        "es":"",
-        "zh-cn":"许多英雄都以骑着这种神奇的生物而闻名，它可以在危机中说话并帮助你。",
-=======
         "fr":"De nombreux héros sont connus parce qu'ils chevauchent cette créature magique, elle peut parler et vous aider dans des situations dangereuses.",
         "es":"",
-        "zh-cn":"",
->>>>>>> master
+        "zh-cn":"许多英雄都以骑着这种神奇的生物而闻名，它可以在危机中说话并帮助你。",
         "zh-tw":"",
         "kr":"",
         "ru":"",
