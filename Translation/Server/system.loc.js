@@ -1089,6 +1089,25 @@ locale["system.consign.add.undefined-item"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.consign.add.spirit-has-books"] = {
+	"en":"You can't sell a spirit with books equiped.",
+	"fr":"Vous ne pouvez pas vendre un esprit ayan des livres equipé.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.consign.add.invalide-price"] = {
 	"en":"Item prices in consigns must be higher than 0 gold",
 	"fr":"Les prix des objects en vente doivent dépasser 0 Or",
