@@ -208,6 +208,25 @@
         "th":"",
         "id":"Status ENCH"
     },
+    "tooltip.item.bonus-reward":{
+        "en":"Bonus Reward",
+        "fr":"Récompenses Bonus",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "tooltip.item.maxCarried":{
         "en":"Max Items Carried",
         "fr":"Maximum Transporté",
