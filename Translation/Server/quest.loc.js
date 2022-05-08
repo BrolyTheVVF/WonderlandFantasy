@@ -3407,7 +3407,7 @@ locale["quest.43.texts.description"] = {
 	"en": ".",
 	"fr": ".",
 	"es": "",
-	"zh-cn": "",
+	"zh-cn": ".",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -5638,7 +5638,7 @@ locale["quest.70.texts.returnPopupMain"] = {
 	"en": ".....",
 	"fr": ".....",
 	"es": "",
-	"zh-cn": "",
+	"zh-cn": ".....",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -12162,7 +12162,7 @@ locale["quest.10007.texts.returnPopupMain"] = {
 	"en": "...",
 	"fr": "...",
 	"es": "",
-	"zh-cn": "",
+	"zh-cn": "...",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -12204,19 +12204,19 @@ locale["quest.1003.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage N
 locale["quest.1004.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 locale["quest.1005.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 
-locale["quest.1006.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1007.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1008.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1009.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1010.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1011.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1006.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1007.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1008.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1009.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1010.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1011.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
 
-locale["quest.1012.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1013.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1014.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1015.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1016.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1017.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1012.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1013.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1014.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1015.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1016.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1017.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
 
 //Lvl 5 part 1
 locale["quest.1000.texts.returnPopupMain"] = {
@@ -13669,8 +13669,8 @@ locale["quest.11000.texts.description"] = {
 locale["quest.11000.texts.returnPopupMain"] = {
 	"en": "...Actually, \"warm blanket\" is a metaphor. I do not mean a blanket. What? You blame me for not describing it clearly?<br><i>Quest will remove gear 'Fantastic Sandals'</i>",
 	"fr": "...En fait, «couverture chaude» est une métaphore. Je ne veux pas dire une couverture. Quoi? Vous me blâmez de ne pas l'avoir décrit clairement?<br><i>La quête va supprimer l'equipement 'Sandales Fantastiques'</i>",
-	"es": "...实际上,“温暖的毯子”是隐喻.我不是说一条毯子.什么? 你怪我描述得不清楚?<br><i>任务将移除装备 '普鲁姆披风'</i>",
-	"zh-cn": "",
+	"es": "",
+	"zh-cn": "...实际上,“温暖的毯子”是隐喻.我不是说一条毯子.什么? 你怪我描述得不清楚?<br><i>任务将移除装备 '普鲁姆披风'</i>",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
