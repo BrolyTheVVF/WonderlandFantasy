@@ -3767,6 +3767,10 @@
         "es":"",
         "zh-cn":"[精灵蛋] 蜜蜂",
         "zh-tw":"",
+=======
+        "zh-cn":"",
+        "zh-tw":"[精灵蛋] 蜜蜂",
+>>>>>>> master
         "kr":"",
         "ru":"",
         "tr":"",
@@ -8655,6 +8659,7 @@
         "ru":"",
         "tr":"",
         "de":"",
+=======
         "jp":"",
         "pt":"",
         "vi":"Đám Cưới (Nâu)",
@@ -8676,6 +8681,759 @@
         "jp":"",
         "pt":"",
         "vi":"Túp (Vàng Nhạt)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6057.name":{
+        "en":"Pompon (Green)",
+        "fr":"Pompon (Vert)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Túp (Lục)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6058.name":{
+        "en":"Cat Ears (Blond)",
+        "fr":"Oreilles de chat (Blond)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tai Mèo (Vàng Nhạt)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6059.name":{
+        "en":"Cat Ears (Pink)",
+        "fr":"Oreilles de chat (Rose)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tai Mèo (Hồng)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6060.name":{
+        "en":"Tilted Frisette (Red)",
+        "fr":"Frisette Inclinée (Rouge)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Vắt Chéo (Đỏ)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6061.name":{
+        "en":"Tilted Frisette (Purple)",
+        "fr":"Frisette Inclinée (Violet)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Vắt Chéo (Tím)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6062.name":{
+        "en":"Rabbit Ears (Blond)",
+        "fr":"Oreilles de Lapin (Blond)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tai Thỏ (Vàng Nhạt)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6063.name":{
+        "en":"Rabbit Ears (Grey)",
+        "fr":"Oreilles de Lapin (Gris)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tai Thỏ (Xám)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6064.name":{
+        "en":"Christmas Hat (Red)",
+        "fr":"Chapeau de Noël (Rouge)",
+        "es":"",
+        "zh-cn":"圣诞帽 (红)",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Mũ Giáng Sinh (Đỏ)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6065.name":{
+        "en":"Christmas Hat (Blue)",
+        "fr":"Chapeau de Noël (Bleu)",
+        "es":"",
+        "zh-cn":"圣诞帽 (蓝)",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Mũ Giáng Sinh (Lam)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6066.name":{
+        "en":"Christmas Hat (Purple)",
+        "fr":"Chapeau de Noël (Violet)",
+        "es":"",
+        "zh-cn":"圣诞帽 (紫)",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Mũ Giáng Sinh (Tím)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6067.name":{
+        "en":"NONAME",
+        "fr":"Sans nom",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"KHÔNGTÊN",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6068.name":{
+        "en":"NONAME",
+        "fr":"Sans nom",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"KHÔNGTÊN",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6069.name":{
+        "en":"NONAME",
+        "fr":"Sans nom",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"KHÔNGTÊN",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6070.name":{
+        "en":"NONAME",
+        "fr":"Sans nom",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"KHÔNGTÊN",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6071.name":{
+        "en":"Bat Ears (Black)",
+        "fr":"Oreilles de chauve-souris (Noir)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tai Dơi (Đen)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6072.name":{
+        "en":"Bat Ears (Blond)",
+        "fr":"Oreilles de chauve-souris (Blond)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tai Dơi (Vàng Nhạt)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6073.name":{
+        "en":"Carnival",
+        "fr":"Carnaval",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Lễ Hội Hóa Trang",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6074.name":{
+        "en":"Goku / Chun Li",
+        "fr":"Goku / Chun Li",
+        "es":"",
+        "zh-cn":"悟空/春丽",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Goku / Chun Li",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6075.name":{
+        "en":"Claude / Tifa",
+        "fr":"Claude / Tifa",
+        "es":"",
+        "zh-cn":"克劳德/蒂法",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Cloud / Tifa",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6076.name":{
+        "en":"Luffy / Hatsune",
+        "fr":"Luffy / Hatsune",
+        "es":"",
+        "zh-cn":"路飞/初音",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Luffy / Hatsune",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6077.name":{
+        "en":"Seiya / Athena",
+        "fr":"Seiya / Athena",
+        "es":"",
+        "zh-cn":"星矢/雅典娜",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Seiya / Athena",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6078.name":{
+        "en":"Golden Pegasus / Pandora",
+        "fr":"Golden Pegasus / Pandora",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Hoàng Kim Pegasus / Pandora",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6079.name":{
+        "en":"Wizard Hat",
+        "fr":"Chapeau de sorcier",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Mũ Phù Thủy",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6080.name":{
+        "en":"Dragon Skull",
+        "fr":"Crâne de dragon",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Đầu Lâu Rồng",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.7000.name":{
+        "en":"Minor Healing Potion",
+        "fr":"Potion de Guérison Mineure",
+        "es":"",
+        "zh-cn":"小型治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Слабое Лечебное Зелье",
+        "tr":"",
+        "de":"geringer Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Bé",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Kecil"
+    },
+    "item.7001.name":{
+        "en":"Lesser Healing Potion",
+        "fr":"Moyenne Potion de Guérison",
+        "es":"",
+        "zh-cn":"中型治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Малое Лечебное Зелье",
+        "tr":"",
+        "de":"kleiner Heiltrank",
+>>>>>>> master
+        "jp":"",
+        "pt":"",
+        "vi":"Đám Cưới (Nâu)",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.6056.name":{
+        "en":"Pompon (Blond)",
+        "fr":"Pompon (Blond)",
+        "es":"",
+        "zh-cn":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Túp (Vàng Nhạt)",
+=======
+        "id":"Ramuan Penyembuhan Sedang"
+    },
+    "item.7002.name":{
+        "en":"Healing Potion",
+        "fr":"Potion de Guérison",
+        "es":"",
+        "zh-cn":"治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Лечебное Зелье",
+        "tr":"",
+        "de":"Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan"
+    },
+    "item.7003.name":{
+        "en":"Greater Healing Potion",
+        "fr":"Grande Potion de Guérison",
+        "es":"",
+        "zh-cn":"大型治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Большое Лечебное Зелье",
+        "tr":"",
+        "de":"Höherer Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Nhiều",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Hebat"
+    },
+    "item.7004.name":{
+        "en":"Superior Healing Potion",
+        "fr":"Potion de Guérison Supérieure",
+        "es":"",
+        "zh-cn":"强效治疗药剂",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Превосходное Лечебное Зелье",
+        "tr":"",
+        "de":"Überlegener Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Cao Cấp",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Tinggi"
+    },
+    "item.7005.name":{
+        "en":"Major Healing Potion",
+        "fr":"Potion de Guérison Majeure",
+        "es":"",
+        "zh-cn":"极效治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Огромное Лечебное Зелье",
+        "tr":"",
+        "de":"Großer Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Lớn",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Besar"
+    },
+    "item.7006.name":{
+        "en":"Super Healing Potion",
+        "fr":"Super Potion de Guérison",
+        "es":"",
+        "zh-cn":"超级治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Супер Лечебное Зелье",
+        "tr":"",
+        "de":"Super Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Siêu Cấp",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Super"
+    },
+    "item.7007.name":{
+        "en":"Ultimate Healing Potion",
+        "fr":"Potion de Guérison Ultime",
+        "es":"",
+        "zh-cn":"终极治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Максимальное Лечебное Зелье",
+        "tr":"",
+        "de":"Ultimativer Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Thượng Cấp",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Ultimate"
+    },
+    "item.7008.name":{
+        "en":"Endless Healing Potion",
+        "fr":"Potion de Guérison Infinie",
+        "es":"",
+        "zh-cn":"永恒治疗药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Бесконечное Лечебное Зелье",
+        "tr":"",
+        "de":"Endloser Heiltrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Hồi Máu Bất Tận",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Penyembuhan Tak terbatas"
+    },
+    "item.7050.name":{
+        "en":"Instant Healing Flask",
+        "fr":"Flacon de Guérison Instantanée",
+        "es":"",
+        "zh-cn":"瞬回治疗药剂(小)",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Флакон Мгновенного Лечения",
+        "tr":"",
+        "de":"Instant Heilflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Hồi Máu Tức Thì",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Penyembuhan Instan"
+    },
+    "item.7051.name":{
+        "en":"Instant Greater Healing Flask",
+        "fr":"Grand Flacon de Guérison Instantanée",
+        "es":"",
+        "zh-cn":"瞬回治疗药剂(中)",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Средний Флакон Мгновенного Лечения",
+        "tr":"",
+        "de":"Höhere instant Heilflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Hồi Máu Tức Thì Nhiều",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Penyembuhan Instan Hebat"
+    },
+    "item.7052.name":{
+        "en":"Instant Major Healing Flask",
+        "fr":"Flacon de Guérison Instantanée Majeur",
+        "es":"",
+        "zh-cn":"瞬回治疗药剂(大)",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Большой Флакон Мгновенного Лечения",
+        "tr":"",
+        "de":"Große instant Heilflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Hồi Máu Tức Thì Lớn",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Penyembuhan Instan Besar"
+    },
+    "item.7053.name":{
+        "en":"Instant Quick Healing Flask",
+        "fr":"Flacon de Guérison Instantanée Rapide",
+        "es":"",
+        "zh-cn":"瞬回治疗药剂(强效)",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Великий Флакон Мгновенного Лечения",
+        "tr":"",
+        "de":"Instant Schnellheilflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Hồi Máu Tức Thì Cấp Tốc",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Penyembuhan Instan Cepat"
+    },
+    "item.7054.name":{
+        "en":"Instant Adv. Healing Flask",
+        "fr":"Flacon de Guérison Instantanée Avancé",
+        "es":"",
+        "zh-cn":"瞬回治疗药剂(终级)",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Наилучший Флакон Мгновенного Лечения",
+        "tr":"",
+        "de":"Fortgeschrittene instant Heilflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Hồi Máu Tức Thì Cao Cấp",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Penyembuhan Instan Tingkat Lanjut"
+    },
+    "item.7100.name":{
+        "en":"Magic Potion",
+        "fr":"Potion de Mana",
+        "es":"",
+        "zh-cn":"魔力药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Зелье Маны",
+        "tr":"",
+        "de":"Magietrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Năng Lượng",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Ramuan Mana"
+    },
+    "item.7101.name":{
+        "en":"Greater Magic Potion",
+        "fr":"Grande Potion de Mana",
+        "es":"",
+        "zh-cn":"大型魔力药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Среднее Зелье Маны",
+        "tr":"",
+        "de":"Höherer Magietrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Năng Lượng Nhiều",
+>>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -9393,6 +10151,23 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng",
+=======
+        "id":"Ramuan Mana Hebat"
+    },
+    "item.7102.name":{
+        "en":"Major Magic Potion",
+        "fr":"Potion de Mana Majeure",
+        "es":"",
+        "zh-cn":"极效魔力药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Большое Зелье Маны",
+        "tr":"",
+        "de":"Großer Magietrank",
+        "jp":"",
+        "pt":"",
+        "vi":"Thuốc Năng Lượng Lớn",
+>>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -9412,6 +10187,23 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng Nhiều",
+=======
+        "id":"Ramuan Mana Besar"
+    },
+    "item.7150.name":{
+        "en":"Instant Magic Flask",
+        "fr":"Flacon de Mana Instantané",
+        "es":"",
+        "zh-cn":"瞬回魔力药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Флакон Мгновенного Восстановления Маны",
+        "tr":"",
+        "de":"Instant Magieflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Năng Lượng Tức Thì",
+>>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -9431,6 +10223,23 @@
         "jp":"",
         "pt":"",
         "vi":"Thuốc Năng Lượng Lớn",
+=======
+        "id":"Ramuan Mana Instan"
+    },
+    "item.7151.name":{
+        "en":"Greater Instant Magic Flask",
+        "fr":"Grand Flacon de Mana Instantané",
+        "es":"",
+        "zh-cn":"大型瞬回魔力药水",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Большой Флакон Мгновенного Восстановления Маны",
+        "tr":"",
+        "de":"Höhere Instant Magieflasche",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Năng Lượng Tức Thì Nhiều",
+>>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -9450,6 +10259,23 @@
         "jp":"",
         "pt":"",
         "vi":"Bình Năng Lượng Tức Thì",
+=======
+        "id":"Ramuan Instan Hebat"
+    },
+    "item.7200.name":{
+        "en":"Double EXP Orb",
+        "fr":"Orbe Double EXP",
+        "es":"",
+        "zh-cn":"双倍经验丹",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Ngọc Gấp Đôi K.Nghiệm",
+>>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
@@ -9659,12 +10485,185 @@
         "jp":"",
         "pt":"",
         "vi":"Đá Celebream Lam Nứt",
+=======
+        "id":""
+    },
+    "item.7300.name":{
+        "en":"Swiftness Flask",
+        "fr":"Flacon de rapidité",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Nhanh Nhẹn",
+>>>>>>> master
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
         "id":"Retakan Celebeam Biru"
     },
+=======
+        "id":""
+    },
+    "item.7301.name":{
+        "en":"Combat Flask",
+        "fr":"Flacon de combat",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Chiến Đấu",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.7302.name":{
+        "en":"Fortitude Flask",
+        "fr":"Flacon de robustesse",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Bình Cường Hóa",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "item.10001.name":{
+        "en":"Yellow Celebeam Powder",
+        "fr":"Poudre de Celebeam Jaune",
+        "es":"",
+        "zh-cn":"黄色魔晶粉末",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Жёлтый Кристальный Порошок",
+        "tr":"",
+        "de":"Gelbes Celebeam Puder",
+        "jp":"",
+        "pt":"",
+        "vi":"Bột Celebeam Vàng",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Bubuk Celebeam Kuning"
+    },
+    "item.10002.name":{
+        "en":"Red Celebeam Powder",
+        "fr":"Poudre de Celebeam Rouge",
+        "es":"",
+        "zh-cn":"红色魔晶粉末",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Красный Кристальный Порошок",
+        "tr":"",
+        "de":"Rotes Celebeam Puder",
+        "jp":"",
+        "pt":"",
+        "vi":"Bột Celebeam Đỏ",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Bubuk Celebeam Merah"
+    },
+    "item.10003.name":{
+        "en":"Blue Celebeam Powder",
+        "fr":"Poudre de Celebeam Bleu",
+        "es":"",
+        "zh-cn":"蓝色魔晶粉末",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Голубой Кристальный Порошок",
+        "tr":"",
+        "de":"Blaues Celebeam Puder",
+        "jp":"",
+        "pt":"",
+        "vi":"Bột Celebeam Lam",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Bubuk Celebeam Biru"
+    },
+    "item.10004.name":{
+        "en":"Cracked Yellow Celebeam",
+        "fr":"Celebeam Jaune Fissuré",
+        "es":"",
+        "zh-cn":"黄色魔晶碎片",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Треснутый Жёлтый Кристалл",
+        "tr":"",
+        "de":"Zersprungener Gelber Celebeam",
+        "jp":"",
+        "pt":"",
+        "vi":"Đá Celebeam Vàng Nứt",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Retakan Celebeam Kuning"
+    },
+    "item.10005.name":{
+        "en":"Cracked Red Celebeam",
+        "fr":"Celebeam Rouge Fissuré",
+        "es":"",
+        "zh-cn":"红色魔晶碎片",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Треснутый Красный Кристалл",
+        "tr":"",
+        "de":"Zersprungener Roter Celebeam",
+        "jp":"",
+        "pt":"",
+        "vi":"Đá Celebeam Đỏ Nứt",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Retakan Celebeam Merah"
+    },
+    "item.10006.name":{
+        "en":"Cracked Blue Celebeam",
+        "fr":"Celebeam Bleu Fissuré",
+        "es":"",
+        "zh-cn":"蓝色魔晶碎片",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Треснутый Голубой Кристалл",
+        "tr":"",
+        "de":"Zersprungener Blauer Celebeam",
+        "jp":"",
+        "pt":"",
+        "vi":"Đá Celebream Lam Nứt",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Retakan Celebeam Biru"
+    },
+>>>>>>> master
     "item.10007.name":{
         "en":"Crude Yellow Celebeam",
         "fr":"Celebeam Jaune Brut",
@@ -14477,6 +15476,9 @@
         "fr":"Rocher Volant - II",
         "es":"",
         "zh-cn":"浮石 - II",
+=======
+        "zh-cn":"浮石 - I",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -14496,6 +15498,9 @@
         "fr":"Rocher Volant - II",
         "es":"",
         "zh-cn":"浮石 - II",
+=======
+        "zh-cn":"浮石 - I",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -14515,6 +15520,9 @@
         "fr":"Rocher Volant - II",
         "es":"",
         "zh-cn":"浮石 - II",
+=======
+        "zh-cn":"浮石 - I",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -14534,6 +15542,9 @@
         "fr":"Rocher Volant - III",
         "es":"",
         "zh-cn":"浮石 - III",
+=======
+        "zh-cn":"浮石 - I",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -14553,6 +15564,9 @@
         "fr":"Rocher Volant - III",
         "es":"",
         "zh-cn":"浮石 - III",
+=======
+        "zh-cn":"浮石 - I",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -14572,6 +15586,9 @@
         "fr":"Rocher Volant - III",
         "es":"",
         "zh-cn":"浮石 - III",
+=======
+        "zh-cn":"浮石 - I",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -14591,6 +15608,11 @@
 		"fr": "Chauve Souris - I",
 		"es": "",
 		"zh-cn": "蝙蝠 - I",
+=======
+		"fr": "Chauve-Souris - I",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14610,6 +15632,11 @@
 		"fr": "Chauve Souris - I",
 		"es": "",
 		"zh-cn": "蝙蝠 - I",
+=======
+		"fr": "Chauve-Souris - I",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14629,6 +15656,11 @@
 		"fr": "Chauve Souris - I",
 		"es": "",
 		"zh-cn": "蝙蝠 - I",
+=======
+		"fr": "Chauve-Souris - I",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14648,6 +15680,11 @@
 		"fr": "Chauve Souris - II",
 		"es": "",
 		"zh-cn": "蝙蝠 - II",
+=======
+		"fr": "Chauve-Souris - II",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14667,6 +15704,11 @@
 		"fr": "Chauve Souris - II",
 		"es": "",
 		"zh-cn": "蝙蝠 - II",
+=======
+		"fr": "Chauve-Souris - II",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14686,6 +15728,11 @@
 		"fr": "Chauve Souris - II",
 		"es": "",
 		"zh-cn": "蝙蝠 - II",
+=======
+		"fr": "Chauve-Souris - II",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14705,6 +15752,11 @@
 		"fr": "Chauve Souris - III",
 		"es": "",
 		"zh-cn": "蝙蝠 - III",
+=======
+		"fr": "Chauve-Souris - III",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14724,6 +15776,11 @@
 		"fr": "Chauve Souris - III",
 		"es": "",
 		"zh-cn": "蝙蝠 - III",
+=======
+		"fr": "Chauve-Souris - III",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14743,6 +15800,11 @@
 		"fr": "Chauve Souris - III",
 		"es": "",
 		"zh-cn": "蝙蝠 - III",
+=======
+		"fr": "Chauve-Souris - III",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14762,6 +15824,11 @@
 		"fr": "Chauve Souris - IV",
 		"es": "",
 		"zh-cn": "蝙蝠 - IV",
+=======
+		"fr": "Chauve-Souris - IV",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14781,6 +15848,11 @@
 		"fr": "Chauve Souris - IV",
 		"es": "",
 		"zh-cn": "蝙蝠 - IV",
+=======
+		"fr": "Chauve-Souris - IV",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14800,6 +15872,11 @@
 		"fr": "Chauve Souris - IV",
 		"es": "",
 		"zh-cn": "蝙蝠 - IV",
+=======
+		"fr": "Chauve-Souris - IV",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14814,12 +15891,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70021.name": {
 		"en": "Red Aircraft - I",
 		"fr": "Avion Rouge - I",
 		"es": "",
 		"zh-cn": "红色战斗机 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14839,6 +15918,9 @@
 		"fr": "Avion Orange - I",
 		"es": "",
 		"zh-cn": "橙色战斗机 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14858,6 +15940,9 @@
 		"fr": "Avion Violet - I",
 		"es": "",
 		"zh-cn": "紫色战斗机 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14877,6 +15962,9 @@
 		"fr": "Avion Rouge - II",
 		"es": "",
 		"zh-cn": "红色战斗机 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14896,6 +15984,9 @@
 		"fr": "Avion Orange - II",
 		"es": "",
 		"zh-cn": "橙色战斗机 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14915,6 +16006,9 @@
 		"fr": "Avion Violet - II",
 		"es": "",
 		"zh-cn": "紫色战斗机 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14934,6 +16028,9 @@
 		"fr": "Avion Rouge - III",
 		"es": "",
 		"zh-cn": "红色战斗机 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14953,6 +16050,9 @@
 		"fr": "Avion Orange - III",
 		"es": "",
 		"zh-cn": "橙色战斗机 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14972,6 +16072,9 @@
 		"fr": "Avion Violet - III",
 		"es": "",
 		"zh-cn": "紫色战斗机 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -14991,6 +16094,9 @@
 		"fr": "Avion Rouge - IV",
 		"es": "",
 		"zh-cn": "红色战斗机 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15010,6 +16116,9 @@
 		"fr": "Avion Orange - IV",
 		"es": "",
 		"zh-cn": "橙色战斗机 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15029,6 +16138,9 @@
 		"fr": "Avion Rouge - IV",
 		"es": "",
 		"zh-cn": "紫色战斗机 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15043,12 +16155,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70033.name": {
 		"en": "White Skeleton Dragon - I",
 		"fr": "Dragon Squelette Blanc - I",
 		"es": "",
 		"zh-cn": "白色骨龙 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15068,6 +16182,9 @@
 		"fr": "Dragon Squelette Noir - I",
 		"es": "",
 		"zh-cn": "黑色骨龙 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15087,6 +16204,9 @@
 		"fr": "Dragon Squelette Blanc - II",
 		"es": "",
 		"zh-cn": "白色骨龙 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15106,6 +16226,9 @@
 		"fr": "Dragon Squelette Noir - II",
 		"es": "",
 		"zh-cn": "黑色骨龙 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15125,6 +16248,9 @@
 		"fr": "Dragon Squelette Blanc - III",
 		"es": "",
 		"zh-cn": "白色骨龙 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15144,6 +16270,9 @@
 		"fr": "Dragon Squelette Noir - III",
 		"es": "",
 		"zh-cn": "黑色骨龙 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15163,6 +16292,9 @@
 		"fr": "Dragon Squelette Blanc - IV",
 		"es": "",
 		"zh-cn": "白色骨龙 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15182,6 +16314,9 @@
 		"fr": "Dragon Squelette Noir - IV",
 		"es": "",
 		"zh-cn": "黑色骨龙 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15196,12 +16331,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70041.name": {
 		"en": "Yellow Beetle - I",
 		"fr": "Scarabée Jaune - I",
 		"es": "",
 		"zh-cn": "黄色甲虫 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15221,6 +16358,9 @@
 		"fr": "Scarabée Violet Clair - I",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15240,6 +16380,9 @@
 		"fr": "Scarabée Violet - I",
 		"es": "",
 		"zh-cn": "紫色甲虫 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15259,6 +16402,9 @@
 		"fr": "Scarabée Jaune - II",
 		"es": "",
 		"zh-cn": "黄色甲虫 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15278,6 +16424,9 @@
 		"fr": "Scarabée Violet Clair - II",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15297,6 +16446,9 @@
 		"fr": "Scarabée Violet - II",
 		"es": "",
 		"zh-cn": "紫色甲虫 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15316,6 +16468,9 @@
 		"fr": "Scarabée Jaune - III",
 		"es": "",
 		"zh-cn": "黄色甲虫 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15335,6 +16490,9 @@
 		"fr": "Scarabée Violet Clair - III",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15354,6 +16512,9 @@
 		"fr": "Scarabée Violet - III",
 		"es": "",
 		"zh-cn": "紫色甲虫 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15373,6 +16534,9 @@
 		"fr": "Scarabée Jaune - IV",
 		"es": "",
 		"zh-cn": "黄色甲虫 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15392,6 +16556,9 @@
 		"fr": "Scarabée Violet Clair - IV",
 		"es": "",
 		"zh-cn": "亮紫甲虫 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15411,6 +16578,9 @@
 		"fr": "Scarabée Violet - IV",
 		"es": "",
 		"zh-cn": "紫色甲虫 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15425,12 +16595,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70053.name": {
 		"en": "Blue SnakeBird - I",
 		"fr": "Serpoiseau Bleu - I",
 		"es": "",
 		"zh-cn": "蓝色蛇鸟 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15450,6 +16622,9 @@
 		"fr": "Serpoiseau Violet - I",
 		"es": "",
 		"zh-cn": "紫色蛇鸟 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15469,6 +16644,9 @@
 		"fr": "Serpoiseau jaune - I",
 		"es": "",
 		"zh-cn": "黄色蛇鸟 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15488,6 +16666,9 @@
 		"fr": "Serpoiseau Bleu - II",
 		"es": "",
 		"zh-cn": "蓝色蛇鸟 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15507,6 +16688,9 @@
 		"fr": "Serpoiseau Violet - II",
 		"es": "",
 		"zh-cn": "紫色蛇鸟 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15526,6 +16710,9 @@
 		"fr": "Serpoiseau Jaune - II",
 		"es": "",
 		"zh-cn": "黄色蛇鸟 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15545,6 +16732,9 @@
 		"fr": "Serpoiseau Bleu - III",
 		"es": "",
 		"zh-cn": "蓝色蛇鸟 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15564,6 +16754,9 @@
 		"fr": "Serpoiseau Violet - III",
 		"es": "",
 		"zh-cn": "紫色蛇鸟 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15583,6 +16776,9 @@
 		"fr": "Serpoiseau Jaune - III",
 		"es": "",
 		"zh-cn": "黄色蛇鸟 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15597,12 +16793,16 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70062.name": {
 		"en": "Grey Magical Rock - I",
 		"fr": "Rocher Magique Grise - I",
 		"es": "",
 		"zh-cn": "灰色真·浮石 - I",
+=======
+		"fr": "Rocher Magique Gris - I",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15622,6 +16822,9 @@
 		"fr": "Rocher Magique Marron - I",
 		"es": "",
 		"zh-cn": "棕色真·浮石 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15641,6 +16844,9 @@
 		"fr": "Rocher Magique Vert - I",
 		"es": "",
 		"zh-cn": "绿色真·浮石 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15660,6 +16866,11 @@
 		"fr": "Rocher Magique Grise - II",
 		"es": "",
 		"zh-cn": "灰色真·浮石 - II",
+=======
+		"fr": "Rocher Magique Gris - II",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15679,6 +16890,9 @@
 		"fr": "Rocher Magique Marron - II",
 		"es": "",
 		"zh-cn": "棕色真·浮石 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15698,6 +16912,9 @@
 		"fr": "Rocher Magique Vert - II",
 		"es": "",
 		"zh-cn": "绿色真·浮石 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15717,6 +16934,11 @@
 		"fr": "Rocher Magique Grise - III",
 		"es": "",
 		"zh-cn": "灰色真·浮石 - III",
+=======
+		"fr": "Rocher Magique Gris - III",
+		"es": "",
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15736,6 +16958,9 @@
 		"fr": "Rocher Magique Marron - III",
 		"es": "",
 		"zh-cn": "棕色真·浮石 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15755,6 +16980,9 @@
 		"fr": "Rocher Magique Vert - III",
 		"es": "",
 		"zh-cn": "绿色真·浮石 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15769,12 +16997,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70071.name": {
 		"en": "Phoenix - I",
 		"fr": "Phoenix - I",
 		"es": "",
 		"zh-cn": "凤凰 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15794,6 +17024,9 @@
 		"fr": "Phoenix - II",
 		"es": "",
 		"zh-cn": "凤凰 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15813,6 +17046,9 @@
 		"fr": "Phoenix - III",
 		"es": "",
 		"zh-cn": "凤凰 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15832,6 +17068,9 @@
 		"fr": "Phoenix - IV",
 		"es": "",
 		"zh-cn": "凤凰 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15846,12 +17085,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70075.name": {
 		"en": "Blue Kite - I",
 		"fr": "Cerf-volant Bleu - I",
 		"es": "",
 		"zh-cn": "蓝风筝 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15871,6 +17112,9 @@
 		"fr": "Cerf-volant Orange - I",
 		"es": "",
 		"zh-cn": "橙风筝 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15890,6 +17134,9 @@
 		"fr": "Cerf-volant Blanc - I",
 		"es": "",
 		"zh-cn": "白风筝 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15909,6 +17156,9 @@
 		"fr": "Cerf-volant Bleu - II",
 		"es": "",
 		"zh-cn": "蓝风筝 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15928,6 +17178,9 @@
 		"fr": "Cerf-volant Orange - II",
 		"es": "",
 		"zh-cn": "橙风筝 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15947,6 +17200,9 @@
 		"fr": "Cerf-volant Blanc - II",
 		"es": "",
 		"zh-cn": "白风筝 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15966,6 +17222,9 @@
 		"fr": "Cerf-volant Bleu - III",
 		"es": "",
 		"zh-cn": "蓝风筝 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -15985,6 +17244,9 @@
 		"fr": "Cerf-volant Orange - III",
 		"es": "",
 		"zh-cn": "橙风筝 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16004,6 +17266,9 @@
 		"fr": "Cerf-volant Blanc - III",
 		"es": "",
 		"zh-cn": "白风筝 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16023,6 +17288,9 @@
 		"fr": "Cerf-volant Bleu - IV",
 		"es": "",
 		"zh-cn": "蓝风筝 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16042,6 +17310,9 @@
 		"fr": "Cerf-volant Orange - IV",
 		"es": "",
 		"zh-cn": "橙风筝 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16061,6 +17332,9 @@
 		"fr": "Cerf-volant Blanc - IV",
 		"es": "",
 		"zh-cn": "白风筝 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16075,12 +17349,14 @@
 		"th": "",
 		"id": ""
 	},
-
 	"item.70087.name": {
 		"en": "Skateboard - I",
 		"fr": "Skateboard - I",
 		"es": "",
 		"zh-cn": "滑板 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16100,6 +17376,9 @@
 		"fr": "Skateboard - II",
 		"es": "",
 		"zh-cn": "滑板 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16119,6 +17398,9 @@
 		"fr": "Skateboard - III",
 		"es": "",
 		"zh-cn": "滑板 -III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16138,6 +17420,9 @@
 		"fr": "Skateboard - IV",
 		"es": "",
 		"zh-cn": "滑板 -IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16157,6 +17442,9 @@
 		"fr": "Nuage Magique - I",
 		"es": "",
 		"zh-cn": "浮云 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16176,6 +17464,9 @@
 		"fr": "Nuage Magique - II",
 		"es": "",
 		"zh-cn": "浮云 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16195,6 +17486,9 @@
 		"fr": "Nuage Magique - III",
 		"es": "",
 		"zh-cn": "浮云 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16214,6 +17508,9 @@
 		"fr": "Nuage Magique - IV",
 		"es": "",
 		"zh-cn": "浮云 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16233,6 +17530,9 @@
 		"fr": "Tapis Magique - I",
 		"es": "",
 		"zh-cn": "魔毯 - I",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16252,6 +17552,9 @@
 		"fr": "Tapis Magique - II",
 		"es": "",
 		"zh-cn": "魔毯 - II",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16271,6 +17574,9 @@
 		"fr": "Tapis Magique - III",
 		"es": "",
 		"zh-cn": "魔毯 - III",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16290,6 +17596,9 @@
 		"fr": "Tapis Magique - IV",
 		"es": "",
 		"zh-cn": "魔毯 - IV",
+=======
+		"zh-cn": "",
+>>>>>>> master
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -16423,6 +17732,11 @@
         "fr":"Cette créature mythique est la plus belle que l'on puisse posseder.",
         "es":"",
         "zh-cn":"这个神秘的生物是人们所能得到的最美丽的一种。",
+=======
+        "fr":"Cette créature mythique est la plus belle que l'on puisse posséder.",
+        "es":"",
+        "zh-cn":"",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -16442,6 +17756,11 @@
         "fr":"Le dieu de Bur utilisait ce skateboard à l'époque",
         "es":"",
         "zh-cn":"瓦恩之神当时正在玩滑板",
+=======
+        "fr":"Le Dieu de Bur utilisait ce skateboard à l'époque",
+        "es":"",
+        "zh-cn":"",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -16461,6 +17780,11 @@
         "fr":"De nombreux héros sont connus par ce qu'ils chevauchent cette créature magique, elle peut parler et vous aider dans des situations dangereuses.",
         "es":"",
         "zh-cn":"许多英雄都以骑着这种神奇的生物而闻名，它可以在危机中说话并帮助你。",
+=======
+        "fr":"De nombreux héros sont connus parce qu'ils chevauchent cette créature magique, elle peut parler et vous aider dans des situations dangereuses.",
+        "es":"",
+        "zh-cn":"",
+>>>>>>> master
         "zh-tw":"",
         "kr":"",
         "ru":"",
@@ -18166,7 +19490,6 @@
         "th":"",
         "id":""
     },
-
     "item.35017.description":{
         "en":"Right click to get :<br> - Upgrade Gem [Lv. 40] x 5<br> - Advanced Upgrade Gem [Lv. 40]<br> - Revival x 2<br> - Elemental Gem x 3<br> - Daily Refresh x 2<br> - Gold x 6000",
         "fr":"Click droit pour obtenir:<br> - Gemme d'Amélioration [Lv. 40] x 5<br> Gemme d'Amélioration avancé [Lv. 40]<br> - Pierre de Résurrection x 2<br> - Gemme Élementaire x 3<br> - Rafraichisseur de Quêtes x 2<br> - Or x 6000",
@@ -18186,7 +19509,6 @@
         "th":"",
         "id":""
     },
-
     "item.40015.description":{
         "en":"A stone that contains magical power. Used to enter someone's spirit world.",
         "fr":"Une pierre qui contient un pouvoir magique. Utilisé pour entrer dans le monde spirituel de quelqu'un.",
