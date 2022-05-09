@@ -40,7 +40,7 @@ locale["WAC.notice.ban.temporary.definite"] = {
 };
 locale["WAC.notice.ban.auto-detect"] = {
 	"en": "The WAC system detected a suspicious activity and kicked you from the game.",
-	"fr": "",
+	"fr": "Le système WAC a detecté une activité suspecte et vous à ejecté du jeu.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -59,7 +59,7 @@ locale["WAC.notice.ban.auto-detect"] = {
 };
 locale["WAC.notice.ban.auto-detect.warning"] = {
 	"en": "The WAC system detected a suspicious activity and kicked you from the game, and a WAC warning has also been added to your account. This is definitive and cannot be revoked.",
-	"fr": "",
+	"fr": "Le système WAC a detecté une activité suspecte et vous à ejecté du jeu, et un avertissement WAV a été ajouté a votre compte. Cet avertissement est definitif et ne peut pas etre effacé.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
