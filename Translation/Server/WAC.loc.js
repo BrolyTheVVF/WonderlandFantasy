@@ -40,7 +40,7 @@ locale["WAC.notice.ban.temporary.definite"] = {
 };
 locale["WAC.notice.ban.auto-detect"] = {
 	"en": "The WAC system detected a suspicious activity and kicked you from the game.",
-	"fr": "Ce personnage est banis pendant {1}. Raison du ban: {0}",
+	"fr": "",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
