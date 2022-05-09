@@ -38,5 +38,43 @@ locale["WAC.notice.ban.temporary.definite"] = {
 	"th": "",
 	"id": ""
 };
+locale["WAC.notice.ban.auto-detect"] = {
+	"en": "The WAC system detected a suspicious activity and kicked you from the game.",
+	"fr": "Ce personnage est banis pendant {1}. Raison du ban: {0}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["WAC.notice.ban.auto-detect.warning"] = {
+	"en": "The WAC system detected a suspicious activity and kicked you from the game, and a WAC warning has also been added to your account. This is definitive and cannot be revoked.",
+	"fr": "",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
