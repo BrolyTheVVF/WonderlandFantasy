@@ -18114,6 +18114,25 @@
         "th":"",
         "id":""
     },
+    "item.20002.description":{
+        "en":"<i>It is said that this potion can reveal things that are hidden in plain sight</i>",
+        "fr":"<i>Il est dit que cette potion peut révéler des choses cachées à la vue de tous</i>",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.35010.description":{
         "en":"Right click to get :<br> - Healing Potion x 10<br> - Greater Magic Potion x 10<br> - Mini Teleport Crystal<br> - Black Magic x 2000",
         "fr":"Click droit pour obtenir:<br> - Potion de Soin x 10<br> - Grande Potion de Mana x 10<br> - Mini Cristal de Téléportation<br> - Magie Noire x 2000",
