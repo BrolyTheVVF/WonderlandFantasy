@@ -12023,6 +12023,83 @@ locale["quest.150.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.151.name"] = {
+	"en": "City of Mercenary (8)",
+	"fr": "Cité des mercenaires (8)",
+	"es": "",
+	"zh-cn": "佣兵之城 (8)",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Tay Sai (8)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.151.texts.objective"] = {
+	"en": "Go to the Burning Altar and report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Allez a l'Autel Brulant et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.151.texts.description"] = {
+	"en": "Run for your life before this beast wake up and find out we killed his top subordinates. Go and seek Elrik in the Burning Altar, he will help us!",
+	"fr": "Fuyez, sauvez-vous avant que cette bête ne se réveille et se rende compte que nous avons tué ses meilleurs subordonnés. Allez voir Elrik a l'Autel Brulant, il nous aideras!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.151.texts.returnPopupMain"] = {
+	"en": "What's the hurry? You did what? Ok, let's hold on for a minute...",
+	"fr": "Qu'est-ce qui presse? Vous avez fait quoi? Ok, attendez une minute...",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
