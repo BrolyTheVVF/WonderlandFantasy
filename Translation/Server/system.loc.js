@@ -827,7 +827,7 @@ locale["system.mail.consign.subject"] = {
 	"en":"One of your item has sold",
 	"fr":"Un de vos objet s'est vendu",
 	"es": "",
-	"zh-cn": "",
+	"zh-cn": "你的一件商品已经售出",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -1089,9 +1089,28 @@ locale["system.consign.add.undefined-item"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.consign.add.spirit-has-books"] = {
+	"en":"You can't sell a spirit with books equiped.",
+	"fr":"Vous ne pouvez pas vendre un esprit ayant des livres equipés.",
+	"es": "",
+	"zh-cn": "你不能出售带有天赋书的精灵",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.consign.add.invalide-price"] = {
 	"en":"Item prices in consigns must be higher than 0 gold",
-	"fr":"Les prix des objects en vente doivent dépasser 0 Or",
+	"fr":"Les prix des objets en vente doivent dépasser 0 Or",
 	"es": "",
 	"zh-cn": "寄售商品的价格必须高于0金币",
 	"zh-tw":"",
@@ -1110,7 +1129,7 @@ locale["system.consign.add.invalide-price"] = {
 };
 locale["system.consign.remove.undefined-item"] = {
 	"en":"The item you are trying to get can't be found",
-	"fr":"L'object que vous cherchez est introuvable",
+	"fr":"L'objet que vous cherchez est introuvable",
 	"es": "",
 	"zh-cn": "无法找到你要的道具",
 	"zh-tw":"",
@@ -1129,7 +1148,7 @@ locale["system.consign.remove.undefined-item"] = {
 };
 locale["system.consign.remove.undefined-system-error"] = {
 	"en":"An error occured when trying to remove the item from the consignment item list. Please try again later or contact an admin if the problem persist.",
-	"fr":"Une erreur est survenue pendant la supression de votre item de la list des ventes. Veuillez réessayer plus tard ou contacter un administrateur si le problème persiste.",
+	"fr":"Une erreur est survenue pendant la supression de votre item de la liste des ventes. Veuillez réessayer plus tard ou contactez un administrateur si le problème persiste.",
 	"es": "",
 	"zh-cn": "试图从寄售的道具列表中删除道具时出错。请稍后再试，如果问题仍然存在，请联系管理员。",
 	"zh-tw":"",
