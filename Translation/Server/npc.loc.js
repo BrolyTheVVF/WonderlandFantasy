@@ -4384,6 +4384,44 @@ locale["npc.100004.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100005.interact.BASIC_INTER1.choice"] = {
+	"en": "Strange rumor",
+	"fr": "Rumeure etrange",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100005.interact.BASIC_INTER1"] = {
+	"en": "This is weird, but I heard that there is a powerful monster that protect slimes in the Slime plain",
+	"fr": "C'est bizarre, mais j'ai entendu dire qu'il y a un monstre puissant qui protège les slimes dans la plaine de Slime",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100008.interact.baseText"] = {
 	"en": "Oh! Are you new here?",
 	"fr": "Oh! Est-tu nouveaux ici?",
