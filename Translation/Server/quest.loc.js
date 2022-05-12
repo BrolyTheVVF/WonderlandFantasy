@@ -12023,6 +12023,160 @@ locale["quest.150.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.151.name"] = {
+	"en": "City of Mercenary (8)",
+	"fr": "Cité des mercenaires (8)",
+	"es": "",
+	"zh-cn": "佣兵之城 (8)",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Tay Sai (8)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.151.texts.objective"] = {
+	"en": "Go to the Burning Altar and report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Allez a l'Autel Brulant et faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "前往炎龙祭坛并向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.151.texts.description"] = {
+	"en": "Run for your life before this beast wake up and find out we killed his top subordinates. Go and seek Elrik in the Burning Altar, he will help us!",
+	"fr": "Fuyez, sauvez-vous avant que cette bête ne se réveille et se rende compte que nous avons tué ses meilleurs subordonnés. Allez voir Elrik a l'Autel Brulant, il nous aideras!",
+	"es": "",
+	"zh-cn": "趁这畜生醒来发现我们杀了他的高级下属之前赶紧逃命吧。去在燃烧的祭坛上寻找埃尔里克，他会帮助我们的！",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.151.texts.returnPopupMain"] = {
+	"en": "What's the hurry? You did what? Ok, let's hold on for a minute...",
+	"fr": "Qu'est-ce qui presse? Vous avez fait quoi? Ok, attendez une minute...",
+	"es": "",
+	"zh-cn": "急什么？你做了什么？好的，我们等一下...",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.152.name"] = {
+	"en": "City of Mercenary (9)",
+	"fr": "Cité des mercenaires (9)",
+	"es": "",
+	"zh-cn": "佣兵之城 (9)",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thành Phố Tay Sai (9)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.152.texts.objective"] = {
+	"en": "Increase your level to 39, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Montez au niveau 39, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "提升至39级,然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Tăng cấp độ của bạn lên cấp 39, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.152.texts.description"] = {
+	"en": "I'm gonna have to go see the king and ask for help, maybe with all our ressources we can defeat him. While I'm working on that, for the trouble you made, you're gonna have to help me on my daily routine.",
+	"fr": "Je vais devoir aller voir le roi et demander de l'aide, peut-être qu'avec toute nos ressources on peut le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
+	"es": "",
+	"zh-cn": "我得去见国王寻求帮助，也许倾我所有我们能打败他。在这件事，因你制造的麻烦，你必须在日常生活中帮助我。",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.152.texts.returnPopupMain"] = {
+	"en": "Ok, let's start",
+	"fr": "Ok, commençons",
+	"es": "",
+	"zh-cn": "好的, 让我们开始吧！",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
