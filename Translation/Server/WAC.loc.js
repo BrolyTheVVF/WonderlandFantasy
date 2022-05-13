@@ -42,7 +42,7 @@ locale["WAC.notice.ban.auto-detect"] = {
 	"en": "The WAC system detected a suspicious activity and kicked you from the game.",
 	"fr": "Le système WAC a detecté une activité suspecte et vous a éjecté du jeu.",
 	"es": "",
-	"zh-cn": "WAC系统检测到可疑活动并将你踢出游戏.",
+	"zh-cn": "WAC系统检测到可疑活动并将你踢出游戏。",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
