@@ -727,6 +727,25 @@ locale["system.elements.already-maxed-out"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.elements.must-be-level"] = {
+	"en": "You must be level {0} to upgrade your elements again",
+	"fr": "Vous devez être niveau {0} pour monter votre element de nouveau",
+	"es": "",
+	"zh-cn": "必须达到 {0} 级才能再次升级元素",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.elements.requires-exp"] = {
 	"en":"You need {0} Element EXP to upgrade to the next level",
 	"fr":"Vous avez besoin de {0} EXP d'Élément pour passer au niveau suivant",
