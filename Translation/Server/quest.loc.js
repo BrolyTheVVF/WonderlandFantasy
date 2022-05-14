@@ -12063,7 +12063,7 @@ locale["quest.151.texts.objective"] = {
 };
 locale["quest.151.texts.description"] = {
 	"en": "Run for your life before this beast wake up and find out we killed his top subordinates. Go and seek Elrik in the Burning Altar, he will help us!",
-	"fr": "Fuyez, sauvez-vous avant que cette bête ne se réveille et se rende compte que nous avons tué ses meilleurs subordonnés. Allez voir Elrik a l'Autel Brulant, il nous aideras!",
+	"fr": "Fuyez! Sauvez-vous avant que cette bête ne s'éveille et réalise que nous avons tué ses meilleurs subordonnés. Rencontrez Elrik à l'Autel Brûlant, il nous aidera!",
 	"es": "",
 	"zh-cn": "趁这畜生醒来发现我们杀了他的高级下属之前赶紧逃命吧。去在燃烧的祭坛上寻找埃尔里克，他会帮助我们的！",
 	"zh-tw":"",
