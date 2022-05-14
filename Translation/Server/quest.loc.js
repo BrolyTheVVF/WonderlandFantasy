@@ -12063,7 +12063,7 @@ locale["quest.151.texts.objective"] = {
 };
 locale["quest.151.texts.description"] = {
 	"en": "Run for your life before this beast wake up and find out we killed his top subordinates. Go and seek Elrik in the Burning Altar, he will help us!",
-	"fr": "Fuyez, sauvez-vous avant que cette bête ne se réveille et se rende compte que nous avons tué ses meilleurs subordonnés. Allez voir Elrik a l'Autel Brulant, il nous aideras!",
+	"fr": "Fuyez! Sauvez-vous avant que cette bête ne s'éveille et réalise que nous avons tué ses meilleurs subordonnés. Rencontrez Elrik à l'Autel Brûlant, il nous aidera!",
 	"es": "",
 	"zh-cn": "趁这畜生醒来发现我们杀了他的高级下属之前赶紧逃命吧。去在燃烧的祭坛上寻找埃尔里克，他会帮助我们的！",
 	"zh-tw":"",
@@ -12140,7 +12140,7 @@ locale["quest.152.texts.objective"] = {
 };
 locale["quest.152.texts.description"] = {
 	"en": "I'm gonna have to go see the king and ask for help, maybe with all our ressources we can defeat him. While I'm working on that, for the trouble you made, you're gonna have to help me on my daily routine.",
-	"fr": "Je vais devoir aller voir le roi et demander de l'aide, peut-être qu'avec toute nos ressources on peut le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
+	"fr": "Je vais devoir aller voir le roi pour demander de l'aide, c'est peut-être avec toutes nos ressources que nous pourrons le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
 	"es": "",
 	"zh-cn": "我得去见国王寻求帮助，也许倾我所有我们能打败他。在这件事，因你制造的麻烦，你必须在日常生活中帮助我。",
 	"zh-tw": "",

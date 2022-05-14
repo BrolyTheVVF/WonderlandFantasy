@@ -4386,7 +4386,7 @@ locale["npc.100004.interact.baseText"] = {
 };
 locale["npc.100005.interact.BASIC_INTER1.choice"] = {
 	"en": "Strange rumor",
-	"fr": "Rumeure etrange",
+	"fr": "Rumeur étrange",
 	"es": "",
 	"zh-cn": "奇异谣言",
 	"zh-tw":"",

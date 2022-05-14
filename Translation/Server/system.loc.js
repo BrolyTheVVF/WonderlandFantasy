@@ -519,7 +519,7 @@ locale["system.instance.notFound"] = {
 };
 locale["system.instance.wrongGroupType"] = {
 	"en":"Cannot create an instance lobby with the type of group you are in",
-	"fr":"Impossible de créer un lobby d'instance avec le type de group dans lequel vous êtes",
+	"fr":"Impossible de créer un lobby d'instance avec le type de groupe dans lequel vous êtes",
 	"es": "",
 	"zh-cn": "无法以您所在队伍创建副本大厅",
 	"zh-tw":"",
@@ -576,7 +576,7 @@ locale["system.instance.mustBeLeader"] = {
 };
 locale["system.instance.delete.no_valid_instance"] = {
 	"en":"You cannot delete your instance because you are not in a group or you have no instance started",
-	"fr":"Vous ne pouvez pas cloturer d'instance parce que vous n'êtes pas en groupe ou que vous n'avez pas d'instance en cours.",
+	"fr":"Vous ne pouvez pas clôturer d'instance parce que vous n'êtes pas en groupe ou que vous n'avez pas d'instance en cours.",
 	"es": "",
 	"zh-cn": "您无法删除副本，因为您未组队或未开启副本",
 	"zh-tw":"",
@@ -633,7 +633,7 @@ locale["system.instance.not_done"] = {
 };
 locale["system.instance.cardReward.no_turn_left"] = {
 	"en":"You have no more card to turn",
-	"fr":"Vous n'avez plus aucune carte a retourner",
+	"fr":"Vous n'avez plus aucune carte à retourner",
 	"es": "",
 	"zh-cn": "你没有更多的牌能翻了",
 	"zh-tw":"",
@@ -729,7 +729,7 @@ locale["system.elements.already-maxed-out"] = {
 };
 locale["system.elements.must-be-level"] = {
 	"en": "You must be level {0} to upgrade your elements again",
-	"fr": "Vous devez être niveau {0} pour monter votre element de nouveau",
+	"fr": "Vous devez être niveau {0} pour monter votre élément de nouveau",
 	"es": "",
 	"zh-cn": "必须达到 {0} 级才能再次升级元素",
 	"zh-tw": "",
@@ -787,7 +787,7 @@ locale["system.fortify.invalid-parameter"] = {
 };
 locale["system.fortify.already-maxed-out"] = {
 	"en":"This gear is already maxed out",
-	"fr":"Cet équipement est déjà monté au maximum",
+	"fr":"Cet équipement est déjà amélioré au maximum",
 	"es": "",
 	"zh-cn": "此装备已耗尽",
 	"zh-tw":"",
@@ -863,7 +863,7 @@ locale["system.mail.consign.subject"] = {
 };
 locale["system.mail.consign.content"] = {
 	"en":"The item {0} has been sold to {1} for {2} Gold",
-	"fr":"L'objet {0} a été vendu à {1} pour un montent de {2} Or",
+	"fr":"L'objet {0} a été vendu à {1} pour un montant de {2} Or",
 	"es": "",
 	"zh-cn": "物品{0} 已以{2} 金币的价格卖给 {1} ",
 	"zh-tw":"",
@@ -901,7 +901,7 @@ locale["system.mail.consign.bought-subject"] = {
 };
 locale["system.mail.consign.bought-content"] = {
 	"en":"You just bought the item {0} for {1} Gold",
-	"fr":"Vous avez acheté l'objet {0} pour un montent de {1} Or",
+	"fr":"Vous avez acheté l'objet {0} pour un montant de {1} Or",
 	"es": "",
 	"zh-cn": "你刚刚以 {1}黄金的价格购买了 {0} 物品",
 	"zh-tw":"",
@@ -1034,7 +1034,7 @@ locale["system.mail.onlineTimeReward.subject"] = {
 };
 locale["system.mail.onlineTimeReward.content"] = {
 	"en":"Your bag was full and the item {0} was sent by mail",
-	"fr":"Votre sac etait plein et l'object {0} vous as été envoyé par courrier",
+	"fr":"Votre sac est plein et l'objet {0} a été envoyé par courrier",
 	"es": "",
 	"zh-cn": "您的背包已满，物品{0}已通过邮件发送.",
 	"zh-tw":"",
@@ -1091,7 +1091,7 @@ locale["system.item.split.invalid-qty"] = {
 };
 locale["system.consign.add.undefined-item"] = {
 	"en":"The item you are trying to add to your consign can't be found",
-	"fr":"L'object que vous voulez ajouter a vos ventes est introuvable",
+	"fr":"L'objet que vous voulez ajouter à vos ventes est introuvable",
 	"es": "",
 	"zh-cn": "找不到您试图添加到寄售中的物品",
 	"zh-tw":"",
@@ -1110,7 +1110,7 @@ locale["system.consign.add.undefined-item"] = {
 };
 locale["system.consign.add.spirit-has-books"] = {
 	"en":"You can't sell a spirit with books equiped.",
-	"fr":"Vous ne pouvez pas vendre un esprit ayant des livres equipés.",
+	"fr":"Vous ne pouvez pas vendre un esprit ayant des livres équipés.",
 	"es": "",
 	"zh-cn": "你不能出售带有天赋书的精灵",
 	"zh-tw":"",
