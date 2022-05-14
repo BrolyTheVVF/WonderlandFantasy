@@ -12140,7 +12140,7 @@ locale["quest.152.texts.objective"] = {
 };
 locale["quest.152.texts.description"] = {
 	"en": "I'm gonna have to go see the king and ask for help, maybe with all our ressources we can defeat him. While I'm working on that, for the trouble you made, you're gonna have to help me on my daily routine.",
-	"fr": "Je vais devoir aller voir le roi et demander de l'aide, peut-être qu'avec toute nos ressources on peut le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
+	"fr": "Je vais devoir aller voir le roi pour demander de l'aide, c'est peut-être avec toutes nos ressources que nous pourrons le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
 	"es": "",
 	"zh-cn": "我得去见国王寻求帮助，也许倾我所有我们能打败他。在这件事，因你制造的麻烦，你必须在日常生活中帮助我。",
 	"zh-tw": "",

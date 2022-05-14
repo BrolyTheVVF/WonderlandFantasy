@@ -760,8 +760,8 @@
         "id":"EVA"
     },
     "UI.stat.EVA.explanation":{
-        "en":"Increases your chances of dodging normal attacks. Dodging a normal attack cancels its effects. Countered by ACC.",
-        "fr":"Augmente vos chances d'esquiver les attaques normales. Esquiver une attaque normale annule ses effets. Contré par la PRE",
+        "en":"Increases your chances of dodging normal attacks by X%. Dodging a normal attack cancels its effects. Countered by ACC.",
+        "fr":"Augmente vos chances d'esquiver les attaques normales de X%. Esquiver une attaque normale annule ses effets. Contré par la PRE",
         "es":"",
         "zh-cn":"增加你闪避敌人普通攻击的机率.并免疫普通攻击的效果.闪避效果会被敌人的命中加成所削减.",
         "zh-tw":"",
@@ -817,8 +817,8 @@
         "id":"Skill EVA"
     },
     "UI.stat.SKILL_EVA.explanation":{
-        "en":"Increases your chances of dodging a skill. Dodging a normal attack cancels its effects. Countered by Skill ACC.",
-        "fr":"Augmente vos chances d'esquiver les compétences. Esquiver une compétence annule ses effets. Contré par la PRE Comp",
+        "en":"Increases your chances of dodging a skill by X%. Dodging a normal attack cancels its effects. Countered by Skill ACC.",
+        "fr":"Augmente vos chances d'esquiver les compétences de X% . Esquiver une compétence annule ses effets. Contré par la PRE Comp",
         "es":"",
         "zh-cn":"增加你闪避敌人技能的概率.并免疫技能攻击的效果.闪避效果会被敌人的技能命中加成所削弱.",
         "zh-tw":"",
@@ -1312,7 +1312,7 @@
     },
     "UI.stat.HOLY_ATK.short":{
         "en":"Holy ATK",
-        "fr":"ATK Sacrée",
+        "fr":"ATQ Sacrée",
         "es":"",
         "zh-cn":"神圣攻击",
         "zh-tw":"",
@@ -1350,7 +1350,7 @@
     },
     "UI.stat.HOLY_DEF":{
         "en":"Holy Defence",
-        "fr":"Défenses sacrée",
+        "fr":"Défense Sacrée",
         "es":"",
         "zh-cn":"神圣防御",
         "zh-tw":"",
