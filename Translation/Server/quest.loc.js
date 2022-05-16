@@ -12177,6 +12177,83 @@ locale["quest.152.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.153.name"] = {
+	"en": "Desert Chores (1)",
+	"fr": "Corvées Désertiques (1)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.153.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='65'>Baby Dragon</span> at the Burning Altar, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='65'>Bébé Dragon</span> a l'Autel Brulant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.153.texts.description"] = {
+	"en": "The legend says that a dragon laid eggs in these regions before being killed, or fleeing, I don't know. In any case, I know that it is up to me to do the cleaning. But since you're here, you'll be able to help me.",
+	"fr": "La legende dit qu'un dragon a pondu des oeuf dans ces contrés avant de se faire tuer, ou de fuir, je ne sais plus. En tout cas je sais que c'est a moi de faire le menage. Mais puisque vous êtes la, vous allez pouvoir m'aider.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.153.texts.returnPopupMain"] = {
+	"en": "Not bad at all, I think this is gonna be a good day for both of us.",
+	"fr": "Pas mal du tout, je pense que ça va être une bonne journée pour nous deux.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
