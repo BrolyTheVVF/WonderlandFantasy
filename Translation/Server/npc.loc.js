@@ -4407,7 +4407,7 @@ locale["npc.100005.interact.BASIC_INTER1"] = {
 	"en": "This is weird, but I heard that there is a powerful monster that protect slimes in the Slime plain. Some also said it can't be seen by normal humans.",
 	"fr": "C'est bizarre, mais j'ai entendu dire qu'il y a un monstre puissant qui protège les slimes dans la plaine de Slime. Certains disent aussi qu'il ne peut être vu a des humain normaux.",
 	"es": "",
-	"zh-cn": "这很奇怪，但我听说有一个强大的怪物在史莱姆平原保护史莱姆.",
+	"zh-cn": "这很奇怪，但我听说有一个强大的怪物在史莱姆平原保护史莱姆.一些人还说，正常人看不到它。",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
