@@ -12102,7 +12102,7 @@ locale["quest.151.texts.returnPopupMain"] = {
 
 locale["quest.152.name"] = {
 	"en": "City of Mercenary (9)",
-	"fr": "Cité des mercenaires (9)",
+	"fr": "Cité des Mercenaires (9)",
 	"es": "",
 	"zh-cn": "佣兵之城 (9)",
 	"zh-tw":"",
@@ -12140,7 +12140,7 @@ locale["quest.152.texts.objective"] = {
 };
 locale["quest.152.texts.description"] = {
 	"en": "I'm gonna have to go see the king and ask for help, maybe with all our ressources we can defeat him. While I'm working on that, for the trouble you made, you're gonna have to help me on my daily routine.",
-	"fr": "Je vais devoir aller voir le roi pour demander de l'aide, c'est peut-être avec toutes nos ressources que nous pourrons le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
+	"fr": "J'irai à la rencontre du roi pour demander de l'aide, c'est peut-être avec toutes nos ressources que nous pourrons le vaincre. Pendant que je travaille là-dessus, pour les ennuis que vous avez causés, vous allez devoir m'aider dans ma routine quotidienne.",
 	"es": "",
 	"zh-cn": "我得去见国王寻求帮助，也许倾我所有我们能打败他。在这件事，因你制造的麻烦，你必须在日常生活中帮助我。",
 	"zh-tw": "",
@@ -12198,7 +12198,7 @@ locale["quest.153.name"] = {
 };
 locale["quest.153.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='65'>Baby Dragon</span> at the Burning Altar, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='65'>Bébé Dragon</span> a l'Autel Brulant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='65'>Bébé Dragon</span> a l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -12217,7 +12217,7 @@ locale["quest.153.texts.objective"] = {
 };
 locale["quest.153.texts.description"] = {
 	"en": "The legend says that a dragon laid eggs in these regions before being killed, or fleeing, I don't know. In any case, I know that it is up to me to do the cleaning. But since you're here, you'll be able to help me.",
-	"fr": "La legende dit qu'un dragon a pondu des oeuf dans ces contrés avant de se faire tuer, ou de fuir, je ne sais plus. En tout cas je sais que c'est a moi de faire le menage. Mais puisque vous êtes la, vous allez pouvoir m'aider.",
+	"fr": "La légende dit qu'un dragon a pondu des oeufs dans ces contrés avant de se faire tuer, ou de fuir, je ne sais plus. En tout cas je sais que c'est a moi de faire le ménage. Mais puisque vous êtes là, vous allez pouvoir m'aider.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
