@@ -2090,8 +2090,8 @@
         "id":"Pisah"
     },
     "UI.windows.bag.button.fortification":{
-        "en":"Fort.",
-        "fr":"Fort.",
+        "en":"Fortify",
+        "fr":"Fortifier",
         "es":"",
         "zh-cn":"强化",
         "zh-tw":"",
