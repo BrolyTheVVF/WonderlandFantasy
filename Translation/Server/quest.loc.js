@@ -21,7 +21,7 @@ locale["quest.0.name"] = {
 };
 locale["quest.0.texts.objective"] = {
 	"en": "Village Chief <span class='text-link' data-target-type='npc' data-target-id='100001'>Tamus</span> is excepting you. Talk to him.",
-	"fr": "Le Chef du village <span class='text-link' data-target-type='npc' data-target-id='100001'>Tom</span> vous recherche. Allez lui parler.",
+	"fr": "Le Chef du village <span class='text-link' data-target-type='npc' data-target-id='100001'>Tom</span> vous cherche. Allez lui parler.",
 	"es": "",
 	"zh-cn": "村长 <span class='text-link' data-target-type='npc' data-target-id='100001'>塔姆斯</span> 正在找你. 和他去对话吧.",
 	"zh-tw":"",
@@ -40,7 +40,7 @@ locale["quest.0.texts.objective"] = {
 };
 locale["quest.0.texts.description"] = {
 	"en": "Welcome to Mirelia. This place is called Treefolk Town. It is a part of the Cain Kingdom, which is a part of a religious kingdom worshipping the God of Creation Bur. Talk to the Village Chief for more details.",
-	"fr": "Bienvenue dans le monde de Mirelia. Ici, c'est la ville de de l'arbre monde, domaine du Royaume de Kane, qui fait partie d'un Royaume religieux qui croit au dieu de la création, Bur. Demande plus de renseignements au chef.",
+	"fr": "Bienvenue dans le monde de Mirelia, au village de l'Arbre Monde, sur le territoire de Kane, un domaine appartenant au Royaume Religieux quoi croit au Dieu de la Création, Bur. Demandez au chef de vous en dire plus.",
 	"es": "",
 	"zh-cn": "欢迎来到米雷利亚世界,这里是古树镇——凯恩王国领地,这是一个信奉创世神瓦恩的宗教国家.去找村长了解更多吧",
 	"zh-tw":"",
@@ -117,7 +117,7 @@ locale["quest.1.texts.objective"] = {
 };
 locale["quest.1.texts.description"] = {
 	"en": "So, you are here for adventures ? I love passionate adventurers!</br>I can teach you some skills to survive on this world.</br></br>Go talk to Garnias near the entrance of the village, and she will teach you something.",
-	"fr": "Tu dis que tu viens pour l'aventure? Je préfère les aventuriers passionnées, je peux t'enseigner certaines capacités de survie dans ce monde. Va chercher le garde Galnas à l'entrée du village, il va t'enseigner beaucoup de choses.",
+	"fr": "Tu prétends venir pour l'aventure ? Je préfère les aventuriers passionnés, je peux t'enseigner certaines capacités pour survivre dans ce monde. Va chercher Galnas à l'entrée du village, il va t'enseigner beaucoup de choses.",
 	"es": "",
 	"zh-cn": "在这个充满了新奇和冒险的世界里,学会如何战斗将是最基本的生存方法.</br></br>老村长会告诉你在村口的美丽嘉烈娜斯大姐那里或许会找到答案.",
 	"zh-tw":"",
@@ -194,7 +194,7 @@ locale["quest.2.texts.objective"] = {
 };
 locale["quest.2.texts.description"] = {
 	"en": "Hey! Look at you, my lovely kid. You are unarmed. You will get eaten by those monsters without a weapon.</br>Open your bag and equip your weapon.",
-	"fr": "Oyez Oyez mon enfant ! Vous vous baladez les mains vides, même pas une arme, vous serez prochainement égorgé par les monstres ! Cherchez donc dans votre sac à dos et équipez-vous d'une arme adaptée !",
+	"fr": "Oyez Oyez mon enfant ! Vous vous baladez les mains vides ? Sans armes, les monstres ne manqueront pas à vous égorger ! Cherchez donc dans votre sac à dos et équipez-vous d'une arme adaptée !",
 	"es": "",
 	"zh-cn": "嘿! 看看你,我可爱的孩子.你手无寸铁.没有武器你会被那些怪物吃掉的.打开背包,装备你的武器.",
 	"zh-tw":"",
@@ -290,7 +290,7 @@ locale["quest.3.texts.objective"] = {
 };
 locale["quest.3.texts.description"] = {
 	"en": "To survive in Mirelia, you need to hunt those monster.</br>You will get food and materials from them.",
-	"fr": "Pour survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des matériaux et des équipements en les tuant.",
+	"fr": "Afin survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des matériaux et des équipements en les tuant.",
 	"es": "",
 	"zh-cn": "想在米雷利亚大陆生存,你需猎杀那些怪物.</br>你会从怪物身上获得食物和材料.",
 	"zh-tw":"",
