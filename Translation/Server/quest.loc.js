@@ -12331,6 +12331,83 @@ locale["quest.154.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.155.name"] = {
+	"en": "Desert Chores (3)",
+	"fr": "Corvées Désertiques (3)",
+	"es": "",
+	"zh-cn": "沙漠日常 (3)",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.155.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='66'>Burning Mummy</span> at the Burning Altar, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='66'>Momie Enflammée</span> a l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "在炎龙祭坛杀死一些<span class='text-link' data-target-type='mob' data-target-id='66'>燃烧木乃伊</span>, 然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.155.texts.description"] = {
+	"en": "Hey! Would you look at that! It seems someone put the Byron Mummies on fire, but it didn't really help. They look much stronger now!",
+	"fr": "Hé! Regardez-moi ça! On dirait que quelqu'un a mis le feu aux momies Byron, mais ça ne nous as pas vraiment aidé. Elles ont l'air beaucoup plus fortes maintenant!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.155.texts.returnPopupMain"] = {
+	"en": "I don't know who did that, but I better find him before it become out of control!",
+	"fr": "Je ne sais pas qui a fait ca, mais je ferais mieux de trouver le responsable avant que la situation ne dégénère!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
