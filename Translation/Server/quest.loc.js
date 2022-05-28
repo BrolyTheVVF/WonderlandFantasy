@@ -12254,6 +12254,83 @@ locale["quest.153.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.154.name"] = {
+	"en": "Desert Chores (2)",
+	"fr": "Corvées Désertiques (2)",
+	"es": "",
+	"zh-cn": "沙漠日常 (2)",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.154.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='64'>Byron Warrior Spirit</span> at the Burning Altar, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='64'>Esprit Guerrier de Byron</span> a l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "在炎龙祭坛杀死一些<span class='text-link' data-target-type='mob' data-target-id='64'>拜伦精灵战士</span>, 然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.154.texts.description"] = {
+	"en": "You are showing some potential, but let's see what you can do against some lost spirits.",
+	"fr": "Vous montrez un certain potentiel, mais voyons ce que vous pouvez faire contre des esprits perdus.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.154.texts.returnPopupMain"] = {
+	"en": "Great, may they rest in peace, legends tell us that Byron Warrio's were among the fiercest of this continent. They deserved to be finished by someone your rank. Thanks!",
+	"fr": "Bien, qu'ils reposent en paix, les légendes nous racontent que les guerriers de Byron étaient parmi les plus féroces de ce continent. Ils méritaient d'être achevés par quelqu'un de votre rang. Merci!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
