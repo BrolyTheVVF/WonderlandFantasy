@@ -5222,6 +5222,25 @@ locale["npc.241008.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.241009.name"] = {
+	"en": "Henbane",
+	"fr": "Henbane",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999999.name"] = {
