@@ -12485,6 +12485,83 @@ locale["quest.156.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.157.name"] = {
+	"en": "Desert Chores (5)",
+	"fr": "Corvées Désertiques (5)",
+	"es": "",
+	"zh-cn": "沙漠日常 (5)",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.157.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='69'>Ostrider</span> at the Endless Desert, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='69'>Ostrider</span> au Desert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.157.texts.description"] = {
+	"en": "Part of my daily routine is to reduce the Ostrider population in the Endless Desert, to prevent them from leaving it. Please help me kill some of them.",
+	"fr": "Une partie de ma routine journalière est de reduire la population d'Ostrider dans le Desert Sans Fin, pour eviter qu'ils en partent. Aidez moi a en tuer quelques uns.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.157.texts.returnPopupMain"] = {
+	"en": "Hmmm, It seems that some monsters came out of the Fiery Tower.",
+	"fr": "Hmmm, on dirait que certains monstres se sont échapés de la Tour de Feu.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
