@@ -12408,6 +12408,83 @@ locale["quest.155.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.156.name"] = {
+	"en": "Desert Chores (4)",
+	"fr": "Corvées Désertiques (4)",
+	"es": "",
+	"zh-cn": "沙漠日常 (4)",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.156.texts.objective"] = {
+	"en": "Collect an Henbane in the Endless Desert, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Recolter une Henbane dans le Desert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.156.texts.description"] = {
+	"en": "My daily duty is to gather some special herbs and fruits. They are used by the king's alchemist to make all sorts of useful potions. There is one fruit that grow in the endless desert. Can you bring it to me?",
+	"fr": "Mon devoir quotidien est de cueillir des herbes et des fruits spéciaux. Ils sont utilisés par l'alchimiste du roi pour fabriquer toutes sortes de potions utiles. Il y a un fruit qui pousse dans le Desert Sans Fin. Pouvez vous me le rapporter?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.156.texts.returnPopupMain"] = {
+	"en": "Thanks! Last time I lost 3 hours to find one and get through my daily quota.",
+	"fr": "Merci! La dernière fois, j'ai perdu 3 heures pour en trouver un et remplir mon quota quotidien.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
