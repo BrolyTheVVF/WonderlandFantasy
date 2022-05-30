@@ -12562,6 +12562,83 @@ locale["quest.157.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.158.name"] = {
+	"en": "Desert Chores (6)",
+	"fr": "Corvées Désertiques (6)",
+	"es": "",
+	"zh-cn": "沙漠日常 (6)",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.158.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='68'>Sand Minion</span> at the Endless Desert, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='68'>Serviteur des Sables</span> au Desert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.158.texts.description"] = {
+	"en": "I don't know how did they got out of the Fiery Tower, but we need to stop them. There are so many of them!",
+	"fr": "Je ne sais pas comment ils sont sortis de la Tour Fiery, mais nous devons les arrêter. Il y a beaucoup d'entre eux!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.158.texts.returnPopupMain"] = {
+	"en": "I don't know how they got out, but we stopped them for good, I think.",
+	"fr": "Je ne sais pas comment ils sont sortis, mais nous les avons arrêtés pour de bon, je pense.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
