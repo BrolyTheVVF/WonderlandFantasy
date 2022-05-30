@@ -12602,7 +12602,7 @@ locale["quest.158.texts.objective"] = {
 };
 locale["quest.158.texts.description"] = {
 	"en": "I don't know how did they got out of the Fiery Tower, but we need to stop them. There are so many of them!",
-	"fr": "Je ne sais pas comment ils sont sortis de la Tour Fiery, mais nous devons les arrêter. Il y a beaucoup d'entre eux!",
+	"fr": "Je ne sais pas comment ils sont sortis de la Tour de Feu, mais nous devons les arrêter. Il y a beaucoup d'entre eux!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -12622,6 +12622,83 @@ locale["quest.158.texts.description"] = {
 locale["quest.158.texts.returnPopupMain"] = {
 	"en": "I don't know how they got out, but we stopped them for good, I think.",
 	"fr": "Je ne sais pas comment ils sont sortis, mais nous les avons arrêtés pour de bon, je pense.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.159.name"] = {
+	"en": "Desert Chores (7)",
+	"fr": "Corvées Désertiques (7)",
+	"es": "",
+	"zh-cn": "沙漠日常 (7)",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.159.texts.objective"] = {
+	"en": "Increase your level to 34, then talk with <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Montez niveau 34, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.159.texts.description"] = {
+	"en": "Knowing that some monsters got out of the Fiery Tower, we have to do something about it! But I can't leave, my duty is to preserve this place. You'll have to go talk to my superior Bale, and believe me, you better be ready to drool!",
+	"fr": "Sachant que certains monstres se sont échappés de la Tour de Feu, nous devons agir! Mais je ne peux pas partir d'ici, il est de mon devoir de préserver cet endroit. Vous devrez aller parler à mon supérieur Bâle, et croyez- moi, vous devrez être prêt à en baver!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.159.texts.returnPopupMain"] = {
+	"en": "I don't have time to talk, I have too much to deal with at the moment!",
+	"fr": "Je n'ai pas le temps de parler, j'ai trop de choses à gérer pour le moment!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
