@@ -12716,6 +12716,83 @@ locale["quest.159.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.160.name"] = {
+	"en": "Proving Strength (1)",
+	"fr": "Démontrer sa Force (1)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.160.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='70'>Twin Flame</span> and <span class='text-link' data-target-type='mob' data-target-id='71'>Sandworm</span> at the Burning Tomb, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='70'>Flammes Jumelle</span> et <span class='text-link' data-target-type='mob' data-target-id='71'>Ver des Sables</span> a la Tombe Brulante, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.160.texts.description"] = {
+	"en": "I don't think you can handle the Fiery Tower, you got to train yourself. You look no better than a rookie! Go clean up this place, and then i'll consider listening.",
+	"fr": "Je ne pense pas que tu puisses gérer la Tour de Feu, tu dois t'entraîner. Tu n'as pas l'air bien mieux qu'une recrue! Va nettoyer cet endroit, et ensuite j'envisagerai d'écouter.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.160.texts.returnPopupMain"] = {
+	"en": "Ok, i'm listening. What is so urgent.",
+	"fr": "D'accord, j'écoute. Qu'est-ce qui est tellement urgent.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
