@@ -12659,10 +12659,10 @@ locale["quest.159.name"] = {
 	"id": ""
 };
 locale["quest.159.texts.objective"] = {
-	"en": "Increase your level to 34, then talk with <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Montez niveau 34, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"en": "Increase your level to 44, then talk with <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Montez niveau 44, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
 	"es": "",
-	"zh-cn": "提升至34级,然后和<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>谈谈.",
+	"zh-cn": "提升至44级,然后和<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>谈谈.",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
