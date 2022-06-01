@@ -20751,8 +20751,8 @@ locale["quest.45001.texts.returnPopupMain"] = {
 };
 
 locale["quest.45002.name"] = {
-	"en": "Elite Spirit",
-	"fr": "Esprit Elite",
+	"en": "Elite Evil Spirit",
+	"fr": "Esprit Maléfique Elite",
 	"es": "",
 	"zh-cn": "精英 邪灵",
 	"zh-tw":"",
@@ -20770,8 +20770,8 @@ locale["quest.45002.name"] = {
 	"id": ""
 };
 locale["quest.45002.texts.objective"] = {
-	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Elite Spirits</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"en": "In the Hall of Elite of the Celebeam Caves, kill some <span class='text-link' data-target-type='mob' data-target-id='28'>Elite Evil Spirits</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite des Caves de Celebeam, tuez des <span class='text-link' data-target-type='mob' data-target-id='28'>Esprits Maléfique Élite</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"zh-cn": "在魔晶矿洞精英大殿, 杀死一些<span class='text-link' data-target-type='mob' data-target-id='28'>精英邪灵</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100026'>萨穆罕</span>报告.",
 	"zh-tw":"",
