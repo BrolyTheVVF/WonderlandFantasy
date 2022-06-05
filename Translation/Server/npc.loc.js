@@ -5455,6 +5455,49 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 };
 
 
+//** **************************** **
+//** ****** SPECIAL EVENTS ****** **
+//** **************************** **
+locale["npc.84.event.casting_skill_1"] = {
+	"en": "Witness the power of the Right Arm of Evrat",
+	"fr": "Soyez témoins de la puissance du bras droit d'Evrat",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.84.event.casting_skill_2"] = {
+	"en": "You will all die in a rain of fire !",
+	"fr": "Vous périrez tous sous une pluie de feu !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 
 //** ********************** **
 //** ****** INSTANCES ***** **
