@@ -4490,6 +4490,63 @@ locale["npc.100069.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100069.title"] = {
+	"en": "Desert Hunter",
+	"fr": "Chasseur du Desert",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100070.name"] = {
+	"en": "Bale's Assistant",
+	"fr": "Assistant de Bale",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100070.title"] = {
+	"en": "Desert Hunter",
+	"fr": "Chasseur du Desert",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
