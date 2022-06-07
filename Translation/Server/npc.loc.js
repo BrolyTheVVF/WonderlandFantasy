@@ -1791,6 +1791,25 @@ locale["npc.10007.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10008.name"] = {
+	"en": "Runic Potpent",
+	"fr": "Potpent Runique",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.20000.name"] = {
