@@ -13178,6 +13178,83 @@ locale["quest.165.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.166.name"] = {
+	"en": "Proving Strength (7)",
+	"fr": "Démontrer sa Force (7)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.166.texts.objective"] = {
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='10008'>Runic Potpent</span> in the Desert Competition Zone, then report to <span class='text-link' data-target-type='npc' data-target-id='100070'>Bale's Assistant</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='10008'>Potpent Runique</span> a la Zone de Compétition du Désert, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.166.texts.description"] = {
+	"en": "We will start of with the Runic Potpent, we managed to create a spell that can invoque one, but they tend to dislike getting teleported. Also they seem to absorb some of the spell's power for some reason.",
+	"fr": "Nous allons commencer par le Potpent Runique, nous avons réussi à créer un sort qui peut en invoquer un, mais ils ont tendance à ne pas aimer être téléportés. De plus, ils semblent absorber une partie de la puissance du sort pour une raison quelconque.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.166.texts.returnPopupMain"] = {
+	"en": "Congrats, you've beaten the weakest of the 4, but don't get it wrong, that's already a great accomplishment!",
+	"fr": "Félicitations, vous avez battu le plus faible des 4, mais ne vous méprenez pas, c'est déjà un grand accomplissement!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
