@@ -1795,7 +1795,7 @@ locale["npc.10008.name"] = {
 	"en": "Runic Potpent",
 	"fr": "Potpent Runique",
 	"es": "",
-	"zh-cn": "",
+	"zh-cn":"鲁尼克-波特彭特",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4475,7 +4475,7 @@ locale["npc.100068.name"] = {
 	"en": "Elrik",
 	"fr": "Elrik",
 	"es": "",
-	"zh-cn": "埃尔里克",
+	"zh-cn":"埃尔里克",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4513,7 +4513,7 @@ locale["npc.100069.title"] = {
 	"en": "Desert Hunter",
 	"fr": "Chasseur du Desert",
 	"es": "",
-	"zh-cn":"",
+	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4532,7 +4532,7 @@ locale["npc.100070.name"] = {
 	"en": "Bale's Assistant",
 	"fr": "Assistant de Bale",
 	"es": "",
-	"zh-cn":"",
+	"zh-cn":"贝尔的助手",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4551,7 +4551,7 @@ locale["npc.100070.title"] = {
 	"en": "Desert Hunter",
 	"fr": "Chasseur du Desert",
 	"es": "",
-	"zh-cn":"",
+	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4567,7 +4567,7 @@ locale["npc.100070.title"] = {
 	"id": ""
 };
 
-locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
 
 locale["npc.300002.name"] = {
@@ -5535,11 +5535,11 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 //** ****** SPECIAL EVENTS ****** **
 //** **************************** **
 locale["npc.84.event.casting_skill_1"] = {
-	"en": "Witness the power of the Right Arm of Evrat",
-	"fr": "Soyez témoins de la puissance du bras droit d'Evrat",
+	"en": "Witness the power of the Right Arm of Everat",
+	"fr": "Soyez témoins de la puissance du bras droit d'Everat",
 	"es": "",
-	"zh-cn": "",
-	"zh-tw": "",
+	"zh-cn":"见识下伊夫利特右臂的力量",
+	"zh-tw":"",
 	"kr": "",
 	"ru": "",
 	"tr": "",
@@ -5557,8 +5557,8 @@ locale["npc.84.event.casting_skill_2"] = {
 	"en": "You will all die in a rain of fire !",
 	"fr": "Vous périrez tous sous une pluie de feu !",
 	"es": "",
-	"zh-cn": "",
-	"zh-tw": "",
+	"zh-cn":"你们都将在火雨中死去!",
+	"zh-tw":"",
 	"kr": "",
 	"ru": "",
 	"tr": "",
@@ -5582,7 +5582,7 @@ locale["instance.INSTANCE_30.npc.20011.talk_thankful_1"] = {
 	"en": "You saved my life! They were going to trap me in this filthy cage. Thanks!",
 	"fr": "Vous m'avez sauvé! Ils voulaient m'enfermer dans cette cellule miteuse. Merci!",
 	"es": "",
-	"zh-cn": "你救了我的命！他们要把我困在这个肮脏的笼子里。谢谢！",
+	"zh-cn":"你救了我的命！他们要把我困在这个肮脏的笼子里。谢谢！",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
