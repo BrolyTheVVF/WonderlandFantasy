@@ -5725,6 +5725,25 @@ locale["npc.99001.event.casting_skill_3"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99001.event.casting_skill_4"] = {
+	"en": "Icey Demon, destroy your enemies, freeze their souls!",
+	"fr": "Démon de glace, détruisez vos ennemis, gelez leurs âmes!",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 
