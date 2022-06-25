@@ -5668,6 +5668,64 @@ locale["npc.84.event.casting_skill_2"] = {
 	"id": ""
 };
 
+locale["npc.99001.event.casting_skill_1"] = {
+	"en": "Freeze your soul",
+	"fr": "Gèle ton âme",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99001.event.casting_skill_2"] = {
+	"en": "Tremble mortal!",
+	"fr": "Tremblez mortel!",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99001.event.casting_skill_3"] = {
+	"en": "Now this is magic",
+	"fr": "Ca, c'est de la magie",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 
 //** ********************** **
