@@ -6194,7 +6194,7 @@
         "id":""
     },
     "UI.windows.fortify.use-bound-warn":{
-        "en":"Warning! Using the bound items option will bind the gear, even is you don't have any bound items on you.",
+        "en":"Warning! Using the bound items option will bind the gear, even if you don't have any bound items on you.",
         "fr":"Attention! L'utilisation de l'option 'Objet liés' lieras l'equipement, même si vous n'avez pas d'objet liés sur vous.",
         "es":"",
         "zh-cn":"",
