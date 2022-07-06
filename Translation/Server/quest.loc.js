@@ -367,7 +367,7 @@ locale["quest.4.texts.objective"] = {
 };
 locale["quest.4.texts.description"] = {
 	"en": "Good. Now i think you are good enough to challenge stronger monsters.</br></br>Those Baby Boars in Slime Plain always attack passengers. You need to teach them a lesson.",
-	"fr": "Bien, maintenant je suis rassuré que tu puisses défier des monstres plus puissants.<br><br>Ces petit sangliers de la Plaine des Silmes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
+	"fr": "Bien, maintenant je suis rassuré que tu puisses défier des monstres plus puissants.<br><br>Ces petits sangliers de la Plaine des Silmes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
 	"es": "",
 	"zh-cn": "很好.现在我认为你有能力挑战更强的怪物了.</br></br>史莱姆平原上的小野猪总是攻击旅客.你需要给他们一个教训.",
 	"zh-tw":"",
@@ -386,7 +386,7 @@ locale["quest.4.texts.description"] = {
 };
 locale["quest.4.texts.returnPopupMain"] = {
 	"en": "Ah! What's about that wound! I am so sorry i shouldn't let you go alone. It my fault.</br>Put this on, it will protect you.",
-	"fr": "Oh! Comment t'es-tu fait cette blessure? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
+	"fr": "Oh! Comment t'es-tu fait cette blessure ? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
 	"es": "",
 	"zh-cn": "啊!你受伤了! 很抱歉,我不该让你独自前去.这是我的错.</br>带上这个,它会保护你的.",
 	"zh-tw":"",
@@ -444,7 +444,7 @@ locale["quest.5.texts.objective"] = {
 };
 locale["quest.5.texts.description"] = {
 	"en": "Let me find you some simple tasks. It is soon the birthday of Barker The Boy, and he loves Bee Glue the most, so help him find some.",
-	"fr": "Laisse moi te trouver un boulot facile. C'est bientôt l'anniversaire du Petit Buck, et il addore la Propolis, alors aide-moi à en trouver.",
+	"fr": "Laisse moi te trouver un boulot facile. C'est bientôt l'anniversaire du Petit Buck, et il adore la Propolis, alors aide-moi à en trouver.",
 	"es": "",
 	"zh-cn": "让我给你找一些简单的任务.快到男孩巴克的生日了,他最喜欢蜂胶,所以帮他找一些吧.",
 	"zh-tw":"",
@@ -540,7 +540,7 @@ locale["quest.6.texts.objective"] = {
 };
 locale["quest.6.texts.description"] = {
 	"en": "Batu is the guard captain who protects this town. He is camped just outside the village.The chief sends supplies to his guards everyday. Today the delivery boy was sick and couldn't work. Please buy some food and bring them to Batu.",
-	"fr": "Batu est le capitaine de la garde qui protège cette ville. Son campement est juste a l'extérieur du village. Le chef envoie des provisions a ses gardes tous les jours. Aujourd'hui le livreur est malade et ne peut pas travailler. S'il vous plaît, achetez de la nourriture et amenez là à Batu",
+	"fr": "Batu est le Capitaine de la garde qui protège cette ville. Son campement est juste à l'extérieur du village. Le chef envoie des provisions à ses gardes tous les jours. Aujourd'hui le livreur est malade et n'est pas en mesure de travailler. S'il vous plaît, achetez et portez cette nourriture à Batu",
 	"es": "",
 	"zh-cn": "巴图是保护城镇的警卫队长.他就在村子外面.村长每天都给警卫送补给品.今天,送货员生病不能工作了.请买一些食物,然后带给巴图队长.",
 	"zh-tw":"",
@@ -598,7 +598,7 @@ locale["quest.7.name"] = {
 };
 locale["quest.7.texts.objective"] = {
 	"en": "<span class='text-link' data-target-type='npc' data-target-id='100008'>Batu's</span> Wild fruits have been stolen. He asked you to gather more <span class='text-link' data-target-type='interactible' data-target-id='1'>Wild Fruits</span> for him",
-	"fr": "Les fruits sauvages de <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span> ont été volés. Il vous a demandé de recolter plus de <span class='text-link' data-target-type='interactible' data-target-id='1'>Fruits Sauvages</span> pour lui",
+	"fr": "Les fruits sauvages de <span class='text-link' data-target-type='npc' data-target-id='100008'>Batu</span> ont été volés. Il vous a demandé de récolter plus de <span class='text-link' data-target-type='interactible' data-target-id='1'>Fruits Sauvages</span> pour lui",
 	"es": "",
 	"zh-cn": "<span class='text-link' data-target-type='npc' data-target-id='100008'>巴图的</span>野果被盗了,他让你多采些<span class='text-link' data-target-type='interactible' data-target-id='1'>野果</span>",
 	"zh-tw":"",
@@ -771,7 +771,7 @@ locale["quest.9.name"] = {
 };
 locale["quest.9.texts.objective"] = {
 	"en": "The Second set of materials can be collected from <span class='text-link' data-target-type='mob' data-target-id='5'>Prum Bear</span>. Collect the two types of materials and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le second ensemble de matériaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de matériaux et faîte votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le second ensemble de matériaux peut être collecté sur les <span class='text-link' data-target-type='npc' data-target-id='100008'>Ours Brun</span>. Collectez les deux types de matériaux et faîtes votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"zh-cn": "第二组材料可以从<span class='text-link' data-target-type='mob' data-target-id='5'>普鲁姆熊</span>身上收集. 收集两种材料并向<span class='text-link' data-target-type='npc' data-target-id='100012'>霍金</span>报告.",
 	"zh-tw":"",
@@ -790,7 +790,7 @@ locale["quest.9.texts.objective"] = {
 };
 locale["quest.9.texts.description"] = {
 	"en": "It takes 3 to 5 materials to manufacture a weapon. We have just collected one of them, the next step is to get the next material.",
-	"fr": "Cela prend de 3 à 5 matériaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le matériaux suivant.",
+	"fr": "Cela prend de 3 à 5 matériaux pour fabriquer une arme. Nous venons de collecter l'un d'entre eux. La prochaine étape est de se procurer le matériaux suivants.",
 	"es": "",
 	"zh-cn": "制造一把武器需要3-5种材料.我们刚刚收集了其中的一个,下一步就是得到下一个材料.",
 	"zh-tw":"",
@@ -848,7 +848,7 @@ locale["quest.10.name"] = {
 };
 locale["quest.10.texts.objective"] = {
 	"en": "The final material can be collected from <span class='text-link' data-target-type='mob' data-target-id='10'>Goblin Thief</span>. Find Goblin's Stick and report to <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
-	"fr": "Le dernier matériaux peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
+	"fr": "Le dernier matériau peut être collecté sur un <span class='text-link' data-target-type='mob' data-target-id='10'>Gobelin Voleur</span>. Trouvez le baton du gobelin et apportez le à <span class='text-link' data-target-type='npc' data-target-id='100012'>Hawking</span>.",
 	"es": "",
 	"zh-cn": "最后的材料可以从<span class='text-link' data-target-type='mob' data-target-id='10'>哥布林小偷</span>身上获得. 找到哥布林棍棒<span class='text-link' data-target-type='npc' data-target-id='100012'>霍金</span>报告.",
 	"zh-tw":"",
@@ -944,7 +944,7 @@ locale["quest.11.texts.objective"] = {
 };
 locale["quest.11.texts.description"] = {
 	"en": "All the materials are ready. Now open \"Craft\" menu and start crafting a weapon. Don't pick a weapon that's not for your class.",
-	"fr": "Tous les matériaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créer une arme. Ne choisissez pas une arme qui ne correspond pas à votre classe.",
+	"fr": "Tous les matériaux sont prêts. Maintenant, ouvrez le \"Menu de Fabrication\" et créez une arme. Ne choisissez pas une arme qui ne correspond pas à votre classe.",
 	"es": "",
 	"zh-cn": "材料都准备好了.现在打开\"工艺\" 菜单,开始制作武器.选择你的本职武器.",
 	"zh-tw":"",
@@ -1386,7 +1386,7 @@ locale["quest.16.texts.objective"] = {
 };
 locale["quest.16.texts.description"] = {
 	"en": "Military Wizard Monri will teach you some tricks you cannot learn from else where,Soul Gathering.You can use this spell to gain power from monster, and enhance yourself.",
-	"fr": "Le Mage Militaire Monri va vous apprendre quelques tours que vous ne pouvez pas apprendre ailleurs, la Collecte d'Âme. Vous pouvez utiliser ce sort pour absorber la puissance d'un monstre, et vous améliorer.",
+	"fr": "Le Mage Militaire Monri vous apprendra quelques tours que vous ne pourrez apprendre ailleurs, la Collecte d'Âme. Vous pouvez utiliser ce sort pour absorber la puissance d'un monstre, et vous améliorer.",
 	"es": "",
 	"zh-cn": "随军巫师莫里会教你一些其专有技巧——聚魂.你可以使用这个法术从怪物身上获得力量,增强己身.",
 	"zh-tw":"",
@@ -1540,7 +1540,7 @@ locale["quest.18.texts.objective"] = {
 };
 locale["quest.18.texts.description"] = {
 	"en": "I was a mercenary in the deserts years ago.<br>Do you know how people treat female warrior prisoners? Guess you don't want to know. Just remember that it won't work on those Nagarians. So the best solution is killing them all.",
-	"fr": "J'étais mercenaire dans le desert il y a quelques années.<br>Savez-vous comment les gens traitent les prisonnières guerrières? Je suppose que vous ne voulez pas le savoir. Rappelez-vous simplement que cela ne fonctionnera pas sur ces Nagas. Donc la meilleure solution est de les tuer tous.",
+	"fr": "Quelques années plus tôt, j'ai été une mercenaire dans le désert.<br>Connaissez-vous le traitement des gens aux prisonnières de guerrières? Je suppose que vous ne voulez pas le savoir. Rappelez-vous simplement que cela ne fonctionnera pas sur ces Nagas. Donc la meilleure solution est de les tuer tous.",
 	"es": "",
 	"zh-cn": "几年前我还是沙漠里的雇佣兵.<br>你知道人们是怎么对待女战俘的吗？我猜你不想知道.记住,这对那些娜迦们是行不通的.所以最好的解决办法就是把他们都杀了.",
 	"zh-tw":"",
@@ -1598,7 +1598,7 @@ locale["quest.19.name"] = {
 };
 locale["quest.19.texts.objective"] = {
 	"en": "Bring some materials to the alchemist <span class='text-link' data-target-type='npc' data-target-id='100015'>Carter</span>. He will teach you some alchemy skills. He needs Four-leafed flower and Honey. You can acquire them by killing bees.",
-	"fr": "Amenez des matériaux à l'alchimiste <span class='text-link' data-target-type='npc' data-target-id='100015'>Carter</span>. Il te montrera des techniques d'alchimie. Il a besoin de trèfle à quatre feuilles et de miel. Vous en obtiendrez en tuant des abeilles.",
+	"fr": "Portez des matériaux à l'alchimiste <span class='text-link' data-target-type='npc' data-target-id='100015'>Carter</span>. Il te montrera des techniques d'alchimie. Il a besoin de trèfle à quatre feuilles et de miel. Vous en obtiendrez en tuant des abeilles.",
 	"es": "",
 	"zh-cn": "带一些材料给炼金术士 <span class='text-link' data-target-type='npc' data-target-id='100015'>卡特</span>. 他会教你一些炼金术.他需要四叶草和蜂蜜.你可以杀死蜜蜂来获得它们..",
 	"zh-tw":"",
@@ -1617,7 +1617,7 @@ locale["quest.19.texts.objective"] = {
 };
 locale["quest.19.texts.description"] = {
 	"en": "You need ressources in order to manufacture potions in this world. Bring the needed ressources to Carter so he can teach you some lesson!",
-	"fr": "Vous avez besoin de ressources pour pouvoir confectionner des potions dans ce monde. Amenez les ressources à Carter pour qu'il puisse vous donner quelques leçons!",
+	"fr": "Vous avez besoin de ressources pour pouvoir confectionner des potions dans ce monde. Livrez les ressources à Carter pour qu'il puisse vous donner quelques leçons!",
 	"es": "",
 	"zh-cn": "你需要资源才能制造药剂.把需要的材料带给卡特,这样他就能给你上一课了!",
 	"zh-tw":"",
@@ -1713,7 +1713,7 @@ locale["quest.20.texts.description"] = {
 };
 locale["quest.20.texts.returnPopupMain"] = {
 	"en": "Stimulent? No no no, these potions are completly legal in Mirelia. Don't worry they don't have any side effects... well, almost...",
-	"fr": "Stimulantes? Non non, ces potions sont complètement légales en Mirelia. Ne vous inquiétez pas elles n'ont pas d'effets secondaires... enfin, presque...",
+	"fr": "Stimulant? Non non, ces potions sont complètement légales en Mirelia. Ne vous inquiétez pas elles n'ont pas d'effets secondaires... enfin, presque...",
 	"es": "",
 	"zh-cn": "刺激么? 不 不 不, 它们在米雷利亚是合法的. 别担心,它们没有副作用... 嗯,几乎...",
 	"zh-tw":"",
