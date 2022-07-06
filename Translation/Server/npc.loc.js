@@ -1791,6 +1791,25 @@ locale["npc.10007.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10008.name"] = {
+	"en": "Runic Potpent",
+	"fr": "Potpent Runique",
+	"es": "",
+	"zh-cn":"鲁尼克-波特彭特",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.20000.name"] = {
@@ -2053,6 +2072,311 @@ locale["npc.20012.name"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Thủ Lĩnh Hải Tặc",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["npc.99001.name"] = {
+	"en": "Wizardry Lord",
+	"fr": "Seigneur de la Sorcellerie",
+	"es": "",
+	"zh-cn": "巫术之王",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99001.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against the Wizardry Lord. He and his comrades-in-arms are the heroes of Cain Kingdom!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de la Sorcellerie. Lui et ses compagnons d'armes sont les héros du Royaume de Kane!",
+	"es": "",
+	"zh-cn": "英勇的战士 {0} 对巫术之王造成了致命的一击。他和他的战友们是凯恩王国的英雄！",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99002.name"] = {
+	"en": "Kadir",
+	"fr": "Kadir",
+	"es": "",
+	"zh-cn": "卡迪尔",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99002.title"] = {
+	"en": "Lord of Byron",
+	"fr": "Seigneur de Byron",
+	"es": "",
+	"zh-cn": "拜伦之主",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99002.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against the Lord of Byron Kadir. Thank him and his comrades-in-arms for bringing peace to Muradin!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de Byron Kadir. Remerciez le et ses compagnons d'armes pour avoir apporté la paix à Muradin!",
+	"es": "",
+	"zh-cn": "英勇的战士 {0} 对拜伦之主-卡迪尔造成了致命的一击。感谢他和他的战友们为穆拉丁带来和平!",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99003.name"] = {
+	"en": "Fiery Everat",
+	"fr": "Everat Fougueux",
+	"es": "",
+	"zh-cn": "炎魔伊夫利特",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99003.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against Fiery Everat. He and his comrades-in-arms are the friends of Fain Desert forever!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Fougueux Everat. Lui et ses compagnons d'armes sont les amis du désert de Fain pour toujours!",
+	"es": "",
+	"zh-cn": "英勇的战士 {0} 对炎魔伊夫利特造成了致命的一击。他和他的战友永远是费恩沙漠的朋友！",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99004.name"] = {
+	"en": "Gaia",
+	"fr": "Gaia",
+	"es": "",
+	"zh-cn": "盖娅",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99004.title"] = {
+	"en": "Queen of the Forest",
+	"fr": "Reine de la Forêt",
+	"es": "",
+	"zh-cn": "森林女王",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99004.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against Gaia. Thank for their great contribution to Sufer Kingdom!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal a Gaia. Merci pour leur grande contribution au Royaume de Sufer!",
+	"es": "",
+	"zh-cn": "英勇的战士 {0} 对盖娅造成了致命的一击。感谢他们对苏富尔王国的巨大贡献！",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99005.name"] = {
+	"en": "Soul of the Corrupted Emperor",
+	"fr": "Âme de l'Empereur Corrompu",
+	"es": "",
+	"zh-cn": "腐朽帝王的灵魂",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99006.name"] = {
+	"en": "Queen Nagar",
+	"fr": "Reine Nagar",
+	"es": "",
+	"zh-cn": "纳加尔女王",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99007.name"] = {
+	"en": "Subject Seurat",
+	"fr": "Sujet Seurat",
+	"es": "",
+	"zh-cn": "实验体修拉",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99008.name"] = {
+	"en": "Earth Dragon Anglas",
+	"fr": "Dragon de Terre Anglas",
+	"es": "",
+	"zh-cn": "土龙安格拉斯",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99009.name"] = {
+	"en": "Primary Iron Giant",
+	"fr": "Géant de Fer Primaire",
+	"es": "",
+	"zh-cn": "原铁巨人",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99010.name"] = {
+	"en": "Shadow Bahamut",
+	"fr": "Bahamut de l'Ombre",
+	"es": "",
+	"zh-cn": "影之巴哈穆特",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -4246,7 +4570,83 @@ locale["npc.100068.name"] = {
 	"en": "Elrik",
 	"fr": "Elrik",
 	"es": "",
-	"zh-cn": "埃尔里克",
+	"zh-cn":"埃尔里克",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Elrik",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100069.name"] = {
+	"en": "Bale",
+	"fr": "Bale",
+	"es": "",
+	"zh-cn":"贝尔",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Bale",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100069.title"] = {
+	"en": "Desert Hunter",
+	"fr": "Chasseur du Desert",
+	"es": "",
+	"zh-cn":"沙漠猎人",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100070.name"] = {
+	"en": "Bale's Assistant",
+	"fr": "Assistant de Bale",
+	"es": "",
+	"zh-cn":"贝尔的助手",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100070.title"] = {
+	"en": "Desert Hunter",
+	"fr": "Chasseur du Desert",
+	"es": "",
+	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -4262,7 +4662,7 @@ locale["npc.100068.name"] = {
 	"id": ""
 };
 
-locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn": "","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
+locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
 
 locale["npc.300002.name"] = {
@@ -4396,7 +4796,7 @@ locale["npc.100005.interact.BASIC_INTER1.choice"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Tin đồn kỳ lạ",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -4407,7 +4807,7 @@ locale["npc.100005.interact.BASIC_INTER1"] = {
 	"en": "This is weird, but I heard that there is a powerful monster that protect slimes in the Slime plain. Some also said it can't be seen by normal humans.",
 	"fr": "C'est bizarre, mais j'ai entendu dire qu'il y a un monstre puissant qui protège les slimes dans la plaine de Slime. Certains disent aussi qu'il ne peut être vu a des humain normaux.",
 	"es": "",
-	"zh-cn": "这很奇怪，但我听说有一个强大的怪物在史莱姆平原保护史莱姆.",
+	"zh-cn": "这很奇怪，但我听说有一个强大的怪物在史莱姆平原保护史莱姆.一些人还说，正常人看不到它。",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
@@ -4415,7 +4815,7 @@ locale["npc.100005.interact.BASIC_INTER1"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Lạ thật đấy, nhưng tôi có nghe được là có một con quái vật mạnh khủng khiếp đang bảo vệ lũ bầy nhầy ở Bình Nguyên Bầy Nhầy cơ. Một vài người cũng nói nó không thể bị phát hiện bởi người thường nữa đó.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -5012,6 +5412,25 @@ locale["npc.241008.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.241009.name"] = {
+	"en": "Henbane",
+	"fr": "Henbane",
+	"es": "",
+	"zh-cn": "天仙子",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999999.name"] = {
@@ -5207,6 +5626,126 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 };
 
 
+//** **************************** **
+//** ****** SPECIAL EVENTS ****** **
+//** **************************** **
+locale["npc.84.event.casting_skill_1"] = {
+	"en": "Witness the power of the Right Arm of Everat",
+	"fr": "Soyez témoins de la puissance du bras droit d'Everat",
+	"es": "",
+	"zh-cn":"见识下伊夫利特右臂的力量",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.84.event.casting_skill_2"] = {
+	"en": "You will all die in a rain of fire !",
+	"fr": "Vous périrez tous sous une pluie de feu !",
+	"es": "",
+	"zh-cn":"你们都将在火雨中死去!",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["npc.99001.event.casting_skill_1"] = {
+	"en": "Freeze your soul",
+	"fr": "Gèle ton âme",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99001.event.casting_skill_2"] = {
+	"en": "Tremble mortal!",
+	"fr": "Tremblez mortel!",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99001.event.casting_skill_3"] = {
+	"en": "Now this is magic",
+	"fr": "Ca, c'est de la magie",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99001.event.casting_skill_4"] = {
+	"en": "Icey Demon, destroy your enemies, freeze their souls!",
+	"fr": "Démon de glace, détruisez vos ennemis, gelez leurs âmes!",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 
 //** ********************** **
 //** ****** INSTANCES ***** **
@@ -5215,7 +5754,7 @@ locale["instance.INSTANCE_30.npc.20011.talk_thankful_1"] = {
 	"en": "You saved my life! They were going to trap me in this filthy cage. Thanks!",
 	"fr": "Vous m'avez sauvé! Ils voulaient m'enfermer dans cette cellule miteuse. Merci!",
 	"es": "",
-	"zh-cn": "你救了我的命！他们要把我困在这个肮脏的笼子里。谢谢！",
+	"zh-cn":"你救了我的命！他们要把我困在这个肮脏的笼子里。谢谢！",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
