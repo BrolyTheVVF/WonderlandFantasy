@@ -290,7 +290,7 @@ locale["quest.3.texts.objective"] = {
 };
 locale["quest.3.texts.description"] = {
 	"en": "To survive in Mirelia, you need to hunt those monster.</br>You will get food and materials from them.",
-	"fr": "Afin survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des matériaux et des équipements en les tuant.",
+	"fr": "Afin de survivre dans Mirelia, vous devrez chasser ces monstres.</br>Vous obtiendrez de la nourriture, des matériaux et des équipements en les tuant.",
 	"es": "",
 	"zh-cn": "想在米雷利亚大陆生存,你需猎杀那些怪物.</br>你会从怪物身上获得食物和材料.",
 	"zh-tw":"",
