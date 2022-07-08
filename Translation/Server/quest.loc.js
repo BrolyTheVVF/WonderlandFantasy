@@ -12275,7 +12275,7 @@ locale["quest.154.name"] = {
 };
 locale["quest.154.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='64'>Byron Warrior Spirit</span> at the Burning Altar, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='64'>Esprit Guerrier de Byron</span> a l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='64'>Esprit Guerrier de Byron</span> à l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
 	"es": "",
 	"zh-cn": "在炎龙祭坛杀死一些<span class='text-link' data-target-type='mob' data-target-id='64'>拜伦精灵战士</span>, 然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
 	"zh-tw": "",
@@ -12352,7 +12352,7 @@ locale["quest.155.name"] = {
 };
 locale["quest.155.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='66'>Burning Mummy</span> at the Burning Altar, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='66'>Momie Enflammée</span> a l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='66'>Momie Enflammée</span> à l'Autel Brûlant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
 	"es": "",
 	"zh-cn": "在炎龙祭坛杀死一些<span class='text-link' data-target-type='mob' data-target-id='66'>燃烧木乃伊</span>, 然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
 	"zh-tw": "",
@@ -12371,7 +12371,7 @@ locale["quest.155.texts.objective"] = {
 };
 locale["quest.155.texts.description"] = {
 	"en": "Hey! Would you look at that! It seems someone put the Byron Mummies on fire, but it didn't really help. They look much stronger now!",
-	"fr": "Hé! Regardez-moi ça! On dirait que quelqu'un a mis le feu aux momies Byron, mais ça ne nous as pas vraiment aidé. Elles ont l'air beaucoup plus fortes maintenant!",
+	"fr": "Hé! Regardez-moi ça! On dirait que quelqu'un a mis le feu aux momies Byron, mais ça ne nous a pas vraiment aidé. Elles ont l'air beaucoup plus fortes maintenant!",
 	"es": "",
 	"zh-cn": "嘿! 看看那个！似乎有人把拜伦木乃伊烧掉了，但这并没有真正起到作用。他们现在看起来更强大了！",
 	"zh-tw": "",
@@ -12390,7 +12390,7 @@ locale["quest.155.texts.description"] = {
 };
 locale["quest.155.texts.returnPopupMain"] = {
 	"en": "I don't know who did that, but I better find him before it become out of control!",
-	"fr": "Je ne sais pas qui a fait ca, mais je ferais mieux de trouver le responsable avant que la situation ne dégénère!",
+	"fr": "Je ne sais pas qui a fait ça, mais je ferais mieux de trouver le responsable avant que la situation ne dégénère!",
 	"es": "",
 	"zh-cn": "我不知道是谁干的，但我最好在事情失控之前找到他！",
 	"zh-tw":"",
@@ -12429,7 +12429,7 @@ locale["quest.156.name"] = {
 };
 locale["quest.156.texts.objective"] = {
 	"en": "Collect an Henbane in the Endless Desert, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Recolter une Henbane dans le Desert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Récoltez une Henbane dans le Desert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
 	"es": "",
 	"zh-cn": "在无尽沙漠中采集一只天仙子, 然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
 	"zh-tw": "",
@@ -12448,7 +12448,7 @@ locale["quest.156.texts.objective"] = {
 };
 locale["quest.156.texts.description"] = {
 	"en": "My daily duty is to gather some special herbs and fruits. They are used by the king's alchemist to make all sorts of useful potions. There is one fruit that grow in the endless desert. Can you bring it to me?",
-	"fr": "Mon devoir quotidien est de cueillir des herbes et des fruits spéciaux. Ils sont utilisés par l'alchimiste du roi pour fabriquer toutes sortes de potions utiles. Il y a un fruit qui pousse dans le Desert Sans Fin. Pouvez vous me le rapporter?",
+	"fr": "Mon devoir quotidien est de cueillir des herbes et des fruits spéciaux. Ils sont utilisés par l'alchimiste du roi pour fabriquer toutes sortes de potions utiles. Il y a un fruit qui pousse dans le Désert Sans Fin. Pouvez vous me le rapporter?",
 	"es": "",
 	"zh-cn": "我每天的任务是采集一些特殊的草药和水果。它们被国王的炼金术士用来制成各种有用药剂。有一种水果生长在无尽沙漠里。你能把它带给我吗？",
 	"zh-tw": "",
@@ -12525,7 +12525,7 @@ locale["quest.157.texts.objective"] = {
 };
 locale["quest.157.texts.description"] = {
 	"en": "Part of my daily routine is to reduce the Ostrider population in the Endless Desert, to prevent them from leaving it. Please help me kill some of them.",
-	"fr": "Une partie de ma routine journalière est de reduire la population d'Ostrider dans le Desert Sans Fin, pour eviter qu'ils en partent. Aidez moi a en tuer quelques uns.",
+	"fr": "Une partie de ma routine journalière est de réduire la population d'Ostrider dans le Désert Sans Fin, pour eviter qu'ils en partent. Aidez moi a en tuer quelques uns.",
 	"es": "",
 	"zh-cn": "我日常生活的一部分就是减少无尽沙漠中陆行鸟的数量，防止它们离开沙漠。请帮我杀死一些。",
 	"zh-tw": "",
@@ -12583,7 +12583,7 @@ locale["quest.158.name"] = {
 };
 locale["quest.158.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='68'>Sand Minion</span> at the Endless Desert, then report to <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='68'>Serviteur des Sables</span> au Desert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='68'>Serviteur des Sables</span> au Désert Sans Fin, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
 	"es": "",
 	"zh-cn": "在无尽沙漠杀死一些<span class='text-link' data-target-type='mob' data-target-id='68'>沙漠蜥蜴</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>报告.",
 	"zh-tw": "",
@@ -12679,7 +12679,7 @@ locale["quest.159.texts.objective"] = {
 };
 locale["quest.159.texts.description"] = {
 	"en": "Knowing that some monsters got out of the Fiery Tower, we have to do something about it! But I can't leave, my duty is to preserve this place. You'll have to go talk to my superior Bale, and believe me, you better be ready to drool!",
-	"fr": "Sachant que certains monstres se sont échappés de la Tour de Feu, nous devons agir! Mais je ne peux pas partir d'ici, il est de mon devoir de préserver cet endroit. Vous devrez aller parler à mon supérieur Bâle, et croyez- moi, vous devrez être prêt à en baver!",
+	"fr": "Sachant que certains monstres se sont échappés de la Tour de Feu, nous devons agir! Mais je ne peux pas partir d'ici, il est de mon devoir de préserver cet endroit. Vous devrez aller parler à mon supérieur Bâle, et croyez-moi, vous devrez être prêt à en baver!",
 	"es": "",
 	"zh-cn": "听闻有一些怪物从炎魔之塔中出来了，我们必须采取一些措施！但我不能离开，我的职责是保护这个地方。你得去和我的上司贝尔谈谈，相信我，你要做好流口水的准备！",
 	"zh-tw": "",
@@ -12833,7 +12833,7 @@ locale["quest.161.texts.objective"] = {
 };
 locale["quest.161.texts.description"] = {
 	"en": "Oh, maybe you're worth something after all. I got to test your limits to see what you are capable of.<br><br>We will start with those purple eggs, destroy some of them, and it anything comes out of them, well i'd advise not to let it alive for too long.",
-	"fr": "Oh, peut-être que tu vaut quelque chose apres tout. Il faut que je teste tes limites pour voir ce dont tu es capable.<br><br>Nous allons commencer par ces œufs violets, en détruire quelques-uns, et si quelque chose en sort, eh bien je conseillerais de ne pas le laisser en vie trop longtemps.",
+	"fr": "Oh, peut-être que tu vaux quelque chose après tout. Il faut que je teste tes limites pour voir ce dont tu es capable.<br><br>Nous allons commencer par ces œufs violets, en détruire quelques-uns, et si quelque chose en sort, eh bien je conseillerais de ne pas le laisser en vie trop longtemps.",
 	"es": "",
 	"zh-cn": "哦，也许你终究还是有价值的。我得测试一下你的极限，看看你的能力。我们将从那些紫蛋开始，摧毁一些，如果有什么东西从里面出来，我建议不要让它活得太久。",
 	"zh-tw": "",
@@ -12910,7 +12910,7 @@ locale["quest.162.texts.objective"] = {
 };
 locale["quest.162.texts.description"] = {
 	"en": "There is one of the Fiery Tower most fierceful warrior at the Burning Altar, maybe you're strong enough to defeat him? Yes, let's try that!",
-	"fr": "Il y a un des plus féroces guerriers de la Tour de Feu à l'Autel Brulant, peut-être es-tu assez fort pour le vaincre? Oui, essayons cela!",
+	"fr": "Il y a un des plus féroces guerriers de la Tour de Feu à l'Autel Brûlant, peut-être es-tu assez fort pour le vaincre? Oui, essayons cela!",
 	"es": "",
 	"zh-cn": "炎龙祭坛上有一个炎魔之塔最凶猛的战士，也许你有足够的力量打败他？是的，让我们试试吧!",
 	"zh-tw": "",
@@ -12968,7 +12968,7 @@ locale["quest.163.name"] = {
 };
 locale["quest.163.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='73'>Flame Dragon's Offspring</span> at the Burning Tomb, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='73'>Progéniture du dragon de flammes</span> a la Tombe Brulant, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='73'>Progéniture du dragon de flammes</span> à la Tombe Brûlante, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "在炎龙墓场杀死<span class='text-link' data-target-type='mob' data-target-id='73'>炎龙之子</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100069'>贝尔</span>报告.",
 	"zh-tw": "",
@@ -13083,7 +13083,7 @@ locale["quest.164.texts.description"] = {
 };
 locale["quest.164.texts.returnPopupMain"] = {
 	"en": "You are full of surprises. I think you can try and pass the Desert Challenge.",
-	"fr": "Vous êtes plein de surprises. Je pense que tu peux essayer et réussir le Challenge du Desert.",
+	"fr": "Vous êtes plein de surprises. Je pense que tu peux essayer et réussir le Challenge du Désert.",
 	"es": "",
 	"zh-cn": "你真让人感到惊喜。我认为你可以尝试通过沙漠挑战。",
 	"zh-tw": "",
@@ -13122,7 +13122,7 @@ locale["quest.165.name"] = {
 };
 locale["quest.165.texts.objective"] = {
 	"en": "Go in the Desert Competition Zone, at the west of the Sultan ruins, then report to <span class='text-link' data-target-type='npc' data-target-id='100070'>Bale's Assistant</span>.",
-	"fr": "Allez dans la Zone de compétition du désert, a l'ouest des Ruines du Sultan, puis faites votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
+	"fr": "Allez dans la Zone de compétition du désert, à l'ouest des Ruines du Sultan, puis faites votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
 	"es": "",
 	"zh-cn": "前往苏丹废墟西侧的沙漠竞赛区,然后向<span class='text-link' data-target-type='npc' data-target-id='100070'>贝尔的助手</span>报告.",
 	"zh-tw": "",
