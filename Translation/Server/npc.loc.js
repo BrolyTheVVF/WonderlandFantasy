@@ -1810,6 +1810,63 @@ locale["npc.10008.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10009.name"] = {
+	"en": "Giant Quicksand Beast",
+	"fr": "Bête géante des sables mouvants",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10010.name"] = {
+	"en": "Summoned Manticore",
+	"fr": "Manticore Invoqué",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10011.name"] = {
+	"en": "Aberration",
+	"fr": "Aberration",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.20000.name"] = {
