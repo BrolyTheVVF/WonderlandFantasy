@@ -1867,6 +1867,44 @@ locale["npc.10011.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10012.name"] = {
+	"en": "Enslaved Miner",
+	"fr": "Mineur Asservi",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10013.name"] = {
+	"en": "Plague Wizard",
+	"fr": "Sorcier de la Peste",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.20000.name"] = {
