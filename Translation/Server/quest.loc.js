@@ -13486,6 +13486,83 @@ locale["quest.169.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.170.name"] = {
+	"en": "Fiery Tower (1)",
+	"fr": "Tour de Feu (1)",
+	"es": "",
+	"zh-cn":"炎魔之塔 (1)",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Viêm Ma Tháp (1)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.170.texts.objective"] = {
+	"en": "Report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> in the Fiery Tower on the first floor.",
+	"fr": "Faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> dans le Tour de Feu au premier étage.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.170.texts.description"] = {
+	"en": "You mastered all our challenges, you can now enter the fiery tower, you will search with Bale for the beast summoning all those monsters.",
+	"fr": "Vous avez maîtrisé tous nos défis, vous pouvez maintenant entrer dans la Tour de Feu, vous allez chercher avec Bale la bête invoquant tous ces monstres.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.170.texts.returnPopupMain"] = {
+	"en": "Ho, you're back, congrats on earning your place next to me, rookie!",
+	"fr": "Ho, tu es de retour, félicitations d'avoir gagné ta place à mes côtés, le bleu!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
