@@ -13563,6 +13563,83 @@ locale["quest.170.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.171.name"] = {
+	"en": "Fiery Tower (2)",
+	"fr": "Tour de Feu (2)",
+	"es": "",
+	"zh-cn":"炎魔之塔 (2)",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Viêm Ma Tháp (2)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.171.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='75'>Fiery Flame</span> at the Fiery Tower 1st Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='75'>Flamme Ardente</span> au 1er étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.171.texts.description"] = {
+	"en": "Ok, let's start with a little heat readjustment. We should slay some Fiery Flames to lower this floor's heat, this should lower <i>his</i> power a bit.",
+	"fr": "Ok, commençons par un petit réajustement de température. Nous devrions tuer quelques Flammes Ardentes pour diminuer la chaleur de cet étage, cela devrait diminuer un peu la puissance de <i>son</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.171.texts.returnPopupMain"] = {
+	"en": "Ho, you're back, congrats on earning your place next to me, rookie!",
+	"fr": "Ho, tu es de retour, félicitations d'avoir gagné ta place à mes côtés, le bleu!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Hồ, ngươi quay về rồi à, chúc mừng đã nhận được nơi cạnh ta, nhóc!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
