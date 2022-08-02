@@ -13603,7 +13603,7 @@ locale["quest.171.texts.objective"] = {
 };
 locale["quest.171.texts.description"] = {
 	"en": "Ok, let's start with a little heat readjustment. We should slay some Fiery Flames to lower this floor's heat, this should lower <i>his</i> power a bit.",
-	"fr": "Ok, commençons par un petit réajustement de température. Nous devrions tuer quelques Flammes Ardentes pour diminuer la chaleur de cet étage, cela devrait diminuer un peu la puissance de <i>son</i>.",
+	"fr": "Ok, commençons par un petit réajustement de température. Nous devrions tuer quelques Flammes Ardentes pour diminuer la chaleur de cet étage, cela devrait diminuer un peu <i>sa</i> puissance.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13621,8 +13621,8 @@ locale["quest.171.texts.description"] = {
 	"id": ""
 };
 locale["quest.171.texts.returnPopupMain"] = {
-	"en": "Ho, you're back, congrats on earning your place next to me, rookie!",
-	"fr": "Ho, tu es de retour, félicitations d'avoir gagné ta place à mes côtés, le bleu!",
+	"en": "Good, the heat is starting to lower. Let's start the next phase.",
+	"fr": "Bien, la température commence à descendre. Débutons la prochaine phase.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13632,7 +13632,7 @@ locale["quest.171.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Hồ, ngươi quay về rồi à, chúc mừng đã nhận được nơi cạnh ta, nhóc!",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
