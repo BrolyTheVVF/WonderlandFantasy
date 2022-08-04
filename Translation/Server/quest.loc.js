@@ -13583,8 +13583,8 @@ locale["quest.171.name"] = {
 	"id": ""
 };
 locale["quest.171.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='75'>Fiery Flame</span> at the Fiery Tower 1st Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='75'>Flamme Ardente</span> au 1er étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='79'>Fiery Flame</span> at the Fiery Tower 1st Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='79'>Flamme Ardente</span> au 1er étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13623,6 +13623,83 @@ locale["quest.171.texts.description"] = {
 locale["quest.171.texts.returnPopupMain"] = {
 	"en": "Good, the heat is starting to lower. Let's start the next phase.",
 	"fr": "Bien, la température commence à descendre. Débutons la prochaine phase.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.172.name"] = {
+	"en": "Fiery Tower (3)",
+	"fr": "Tour de Feu (3)",
+	"es": "",
+	"zh-cn":"炎魔之塔 (3)",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Viêm Ma Tháp (3)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.172.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='78'>Lava Familiar</span> at the Fiery Tower 1st Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='78'>Familier de lave</span> au 1er étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.172.texts.description"] = {
+	"en": "Well, we have to kill the source of these flames, they keep getting summoned. Maybe those Lava Familiars are the ones invoking them? Let's kill them to be sure!",
+	"fr": "Bon, nous devons tuer la source de ces flammes qui n’arrêtent pas d’être invoqués. Peut-être que ces Familiers de Lave sont ceux qui les invoquent? Tuons-les pour être sûrs!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.172.texts.returnPopupMain"] = {
+	"en": "Well, it seem that they were not responsible for that one, but hey, this place is cleaner without them anyway.",
+	"fr": "Eh bien, il semble qu’ils n’étaient pas responsables de celui-ci, mais hé, cet endroit est plus propre sans eux de toute façon.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
