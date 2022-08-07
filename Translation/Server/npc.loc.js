@@ -5700,6 +5700,25 @@ locale["npc.100047.interact.GOTO_CONTINENT_2"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100047.interact.GOTO_CONTINENT_3"] = {
+	"en": "Sail to Letin Harbor (Lv 50)",
+	"fr": "Naviguer jusqu'au Port de Letin (Nv 50)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100048.interact.QUEST_100_RECUIT_SAILOR"] = {
 	"en": "Recruit Sailor",
 	"fr": "Recruter le Marin",
