@@ -14025,6 +14025,160 @@ locale["quest.176.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.177.name"] = {
+	"en": "Fiery Tower (8)",
+	"fr": "Tour de Feu (8)",
+	"es": "",
+	"zh-cn":"炎魔之塔 (8)",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Viêm Ma Tháp (8)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.177.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='82'>Balrog Warrior</span> and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier du Balrog</span> et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.177.texts.description"] = {
+	"en": "Look at all those evil beings. They don't know what's coming for them. Let's go on a rampage!",
+	"fr": "Regardez tous ces êtres maléfiques. Ils ne savent pas ce qui les attend. Faisons un carnage!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.177.texts.returnPopupMain"] = {
+	"en": "Wait, do you see it? This big golem!",
+	"fr": "Attends, tu le vois? Ce grand golem!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.178.name"] = {
+	"en": "Fiery Tower (9)",
+	"fr": "Tour de Feu (9)",
+	"es": "",
+	"zh-cn":"炎魔之塔 (9)",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Viêm Ma Tháp (9)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.178.texts.objective"] = {
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='85'>Molten Lord Geal</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='85'>Seigneur fondu Geal</span> au 4em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.178.texts.description"] = {
+	"en": "This is our last target, then we got to get out before we anger the master of this place. Believe me, i already saw him once, you don't want to meet him.",
+	"fr": "C'est notre dernière cible, après on devras partir avant de mettre en colère le maître de ces lieu. Crois-moi, je l'ai déjà vu une fois, tu ne veut pas le rencontrer.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.178.texts.returnPopupMain"] = {
+	"en": "Great, I have calmed down a bit. I'm gonna take notes and send those informations to the king.",
+	"fr": "Super, je me suis un peu calmé. Je vais prendre des notes et envoyer ces informations au roi.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
