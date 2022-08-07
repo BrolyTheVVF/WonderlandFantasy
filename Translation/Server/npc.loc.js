@@ -4756,6 +4756,44 @@ locale["npc.100070.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100071.name"] = {
+	"en": "Yuto",
+	"fr": "Yuto",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100071.title"] = {
+	"en": "Desert Hunter",
+	"fr": "Chasseur du Desert",
+	"es": "",
+	"zh-cn":"沙漠猎人",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Thợ Săn Xa Mạc",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
