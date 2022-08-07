@@ -13717,6 +13717,83 @@ locale["quest.172.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.173.name"] = {
+	"en": "Fiery Tower (4)",
+	"fr": "Tour de Feu (4)",
+	"es": "",
+	"zh-cn":"炎魔之塔 (4)",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Viêm Ma Tháp (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.173.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='80'>Lava Golem</span> at the Fiery Tower 3rd Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='80'>Golem de lave</span> au 3em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.173.texts.description"] = {
+	"en": "Come on, follow me, we gotta go to the 3rd floor. I actually sent another warrior in front to start cleaning the path, but I fear for him now, seeing how many of those things there is around. We have to be fast.",
+	"fr": "Allez, suivez-moi, on doit aller au 3ème étage. En fait, j'ai envoyé un autre guerrier avant nous pour commencer à nous ouvrir la voie, mais j'ai peur pour lui maintenant, vu le nombre de ces choses qui nous entoure. Nous devons être rapides.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.173.texts.returnPopupMain"] = {
+	"en": "I still can't see it, we will have to split.",
+	"fr": "Je ne le vois toujours pas, nous allons devoir nous séparer.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
