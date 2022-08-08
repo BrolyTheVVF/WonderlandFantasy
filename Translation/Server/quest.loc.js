@@ -13815,7 +13815,7 @@ locale["quest.174.name"] = {
 };
 locale["quest.174.texts.objective"] = {
 	"en": "Search for <span class='text-link' data-target-type='npc' data-target-id='100071'>Yuko</span> on the Fiery Tower 3rd floor.",
-	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100071'>Yuko</span> au 3em étage de la Tour de Feu.",
+	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100071'>Yuko</span> au 3ème étage de la Tour de Feu.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13833,7 +13833,7 @@ locale["quest.174.texts.objective"] = {
 	"id": ""
 };
 locale["quest.174.texts.description"] = {
-	"en": "I'll search around here, go a little further on the path, maybe he his already fighting the giant golem. I hope we are not too late.",
+	"en": "I'll search around here, go a little further on the path, maybe he is already fighting the giant golem. I hope we are not too late.",
 	"fr": "Je vais chercher aux alentours, va un peu plus loin sur le chemin, peut-être qu'il est déjà en train de se battre contre le golem geant; J'éspère que ce n'est pas trop tard.",
 	"es": "",
 	"zh-cn": "",
@@ -13853,7 +13853,7 @@ locale["quest.174.texts.description"] = {
 };
 locale["quest.174.texts.returnPopupMain"] = {
 	"en": "<i>You see a body laying still on the ground, he wear the necklace of the Desert hunter.</i>",
-	"fr": "<i>Vous voyez un corp sur le sol devan vous, il porte le colier des Chasseurs du Desert.</i>",
+	"fr": "<i>Vous voyez un corps sur le sol devant vous, il porte le collier des Chasseurs du Desert.</i>",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13892,7 +13892,7 @@ locale["quest.175.name"] = {
 };
 locale["quest.175.texts.objective"] = {
 	"en": "Report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> on the Fiery Tower 3rd floor.",
-	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> au 3em étage de la Tour de Feu.",
+	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> au 3ème étage de la Tour de Feu.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13969,7 +13969,7 @@ locale["quest.176.name"] = {
 };
 locale["quest.176.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='81'>Fiery Minion</span> at the Fiery Tower 3rd Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='81'>Sbire Ardent</span> au 3em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='81'>Sbire Ardent</span> au 3ème étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14046,7 +14046,7 @@ locale["quest.177.name"] = {
 };
 locale["quest.177.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='82'>Balrog Warrior</span> and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier du Balrog</span> et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='82'>Guerrier du Balrog</span> et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14123,7 +14123,7 @@ locale["quest.178.name"] = {
 };
 locale["quest.178.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='85'>Molten Lord Geal</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='85'>Seigneur fondu Geal</span> au 4em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='85'>Seigneur fondu Geal</span> au 4ème étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
