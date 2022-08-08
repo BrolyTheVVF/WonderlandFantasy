@@ -13122,7 +13122,7 @@ locale["quest.165.name"] = {
 };
 locale["quest.165.texts.objective"] = {
 	"en": "Go in the Desert Competition Zone, at the west of the Sultan ruins, then report to <span class='text-link' data-target-type='npc' data-target-id='100070'>Bale's Assistant</span>.",
-	"fr": "Allez dans la Zone de compétition du désert, à l'ouest des Ruines du Sultan, puis faites votre rapport a l'<span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
+	"fr": "Allez dans la Zone de compétition du désert, à l'ouest des Ruines du Sultan, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
 	"es": "",
 	"zh-cn": "前往苏丹废墟西侧的沙漠竞赛区,然后向<span class='text-link' data-target-type='npc' data-target-id='100070'>贝尔的助手</span>报告.",
 	"zh-tw": "",
@@ -13276,7 +13276,7 @@ locale["quest.167.name"] = {
 };
 locale["quest.167.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='10009'>Giant Quicksand Beast</span> in the Desert Competition Zone, then report to <span class='text-link' data-target-type='npc' data-target-id='100070'>Bale's Assistant</span>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='10009'>Bête géante des sables mouvants</span> a la Zone de Compétition du Désert, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='10009'>Bête géante des sables mouvants</span> à la Zone de Compétition du Désert, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100070'>Assistant de Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
