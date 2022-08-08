@@ -2090,23 +2090,23 @@
         "id":"Meningkatkan kesempatan untuk Critical dari serangan biasa berikutnya."
     },
     "skills.warrior.CRIT_SLASH.effect":{
-        "en":"Increases Crit Chance and Hit Chance by {0}% for next 3 common attacks. Lasts up to {1} sec.",
-        "fr":"Augmente la chance de critique et la chance de toucher de {0}% pour les 3 prochaines attaques communes. Dure jusqu'à {1} s.",
+        "en":"Increases Crit Chance and Hit Chance by {0}% for next {2} common attacks. Lasts up to {1} sec.",
+        "fr":"Augmente la chance de critique et la chance de toucher de {0}% pour les {2} prochaines attaques communes. Dure jusqu'à {1} s.",
         "es":"",
-        "zh-cn":"增加之后三次普通攻击的暴击率和命中率 {0}%. 持续 {1} 秒.",
-        "zh-tw":"增加之後三次普通攻擊的暴擊率和命中率 {0}%. 持續 {1} 秒.",
+        "zh-cn":"增加之后 {2} 次普通攻击的暴击率和命中率 {0}%. 持续 {1} 秒.",
+        "zh-tw":"增加之後 {2} 次普通攻擊的暴擊率和命中率 {0}%. 持續 {1} 秒.",
         "kr":"",
-        "ru":"Увеличивает шанс крита и шанс попадания на {0}% для следующих 3 обычных атак. Длится до {1} сек.",
+        "ru":"Увеличивает шанс крита и шанс попадания на {0}% для следующих {2} обычных атак. Длится до {1} сек.",
         "tr":"",
-        "de":"Erhöht die kritische Chance und die Trefferchance für die nächsten 3 Angriffe um {0}%. Hält bis zu {1} Sekunden an.",
+        "de":"Erhöht die kritische Chance und die Trefferchance für die nächsten {2} Angriffe um {0}%. Hält bis zu {1} Sekunden an.",
         "jp":"",
         "pt":"",
-        "vi":"Tăng thêm Tỉ Lệ Bạo Kích và {0}% Khả Năng Đánh Trúng cho 3 đòn đánh thường tiếp theo. Kéo dài đến {1} giây.",
+        "vi":"Tăng thêm Tỉ Lệ Bạo Kích và {0}% Khả Năng Đánh Trúng cho {2} đòn đánh thường tiếp theo. Kéo dài đến {1} giây.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan peluang Critical dan peluang Hit sebesar {0}% untuk 3 serangan biasa berikutnya. Berlangsung hingga {1} detik."
+        "id":"Meningkatkan peluang Critical dan peluang Hit sebesar {0}% untuk {2} serangan biasa berikutnya. Berlangsung hingga {1} detik."
     },
     "skills.warrior.RAGE.name":{
         "en":"Rage",
