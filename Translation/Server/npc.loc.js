@@ -4739,7 +4739,7 @@ locale["npc.100070.name"] = {
 };
 locale["npc.100070.title"] = {
 	"en": "Desert Hunter",
-	"fr": "Chasseur du Desert",
+	"fr": "Chasseur du Désert",
 	"es": "",
 	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
@@ -4777,7 +4777,7 @@ locale["npc.100071.name"] = {
 };
 locale["npc.100071.title"] = {
 	"en": "Desert Hunter",
-	"fr": "Chasseur du Desert",
+	"fr": "Chasseur du Désert",
 	"es": "",
 	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
@@ -5033,7 +5033,7 @@ locale["npc.100026.interact.baseText"] = {
 };
 locale["npc.100027.interact.baseText"] = {
 	"en": "My husband was killed in the war. Now the guards won't let me my stall... I'm going to give them a piece of my mind...",
-	"fr": "Mon Mari a été tué pendant la guerre. A cause de ça les gardes ne me laisseront pas étal...  Je vais leur donner un avant-goût de ma façon de pensée...",
+	"fr": "Mon Mari a été tué pendant la guerre. À cause de ça, les gardes ne me laisseront pas étal...  Je vais leur donner un avant-goût de ma façon de pensée...",
 	"es": "",
 	"zh-cn": "我的丈夫在战争中丧生，现在警卫也不让我摆摊了。我想我需要告诉他们我的想法...",
 	"zh-tw":"",

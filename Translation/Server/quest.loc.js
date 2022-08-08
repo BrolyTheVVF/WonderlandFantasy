@@ -12525,7 +12525,7 @@ locale["quest.157.texts.objective"] = {
 };
 locale["quest.157.texts.description"] = {
 	"en": "Part of my daily routine is to reduce the Ostrider population in the Endless Desert, to prevent them from leaving it. Please help me kill some of them.",
-	"fr": "Une partie de ma routine journalière est de réduire la population d'Ostrider dans le Désert Sans Fin, pour eviter qu'ils en partent. Aidez moi a en tuer quelques uns.",
+	"fr": "Une partie de ma routine journalière est de réduire la population d'Ostrider dans le Désert Sans Fin, pour eviter qu'ils en partent. Aidez-moi à en tuer quelques-uns.",
 	"es": "",
 	"zh-cn": "我日常生活的一部分就是减少无尽沙漠中陆行鸟的数量，防止它们离开沙漠。请帮我杀死一些。",
 	"zh-tw": "",
@@ -12679,7 +12679,7 @@ locale["quest.159.texts.objective"] = {
 };
 locale["quest.159.texts.description"] = {
 	"en": "Knowing that some monsters got out of the Fiery Tower, we have to do something about it! But I can't leave, my duty is to preserve this place. You'll have to go talk to my superior Bale, and believe me, you better be ready to drool!",
-	"fr": "Sachant que certains monstres se sont échappés de la Tour de Feu, nous devons agir! Mais je ne peux pas partir d'ici, il est de mon devoir de préserver cet endroit. Vous devrez aller parler à mon supérieur Bâle, et croyez-moi, vous devrez être prêt à en baver!",
+	"fr": "Sachant que certains monstres se sont échappés de la Tour de Feu, nous devons agir! Mais je ne peux pas partir d'ici, il est de mon devoir de préserver cet endroit. Vous devrez parler à mon supérieur Bâle, et croyez-moi, soyez prêt à en baver!",
 	"es": "",
 	"zh-cn": "听闻有一些怪物从炎魔之塔中出来了，我们必须采取一些措施！但我不能离开，我的职责是保护这个地方。你得去和我的上司贝尔谈谈，相信我，你要做好流口水的准备！",
 	"zh-tw": "",
@@ -13738,7 +13738,7 @@ locale["quest.173.name"] = {
 };
 locale["quest.173.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='80'>Lava Golem</span> at the Fiery Tower 3rd Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='80'>Golem de lave</span> au 3em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='80'>Golem de lave</span> au 3ème étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13815,7 +13815,7 @@ locale["quest.174.name"] = {
 };
 locale["quest.174.texts.objective"] = {
 	"en": "Search for <span class='text-link' data-target-type='npc' data-target-id='100071'>Yuko</span> on the Fiery Tower 3rd floor.",
-	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100071'>Yuko</span> au 3em étage de la Tour de Feu.",
+	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100071'>Yuko</span> au 3ème étage de la Tour de Feu.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13853,7 +13853,7 @@ locale["quest.174.texts.description"] = {
 };
 locale["quest.174.texts.returnPopupMain"] = {
 	"en": "<i>You see a body laying still on the ground, he wear the necklace of the Desert hunter.</i>",
-	"fr": "<i>Vous voyez un corp sur le sol devan vous, il porte le colier des Chasseurs du Desert.</i>",
+	"fr": "<i>Vous voyez un corps sur le sol devan vous, il porte le collier des Chasseurs du Désert.</i>",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13892,7 +13892,7 @@ locale["quest.175.name"] = {
 };
 locale["quest.175.texts.objective"] = {
 	"en": "Report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> on the Fiery Tower 3rd floor.",
-	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> au 3em étage de la Tour de Feu.",
+	"fr": "Cherchez <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span> au 3ème étage de la Tour de Feu.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -13969,7 +13969,7 @@ locale["quest.176.name"] = {
 };
 locale["quest.176.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='81'>Fiery Minion</span> at the Fiery Tower 3rd Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='81'>Sbire Ardent</span> au 3em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='81'>Sbire Ardent</span> au 3ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14123,7 +14123,7 @@ locale["quest.178.name"] = {
 };
 locale["quest.178.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='85'>Molten Lord Geal</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='85'>Seigneur fondu Geal</span> au 4em étage de la Tour de Feu, puis faites votre rapport a <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='85'>Seigneur fondu Geal</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14142,7 +14142,7 @@ locale["quest.178.texts.objective"] = {
 };
 locale["quest.178.texts.description"] = {
 	"en": "This is our last target, then we got to get out before we anger the master of this place. Believe me, i already saw him once, you don't want to meet him.",
-	"fr": "C'est notre dernière cible, après on devras partir avant de mettre en colère le maître de ces lieu. Crois-moi, je l'ai déjà vu une fois, tu ne veut pas le rencontrer.",
+	"fr": "C'est notre dernière cible, après on devra partir avant de mettre en colère le maître de ces lieux. Crois-moi, je l'ai déjà vu une fois, tu ne veut pas le rencontrer.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -21464,7 +21464,7 @@ locale["quest.44002.name"] = {
 };
 locale["quest.44002.texts.objective"] = {
 	"en": "Gather some Round Mushrooms and then go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Rassemblez des Champignons Rond puis allez parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Rassemblez des Champignons Rond puis allez parler à <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"zh-cn": "收集一些圆蘑菇,然后与<span class='text-link' data-target-type='npc' data-target-id='100026'>萨穆罕</span>交谈.",
 	"zh-tw":"",
@@ -21483,7 +21483,7 @@ locale["quest.44002.texts.objective"] = {
 };
 locale["quest.44002.texts.description"] = {
 	"en": "Our alchemists can make potions with those mushroom, but we always need more. Can you bring us some?",
-	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvouez-vous nous en porter quelques-unes ?",
+	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvez-vous nous en porter quelques-unes ?",
 	"es": "",
 	"zh-cn": "炼金术士可以用这些蘑菇制作药水,但我们总是需要更多.你能给我们拿些吗？",
 	"zh-tw":"",
