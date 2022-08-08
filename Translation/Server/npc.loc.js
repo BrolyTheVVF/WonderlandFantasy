@@ -4739,7 +4739,7 @@ locale["npc.100070.name"] = {
 };
 locale["npc.100070.title"] = {
 	"en": "Desert Hunter",
-	"fr": "Chasseur du Desert",
+	"fr": "Chasseur du Désert",
 	"es": "",
 	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
@@ -4777,7 +4777,7 @@ locale["npc.100071.name"] = {
 };
 locale["npc.100071.title"] = {
 	"en": "Desert Hunter",
-	"fr": "Chasseur du Desert",
+	"fr": "Chasseur du Désert",
 	"es": "",
 	"zh-cn":"沙漠猎人",
 	"zh-tw":"",
@@ -4976,7 +4976,7 @@ locale["npc.100008.interact.baseText"] = {
 };
 locale["npc.100013.interact.baseText"] = {
 	"en": "Rookie has to know what a rookie should do",
-	"fr": "Les recrue doivent savoir ce qu'une recroit doit faire",
+	"fr": "Les recrue doivent savoir ce qu'une recrue doit faire",
 	"es": "",
 	"zh-cn": "菜鸟就该知道菜鸟该干什麽",
 	"zh-tw":"",
@@ -4995,7 +4995,7 @@ locale["npc.100013.interact.baseText"] = {
 };
 locale["npc.100014.interact.baseText"] = {
 	"en": "I am a collector of tastes, not like those who collect animal guts.",
-	"fr": "Je suis un collectionneur de gout, pas comme ceux qui collectionnent des boyaux d'animaux.",
+	"fr": "Je suis un collectionneur de goût, pas comme ceux qui collectionnent des boyaux d'animaux.",
 	"es": "",
 	"zh-cn": "我是一个有品位的收藏家, 不是那些去收藏动物内脏的家伙们.",
 	"zh-tw":"",
@@ -5014,7 +5014,7 @@ locale["npc.100014.interact.baseText"] = {
 };
 locale["npc.100026.interact.baseText"] = {
 	"en": "We trained for this! Just take it easy, we will never fall for the demons. I wonder what is going on in the Celebeam Caves. The old king worries about his citizens. I think I should talk to him and ask for necessary reinforcements...",
-	"fr": "",
+	"fr": "Nous nous sommes entraînés pour ça! Vas y doucement, nous ne tomberons jamais sous l'emprise des démons. Je me demande ce qu'il se passe dans les Caves de Celebeam. Le vieux Roi s'inquiète pour ses sujets. Je pense devoir aller lui demander les renforts nécéssaires. ",
 	"es": "",
 	"zh-cn": "我们为此而训练！放松点，我们永远不会上恶魔的当。我想知道魔晶矿洞里发生了什么。老国王担心他的公民。我想我应该和他谈谈，请求必要的增援。。。",
 	"zh-tw":"",
@@ -5033,7 +5033,7 @@ locale["npc.100026.interact.baseText"] = {
 };
 locale["npc.100027.interact.baseText"] = {
 	"en": "My husband was killed in the war. Now the guards won't let me my stall... I'm going to give them a piece of my mind...",
-	"fr": "",
+	"fr": "Mon Mari a été tué pendant la guerre. À cause de ça, les gardes ne me laisseront pas étal...  Je vais leur donner un avant-goût de ma façon de pensée...",
 	"es": "",
 	"zh-cn": "我的丈夫在战争中丧生，现在警卫也不让我摆摊了。我想我需要告诉他们我的想法...",
 	"zh-tw":"",
