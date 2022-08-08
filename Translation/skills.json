@@ -1900,8 +1900,8 @@
         "id":"Serangan Vertikal"
     },
     "skills.warrior.SURGE.description":{
-        "en":"Attacks enemies in a line in front of you.",
-        "fr":"Attaque les ennemis dans une ligne devant vous.",
+        "en":"Launches a straight line attack, dealing damage to all enemies between you and the target.",
+        "fr":"Lance une attaque en ligne droite, infligeant des dégâts à tous les ennemis entre la cible et vous.",
         "es":"",
         "zh-cn":"对角色面前同一直线上的敌人造成伤害.",
         "zh-tw":"對角色面前同一直綫上的敵人造成傷害.",
