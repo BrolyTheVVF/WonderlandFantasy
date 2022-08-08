@@ -1976,8 +1976,8 @@
         "id":"Player menerima lebih sedikit kerusakan dari serangan pasangan berikutnya."
     },
     "skills.warrior.BLOCK.effect":{
-        "en":"Increases DMG RD by {0}% for the next 2 incoming attacks. Lasts 5 sec.",
-        "fr":"Augmente la résistance aux dégâts de {0}% pour les 2 prochaines attaques entrantes. Dure 5 sec.",
+        "en":"Increases DMG RD by {0}% for the next {1} incoming attacks. Lasts 5 sec.",
+        "fr":"Augmente la résistance aux dégâts de {0}% pour les {1} prochaines attaques entrantes. Dure 5 sec.",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -1987,7 +1987,7 @@
         "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Tăng {0}% Giảm Sát Thương cho 2 lần nhận sát thương kế tiếp. Có hiệu lực trong 5 giây.",
+        "vi":"Tăng {0}% Giảm Sát Thương cho {1} lần nhận sát thương kế tiếp. Có hiệu lực trong 5 giây.",
         "ar":"",
         "it":"",
         "pl":"",
