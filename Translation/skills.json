@@ -2147,23 +2147,23 @@
         "id":"Amarah sang Prajurit."
     },
     "skills.warrior.RAGE.effect":{
-        "en":"Cooldown: {0} sec. Greatly enhances combat efficiency for {1} sec. Increases SPD by 30% and ATK SPD by 100%",
-        "fr":"Temps de recharge: {0} secondes. Augmente la vitesse de 30% et la vitesse d'attaque de 100%. Dure {1} secondes.",
+        "en":"Cooldown: {0} sec. Greatly enhances combat efficiency for {1} sec. Increases SPD by {2}% and ATK SPD by {3}%",
+        "fr":"Temps de recharge: {0} secondes. Augmente la vitesse de {2}% et la vitesse d'attaque de {3}%. Dure {1} secondes.",
         "es":"",
-        "zh-cn":"冷却时间: {0} 秒. 极大增强战斗能力 {1} 秒. 增加移动速度30%和攻击速度100%.",
-        "zh-tw":"冷卻時間: {0} 秒. 極大增强戰鬥能力 {1} 秒. 增加移動速度30%和攻擊速度100%.",
+        "zh-cn":"冷却时间: {0} 秒. 极大增强战斗能力 {1} 秒. 增加移动速度{2}%和攻击速度{3}%.",
+        "zh-tw":"冷卻時間: {0} 秒. 極大增强戰鬥能力 {1} 秒. 增加移動速度{2}%和攻擊速度{3}%.",
         "kr":"",
-        "ru":"Перезарядка: {0} секунд. Значительно повышает боевую эффективность на {1} сек. увеличивает скорость на 30% и скорость атаки на 100%",
+        "ru":"Перезарядка: {0} секунд. Значительно повышает боевую эффективность на {1} сек. увеличивает скорость на {2}% и скорость атаки на {3}%",
         "tr":"",
-        "de":"Abklingzeit: {0} Sekunden. Verbessert die Kampfeffizienz für {1} Sekunden deutlich. Erhöht die Geschwindigkeit um 30% und die Angriffsgeschwindigkeit um 100%.",
+        "de":"Abklingzeit: {0} Sekunden. Verbessert die Kampfeffizienz für {1} Sekunden deutlich. Erhöht die Geschwindigkeit um {2}% und die Angriffsgeschwindigkeit um {3}%.",
         "jp":"",
         "pt":"",
-        "vi":"Thời Gian Hồi Chiêu: {0} giây. Tăng cường đáng kể hiệu quả chiến đấu trong {1} giây.Tăng thêm 30% Tốc Độ và 100% Tốc Độ Đánh.",
+        "vi":"Thời Gian Hồi Chiêu: {0} giây. Tăng cường đáng kể hiệu quả chiến đấu trong {1} giây.Tăng thêm {2}% Tốc Độ và {3}% Tốc Độ Đánh.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Cooldown: {0} dtk. Meningkatkan efisiensi pertempuran dengan drastis selama {1} detik. Meningkatkan SPD sebanyak 30% dan ATK SPD sebanyak 100%"
+        "id":"Cooldown: {0} dtk. Meningkatkan efisiensi pertempuran dengan drastis selama {1} detik. Meningkatkan SPD sebanyak {2}% dan ATK SPD sebanyak {3}%"
     },
     "skills.warrior.TERMINATE.name":{
         "en":"Terminate",
