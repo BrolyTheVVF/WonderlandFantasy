@@ -4351,7 +4351,7 @@
         "id": ""
     },
     "skills.TMB_TRANSFORM.effect": {
-        "en": "Transporms the target into an animal. Lowers its SPD by 60%, disabling it from attacking or using skills. Lasts 3 sec.",
+        "en": "Transforms the target into an animal. Lowers its SPD by 60%, disabling it from attacking or using skills. Lasts 3 sec.",
         "fr": "Transforme la cible. Réduit sa VIT de 60% et l'empêche d'attaquer ou d'utiliser des sorts. Dure 3 sec.",
         "es": "",
         "zh-cn": "将目标转化成动物，降低其60%速度，使其无法攻击或使用技能。持续3秒。",
