@@ -1444,8 +1444,8 @@
         "id":"Panah Homing"
     },
     "skills.ranger.HOMING_ARROW.description":{
-        "en":"Instantly shoots multiple homing arrows at a single target, dealing a large amount of damage.",
-        "fr":"Tire instantanément plusieurs flèches guidées sur une seule cible, infligeant d'importants dégâts.",
+        "en":"Instantly shoots 8 homing arrows at a single target, dealing a large amount of damage.",
+        "fr":"Tire instantanément 8 flèches guidées sur une seule cible, infligeant d'importants dégâts.",
         "es":"",
         "zh-cn":"瞬间对单一目标发射多枚追踪箭，造成大量伤害.",
         "zh-tw":"瞬間對單一目標發射多枚追蹤箭，造成大量傷害.",
@@ -1501,23 +1501,23 @@
         "id":"Panah Penghancur"
     },
     "skills.ranger.IMPACT_SHOT.description":{
-        "en":"Knocks the target back with powerful shots. Has a better chance to Paralyze the target for 3 seconds as skill levels.",
-        "fr":"Repousse la cible avec des tirs puissants. Peut paralyser la cible pendant 3 secondes, à mesure que le niveau de compétence augmente, le risque de paralysie augmente.",
+        "en":"Knocks the target back with a powerful shot. Has a chance to paralyze the target by X for 5 secs. The chance of Paralysis increases with the skill levels.",
+        "fr":"Repousse la cible avec un tir puissant. À une chance de paralyser la cible de X pendant 5 secs. Les chances de Paralysie augmentent avec le niveau de la compétence.",
         "es":"",
-        "zh-cn":"用强力的箭矢击退目标. 技能等级提升后将有更高的机率麻痹目标3秒.",
-        "zh-tw":"用强力的箭矢擊退目標. 技能等級提升后將有更高的機率麻痹目標3秒.",
+        "zh-cn":"用强力的箭矢击退目标. 技能等级提升后将有更高的机率麻痹目标5秒.",
+        "zh-tw":"用强力的箭矢擊退目標. 技能等級提升后將有更高的機率麻痹目標5秒.",
         "kr":"",
-        "ru":"Отбрасывает цель назад мощными выстрелами. Может парализовать цель на 3 секунды, по мере повышения уровня мастерства шанс паралича увеличивается.",
+        "ru":"Отбрасывает цель назад мощными выстрелами. Может парализовать цель на 5 секунды, по мере повышения уровня мастерства шанс паралича увеличивается.",
         "tr":"",
-        "de":"Schlägt das Ziel mit kraftvollen Schüssen zurück. Hat eine höhere Chance, das Ziel für 3 Sekunden entsprechend der Fähigkeitsstufe zu lähmen.",
+        "de":"Schlägt das Ziel mit kraftvollen Schüssen zurück. Hat eine höhere Chance, das Ziel für 5 Sekunden entsprechend der Fähigkeitsstufe zu lähmen.",
         "jp":"",
         "pt":"",
-        "vi":"Đẩy lùi mục tiêu bằng những phát bắn mạnh mẽ. Có thể làm Tê Liệt mục tiêu trong 3 giây theo cấp độ kỹ năng.",
+        "vi":"Đẩy lùi mục tiêu bằng những phát bắn mạnh mẽ. Có thể làm Tê Liệt mục tiêu trong 5 giây theo cấp độ kỹ năng.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Pukul mundur target dengan tembakan kuat. Memiliki peluang lebih baik untuk melumpuhkan target selama 3 detik peluang meningkat seiring level skill bertambah."
+        "id":"Pukul mundur target dengan tembakan kuat. Memiliki peluang lebih baik untuk melumpuhkan target selama 5 detik peluang meningkat seiring level skill bertambah."
     },
     "skills.ranger.IMPACT_SHOT.effect":{
         "en":"Deals {0} Skill DMG. Knock-back distance: {1}.",
