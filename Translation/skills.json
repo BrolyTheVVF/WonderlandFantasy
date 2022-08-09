@@ -1406,23 +1406,23 @@
         "id":"Membuat musuh masuk ke dalam perangkap."
     },
     "skills.ranger.PARALYZE_TRAP.effect":{
-        "en":"Trap lasts 15 sec. Paralyzes the target for {0} sec.",
-        "fr":"Le piège dure 15 secondes. Paralyse la cible pendant {0} secondes.",
+        "en":"Trap lasts {1} sec. Paralyzes the target for {0} sec.",
+        "fr":"Le piège dure {1} secondes. Paralyse la cible pendant {0} secondes.",
         "es":"",
-        "zh-cn":"陷阱持续15秒. 麻痹目标 {0} 秒.",
-        "zh-tw":"陷阱持續15秒. 麻痹目標 {0} 秒.",
+        "zh-cn":"陷阱持续{1}秒. 麻痹目标 {0} 秒.",
+        "zh-tw":"陷阱持續{1}秒. 麻痹目標 {0} 秒.",
         "kr":"",
-        "ru":"Время жизни ловушки 15 секунд. Парализует цель на {0} секунд.",
+        "ru":"Время жизни ловушки {1} секунд. Парализует цель на {0} секунд.",
         "tr":"",
-        "de":"Die Falle hält 15 Sekunden an und lähmt das Ziel für {0} Sekunden.",
+        "de":"Die Falle hält {1} Sekunden an und lähmt das Ziel für {0} Sekunden.",
         "jp":"",
         "pt":"",
-        "vi":"Bẫy kéo dài 15 giây. Làm Tê Liệt mục tiêu trong {0} giây.",
+        "vi":"Bẫy kéo dài {1} giây. Làm Tê Liệt mục tiêu trong {0} giây.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Perangkap berlangsung selama 15 detik. Melumpuhkan target selama {0} detik."
+        "id":"Perangkap berlangsung selama {1} detik. Melumpuhkan target selama {0} detik."
     },
     "skills.ranger.HOMING_ARROW.name":{
         "en":"Homing Arrow",
