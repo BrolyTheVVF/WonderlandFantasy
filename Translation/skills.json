@@ -1501,8 +1501,8 @@
         "id":"Panah Penghancur"
     },
     "skills.ranger.IMPACT_SHOT.description":{
-        "en":"Knocks the target back with a powerful shot. Has a chance to paralyze the target by X for 5 secs. The chance of Paralysis increases with the skill levels.",
-        "fr":"Repousse la cible avec un tir puissant. À une chance de paralyser la cible de X pendant 5 secs. Les chances de Paralysie augmentent avec le niveau de la compétence.",
+        "en":"Knocks the target back with a powerful shot. Has a chance to paralyze the target for 5 secs. The chance of Paralysis increases with the skill levels.",
+        "fr":"Repousse la cible avec un tir puissant. À une chance de paralyser la cible pendant 5 secs. Les chances de Paralysie augmentent avec le niveau de la compétence.",
         "es":"",
         "zh-cn":"用强力的箭矢击退目标. 技能等级提升后将有更高的机率麻痹目标5秒.",
         "zh-tw":"用强力的箭矢擊退目標. 技能等級提升后將有更高的機率麻痹目標5秒.",
@@ -1520,8 +1520,8 @@
         "id":"Pukul mundur target dengan tembakan kuat. Memiliki peluang lebih baik untuk melumpuhkan target selama 5 detik peluang meningkat seiring level skill bertambah."
     },
     "skills.ranger.IMPACT_SHOT.effect":{
-        "en":"Deals {0} Skill DMG. Knock-back distance: {1}.",
-        "fr":"Inflige {0} dégâts de compétence. Distance de recul: {1}.",
+        "en":"Deals {0} Skill DMG. Knock-back distance: {1}. Has a {2}% chance to paralyze the target for 5 secs.",
+        "fr":"Inflige {0} dégâts de compétence. Distance de recul: {1}. A {2}% de chancede paralyser la cible pendant 5 secs.",
         "es":"",
         "zh-cn":"造成 {0} 的技能伤害. 目标击退距离: {1}.",
         "zh-tw":"造成 {0} 的技能傷害. 目標擊退距離: {1}.",
