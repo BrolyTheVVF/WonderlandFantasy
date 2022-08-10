@@ -3420,7 +3420,7 @@
         "id": ""
     },
     "skills.TMD_SILENCE_CURSE.effect.level10": {
-        "en": "Cooldown time of Silence Curse by 5 sec.",
+        "en": "Reduce the cooldown of Silence Curse by 5 sec.",
         "fr": "Réduis le Temps de Recharge de Silence de 5 sec.",
         "es": "",
         "zh-cn": "沉默诅咒CD -5秒",
