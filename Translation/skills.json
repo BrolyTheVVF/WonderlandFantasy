@@ -2394,23 +2394,23 @@
         "id":"Ujian ketahanan"
     },
     "skills.TRIAL_OF_STAMINA.effect":{
-        "en":"Increases defense.<br>Passive. Increases {0} defense.",
-        "fr":"Augmente la défense.<br>Passif. Augmente {0} défense.",
+        "en":"Increases defense by {0}.",
+        "fr":"Augmente la défense de {0}.",
         "es":"",
         "zh-cn":"增加防御力.<br>被动. 增加 {0} 防御力.",
         "zh-tw":"增加防禦力.<br>被動. 增加 {0} 防禦力.",
         "kr":"",
-        "ru":"Повышает защиту.<br>Пассив. Добавляет {0} защиты.",
+        "ru":"Добавляет {0} защиты.",
         "tr":"",
-        "de":"Erhöht die Verteidigung. <br> Passiv. Erhöht die {0} Verteidigung.",
+        "de":"Erhöht die {0} Verteidigung.",
         "jp":"",
         "pt":"",
-        "vi":"Tăng thêm Phòng Thủ.<br>Bị động. Tăng {0} Phòng Thủ.",
+        "vi":"Tăng {0} Phòng Thủ.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan pertahanan. <br> Pasif. Meningkatkan {0} pertahanan."
+        "id":"Meningkatkan {0} pertahanan."
     },
     "skills.TRIAL_OF_POWER.name":{
         "en":"Trial of Power",
@@ -2432,23 +2432,23 @@
         "id":"Ujian Kekuatan"
     },
     "skills.TRIAL_OF_POWER.effect":{
-        "en":"Increases Attack.<br>Passive. Increases {0} ATK.",
-        "fr":"Augmente l'Attaque.<br>Passif. Augmente {0} ATQ",
+        "en":"Passive. Increases Attack by {0}.",
+        "fr":"Augmente l'Attaque de {0}.",
         "es":"",
         "zh-cn":"增加攻击力.<br>被动. 增加 {0} 攻击力.",
         "zh-tw":"增加攻擊力.<br>被動. 增加 {0} 攻擊力.",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"Erhöht den Angriff.<br>Passiv. Erhöht {0} Angriff.",
+        "de":"Erhöht {0} Angriff.",
         "jp":"",
         "pt":"",
-        "vi":"Tăng thêm Tấn Công. <br> Bị động. Tăng {0} Tấn Công",
+        "vi":"Tăng {0} Tấn Công",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan Serangan. <br> Pasif. Meningkatkan {0} ATK."
+        "id":"Meningkatkan {0} ATK."
     },
     "skills.TRIAL_OF_HEALTH.name":{
         "en":"Trial of Health",
@@ -2470,23 +2470,23 @@
         "id":"Ujian Kehidupan"
     },
     "skills.TRIAL_OF_HEALTH.effect":{
-        "en":"Increases Health.<br>Passive. Increases {0} HP.",
-        "fr":"Augmente les PV Max.<br>Passif. Augmente {0} PV.",
+        "en":"Increases Health by {0}.",
+        "fr":"Augmente les Points de Vie de {0}.",
         "es":"",
         "zh-cn":"增加生命值.<br>被动. 增加 {0} 生命值.",
         "zh-tw":"增加生命值.<br>被動. 增加 {0} 生命值.",
         "kr":"",
-        "ru":"Увеличивает здоровье.<br>Пассивный. Добавляет {0} HP",
+        "ru":"Добавляет {0} HP",
         "tr":"",
-        "de":"Erhöht die Gesundheit.<br>Passiv. Erhöht {0} Lebenspunkte.",
+        "de":"Erhöht {0} Lebenspunkte.",
         "jp":"",
         "pt":"",
-        "vi":"Tăng thêm Máu.<br>Bị động. Tăng {0} Máu.",
+        "vi":"Tăng {0} Máu.",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Meningkatkan Kesehatan.<br>Pasif. Meningkatkan {0} HP."
+        "id":"Meningkatkan {0} HP."
     },
     "talent.mage.destruction":{
         "en":"Destruction",
