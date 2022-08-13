@@ -9120,7 +9120,7 @@
         "id": ""
     },
     "skills.TRM_HOLY_SHOT.effect": {
-        "en": "After each successful evasion, increses Ranger's Holy Attack by {0}. Can stack up to 20 times. Lasts 10 seconds.",
+        "en": "After each successful evasion, increases Ranger's Holy Attack by {0}. Can stack up to 20 times. Lasts 10 seconds.",
         "fr": "Après une Esquive réussie, augmente l'Attaque Sacrée de {0}. Peut s'accumuler 20 fois. Dure 10 sec",
         "es": "",
         "zh-cn": "每次成功闪避后，弓箭手的神圣攻击+ {0}。最多可叠加20次。持续10秒。",
