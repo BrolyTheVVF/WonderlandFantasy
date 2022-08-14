@@ -11343,23 +11343,23 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.effect.level20": {
-        "en": "Maximum Crit of Normal Attack +350",
-        "fr": "Critique des attaques normales augmentées de +350",
-        "es": "",
-        "zh-cn": "普通攻击的暴击伤害+350",
-        "zh-tw":"",
+        "en": "Crit Enhanced +5%",
+        "fr": "Amélioration Critique +5%",
+        "es": "Crit mejorado +5%",
+        "zh-cn": "暴击增强 +5%",
+        "zh-tw": "",
         "kr": "",
-        "ru": "",
+        "ru": "Усиление Крита +5%",
         "tr": "",
-        "de": "",
+        "de": "Kritische Erweitert +5%",
         "jp": "",
         "pt": "",
-        "vi": "Bạo Kích Tối Đa của Đòn Đánh Thường +350.",
+        "vi": "Tăng Bạo Kích +5%",
         "ar": "",
         "it": "",
         "pl": "",
         "th": "",
-        "id": ""
+        "id": "Peningkatan Crit +5%"
     },
     "skills.TWM_BLADE_REALM.name": {
         "en": "Blade Realm",
