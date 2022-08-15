@@ -12369,10 +12369,10 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect": {
-        "en": "When receiving critic damages, increases Damage Reduction by {0}. Can stack up to 20 times",
-        "fr": "Quand vous êtes touchés par un Coup Critique, augmente Réduction de Dégâts de {0}. Peut s'accumuler 20 fois.",
+        "en": "When receiving critic damages, increases Damage Reduction by {0}%. Can stack up to 20 times. Lasts 10 seconds.",
+        "fr": "Quand vous êtes touchés par un Coup Critique, augmente Réduction de Dégâts de {0}%. Peut s'accumuler 20 fois. Dure 10 secondes.",
         "es": "",
-        "zh-cn": "受到暴击时，伤害减免+{0}，最多可叠加20次.",
+        "zh-cn": "受到暴击时，伤害减免+{0}%，最多可叠加20次.",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -12380,7 +12380,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Khi gây Bạo Kích, cộng thêm {0} Giảm Sát Thương. Cộng dồn tối đa 20 lần.",
+        "vi": "Khi gây Bạo Kích, cộng thêm {0}% Giảm Sát Thương. Cộng dồn tối đa 20 lần.",
         "ar": "",
         "it": "",
         "pl": "",
