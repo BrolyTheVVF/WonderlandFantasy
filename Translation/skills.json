@@ -12369,7 +12369,7 @@
         "id": ""
     },
     "skills.TWP_INFLEXIBLE_WILL.effect": {
-        "en": "When receiving critic damages, increases Damage Reduction by {0}%. Can stack up to 20 times. Lasts 10 seconds.",
+        "en": "When receiving critical damages, increases Damage Reduction by {0}%. Can stack up to 20 times. Lasts 10 seconds.",
         "fr": "Quand vous êtes touchés par un Coup Critique, augmente Réduction de Dégâts de {0}%. Peut s'accumuler 20 fois. Dure 10 secondes.",
         "es": "",
         "zh-cn": "受到暴击时，伤害减免+{0}%，最多可叠加20次.",
