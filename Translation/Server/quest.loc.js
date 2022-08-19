@@ -3713,7 +3713,7 @@ locale["quest.47.name"] = {
 };
 locale["quest.47.texts.objective"] = {
 	"en": "The <span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentice Monster Hunter</span> hopes you can clear <span class='text-link' data-target-type='mob' data-target-id='21'>Familiars</span> and <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span> in Chaotic Hills.",
-	"fr": "L'<span class='text-link' data-target-type='npc' data-target-id='100038'>Apprentis Chausseur de Monstre</span> espère que vous pouvez nettoyer les <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span> et les <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span> dans les Collines Chaotiques.",
+	"fr": "L'<span class='text-link' data-target-type='npc' data-target-id='100038'>Apprenti Chasseur de Monstres</span> espère que vous pouvez nettoyer les <span class='text-link' data-target-type='mob' data-target-id='21'>Familiers</span> et les <span class='text-link' data-target-type='mob' data-target-id='22'>Gumus</span> dans les Collines Chaotiques.",
 	"es": "",
 	"zh-cn": " <span class='text-link' data-target-type='npc' data-target-id='100038'>猎魔学徒</span>希望你能清除喧嚣丘陵中的<span class='text-link' data-target-type='mob' data-target-id='21'>小恶魔</span> and <span class='text-link' data-target-type='mob' data-target-id='22'>咕呣</span> in Chaotic Hills.",
 	"zh-tw":"",
@@ -6156,7 +6156,7 @@ locale["quest.77.texts.objective"] = {
 };
 locale["quest.77.texts.description"] = {
 	"en": "The guards are trying to kick me out of my stall since my husband died. I can't go out and deliver it myself. Can you bring the cloak to James and check if he's alright?",
-	"fr": "Les guardes essayent de m'expluser de mon étal depuis que mon mari est mort. Je ne peux pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
+	"fr": "Les gardes essayent de m'expulser de mon étal depuis que mon mari est mort. Je ne peux pas partir et le livrer moi même. Pouvez-vous apporter le manteau à James et vérifier qu'il va bien?",
 	"es": "",
 	"zh-cn": "自从我丈夫死后,卫兵们一直想收回我的摊位.我不能亲自去送.你能把斗篷带给杰姆斯看看他还好吗？",
 	"zh-tw":"",
