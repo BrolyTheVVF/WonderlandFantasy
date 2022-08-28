@@ -21596,6 +21596,160 @@ locale["quest.40057.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40058.name"] = {
+	"en": "Hunting: Werewolf",
+	"fr": "Chasse: Loup-garou",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Hùng Trư",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40058.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='90'>Werewolf</span> at the Sufer Cemetery, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='90'>Loup-garou</span> au Cimetière de Souffrance, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40058.texts.description"] = {
+	"en": "One villager get bitten by a beast one day, then he disappeared. Some days later we found out he had transformed into a werewolf and bitten other villager. Now the Sufer Cimetery is full of them. We'll burn them all down.",
+	"fr": "Un jour, un villageois a été mordu par une bête, puis il a disparu. Quelques jours plus tard, on a découvert qu'il s'était transformé en loup-garou et avait mordu d'autres villageois. Maintenant, le cimetière de Sufer en est rempli. Nous les brûlerons tous.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40058.texts.returnPopupMain"] = {
+	"en": "Well at least they are not infected anymore, right?",
+	"fr": "Et bien au moins ils ne sont plus infectés, n'est-ce pas?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40058.name"] = {
+	"en": "Hunting: Werewolf Chief",
+	"fr": "Chasse: Loup-garou chef",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Thủ Lĩnh Người Sói",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40058.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='91'>Werewolf Chief</span> at the Sufer Cemetery, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='91'>Loup-garou chef</span> au Cimetière de Souffrance, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40058.texts.description"] = {
+	"en": "*NO_LC*",
+	"fr": "*NO_LC*",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "*NO_LC*",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40058.texts.returnPopupMain"] = {
+	"en": "*NO_LC*",
+	"fr": "*NO_LC*",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "*NO_LC*",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
