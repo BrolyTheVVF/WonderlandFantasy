@@ -21442,6 +21442,161 @@ locale["quest.40055.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.40056.name"] = {
+	"en": "Hunting: Kappa",
+	"fr": "Chasse: Kappa",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Kappa",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40056.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> at the Sufer Ruins, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> aux Ruines de Souffrance, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40056.texts.description"] = {
+	"en": "Some Kappas have gone out of their lake and invested the abandoned city at the north of Letin. Help us clean the place and we might be able to live here again.",
+	"fr": "Des Kappas sont sortis de leur lac et ont investi la ville abandonnée au nord de Letin. Aidez-nous à nettoyer l'endroit et nous pourrons peut-être vivre ici à nouveau.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40056.texts.returnPopupMain"] = {
+	"en": "I still don't get what pushed them to go this far from their nest",
+	"fr": "Je ne comprends toujours pas ce qui les a poussés à s'éloigner autant de leur nid.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.40057.name"] = {
+	"en": "Hunting: Strong Boar",
+	"fr": "Chasse: Sanglier Puissant",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Săn Lùng: Hùng Trư",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40057.texts.objective"] = {
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='89'>Strong Boar</span> at the Sufer Ruins, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='89'>Sanglier Puissant</span> aux Ruines de Souffrance, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40057.texts.description"] = {
+	"en": "Some fearless boars got into the Sufer Ruins when everybody left, and they live here now. Go there and kick them out of our city!",
+	"fr": "Des sangliers intrépides ont pénétré dans les Ruines de Souffrance quand tout le monde à fuis, et ils y vivent maintenant. Allez-y et chassez-les de notre ville!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.40057.texts.returnPopupMain"] = {
+	"en": "Great, that make on less threat near Letin.",
+	"fr": "Super, ça fait une menace en moins près de Letin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+
 locale["quest.44000.name"] = {
 	"en": "Enlightened Orb",
 	"fr": "Orbe Illuminé",
