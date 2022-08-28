@@ -23792,7 +23792,7 @@ locale["quest.45016.texts.objective"] = {
 };
 locale["quest.45016.texts.description"] = {
 	"en": "Those Earthworms were so peacefull, we must find the source of this corruption. But first of all, we must protect the city.",
-	"fr": "Ces Lombrics etaient si paisibles, nous devons trouver la source de cette corruption. Mais notre priorité reste la protection de la ville.",
+	"fr": "Ces Lombrics étaient si paisibles, nous devons trouver la source de cette corruption. Mais notre priorité reste la protection de la ville.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -23869,7 +23869,7 @@ locale["quest.45017.texts.objective"] = {
 };
 locale["quest.45017.texts.description"] = {
 	"en": "Some citizen reported that trees started moving in the uncharted forest. Can you go check it out?",
-	"fr": "Des citoyens ont signalé que des arbres commencaient à bouger dans la forêt inexplorée. Pouvez-vous aller vérifier?",
+	"fr": "Des citoyens ont signalé que des arbres commençaient à bouger dans la forêt inexplorée. Pouvez-vous vérifier?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -23946,7 +23946,7 @@ locale["quest.45018.texts.objective"] = {
 };
 locale["quest.45018.texts.description"] = {
 	"en": "Some rumors talk about floating spirits deep in the Uncharted Forest. It seems you got chosen to go and have a look.",
-	"fr": "Des rumeurs parlent d'esprits flottants dans la Forêt Inécplorée. Il semblerais que vous ayez été choisi pour aller y jeter un coup d'oeil.",
+	"fr": "Des rumeurs parlent d'esprits flottants dans la Forêt Inexplorée. Il semblerait que vous ayez été choisi pour aller jeter un coup d'oeil.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24023,7 +24023,7 @@ locale["quest.45019.texts.objective"] = {
 };
 locale["quest.45019.texts.description"] = {
 	"en": "Unicorn are like nature's guardians. They are peaceful to humans and protect the woods with their lifes.<br><br>Recently, they started attacking merchants. We must take care of the situation before citizen start a mob and try to burn them all down! Even if they are somehow not them, we must prevent a massacre!",
-	"fr": "Unicorn are like nature's gardians. Elles sont pacifiques envers les humains et protègent les bois avec leurs vies.<br><br>Récemment, elles ont commencé à attaquer les marchands. We must take care of the situation before citizen start a mob and try to burn them all down! Even if they are somehow not them, we must prevent a massacre!",
+	"fr": "Les Licornes sont comme des Gardiens de la Nature. Elles sont pacifiques envers les humains et protègent les bois avec leur vie.<br><br>Récemment, elles ont commencé à attaquer les marchands. Nous nous devons de reprendre la situation en main avant que les habitants ne tentent une émeute pour tous les brûler. Même si ne ce sont pas eux, nous devons empêcher ce massacre!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
