@@ -1,5 +1,5 @@
 {
-    "map.Treefolk Town.name":{
+    "map.C1_Treefolk_Town.name":{
         "en":"Treefolk Town",
         "fr":"Ville de l'arbre monde",
         "es":"",
@@ -18,7 +18,7 @@
         "th":"",
         "id":"Kota Treefolk"
     },
-    "map.Slime Plain.name":{
+    "map.C1_Slime_Plain.name":{
         "en":"Slime Plain",
         "fr":"Plaine de Slime",
         "es":"",
@@ -37,26 +37,7 @@
         "th":"",
         "id":"Dataran Slime"
     },
-    "map.Slime Kingdom.name":{
-        "en":"Slime Kingdom",
-        "fr":"Royaume des Slime",
-        "es":"",
-        "zh-cn":"史莱姆王国",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"Vương Quốc Bầy Nhầy",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
-    "map.Beast Woods.name":{
+    "map.C1_Beast_Woods.name":{
         "en":"Beast Woods",
         "fr":"Bois de la Bête",
         "es":"",
@@ -75,7 +56,7 @@
         "th":"",
         "id":"Beast Woods"
     },
-    "map.Lahm Shore.name":{
+    "map.C1_Lahm_Shore.name":{
         "en":"Lahm Shore",
         "fr":"Rive de Lahm",
         "es":"",
@@ -94,7 +75,7 @@
         "th":"",
         "id":"Pantai Lahm"
     },
-    "map.Sacred Wilderness.name":{
+    "map.C1_Sacred_Wilderness.name":{
         "en":"Sacred Wilderness",
         "fr":"Jungle Sacrée",
         "es":"",
@@ -113,7 +94,7 @@
         "th":"",
         "id":"Hutan Belantara Suci"
     },
-    "map.Road of Triumph.name":{
+    "map.C1_Road_Of_Triumph.name":{
         "en":"Road of Triumph",
         "fr":"Route du Triomphe",
         "es":"",
@@ -132,7 +113,7 @@
         "th":"",
         "id":"Jalan Kemenangan"
     },
-    "map.Cain Kingdom.name":{
+    "map.C1_Cain_Kingdom.name":{
         "en":"Imperial City Square",
         "fr":"Place Royale Impériale",
         "es":"",
@@ -170,7 +151,7 @@
         "th":"",
         "id":""
     },
-    "map.Cathedral.name":{
+    "map.C1_Cathedral.name":{
         "en":"Cathedral",
         "fr":"Cathédrale",
         "es":"",
@@ -189,26 +170,7 @@
         "th":"",
         "id":"Katedral"
     },
-    "map.Molten Arena.name":{
-        "en":"Molten Arena",
-        "fr":"Arène en Fusion",
-        "es":"",
-        "zh-cn":"熔岩竞技场",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"Schmelz-Arena",
-        "jp":"",
-        "pt":"",
-        "vi":"Đấu Trường Nham Thạch",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":"Molten Arena"
-    },
-    "map.Oracle Lake.name":{
+    "map.C1_Oracle_Lake.name":{
         "en":"Oracle Lake",
         "fr":"Lac de l'Oracle",
         "es":"",
@@ -227,7 +189,7 @@
         "th":"",
         "id":""
     },
-    "map.Chaotic Hills.name":{
+    "map.C1_Chaotic_Hills.name":{
         "en":"Chaotic Hills",
         "fr":"Collines Chaotiques",
         "es":"",
@@ -246,7 +208,7 @@
         "th":"",
         "id":""
     },
-    "map.Chaotic Jungles.name":{
+    "map.C1_Chaotic_Jungles.name":{
         "en":"Chaotic Jungles",
         "fr":"Jungles Chaotiques",
         "es":"",
@@ -284,7 +246,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Cave Floor 1.name":{
+    "map.C1_Celebeam_Cave_Floor_1.name":{
         "en":"Celebeam Cave 1",
         "fr":"Caves de Celebeam 1",
         "es":"",
@@ -303,7 +265,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Cave Floor 2.name":{
+    "map.C1_Celebeam_Cave_Floor_2.name":{
         "en":"Celebeam Cave 2",
         "fr":"Caves de Celebeam 2",
         "es":"",
@@ -322,7 +284,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Cave Floor 3.name":{
+    "map.C1_Celebeam_Cave_Floor_3.name":{
         "en":"Celebeam Cave 3",
         "fr":"Caves de Celebeam 3",
         "es":"",
@@ -341,7 +303,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Cave Floor 4.name":{
+    "map.C1_Celebeam_Cave_Floor_4.name":{
         "en":"Celebeam Cave 4",
         "fr":"Caves de Celebeam 4",
         "es":"",
@@ -360,7 +322,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Cave Floor 5.name":{
+    "map.C1_Celebeam_Cave_Floor_5.name":{
         "en":"Celebeam Cave 5",
         "fr":"Caves de Celebeam 5",
         "es":"",
@@ -398,7 +360,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Hall of Elite.name":{
+    "map.C1_Celebeam_Cave_Hall_Of_Elite.name":{
         "en":"Celebeam Hall of Elite",
         "fr":"Celebeam Hall d'Élite",
         "es":"",
@@ -417,7 +379,7 @@
         "th":"",
         "id":""
     },
-    "map.Celebeam Hall of Deep.name":{
+    "map.C1_Celebeam_Cave_Hall_Of_Elite_Deep.name":{
         "en":"Celebeam Hall of Elite Deep",
         "fr":"Celebeam Hall d'Élite profond",
         "es":"",
@@ -436,7 +398,7 @@
         "th":"",
         "id":""
     },
-    "map.East Post.name":{
+    "map.C1_East_Post.name":{
         "en":"East Post",
         "fr":"Poste Est",
         "es":"",
@@ -455,7 +417,7 @@
         "th":"",
         "id":""
     },
-    "map.Harbor Plain.name":{
+    "map.C1_Harbor_Plain.name":{
         "en":"Harbor Plain",
         "fr":"Plaine du port",
         "es":"",
@@ -474,7 +436,7 @@
         "th":"",
         "id":""
     },
-    "map.Cain Harbor.name":{
+    "map.C1_Cain_Harbor.name":{
         "en":"Cain Harbor",
         "fr":"Port de Kane",
         "es":"",
@@ -1784,5 +1746,43 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "map.S_Slime_Kingdom.name":{
+        "en":"Slime Kingdom",
+        "fr":"Royaume des Slime",
+        "es":"",
+        "zh-cn":"史莱姆王国",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Vương Quốc Bầy Nhầy",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.S_Molten_Arena.name":{
+        "en":"Molten Arena",
+        "fr":"Arène en Fusion",
+        "es":"",
+        "zh-cn":"熔岩竞技场",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"Schmelz-Arena",
+        "jp":"",
+        "pt":"",
+        "vi":"Đấu Trường Nham Thạch",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Molten Arena"
     }
 }
