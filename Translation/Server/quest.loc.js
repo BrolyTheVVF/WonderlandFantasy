@@ -21673,7 +21673,7 @@ locale["quest.40058.texts.returnPopupMain"] = {
 	"id": ""
 };
 
-locale["quest.40058.name"] = {
+locale["quest.40059.name"] = {
 	"en": "Hunting: Werewolf Chief",
 	"fr": "Chasse: Loup-garou chef",
 	"es": "",
@@ -21692,7 +21692,7 @@ locale["quest.40058.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.40058.texts.objective"] = {
+locale["quest.40059.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='91'>Werewolf Chief</span> at the Sufer Cemetery, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='91'>Loup-garou chef</span> au Cimetière de Souffrance, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
@@ -21711,7 +21711,7 @@ locale["quest.40058.texts.objective"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.40058.texts.description"] = {
+locale["quest.40059.texts.description"] = {
 	"en": "*NO_LC*",
 	"fr": "*NO_LC*",
 	"es": "",
@@ -21730,7 +21730,7 @@ locale["quest.40058.texts.description"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.40058.texts.returnPopupMain"] = {
+locale["quest.40059.texts.returnPopupMain"] = {
 	"en": "*NO_LC*",
 	"fr": "*NO_LC*",
 	"es": "",
