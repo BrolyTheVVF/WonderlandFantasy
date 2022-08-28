@@ -21346,7 +21346,7 @@ locale["quest.40054.texts.description"] = {
 	"id": ""
 };
 locale["quest.40054.texts.returnPopupMain"] = {
-	"en": "Thanks! Know i know what i'll eat tonight!",
+	"en": "Thanks! Now i know what i'll eat tonight!",
 	"fr": "Merci ! Je sais ce que je vais manger ce soir !",
 	"es": "",
 	"zh-cn": "",
