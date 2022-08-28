@@ -21309,7 +21309,7 @@ locale["quest.40054.name"] = {
 };
 locale["quest.40054.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='86'>Shroom</span> at the Road of Requiem, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='86'>Champi</span> à la Route du Requiem, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='86'>Champi</span> sur la Route du Requiem, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -21386,7 +21386,7 @@ locale["quest.40055.name"] = {
 };
 locale["quest.40055.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='87'>Bunny</span> at the Road of Requiem, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='87'>Lapin</span> à la Route du Requiem, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='87'>Lapin</span> sur la Route du Requiem, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -21405,7 +21405,7 @@ locale["quest.40055.texts.objective"] = {
 };
 locale["quest.40055.texts.description"] = {
 	"en": "The bunnies at the Road of Requiem are getting aggressive. It seems the plants they are eating made them go crazy. We need to take care of this now! I mean, you need to. Thanks.",
-	"fr": "Les lapins de la route de Requiem deviennent agressifs. Il semble que les plantes qu'ils mangent les ont rendus fous. On doit s'occuper de ça maintenant ! Je veux dire, tu dois le faire. Merci.",
+	"fr": "Les lapins de la Route de Requiem deviennent agressifs. Il semble que les plantes qu'ils mangent les ont rendu fous. On doit s'occuper de ça maintenant ! Je veux dire, tu dois le faire. Merci.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -21424,7 +21424,7 @@ locale["quest.40055.texts.description"] = {
 };
 locale["quest.40055.texts.returnPopupMain"] = {
 	"en": "This could have gone bad",
-	"fr": "Ca aurais put mal tourner",
+	"fr": "Ça aurait pu mal tourner",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -21463,7 +21463,7 @@ locale["quest.44000.name"] = {
 };
 locale["quest.44000.texts.objective"] = {
 	"en": "You can receive Enlightened Orbs by completing elite daily quests. When you completed enough, go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Vous pouvez obtenir des Orbes Illuminés en terminant des quêtes journalière d'élite. Quand vous en aurez terminer assez, aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Vous pouvez obtenir des Orbes Illuminés en terminant des quêtes journalière d'élite. Quand vous en aurez terminé assez, allez parler à <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"zh-cn": "你可以通过完成精英每日任务获得启灵宝珠.当你完成了工作后,去与<span class='text-link' data-target-type='npc' data-target-id='100026'>萨穆罕</span>对话.",
 	"zh-tw":"",
@@ -21636,7 +21636,7 @@ locale["quest.44002.texts.objective"] = {
 };
 locale["quest.44002.texts.description"] = {
 	"en": "Our alchemists can make potions with those mushroom, but we always need more. Can you bring us some?",
-	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvez-vous nous en porter quelques-unes ?",
+	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvez-vous nous en porter quelques-uns ?",
 	"es": "",
 	"zh-cn": "炼金术士可以用这些蘑菇制作药水,但我们总是需要更多.你能给我们拿些吗？",
 	"zh-tw":"",
@@ -21867,7 +21867,7 @@ locale["quest.44005.texts.objective"] = {
 };
 locale["quest.44005.texts.description"] = {
 	"en": "Our alchemists can make potions with those mushroom, but we always need more. Can you bring us some?",
-	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvouez-vous nous en porter quelques-unes ?",
+	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvouez-vous nous en porter quelques-uns ?",
 	"es": "",
 	"zh-cn": "炼金术士可以用这些蘑菇制作药水,但我们总是需要更多.你能给我们拿些吗？",
 	"zh-tw":"",
@@ -22098,7 +22098,7 @@ locale["quest.44008.texts.objective"] = {
 };
 locale["quest.44008.texts.description"] = {
 	"en": "Our alchemists can make potions with those mushroom, but we always need more. Can you bring us some?",
-	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvouez-vous nous en porter quelques-unes ?",
+	"fr": "Notre alchimiste peut faire des potions avec ces champignons, mais nous en avons toujours besoin de plus. Pouvouez-vous nous en porter quelques-uns ?",
 	"es": "",
 	"zh-cn": "炼金术士可以用这些蘑菇制作药水,但我们总是需要更多.你能给我们拿些吗？",
 	"zh-tw":"",
@@ -22156,7 +22156,7 @@ locale["quest.44009.name"] = {
 };
 locale["quest.44009.texts.objective"] = {
 	"en": "You can receive Enlightened Orbs by completing elite daily quests. When you completed enough, go talk to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Vous pouvez obtenir des Orbes Illuminés en terminant des quêtes journalière d'élite. Quand vous en aurez terminer assez, aller parler a <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Vous pouvez obtenir des Orbes Illuminés en terminant des quêtes journalière d'élite. Quand vous en aurez terminer assez, aller parler à <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
 	"zh-cn": "你可以通过完成精英每日任务获得启灵宝珠.当你完成了工作后,去与<span class='text-link' data-target-type='npc' data-target-id='100026'>萨穆罕</span>对话.",
 	"zh-tw":"",
