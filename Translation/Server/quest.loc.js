@@ -12659,10 +12659,10 @@ locale["quest.159.name"] = {
 	"id": ""
 };
 locale["quest.159.texts.objective"] = {
-	"en": "Increase your level to 44, then talk with <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
-	"fr": "Montez niveau 44, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"en": "Increase your level to 44, then talk with <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
+	"fr": "Montez niveau 44, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"es": "",
-	"zh-cn": "提升至44级,然后和<span class='text-link' data-target-type='npc' data-target-id='100068'>埃尔里克</span>谈谈.",
+	"zh-cn": "提升至44级,然后和<span class='text-link' data-target-type='npc' data-target-id='100069'>贝尔</span>谈谈.",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
@@ -12670,7 +12670,7 @@ locale["quest.159.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Tăng cấp độ của bạn lên cấp 44, sau đó nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100068'>Elrik</span>.",
+	"vi": "Tăng cấp độ của bạn lên cấp 44, sau đó nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100069'>Bale</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
