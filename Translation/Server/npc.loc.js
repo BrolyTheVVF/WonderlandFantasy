@@ -2113,8 +2113,8 @@ locale["npc.110.name"] = {
 	"id":""
 };
 locale["npc.111.name"] = {
-	"en":"Mud Beast",
-	"fr":"Bête de Vase",
+	"en":"Lizardman",
+	"fr":"Homme Lézard",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2124,7 +2124,7 @@ locale["npc.111.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Quái Thú Bùn Lầy",
+	"vi":"Người Thằn Lằn",
 	"ar":"",
 	"it":"",
 	"pl":"",
@@ -2151,8 +2151,8 @@ locale["npc.112.name"] = {
 	"id":""
 };
 locale["npc.113.name"] = {
-	"en":"Lizardman",
-	"fr":"Homme Lézard",
+	"en":"Mud Beast",
+	"fr":"Bête de Vase",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2162,7 +2162,7 @@ locale["npc.113.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Người Thằn Lằn",
+	"vi":"Quái Thú Bùn Lầy",
 	"ar":"",
 	"it":"",
 	"pl":"",
