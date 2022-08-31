@@ -1979,7 +1979,7 @@
         "en":"Increases DMG RD by {0}% for the next {1} incoming attacks. Lasts 5 sec.",
         "fr":"Augmente la résistance aux dégâts de {0}% pour les {1} prochaines attaques entrantes. Dure 5 sec.",
         "es":"",
-        "zh-cn":"",
+        "zh-cn":"在接下来的 {1} 次攻击中，增加 {0}% 的伤害。持续5秒。",
         "zh-tw":"",
         "kr":"",
         "ru":"",
