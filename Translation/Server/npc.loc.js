@@ -1858,7 +1858,7 @@ locale["npc.97.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Điềm Vĩ Yết Sư Hùng Mạnh",
+	"vi":"Nhãn Vĩ Yết Sư Hùng Mạnh",
 	"ar":"",
 	"it":"",
 	"pl":"",
