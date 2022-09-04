@@ -2724,6 +2724,44 @@ locale["npc.20012.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20017.name"] = {
+	"en": "Jarod",
+	"fr": "Jarod",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20017.title"] = {
+	"en": "Minister of Cain",
+	"fr": "Ministre de Kane",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.99001.name"] = {
 	"en": "Wizardry Lord",
