@@ -22694,8 +22694,8 @@ locale["quest.40072.name"] = {
 	"id": ""
 };
 locale["quest.40072.texts.objective"] = {
-	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='104'>Butterfly Fairy</span> at the Twister's Manor, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='104'>Fée Papillon</span> au Manoir Méphitique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='104'>Butterfly Fairy</span> at the Uncharted Forest Floor 3, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='104'>Fée Papillon</span> au Forêt Inexplorée Étage 3, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "在扭曲者庄园击败一些<span class='text-link' data-target-type='mob' data-target-id='104'>蝴蝶仙子</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
@@ -23233,10 +23233,10 @@ locale["quest.40079.name"] = {
 	"id": ""
 };
 locale["quest.40079.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='111'>Mud Beast</span> at the Twister's Manor, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='111'>Bête de Vase</span> au Manoir Méphitique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='113'>Mud Beast</span> at the Twister's Manor, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='113'>Bête de Vase</span> au Manoir Méphitique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在扭曲者庄园击败一些<span class='text-link' data-target-type='mob' data-target-id='111'>泥浆兽</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
+	"zh-cn": "在扭曲者庄园击败一些<span class='text-link' data-target-type='mob' data-target-id='113'>泥浆兽</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -23387,10 +23387,10 @@ locale["quest.40081.name"] = {
 	"id": ""
 };
 locale["quest.40081.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='113'>Lizardman</span> at the Twister's Manor, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='113'>Homme Lézard</span> au Manoir Méphitique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='111'>Lizardman</span> at the Twister's Manor, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='111'>Homme Lézard</span> au Manoir Méphitique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在扭曲者庄园击败一些<span class='text-link' data-target-type='mob' data-target-id='113'>蜥蜴人</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
+	"zh-cn": "在扭曲者庄园击败一些<span class='text-link' data-target-type='mob' data-target-id='111'>蜥蜴人</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
