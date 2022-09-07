@@ -1,7 +1,7 @@
 {
     "account.discord.link.alreadyLinkToAccount": {
         "en": "Your account is already linked to this Discord account",
-        "fr": "Votre compte est déjà lié a ce compte Discord",
+        "fr": "Votre compte est déjà lié à ce compte Discord",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -58,7 +58,7 @@
     },
     "account.discord.link.invalidAID": {
         "en": "System error, invalid AID",
-        "fr": "Erreur system, AID invalide",
+        "fr": "Erreur système, AID invalide",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -134,7 +134,7 @@
     },
     "account.discord.link.status-lib.2": {
         "en": "Your Discord account is linked to your ingame account",
-        "fr": "Votre compte Discord est maintenant lié a votre compte de jeu",
+        "fr": "Votre compte Discord est maintenant lié à votre compte de jeu",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -210,7 +210,7 @@
     },
     "login.forgot-pw.emailVerification": {
         "en": "Hello!<br><br>A password reset has been requested on this EMail adress.<br>You can reset it <a href=\"{0}\">HERE</a><br><br>If you didn't request this change, <a href=\"{1}\">click here</a><br><br><br>",
-        "fr": "Bonjour!<br><br>Une demande de réinitialisation du mot de passe à été effectué sur cette adresse EMail.<br>Vous pouvez le réinitialiser <a href=\"{0}\">ICI</a><br><br>Si cette demande ne viens pas de vous, <a href=\"{1}\">cliquez ici</a><br><br><br>",
+        "fr": "Bonjour!<br><br>Une demande de réinitialisation du mot de passe a été effectué sur cette adresse EMail.<br>Vous pouvez le réinitialiser <a href=\"{0}\">ICI</a><br><br>Si cette demande ne vient pas de vous, <a href=\"{1}\">cliquez ici</a><br><br><br>",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -248,7 +248,7 @@
     },
     "login.forgot-pw.notify.mail-sent": {
         "en": "If any account is linked to this EMail, A password reset link has been sent",
-        "fr": "Si un compte est lié a cette adresse EMail, un mail à été envoyé contenant le lien de réinitialisation du mot de passe",
+        "fr": "Si un compte est lié à cette adresse EMail, un mail a été envoyé contenant le lien de réinitialisation du mot de passe",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -267,7 +267,7 @@
     },
     "login.forgot-pw.set-new-btn": {
         "en": "Update password",
-        "fr": "Mettre a jour",
+        "fr": "Mettre à jour",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -286,7 +286,7 @@
     },
     "login.forgot-pw.set-new.invalidCredentals": {
         "en": "The mail and token are missing or invalid",
-        "fr": "Le mail et le token sont manquant ou invalide",
+        "fr": "Le mail et le token sont manquants ou invalides",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -305,7 +305,7 @@
     },
     "login.forgot-pw.set-new.updated": {
         "en": "Your password has been updated",
-        "fr": "Votre mot de passe à été mis a jours",
+        "fr": "Votre mot de passe a été mis à jour",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -343,7 +343,7 @@
     },
     "login.notify.critical-error": {
         "en": "Critical error occured while trying to login",
-        "fr": "Une erreur critique est survenue pendant la tentative de connection",
+        "fr": "Une erreur critique est survenue pendant la tentative de connexion",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -381,7 +381,7 @@
     },
     "meta.description.homepage": {
         "en": "Wonderland Fantasy, a world known for its mystery and magic, promise to deliver one of 2021's top browser games with unique artwork, special effects, and innovative gameplay features.",
-        "fr": "Wonderland Fantaisie, un monde connu pour son mystère et sa magie, promet de proposer l'un des meilleurs jeux par navigateur de 2021 avec des illustrations uniques, des effets spéciaux et des fonctionnalités de jeu innovantes.",
+        "fr": "Wonderland Fantasy, un monde connu pour son mystère et sa magie, promet de proposer l'un des meilleurs jeux par navigateur de 2021 avec des illustrations uniques, des effets spéciaux et des fonctionnalités de jeu innovantes.",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -400,7 +400,7 @@
     },
     "meta.keywords": {
         "en": "Wonderland Fantasy, browser game, MMORPG, real-time combat",
-        "fr": "Wonderland Fantaisie, Jeu par navigateur, MMORPG, combat en temps réel",
+        "fr": "Wonderland Fantasy, Jeu par navigateur, MMORPG, combat en temps réel",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -571,7 +571,7 @@
     },
     "system.user.login.accountIsBanned": {
         "en": "Oops! You can't login on this account anymore because it has been terminated.",
-        "fr": "Oups! Vous ne pouvez plus vous connecter sur ce compte désormais, il as été bannis.",
+        "fr": "Oups! Vous ne pouvez plus vous connecter sur ce compte désormais, il a été banni.",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -799,7 +799,7 @@
     },
     "system.user.register.email.usedFor": {
         "en": "EMail address is used to prevent bot accounts and ban evasion",
-        "fr": "L'utilisation de l'adresse EMail permet de reduire la création de compte bots et de réduire le contournement de suspension",
+        "fr": "L'utilisation de l'adresse EMail permet de réduire la création de compte bots et de réduire le contournement de suspension",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -818,7 +818,7 @@
     },
     "system.user.register.emailCreated": {
         "en": "Hello!<br><br>Your account is now created, thank you for joining Wonderland Fantasy<br><br><br><span style=\"display: block;text-align: center;\"><a style=\"display: inline-block;text-align: center;margin: 5px;padding: 8px;background-color:  #0d6efd;color: white;padding-left: 15px;padding-right: 15px;text-decoration: none;\" href=\"{0}\">LOG IN</a></span><br><br><br>",
-        "fr": "Bonjour!<br><br>Votre compte est maintenant créé, merci d'avoir rejoint la communauté de Wonderland Fantaisie:<br><br><br><span style=\"display: block;text-align: center;\"><a style=\"display: inline-block;text-align: center;margin: 5px;padding: 8px;background-color:  #0d6efd;color: white;padding-left: 15px;padding-right: 15px;text-decoration: none;\" href=\"{0}\">Connexion</a></span><br><br><br>",
+        "fr": "Bonjour!<br><br>Votre compte est maintenant créé, merci d'avoir rejoint la communauté de Wonderland Fantasy:<br><br><br><span style=\"display: block;text-align: center;\"><a style=\"display: inline-block;text-align: center;margin: 5px;padding: 8px;background-color:  #0d6efd;color: white;padding-left: 15px;padding-right: 15px;text-decoration: none;\" href=\"{0}\">Connexion</a></span><br><br><br>",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -837,7 +837,7 @@
     },
     "system.user.register.emailCreated.subject": {
         "en": "Wonderland Fantasy Account Created",
-        "fr": "Wonderland Fantaisie Compte créé",
+        "fr": "Wonderland Fantasy Compte créé",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
@@ -875,7 +875,7 @@
     },
     "system.user.register.emailVerification.subject": {
         "en": "Wonderland Fantasy Account Verification",
-        "fr": "Wonderland Fantaisie Verification de Compte",
+        "fr": "Wonderland Fantasy Verification de Compte",
         "es": "",
         "zh-cn": "",
         "zh-tw": "",
