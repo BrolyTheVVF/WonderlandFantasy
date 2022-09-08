@@ -2456,6 +2456,82 @@ locale["npc.10013.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10014.name"] = {
+	"en": "Vile Gladiator",
+	"fr": "Gladiateur Vil",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10015.name"] = {
+	"en": "Thunder Gladiator",
+	"fr": "Gladiateur du Tonnere",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10016.name"] = {
+	"en": "Orion Gladiator",
+	"fr": "Gladiateur d'Orion",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10017.name"] = {
+	"en": "Vile Gladiator",
+	"fr": "Gladiateur Vil",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.20000.name"] = {
