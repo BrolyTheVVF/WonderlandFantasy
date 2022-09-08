@@ -2514,8 +2514,8 @@ locale["npc.10016.name"] = {
 	"id": ""
 };
 locale["npc.10017.name"] = {
-	"en": "Vile Gladiator",
-	"fr": "Gladiateur Vil",
+	"en": "Champion Gladiator",
+	"fr": "Gladiateur Champion",
 	"es": "",
 	"zh-cn":"",
 	"zh-tw":"",
