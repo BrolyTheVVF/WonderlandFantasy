@@ -1809,10 +1809,10 @@ locale["npc.94.name"] = {
 	"id":""
 };
 locale["npc.95.name"] = {
-	"en":"Cannibal Huha",
-	"fr":"Huha Cannibale",
+	"en":"Cursed Warrior",
+	"fr":"Guerrier Maudit",
 	"es":"",
-	"zh-cn":"食人族胡哈",
+	"zh-cn":"",
 	"zh-tw":"",
 	"kr":"",
 	"ru":"",
@@ -1820,7 +1820,7 @@ locale["npc.95.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Huha Tộc Săn Người",
+	"vi":"",
 	"ar":"",
 	"it":"",
 	"pl":"",

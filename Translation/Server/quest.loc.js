@@ -21982,10 +21982,10 @@ locale["quest.40062.texts.returnPopupMain"] = {
 };
 
 locale["quest.40063.name"] = {
-	"en": "Hunting: Cannibal Huha",
-	"fr": "Chasse: Huha Cannibale",
+	"en": "Hunting: Cursed Warrior",
+	"fr": "Chasse: Guerrier Maudit",
 	"es": "",
-	"zh-cn": "狩猎: 食人族胡哈",
+	"zh-cn": "狩猎: Cursed Warrior",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -21993,7 +21993,7 @@ locale["quest.40063.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Săn Lùng: Huha Tộc Săn Người",
+	"vi": "Săn Lùng: Cursed Warrior",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -22001,10 +22001,10 @@ locale["quest.40063.name"] = {
 	"id": ""
 };
 locale["quest.40063.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='95'>Cannibal Huha</span> at the Doomed Woods, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='95'>Huha Cannibale</span> au Bois Maudit, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='95'>Cursed Warrior</span> at the Doomed Woods, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='95'>Guerrier Maudit</span> au Bois Maudit, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在死亡树林击败一些<span class='text-link' data-target-type='mob' data-target-id='95'>迷魂树妖</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
+	"zh-cn": "在死亡树林击败一些<span class='text-link' data-target-type='mob' data-target-id='95'>Cursed Warrior</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -22012,7 +22012,7 @@ locale["quest.40063.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='95'>Huha Tộc Săn Người</span> ở Khu Rừng Tử Nguyền, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"vi": "Đánh bại một vài <span class='text-link' data-target-type='mob' data-target-id='95'>Cursed Warrior</span> ở Khu Rừng Tử Nguyền, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
