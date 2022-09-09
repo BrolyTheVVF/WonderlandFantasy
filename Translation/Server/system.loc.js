@@ -975,6 +975,44 @@ locale["system.mail.send.cant-send-bound-item"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.mail.send.cant-send-bound-spirit-book"] = {
+	"en":"You can't send a spirit with books equiped.",
+	"fr":"Vous ne pouvez pas envoyer un esprit ayant des livres équipés.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.mail.send.cant-send-spirit-with-point"] = {
+	"en":"You can't send a spirit that have talent points.",
+	"fr":"Vous ne pouvez pas envoyer un esprit ayant des points de talent.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.mail.send.invalid-consign"] = {
 	"en":"A valid consign requires an item and a gold amount",
 	"fr":"Une vente valide nécessite un objet et un montant en or",
@@ -1121,6 +1159,25 @@ locale["system.consign.add.spirit-has-books"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Bạn không thể bán một tinh linh khi mà có sách trang bị trên nó.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.consign.add.cant-add-spirit-with-point"] = {
+	"en":"You can't sell a spirit that have talent points.",
+	"fr":"Vous ne pouvez pas vendre un esprit ayant des points de talent.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
