@@ -2188,6 +2188,25 @@ locale["npc.114.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.115.name"] = {
+	"en":"Unicorn",
+	"fr":"Licorne",
+	"es":"",
+	"zh-cn":"独角兽",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Kỳ Lân",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {
