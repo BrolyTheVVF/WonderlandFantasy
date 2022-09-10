@@ -2189,10 +2189,10 @@ locale["npc.114.name"] = {
 	"id":""
 };
 locale["npc.115.name"] = {
-	"en":"Unicorn",
-	"fr":"Licorne",
+	"en":"Sacred Unicorn",
+	"fr":"Licorne Sacrée",
 	"es":"",
-	"zh-cn":"独角兽",
+	"zh-cn":"",
 	"zh-tw":"",
 	"kr":"",
 	"ru":"",
@@ -2200,7 +2200,7 @@ locale["npc.115.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Kỳ Lân",
+	"vi":"",
 	"ar":"",
 	"it":"",
 	"pl":"",
