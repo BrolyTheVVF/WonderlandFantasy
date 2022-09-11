@@ -26390,10 +26390,10 @@ locale["quest.45020.texts.returnPopupMain"] = {
 };
 
 locale["quest.45021.name"] = {
-	"en": "Mud Beast",
-	"fr": "Bête de Vase",
+	"en": "Lizardman",
+	"fr": "Homme Lézard",
 	"es": "",
-	"zh-cn": "泥浆兽",
+	"zh-cn": "蜥蜴人",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -26401,7 +26401,7 @@ locale["quest.45021.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Quái Thú Bùn Lầy",
+	"vi": "Người Thằn Lằn",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -26409,10 +26409,10 @@ locale["quest.45021.name"] = {
 	"id": ""
 };
 locale["quest.45021.texts.objective"] = {
-	"en": "In the Hall of Elite of the Twister's Manor, kill some <span class='text-link' data-target-type='mob' data-target-id='111'>Mud Beast</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
-	"fr": "Dans le Hall d'Élite du Manoir Méphitique, tuez des <span class='text-link' data-target-type='mob' data-target-id='111'>Bête de Vase</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"en": "In the Hall of Elite of the Twister's Manor, kill some <span class='text-link' data-target-type='mob' data-target-id='111'>Lizardman</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"fr": "Dans le Hall d'Élite du Manoir Méphitique, tuez des <span class='text-link' data-target-type='mob' data-target-id='111'>Homme Lézard</span>, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"es": "",
-	"zh-cn": "在扭曲者庄园精英大厅, 杀死一些 <span class='text-link' data-target-type='mob' data-target-id='111'>泥浆兽</span>, 然后向<span class='text-link' data-target-type='npc' data-target-id='100026'>萨穆罕</span>报告.",
+	"zh-cn": "在扭曲者庄园精英大厅, 杀死一些 <span class='text-link' data-target-type='mob' data-target-id='111'>蜥蜴人</span>, 然后向<span class='text-link' data-target-type='npc' data-target-id='100026'>萨穆罕</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -26420,7 +26420,7 @@ locale["quest.45021.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Ở Điện Tinh Anh bên trong Trang Viên Xảo Quyệt, tiêu diệt một vài <span class='text-link' data-target-type='mob' data-target-id='111'>Quái Thú Bùn Lầy</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
+	"vi": "Ở Điện Tinh Anh bên trong Trang Viên Xảo Quyệt, tiêu diệt một vài <span class='text-link' data-target-type='mob' data-target-id='111'>Người Thằn Lằn</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100026'>Samhan</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
