@@ -6637,6 +6637,25 @@ locale["npc.99001.event.casting_skill_4"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99001.event.enrage"] = {
+	"en": "You weak worms, I'm tired of playing around. I'm gonna show you true power!",
+	"fr": "Misérables vers de terre, j'en ait fini de jouer avez vous. Je vais vous montrer ce qu'est la vrai puissance!",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 
