@@ -2878,8 +2878,8 @@ locale["npc.99001.name"] = {
 	"id": ""
 };
 locale["npc.99001.notice.death"] = {
-	"en": "Fearless warrior {0} offered the fatal blow against the Wizardry Lord. He and his comrades-in-arms are the heroes of Cain Kingdom!",
-	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de la Sorcellerie. Lui et ses compagnons d'armes sont les héros du Royaume de Kane!",
+	"en": "Fearless warrior {0} offered the fatal blow against the Wizardry Lord. {0} and their comrades-in-arms are the heroes of Cain Kingdom!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de la Sorcellerie. {0} et ses compagnons d'armes sont les héros du Royaume de Kane!",
 	"es": "",
 	"zh-cn": "英勇的战士 {0} 对巫术之王造成了致命的一击。他和他的战友们是凯恩王国的英雄！",
 	"zh-tw": "",
@@ -2935,8 +2935,8 @@ locale["npc.99002.title"] = {
 	"id": ""
 };
 locale["npc.99002.notice.death"] = {
-	"en": "Fearless warrior {0} offered the fatal blow against the Lord of Byron Kadir. Thank him and his comrades-in-arms for bringing peace to Muradin!",
-	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de Byron Kadir. Remerciez le et ses compagnons d'armes pour avoir apporté la paix à Muradin!",
+	"en": "Fearless warrior {0} offered the fatal blow against the Lord of Byron Kadir. Thank {0} and their comrades-in-arms for bringing peace to Muradin!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de Byron Kadir. Remerciez {0} et ses compagnons d'armes pour avoir apporté la paix à Muradin!",
 	"es": "",
 	"zh-cn": "英勇的战士 {0} 对拜伦之主-卡迪尔造成了致命的一击。感谢他和他的战友们为穆拉丁带来和平!",
 	"zh-tw": "",
@@ -2973,8 +2973,8 @@ locale["npc.99003.name"] = {
 	"id": ""
 };
 locale["npc.99003.notice.death"] = {
-	"en": "Fearless warrior {0} offered the fatal blow against Fiery Everat. He and his comrades-in-arms are the friends of Fain Desert forever!",
-	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Fougueux Everat. Lui et ses compagnons d'armes sont les amis du désert de Fain pour toujours!",
+	"en": "Fearless warrior {0} offered the fatal blow against Fiery Everat. {0} and their comrades-in-arms are the friends of Fain Desert forever!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Fougueux Everat. {0} et ses compagnons d'armes sont les amis du désert de Fain pour toujours!",
 	"es": "",
 	"zh-cn": "英勇的战士 {0} 对炎魔伊夫利特造成了致命的一击。他和他的战友永远是费恩沙漠的朋友！",
 	"zh-tw": "",
