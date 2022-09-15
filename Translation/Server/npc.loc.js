@@ -2551,6 +2551,25 @@ locale["npc.10017.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10018.name"] = {
+	"en": "Molten Guardsman",
+	"fr": "Gardien Fondu",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.20000.name"] = {
