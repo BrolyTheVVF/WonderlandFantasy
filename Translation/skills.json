@@ -9994,10 +9994,10 @@
         "id": ""
     },
     "skills.TWB_WHIRLWIND.effect": {
-        "en": "Attacks all targets within 6 yards around you, hitting them 3 times per sec. Lasts 17 sec",
-        "fr": "Attaque toutes les cibles dans un rayon de 6 mètres au tour de vous, les frappant 3 fois par seconde. Dure 17 sec.",
+        "en": "Attacks all targets within 6 yards around you, hitting them 3 times per sec. Lasts 5 sec",
+        "fr": "Attaque toutes les cibles dans un rayon de 6 mètres au tour de vous, les frappant 3 fois par seconde. Dure 5 sec.",
         "es": "",
-        "zh-cn": "攻击你周围6码范围内的所有目标，每秒命中3次。持续17秒.",
+        "zh-cn": "攻击你周围6码范围内的所有目标，每秒命中3次。持续5秒.",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -10005,7 +10005,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tấn công tất cả mục tiêu trong vòng 6 mét quanh bạn, liên tiếp 3 lần mỗi giây. Có hiệu lực trong 17 giây.",
+        "vi": "Tấn công tất cả mục tiêu trong vòng 6 mét quanh bạn, liên tiếp 3 lần mỗi giây. Có hiệu lực trong 5 giây.",
         "ar": "",
         "it": "",
         "pl": "",
