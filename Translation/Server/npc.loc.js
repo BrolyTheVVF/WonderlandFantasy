@@ -1839,7 +1839,7 @@ locale["npc.96.name"] = {
 	"de":"",
 	"jp":"",
 	"pt":"",
-	"vi":"Cá Piranha",
+	"vi":"Cây Piranha",
 	"ar":"",
 	"it":"",
 	"pl":"",
