@@ -14179,6 +14179,83 @@ locale["quest.178.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.179.name"] = {
+	"en": "Disturbing Disappearance (1)",
+	"fr": "Disparition Inquiétante (1)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.179.texts.objective"] = {
+	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span> in Muradin Harbor.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span> au Port de Muradin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.179.texts.description"] = {
+	"en": "You have been really helpful, but it seem someone else need your services. I've heard that some people started disappearing in Letin. Go find Clapton in Muradin Harbor and ask him to get you there. You've shown a great strenght and I'm sure you can help them better than I could. Hey, thanks for the help.",
+	"fr": "Vous m'avez été très utile, mais il semble que quelqu'un d'autre ait besoin de vos services. J'ai entendu dire que certaines personnes ont commencé à disparaître à Letin. Allez trouver Clapton au Port de Muradin et demandez-lui de vous y emmener. Vous avez fait preuve d'une grande force et je suis sûr que vous pourrez les aider mieux que moi. Hey, merci pour l'aide.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.179.texts.returnPopupMain"] = {
+	"en": "You really wanna go to Letin?",
+	"fr": "Tu veut vraiment aller a Letin?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
