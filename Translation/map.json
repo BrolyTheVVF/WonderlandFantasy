@@ -1785,7 +1785,7 @@
         "th":"",
         "id":""
     },
-    "map.Instance_35_map1.name":{
+    "map.Instance_40_map1.name":{
         "en":"Mysterious Desert",
         "fr":"Désert Mysterieux",
         "es":"",
@@ -1804,7 +1804,7 @@
         "th":"",
         "id":""
     },
-    "map.Instance_35_map2.name":{
+    "map.Instance_40_map2.name":{
         "en":"Mysterious Crypt",
         "fr":"Crypte Mysterieuse",
         "es":"",
@@ -1823,7 +1823,7 @@
         "th":"",
         "id":""
     },
-    "map.Instance_35_map3.name":{
+    "map.Instance_40_map3.name":{
         "en":"Ancient Catacomb",
         "fr":"Catacombe Antique",
         "es":"",
@@ -1836,6 +1836,63 @@
         "jp":"",
         "pt":"",
         "vi":"Hầm Mộ Cổ Đại",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.Instance_45_map1.name":{
+        "en":"Lava Labyrinth",
+        "fr":"Labyrinthe de Lave",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.Instance_45_map2.name":{
+        "en":"Lava Hall",
+        "fr":"Hall de Lave",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "map.Instance_45_map3.name":{
+        "en":"Lv45 Dungeon Boss Room",
+        "fr":"Salle du Boss de Donjon Nv50",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
