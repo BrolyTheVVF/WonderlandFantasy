@@ -5559,6 +5559,26 @@ locale["npc.300002.name"] = {
 	"id": ""
 };
 
+locale["npc.600000.name"] = {
+	"en": "Wishing Fountain",
+	"fr": "Fontaine des Souhaits",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 //** ***************************** **
 //** ****** NPC INTERACTION ****** **
@@ -6530,6 +6550,26 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Dịch Chuyển Đến Chợ Muradin (Cấp 30)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["npc.600000.interact.GAMBLE_500"] = {
+	"en": "Make a wish (500 Gold)",
+	"fr": "Faire un vœu (500 pièces d'or)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
