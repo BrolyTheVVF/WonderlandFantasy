@@ -26774,6 +26774,102 @@ locale["quest.45024.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.50001.name"] = {
+	"en": "Make a wish",
+	"fr": "Faîte un vœu",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50001.texts.objective"] = {
+	"en": "Go to the Wishing Fountain in the Road of Triumph and make a wish",
+	"fr": "Allez à la fontaine aux souhaits sur la Route du Triomphe et faites un vœu",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50001.texts.description"] = {
+	"en": "There is a wishing fountain in the Road of Triumph. Some says if you are really lucky, you can get rich if you wish for it. Go and make a wish.",
+	"fr": "Il y a une fontaine à souhaits sur la Route de Triomphe. Certains disent que si tu es vraiment chanceux, tu peux devenir riche si tu le souhaites. Allez-y et faites un voeu.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50001.texts.returnPopupMain"] = {
+	"en": "",
+	"fr": "",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.50001.objective.0.name"] = {
+	"en": "Make a wish",
+	"fr": "Faîte un vœu",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["quest.objective.reachLevel"] = {
 	"en": "Upgrade to Lv.{0}",
 	"fr": "Passez Niveau {0}",
