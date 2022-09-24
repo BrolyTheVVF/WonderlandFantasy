@@ -1261,4 +1261,62 @@ locale["system.onlineTimeReward.outOfTry"] = {
 	"id": ""
 };
 
+locale["system.portal.undefined"] = {
+	"en":"The portal you are trying to go through doesn't seem to exists.",
+	"fr":"Le portail que vous essayez de traverser ne semble pas exister.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.portal.notCloseEnough"] = {
+	"en":"You must be closer to the portal to go through it.",
+	"fr":"Vous devez être plus près du portail pour le traverser.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.portal.notRequiredLevel"] = {
+	"en":"The aura coming from the portal restrain you to go through it. <i>You must be level {0} to go through this portal</i>",
+	"fr":"L'aura provenant du portail vous empêche de le traverser. <i>Vous devez être niveau {0} pour traverser ce portail</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
