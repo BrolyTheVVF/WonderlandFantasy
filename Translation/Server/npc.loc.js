@@ -2876,6 +2876,44 @@ locale["npc.20017.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20020.name"] = {
+	"en": "Abel",
+	"fr": "Abel",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20025.name"] = {
+	"en": "Cain",
+	"fr": "Cain",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.99001.name"] = {
 	"en": "Wizardry Lord",
