@@ -1,5 +1,5 @@
 var locale = {};
-
+//Test
 locale["system.item.inventoryIsFull"] = {
 	"en": "Your inventory is full",
 	"fr": "Votre inventaire est plein",
