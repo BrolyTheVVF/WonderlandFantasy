@@ -22867,8 +22867,8 @@ locale["quest.40069.name"] = {
 	"id": ""
 };
 locale["quest.40069.texts.objective"] = {
-	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='101'>Flamelit Flower</span> at the Twister's Manor, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
-	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='101'>Fleur Embrasée</span> au Manoir Méphitique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='101'>Flamelit Flower</span> at the Road of Requiem, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='101'>Fleur Embrasée</span> a la Route du Requiem, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
 	"zh-cn": "在扭曲者庄园击败一些<span class='text-link' data-target-type='mob' data-target-id='101'>火焰之花</span>,然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
@@ -22878,7 +22878,7 @@ locale["quest.40069.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Đánh bại <span class='text-link' data-target-type='mob' data-target-id='101'>Hoa Thiên Hỏa</span> ở Trang Viên Xảo Quyệt, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
+	"vi": "Đánh bại <span class='text-link' data-target-type='mob' data-target-id='101'>Hoa Thiên Hỏa</span> ở Lối Cầu Siêu, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100036'>Quan Ủy Thác</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
