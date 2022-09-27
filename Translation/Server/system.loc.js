@@ -1319,4 +1319,101 @@ locale["system.portal.notRequiredLevel"] = {
 	"id": ""
 };
 
+locale["system.guild.notFound"] = {
+	"en":"Guild not found",
+	"fr":"Guilde introuvable",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.notInGuild"] = {
+	"en":"You are currently not in a guild",
+	"fr":"Vous n'êtes actuellement pas dans une guilde",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.memberNotFound"] = {
+	"en":"The player <i>{0}</i> doesn't seem to be in this guild",
+	"fr":"Le joueur <i>{0}</i> ne semble pas être dans cette guilde",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.noRights.expelMember"] = {
+	"en":"You don't have the rights to expel a guild member",
+	"fr":"Vous n'avez pas les droits pour expulser un membre de guilde",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["system.guild.memberExpeled"] = {
+	"en":"The player <i>{0}</i> has been kicked out of the guild",
+	"fr":"Le joueur <i>{0}</i> à été expulsé de la guilde",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
