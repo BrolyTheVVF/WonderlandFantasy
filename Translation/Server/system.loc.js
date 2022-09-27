@@ -1397,8 +1397,27 @@ locale["system.guild.noRights.expelMember"] = {
 };
 
 locale["system.guild.memberExpeled"] = {
-	"en":"The player <i>{0}</i> has been kicked out of the guild",
-	"fr":"Le joueur <i>{0}</i> à été expulsé de la guilde",
+	"en":"The player <i>{0}</i> has been kicked out of the guild by <i>{1}</i>",
+	"fr":"Le joueur <i>{0}</i> a été expulsé de la guilde par <i>{1}</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.memberLeft"] = {
+	"en":"The player <i>{0}</i> has left the guild",
+	"fr":"Le joueur <i>{0}</i> a quité la guilde",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",

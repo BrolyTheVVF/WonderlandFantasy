@@ -3761,6 +3761,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.guild.askKick":{
+        "en":"You are about to kick the player <i>{0}</i> out of the guild. Continue ?",
+        "fr":"Vous allez ejecter le joueur <i>{0}</i> hors de la guilde. Continuer ?",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.guild.btn.donate":{
         "en":"Dnat.",
         "fr":"Don.",
