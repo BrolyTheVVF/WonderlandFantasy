@@ -6969,5 +6969,62 @@ locale["instance.INSTANCE_45.npc.20020.p5_talk_2"] = {
 	"th": "",
 	"id": ""
 };
+locale["instance.INSTANCE_45.npc.20024.talk_1"] = {
+	"en": "Hey brother! Did these worms let you out of your prison?",
+	"fr": "Hey frangin! Est-ce que ces vermisseaux t'ont libéré de ta prison?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["instance.INSTANCE_45.npc.20024.talk_2"] = {
+	"en": "You could not live with your own failure. Where did that bring you? Back to me.",
+	"fr": "Tu ne pouvez pas vivre face à ton échec. Et ça ta mené où ? Vers moi.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["instance.INSTANCE_45.npc.20024.talk_3"] = {
+	"en": "I'm not gonna give you a second chance. This time, I'M TAKING YOU DOWN!",
+	"fr": "Je ne vais pas te laisser une seconde chance. Cette fous, JE T'ÉLIMINE!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
