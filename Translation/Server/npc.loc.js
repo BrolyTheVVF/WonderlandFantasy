@@ -2895,7 +2895,7 @@ locale["npc.20020.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.20025.name"] = {
+locale["npc.20024.name"] = {
 	"en": "Cain",
 	"fr": "Cain",
 	"es": "",
