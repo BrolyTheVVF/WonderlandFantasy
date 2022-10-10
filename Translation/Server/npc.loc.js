@@ -2914,6 +2914,25 @@ locale["npc.20024.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20026.name"] = {
+	"en": "Power Banner",
+	"fr": "Bannière de Pouvoir",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Cane",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.99001.name"] = {
 	"en": "Wizardry Lord",
