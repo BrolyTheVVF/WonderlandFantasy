@@ -2955,7 +2955,7 @@ locale["npc.99001.name"] = {
 };
 locale["npc.99001.notice.death"] = {
 	"en": "Fearless warrior {0} offered the fatal blow against the Wizardry Lord. {0} and their comrades-in-arms are the heroes of Cain Kingdom!",
-	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Seigneur de la Sorcellerie. {0} et ses compagnons d'armes sont les héros du Royaume de Kane!",
+	"fr": "L'intrépide guerrier {0} a porté le coup fatal au Seigneur de la Sorcellerie. {0} et ses compagnons d'armes sont les héros du Royaume de Kane!",
 	"es": "",
 	"zh-cn": "英勇的战士 {0} 对巫术之王造成了致命的一击。他和他的战友们是凯恩王国的英雄！",
 	"zh-tw": "",
@@ -6155,7 +6155,7 @@ locale["npc.100055.interact.baseText"] = {
 };
 locale["npc.100072.interact.baseText"] = {
 	"en": "No violation of the rule!",
-	"fr": "pas d'infraction a la règle!",
+	"fr": "Pas d'infraction à la règle!",
 	"es": "",
 	"zh-cn": "没有违反规则!",
 	"zh-tw":"",
@@ -6755,7 +6755,7 @@ locale["npc.99001.event.casting_skill_4"] = {
 };
 locale["npc.99001.event.enrage"] = {
 	"en": "You weak worms, I'm tired of playing around. I'm gonna show you true power!",
-	"fr": "Misérables vers de terre, j'en ait fini de jouer avez vous. Je vais vous montrer ce qu'est la vrai puissance!",
+	"fr": "Misérables vers de terre, j'en ai fini de jouer avez vous. Je vais vous montrer ce qu'est la vrai puissance!",
 	"es": "",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -6895,7 +6895,7 @@ locale["instance.INSTANCE_45.npc.20020.p2_talk_1"] = {
 };
 locale["instance.INSTANCE_45.npc.20020.p2_talk_2"] = {
 	"en": "I feel alive again!",
-	"fr": "Je me sent de nouveau vivant !",
+	"fr": "Je me sens de nouveau vivant !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -6933,7 +6933,7 @@ locale["instance.INSTANCE_45.npc.20020.p3_talk_1"] = {
 };
 locale["instance.INSTANCE_45.npc.20020.p4_talk_1"] = {
 	"en": "We cleaned up this place. Let's go to the main hall, they'll be plenty of minions that could relish!",
-	"fr": "Nous avons nettoyé cet endroit. allons dans le hall principal, il y auras pleins de sbires dont je pourrais me délecter !",
+	"fr": "Nous avons nettoyé cet endroit. allons dans le hall principal, il y aura plein de sbires dont je pourrais me délecter !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -6952,7 +6952,7 @@ locale["instance.INSTANCE_45.npc.20020.p4_talk_1"] = {
 };
 locale["instance.INSTANCE_45.npc.20020.p5_talk_1"] = {
 	"en": "That's it, my power, it's back!",
-	"fr": "Ca y est, ma puissance, je l'ai de nouveau !",
+	"fr": "Ça y est, ma puissance, je l'ai de nouveau !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -7028,7 +7028,7 @@ locale["instance.INSTANCE_45.npc.20024.talk_2"] = {
 };
 locale["instance.INSTANCE_45.npc.20024.talk_3"] = {
 	"en": "I'm not gonna give you a second chance. This time, I'M TAKING YOU DOWN!",
-	"fr": "Je ne vais pas te laisser une seconde chance. Cette fous, JE T'ÉLIMINE!",
+	"fr": "Je ne vais pas te laisser une seconde chance. Cette fois, JE T'ÉLIMINERAI!",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",

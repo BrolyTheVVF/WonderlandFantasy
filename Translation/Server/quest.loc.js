@@ -26852,7 +26852,7 @@ locale["quest.50001.texts.returnPopupMain"] = {
 };
 locale["quest.50001.objective.0.name"] = {
 	"en": "Make a wish",
-	"fr": "Faîte un vœu",
+	"fr": "Faîtes un vœu",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
