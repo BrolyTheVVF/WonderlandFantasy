@@ -1550,7 +1550,7 @@ locale["system.guild.memberExpeled"] = {
 };
 locale["system.guild.memberLeft"] = {
 	"en":"The player <i>{0}</i> has left the guild",
-	"fr":"Le joueur <i>{0}</i> a quité la guilde",
+	"fr":"Le joueur <i>{0}</i> a quitté la guilde",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",

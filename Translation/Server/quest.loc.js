@@ -14238,7 +14238,7 @@ locale["quest.179.texts.description"] = {
 };
 locale["quest.179.texts.returnPopupMain"] = {
 	"en": "You really wanna go to Letin?",
-	"fr": "Tu veut vraiment aller a Letin?",
+	"fr": "Tu veux vraiment aller a Letin?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -26776,7 +26776,7 @@ locale["quest.45024.texts.returnPopupMain"] = {
 
 locale["quest.50001.name"] = {
 	"en": "Make a wish",
-	"fr": "Faîte un vœu",
+	"fr": "Faîtes un vœu",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -26852,7 +26852,7 @@ locale["quest.50001.texts.returnPopupMain"] = {
 };
 locale["quest.50001.objective.0.name"] = {
 	"en": "Make a wish",
-	"fr": "Faîte un vœu",
+	"fr": "Faîtes un vœu",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
