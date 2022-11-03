@@ -5946,6 +5946,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.rankings.btn.abyss":{
+        "en":"Abyss",
+        "fr":"Abysse",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.rankings.rules.title":{
         "en":"Ranking Rules",
         "fr":"Règles",
