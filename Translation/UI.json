@@ -8416,6 +8416,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.abyss.floorName":{
+        "en":"Abyss Floor {0}",
+        "fr":"Abysse Étage {0}",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.title.ABYSS_FLOOR_5.name":{
         "en":"Abyss Seer",
         "fr":"Voyant des Abysses",
