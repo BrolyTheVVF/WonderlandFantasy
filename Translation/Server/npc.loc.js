@@ -5673,6 +5673,25 @@ locale["npc.600000.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.600001.name"] = {
+	"en": "Move to next floor",
+	"fr": "Vers l'étage suivant",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
