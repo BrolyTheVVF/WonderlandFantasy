@@ -8265,8 +8265,8 @@
         "id":""
     },
     "UI.windows.abyss.tab.horrible":{
-        "en":"Horrible",
-        "fr":"Horrible",
+        "en":"Horrific",
+        "fr":"Horrifiant",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
@@ -8284,8 +8284,27 @@
         "id":""
     },
     "UI.windows.abyss.tab.despair":{
-        "en":"Despair",
-        "fr":"Désespoir",
+        "en":"Despairing",
+        "fr":"Désespérante",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.abyss.tab.fatalityAbyss":{
+        "en":"Fatality",
+        "fr":"Fatalité",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
