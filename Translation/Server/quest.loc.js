@@ -14333,6 +14333,160 @@ locale["quest.180.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.181.name"] = {
+	"en": "Disturbing Disappearance (3)",
+	"fr": "Disparition Inquiétante (3)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (3)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.181.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='87'>Bunnies</span> in the Road of Requiem and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='87'>Lapins</span> sur la Route du Requiem et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.181.texts.description"] = {
+	"en": "Ho, so you want to help me? Right, great! Some people has gone missing. Although certain are know for going out for month, sending little updated on their states, some citizen have gone out and never reterned.<br><br>I would like you to help me and start by clearing the Road of Requiem of those dangerous bunnies.<br>Yeah, you heard right. Recently those little innocent creatures started to go crazy. One of our guard even saw one jumping at the throat of another guard.<br><br>Remember, if you see anything that seems weird, please notify me, and thanks for the hand.",
+	"fr": "Ho, alors vous voulez m'aider? Bien, excelent! Quelques personnes ont été portés disparue. Même si certains sont connus pour leurs expedition sur plusieurs mois a l'exterieur de ces mur, ne nous tenant que très peu informé de leur etat, certains citoyens sont sortis et ne sont jamais reparus.<br><br>Je voudrais que vous m'aidiez, à commencer par le nettoyage de la Route de Requiem de ces dangereux lapins.<br>Oui, vous avez bien entendu. Récemment, ces petites créatures innocentes ont commencé à devenir folles. Un de nos gardes en a même vu un sauter à la gorge d'un autre garde.<br><br>N'oubliez pas, si vous voyez quelque chose qui semble bizarre, s'il vous plaît informez-moi, et merci pour la main.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.181.texts.returnPopupMain"] = {
+	"en": "You saw what now? Walking mushrooms? Are you sure you didn't eat some instead?",
+	"fr": "Tu as vu quoi ? Des champignons qui marchent ? Tu es sûr que tu n'en as pas mangé plutôt ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.182.name"] = {
+	"en": "Disturbing Disappearance (4)",
+	"fr": "Disparition Inquiétante (4)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (4)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.182.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='86'>Shroom</span> in the Road of Requiem and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='86'>Champi</span> sur la Route du Requiem et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.182.texts.description"] = {
+	"en": "Ok. I know some rumors talked about mushroom moving on their own deep in the Uncharted Forest, but no one seem to ever have saw one here. And you say there is plenty of them, here, right next to the city's doors. Well, if it's the case, you better get going on your way to kill them. Them being here can only mean one thing, and it's not a good sight for all of us. I truly hope you are wrong. May Bur protect you.",
+	"fr": "Ok. Je sais que certaines rumeurs parlent de champignons qui se déplacent seuls dans la forêt vierge, mais personne ne semble en avoir vu ici. Et vous dites qu'il y en a plein, ici, juste à côté des portes de la ville. Eh bien, si c'est le cas, vous feriez mieux de vous mettre en route pour les tuer. Leur présence ici ne peut signifier qu'une chose, et ce n'est pas une bonne chose pour nous tous. J'espère vraiment que vous avez tort. Que Bur te protège.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.182.texts.returnPopupMain"] = {
+	"en": "So it was true. I am terrified of the implications this news has. Some guard reported minutes ago that a strong creature got out of the Uncharted Forest. He said a plant came to life and almost killed him. I didn't want to believe it, but now, i have no choice but to face the truth. Please go and take care of this while I take some precautions for the city's sake.",
+	"fr": "C'était donc vrai. Je suis terrifié par les implications de cette nouvelle. Un garde a rapporté il y a quelques minutes avoir rencontré une créature terrifiante sortants de la Forêt Inexplorée. Il a dit qu'une plante s'est animée et a failli le tuer. Je ne voulais pas le croire, mais maintenant, je n'ai pas d'autre choix que de faire face à la vérité. S'il vous plaît, allez-y et occupez-vous de ça pendant que je prends des précautions pour le bien de la ville.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
