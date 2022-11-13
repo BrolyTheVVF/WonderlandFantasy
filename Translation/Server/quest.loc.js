@@ -14564,6 +14564,83 @@ locale["quest.183.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.184.name"] = {
+	"en": "Disturbing Disappearance (6)",
+	"fr": "Disparition Inquiétante (6)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (6)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.184.texts.objective"] = {
+	"en": "Search for the missing citizen in the Sufer Ruins.",
+	"fr": "Rechercher le citoyen disparu dans les Ruines de Souffrance",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.184.texts.description"] = {
+	"en": "I have sent guards and mercenaries all over this continent and they are searching for the source of all of this. A plague is killing this lands. We already where fighting those monsters for decades, but now this! We have to find the source of it! But this is another matter. I fear that you have the hardest task of all. You will have to search for the lost ones. You can start by searching in the Sufer Ruins. Good luck.",
+	"fr": "J'ai envoyé des gardes et des mercenaires sur tout le continent et ils cherchent la source de tout ceci. Une épidémie est en train de tuer ces terres. Nous avons déjà combattu ces monstres pendant des décennies, mais maintenant ça ! Nous devons trouver la source de tout ça ! Mais c'est une autre affaire. Je crains que vous n'ayez la tâche la plus difficile de toutes. Vous allez devoir rechercher les disparus. Vous pouvez commencer par chercher dans les ruines de Sufer. Bonne chance.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.184.texts.returnPopupMain"] = {
+	"en": "",
+	"fr": "",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",

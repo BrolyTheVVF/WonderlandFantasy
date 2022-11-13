@@ -5630,6 +5630,25 @@ locale["npc.100073.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100074.name"] = {
+	"en": "Missing Citizen",
+	"fr": "Citoyen Disparu",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
