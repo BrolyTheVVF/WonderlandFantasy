@@ -14256,6 +14256,83 @@ locale["quest.179.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.180.name"] = {
+	"en": "Disturbing Disappearance (2)",
+	"fr": "Disparition Inquiétante (2)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (2)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.180.texts.objective"] = {
+	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.180.texts.description"] = {
+	"en": "I have heard that Kovu is asking for help. He his a noble that now live in Letin Square.<br><br>He has taken great pain to make sure this place is secure, and recently some people started to go missing. Tension is high here. He is hiring everyone that is willing to risk their lives to help him.",
+	"fr": "J'ai entendu dire que Kove demande de l'aide. C'est un noble qui vit désormais dans Letin Square.<br><br>Il a pris grand soin de s'assurer que cet endroit soit sécurisé, et récemment certaines personnes ont commencé à disparaitre. La tension est forte ici. Il engage tous ceux qui sont prêts à risquer leur vie pour l'aider.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.180.texts.returnPopupMain"] = {
+	"en": "Greeting. How may I help you?",
+	"fr": "Salutation. Comment puis-je vous aider?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
