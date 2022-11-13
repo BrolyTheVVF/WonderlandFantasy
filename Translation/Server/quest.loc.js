@@ -14468,8 +14468,85 @@ locale["quest.182.texts.description"] = {
 	"id": ""
 };
 locale["quest.182.texts.returnPopupMain"] = {
+	"en": "So it was true.",
+	"fr": "C'était donc vrai.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.183.name"] = {
+	"en": "Disturbing Disappearance (5)",
+	"fr": "Disparition Inquiétante (5)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (5)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.183.texts.objective"] = {
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='101'>Flamelit Flower</span> in the Road of Requiem and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='101'>Fleur Embrasée</span> sur la Route du Requiem et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.183.texts.description"] = {
 	"en": "So it was true. I am terrified of the implications this news has. Some guard reported minutes ago that a strong creature got out of the Uncharted Forest. He said a plant came to life and almost killed him. I didn't want to believe it, but now, i have no choice but to face the truth. Please go and take care of this while I take some precautions for the city's sake.",
 	"fr": "C'était donc vrai. Je suis terrifié par les implications de cette nouvelle. Un garde a rapporté il y a quelques minutes avoir rencontré une créature terrifiante sortants de la Forêt Inexplorée. Il a dit qu'une plante s'est animée et a failli le tuer. Je ne voulais pas le croire, mais maintenant, je n'ai pas d'autre choix que de faire face à la vérité. S'il vous plaît, allez-y et occupez-vous de ça pendant que je prends des précautions pour le bien de la ville.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.183.texts.returnPopupMain"] = {
+	"en": "Great. Thank you for your service.",
+	"fr": "Bien. Merci pour vos services.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
