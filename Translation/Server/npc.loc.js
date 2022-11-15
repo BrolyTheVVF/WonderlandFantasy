@@ -5649,6 +5649,25 @@ locale["npc.100074.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100075.name"] = {
+	"en": "Mercenary",
+	"fr": "Mercenaire",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -6242,6 +6261,44 @@ locale["npc.100072.interact.baseText"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Không được vi phạm quy tắc!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100073.interact.baseText"] = {
+	"en": "Hi there, I hope your are doing okay today!",
+	"fr": "Salut, j'espère que vous allez bien aujourd'hui !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100075.interact.baseText"] = {
+	"en": "What are you doing here? This place is dangerous!",
+	"fr": "Qu'est-ce que vous faites ici ? Cet endroit est dangereux !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
