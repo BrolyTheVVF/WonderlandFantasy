@@ -14641,6 +14641,83 @@ locale["quest.184.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.185.name"] = {
+	"en": "Disturbing Disappearance (7)",
+	"fr": "Disparition Inquiétante (7)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (7)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.185.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> and <span class='text-link' data-target-type='mob' data-target-id='89'>Strong Boar</span> in the Sufer Ruins and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> et <span class='text-link' data-target-type='mob' data-target-id='89'>Sanglier Puissant</span> dans les Ruines de Souffrance et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.185.texts.description"] = {
+	"en": "<i>You see the citizen laying on the ground. You check on him and see that he has been killed by the monsters around. You breathe the stale air of this city and all of a sudden, you go into a state of uncontrollable rage</i>",
+	"fr": "<i>Vous voyez le citoyen allongé sur le sol. Vous l'examinez et constatez qu'il a été tué par les monstres qui l'entourent. Vous respirez l'air vicié de cette ville et tout d'un coup, vous entrez dans un état de rage incontrollable</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.185.texts.returnPopupMain"] = {
+	"en": "Ho, so you found him, and not alive. This is a sad news.",
+	"fr": "Ho, alors vous l'avez trouver, et pas vivant. C'est une mauvaise nouvelle.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
