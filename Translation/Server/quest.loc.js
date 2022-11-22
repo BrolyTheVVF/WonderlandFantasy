@@ -14353,8 +14353,8 @@ locale["quest.181.name"] = {
 	"id": ""
 };
 locale["quest.181.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='87'>Bunnies</span> in the Road of Requiem and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='87'>Lapins</span> sur la Route du Requiem et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='87'>Bunnies</span> in the Road of Requiem, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='87'>Lapins</span> sur la Route du Requiem, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14430,8 +14430,8 @@ locale["quest.182.name"] = {
 	"id": ""
 };
 locale["quest.182.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='86'>Shroom</span> in the Road of Requiem and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='86'>Champi</span> sur la Route du Requiem et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='86'>Shroom</span> in the Road of Requiem, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='86'>Champi</span> sur la Route du Requiem, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14507,8 +14507,8 @@ locale["quest.183.name"] = {
 	"id": ""
 };
 locale["quest.183.texts.objective"] = {
-	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='101'>Flamelit Flower</span> in the Road of Requiem and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
-	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='101'>Fleur Embrasée</span> sur la Route du Requiem et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='101'>Flamelit Flower</span> in the Road of Requiem, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='101'>Fleur Embrasée</span> sur la Route du Requiem, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14661,8 +14661,8 @@ locale["quest.185.name"] = {
 	"id": ""
 };
 locale["quest.185.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> and <span class='text-link' data-target-type='mob' data-target-id='89'>Strong Boar</span> in the Sufer Ruins and <span class='text-link' data-target-type='mob' data-target-id='83'>Fiery Guardian</span> at the Fiery Tower 4th Floor, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> et <span class='text-link' data-target-type='mob' data-target-id='89'>Sanglier Puissant</span> dans les Ruines de Souffrance et <span class='text-link' data-target-type='mob' data-target-id='83'>Gardien ardent</span> au 4ème étage de la Tour de Feu, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> and <span class='text-link' data-target-type='mob' data-target-id='89'>Strong Boar</span> in the Sufer Ruins, then report to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='88'>Kappa</span> et <span class='text-link' data-target-type='mob' data-target-id='89'>Sanglier Puissant</span> dans les Ruines de Souffrance, puis faites votre rapport à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
