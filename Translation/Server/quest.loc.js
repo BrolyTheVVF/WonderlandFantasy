@@ -2549,7 +2549,6 @@ locale["quest.33.texts.objective"] = {
 	"ru": "",
 	"tr": "",
 	"de": "Frole's Sohn wurde in dem Unfall der Celebeam Höhle getötet. Der unglückliche Friedhofswächter wünscht sich dass Kugarn am Orakelsee seinen Sohn wieder auferstehen lassen kann. Bringe etwas Puder von <span class='text-link' data-target-type='mob' data-target-id='17'>Rainbow Moth</span> zu  <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
-	"fr": "Le fils de Froles a été tué dans l'accident des Caves de Celebeam. Le triste Gardien du Cimetière espère que Kugarn au Lac de l'Oracle puisse re",
 	"jp": "",
 	"pt": "",
 	"vi": "Con của Frole đã chết trong tai nạn ở Hang Celebeam. Người Gác Mộ buồn bã ước rằng Kugarn ở Hồ Oracle có thể hồi sinh con trai anh ta. Đem phấn rơt ra từ <span class='text-link' data-target-type='mob' data-target-id='17'>Bướm Cầu Vồng</span> đến cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.",
@@ -2837,7 +2836,7 @@ locale["quest.36.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Tötet den mächtigen <span class='text-link' data-target-type='mob' data-target-id='19'>Einhornwolf</span>", und sammelt sein Horn. Dann meldet euch bei  <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>Sie können die Goldene Berührung benutzen um das Monster sofort zu töten. Wählen sie das Monster aus, dann wählen sie das Goldene Berührungs Ikon.
+	"de": "Tötet den mächtigen <span class='text-link' data-target-type='mob' data-target-id='19'>Einhornwolf</span> und sammelt sein Horn. Dann meldet euch bei <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>Sie können die Goldene Berührung benutzen um das Monster sofort zu töten. Wählen sie das Monster aus, dann wählen sie das Goldene Berührungs Ikon.",
 	"jp": "",
 	"pt": "",
 	"vi": "Đánh bại quái vật mạnh mẽ <span class='text-link' data-target-type='mob' data-target-id='19'>Sói Kỳ Lân</span>, và thu thập sừng của nó. Rồi báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100030'>Kugarn</span>.<br>Bạn giờ có thể dùng Chỉ Kim Thủ để ngay lập tức giết quái. Chọn quái vật, và nhấn vào biểu tượng Chỉ Kim Thủ.",
