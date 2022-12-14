@@ -69,7 +69,7 @@ locale["npc.4.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Baby Wildschwein", "Frischling",
+	"de": "Frischling",
 	"jp": "",
 	"pt": "",
 	"vi": "Tiểu Dã Trư",
@@ -272,7 +272,7 @@ locale["npc.14.name"] = {
 locale["npc.14.title"] = {
 	"en": "Chief",
 	"fr": "Chef",
-	"es": "Jefe", "Patrón",
+	"es": "Patrón",
 	"zh-cn": "首领",
 	"zh-tw":"",
 	"kr": "",
