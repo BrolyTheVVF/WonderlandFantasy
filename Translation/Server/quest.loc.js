@@ -3028,7 +3028,7 @@ locale["quest.39.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Bringe James etwas von den Starken Käferpanzern, Regenbogenmotten Pulver und dem Einhornwolf's Horn.<br>Du kannst sie erhalten indem du die <span class='text-link' data-target-type='mob' data-target-id='18'>Kleinen Käfer</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Regenbogenmotte</span> und <span class='text-link' data-target-type='mob' data-target-id='19'>Einhornwolf</span> tötest."",
+	"de": "Bringe James etwas von den Starken Käferpanzern, Regenbogenmotten Pulver und dem Einhornwolf's Horn.<br>Du kannst sie erhalten indem du die <span class='text-link' data-target-type='mob' data-target-id='18'>Kleinen Käfer</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Regenbogenmotte</span> und <span class='text-link' data-target-type='mob' data-target-id='19'>Einhornwolf</span> tötest.",
 	"jp": "",
 	"pt": "",
 	"vi": "Đem cho James một vài Vỏ Cánh Cứng Bọ Rùa, Phấn Bướm Cầu Vồng và Sừng Sói.<br>Bạn có thể kiếm chúng bằng cách săn <span class='text-link' data-target-type='mob' data-target-id='18'>Bọ Tí Hon</span>, <span class='text-link' data-target-type='mob' data-target-id='17'>Bướm Cầu Vồng</span> và <span class='text-link' data-target-type='mob' data-target-id='19'>Sói Kỳ Lân</span>.",
