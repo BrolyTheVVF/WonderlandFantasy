@@ -468,7 +468,7 @@ locale["npc.24.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Vincent, der Wachsteufel"
+	"de": "Vincent, der Wachsteufel",
 	"jp": "",
 	"pt": "",
 	"vi": "Sáp Quỷ Vincent",
