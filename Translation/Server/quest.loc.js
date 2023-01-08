@@ -14872,6 +14872,160 @@ locale["quest.187.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.188.name"] = {
+	"en": "Uncharted Forest (2)",
+	"fr": "Forêt Inexplorée (2)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.188.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='106'>Earthworm Sage</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 1</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='106'>Lombric Sage</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 1</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.188.texts.description"] = {
+	"en": "I'm trying to go deeper in the woods, but I never could go really deep before i get overwhelmed by their number. I'm trying to find why this forest that was so peaceful a few decade ago turned out to be so full of evil. The trees themselves are trying to kill us. Can you help me clean the way to the deepest part of this forest?",
+	"fr": "J'essaie de m'enfoncer plus loins dans cette forêt, mais je fini toujours submergé par leur nombre. J'essaie de comprendre pourquoi cette forêt qui était si paisible il y a quelques décennies est devenue si maléfique. Les arbres eux-mêmes essaient de nous tuer. Pouvez-vous m'aider à nettoyer le chemin vers le coeur cette forêt ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.188.texts.returnPopupMain"] = {
+	"en": "Those Earthworm are hitting hard, but we seem to hit even harder! let's continue.",
+	"fr": "Ces Lombric frappent fort, mais nous semblons frapper encore plus fort ! continuons.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.189.name"] = {
+	"en": "Uncharted Forest (3)",
+	"fr": "Forêt Inexplorée (3)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.189.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='107'>Treant</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='107'>Tréant</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.189.texts.description"] = {
+	"en": "Nice, we are almost there. Help me kill some of those Treant, and let us progress a little deeper in this forest!",
+	"fr": "Bien, nous y sommes presque. Aidez-moi à tuer quelques Tréants, et progressons un peu plus profondément dans cette forêt!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.189.texts.returnPopupMain"] = {
+	"en": "Looking at what's left of those trees, they seem to have been kind of infected. We need to do some more research on this.",
+	"fr": "En regardant les reste de ces arbres, on dirait qu'ils ont été infectés. Nous devons faire plus de recherches à ce sujet.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
