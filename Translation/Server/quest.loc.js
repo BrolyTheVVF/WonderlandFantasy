@@ -14718,6 +14718,160 @@ locale["quest.185.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.186.name"] = {
+	"en": "Disturbing Disappearance (8)",
+	"fr": "Disparition Inquiétante (8)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "Sự Biến Mất Đáng Lo Ngại (8)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.186.texts.objective"] = {
+	"en": "Seek the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 1</i>.",
+	"fr": "Cherchez le <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 1</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.186.texts.description"] = {
+	"en": "Thank you a lot for your help, but I think someone else needs you more than me. I heard that one mercenary had all of his team killed in Sufur Ruins. He was traumatized and sworn to get revenge and is currently wandering in the Uncharted Forest, killing everything evil that comes in front of him. He never got back to the city since then, but now that the monsters are outnumbering us, I fear that he might be in great danger. Can you go and help him?",
+	"fr": "Merci beaucoup pour votre aide, mais je pense que quelqu'un d'autre a plus besoin de vous que moi. J'ai entendu dire qu'un mercenaire a vu toute son équipe tuée dans les Ruines de Souffrance. Il a été traumatisé et a juré de se venger. Il erre actuellement dans la Forêt Inexplorée, tuant tout ce qui lui tombe sous la main. Il n'est jamais retourné en ville depuis, mais maintenant que les monstres sont plus nombreux que nous, je crains qu'il ne soit en grand danger. Pouvez-vous aller l'aider ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.186.texts.returnPopupMain"] = {
+	"en": "Ho hi, adventurer. How can I help you?",
+	"fr": "Ho salut, aventurier. Comment puis-je vous aider?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.187.name"] = {
+	"en": "Uncharted Forest (1)",
+	"fr": "Forêt Inexplorée (1)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.187.texts.objective"] = {
+	"en": "Hit level 52, and talk to <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 1</i>.",
+	"fr": "Atteindre le niveau 52, et parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 1</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.187.texts.description"] = {
+	"en": "Are you sure you want to help me? This place is full of powerful monsters. You must be prepared for though battles!",
+	"fr": "Vous êtes sûr de vouloir m'aider ? Cet endroit est rempli de monstres puissants. Vous devez vous préparer à des batailles difficiles !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.187.texts.returnPopupMain"] = {
+	"en": "Alrighty then! Let's go.",
+	"fr": "Ho chouette alors! C'est parti.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
