@@ -14758,7 +14758,7 @@ locale["quest.186.texts.objective"] = {
 };
 locale["quest.186.texts.description"] = {
 	"en": "Thank you a lot for your help, but I think someone else needs you more than me. I heard that one mercenary had all of his team killed in Sufur Ruins. He was traumatized and sworn to get revenge and is currently wandering in the Uncharted Forest, killing everything evil that comes in front of him. He never got back to the city since then, but now that the monsters are outnumbering us, I fear that he might be in great danger. Can you go and help him?",
-	"fr": "Merci beaucoup pour votre aide, mais je pense que quelqu'un d'autre a plus besoin de vous que moi. J'ai entendu dire qu'un mercenaire a vu toute son équipe tuée dans les Ruines de Souffrance. Il a été traumatisé et a juré de se venger. Il erre actuellement dans la Forêt Inexplorée, tuant tout ce qui lui tombe sous la main. Il n'est jamais retourné en ville depuis, mais maintenant que les monstres sont plus nombreux que nous, je crains qu'il ne soit en grand danger. Pouvez-vous aller l'aider ?",
+	"fr": "Merci beaucoup pour votre aide, mais je pense que quelqu'un d'autre à plus besoin de vous que moi. J'ai entendu dire qu'un mercenaire a vu toute son équipe tuée dans les Ruines de Souffrance. Il a été traumatisé et a juré de se venger. Il erre actuellement dans la Forêt Inexplorée, tuant tout ce qui lui tombe sous la main. Il n'est jamais retourné en ville depuis, mais maintenant que les monstres sont plus nombreux que nous, je crains qu'il ne soit en grand danger. Pouvez-vous aller l'aider ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
