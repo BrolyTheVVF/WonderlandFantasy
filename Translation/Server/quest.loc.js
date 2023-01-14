@@ -15103,6 +15103,121 @@ locale["quest.190.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.191.name"] = {
+	"en": "Uncharted Forest (5)",
+	"fr": "Forêt Inexplorée (5)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.191.texts.objective"] = {
+	"en": "Gather some sample of <span class='text-link' data-target-type='' data-target-id=''>Diseased Mushroom</span> and <span class='text-link' data-target-type='' data-target-id=''>Infectious Plant</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
+	"fr": "Récoltez quelques échantillons de <span class='text-link' data-target-type='' data-target-id=''>Champignon malade</span> et de <span class='text-link' data-target-type='' data-target-id=''>Plante infectieuse</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.191.texts.description"] = {
+	"en": "I've notice that plants growing around are not what they used to be, based on what I could read in some books. The most noticeable changes are in those mushrooms and ferns. Could you gather me some samples? They are growing all over the Uncharted Forest, it shouldn't be that hard.",
+	"fr": "J'ai remarqué que les plantes qui poussent autour de nous ne sont plus ce qu'elles étaient, d'après ce que j'ai pu lire dans certains livres. Les changements les plus notables sont dans ces champignons et ces fougères. Pourriez-vous me ramener quelques échantillons ? Ils poussent partout dans la Forêt Inexplorée, ça ne devrait pas être trop difficile.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.191.texts.returnPopupMain"] = {
+	"en": "I'm gonna make some tests on this plants. This should be interesting.",
+	"fr": "Je vais faire quelques tests sur ces plantes. Ça devrait être intéressant.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.191.objective.0.name"] = {
+	"en": "Diseased Mushroom",
+	"fr": "Champignon malade",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.191.objective.1.name"] = {
+	"en": "Infectious Plant",
+	"fr": "Plante infectieuse",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
