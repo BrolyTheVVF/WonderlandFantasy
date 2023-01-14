@@ -2207,6 +2207,25 @@ locale["npc.115.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.116.name"] = {
+	"en":"Tree Stump",
+	"fr":"Souche d'Arbre",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {

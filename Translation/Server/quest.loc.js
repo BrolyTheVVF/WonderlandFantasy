@@ -15026,6 +15026,83 @@ locale["quest.189.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.190.name"] = {
+	"en": "Uncharted Forest (4)",
+	"fr": "Forêt Inexplorée (4)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.190.texts.objective"] = {
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='116'>Tree Stump</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='116'>Souche d'Arbre</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.190.texts.description"] = {
+	"en": "Okay, as strange as it sounds, these Treants seem to be coming out of these Tree Stum. I need a sample to see if there are any traces of poison or magic.<br>Maybe the disease that infects the fauna also affects the flora?",
+	"fr": "Ok, aussi étrange que cela puisse paraitre, ces Treants semblent sortir de ces Tree Stum. J'ai besoin d'un échantillon pour voir s'il y a des traces de poison ou de magie.<br>Peut être que la maladie qui infecte la faune touche aussi la flore?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.190.texts.returnPopupMain"] = {
+	"en": "That's it indeed! The flora in somehow infected by this disease.",
+	"fr": "C'est bien ça ! La flore est en quelque sorte infectée par cette maladie.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 locale["quest.10006.name"] = {
 	"en": "Fortify Weapon - Blacksmith",
