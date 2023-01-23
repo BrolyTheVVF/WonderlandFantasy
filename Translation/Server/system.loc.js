@@ -1587,4 +1587,84 @@ locale["system.guild.alreadyMaxedOut"] = {
 	"id": ""
 };
 
+locale["system.events.notFound"] = {
+	"en":"This events was not found",
+	"fr":"Cet événement n'a pas été trouvé",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["system.events.notActive"] = {
+	"en":"This events is not currently active",
+	"fr":"Cet événement n'a actuellement pas actif",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["system.events.notRegisterNeeded"] = {
+	"en":"This event does not require any registration",
+	"fr":"Cet événement ne requiers pas d'enregistrement",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["system.events.cantRegister"] = {
+	"en":"This event is no longer in its registration period",
+	"fr":"Cet évènement n'est plus dans sa période d'enregistrement",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
