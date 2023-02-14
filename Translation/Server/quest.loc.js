@@ -15315,8 +15315,8 @@ locale["quest.193.name"] = {
 	"id": ""
 };
 locale["quest.193.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='108'>Butterfly Fairy</span> and bring back her <span class='text-link' data-target-type='item' data-target-id='10117'>Fairy's Wings</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
-	"fr": "Tuez the <span class='text-link' data-target-type='mob' data-target-id='108'>Ésprit du Vent</span> et ramenez ses <span class='text-link' data-target-type='item' data-target-id='10117'>Ailes de Fée</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='108'>Butterfly Fairy</span> and bring back her <span class='text-link' data-target-type='item' data-target-id='10117'>Fairy's Wings</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
+	"fr": "Tuez l'<span class='text-link' data-target-type='mob' data-target-id='108'>Ésprit du Vent</span> et ramenez ses <span class='text-link' data-target-type='item' data-target-id='10117'>Ailes de Fée</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
