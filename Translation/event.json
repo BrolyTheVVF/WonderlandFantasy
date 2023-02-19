@@ -75,7 +75,7 @@
         "th":"",
         "id":"Intro"
     },
-    "event.lava-core.title":{
+    "event.LAVA_CORE.title":{
         "en":"Lava Core X 10",
         "fr":"Coeur de lave X 10",
         "es":"Lava Core X 10",
@@ -94,7 +94,7 @@
         "th":"",
         "id":"Lava Core X 10"
     },
-    "event.lava-core.description-1":{
+    "event.LAVA_CORE.description-1":{
         "en":"Faster Lava Core refresh rate",
         "fr":"Taux de rafraichissement du Coeur de Lave plus élevé",
         "es":"Mayor velocidad de refresco del Core de Lava",
@@ -113,7 +113,7 @@
         "th":"",
         "id":"Respawn rate Lava Core lebih cepat"
     },
-    "event.lava-core.description-2":{
+    "event.LAVA_CORE.description-2":{
         "en":"Time: 10:00-11:00 18:00-19:00 (GMT+0)",
         "fr":"Horaires: 11:00-12:00 19:00-20:00 (GMT+1)",
         "es":"Horarios: 11:00-12:00 19:00-20:00 (GMT+1)",
