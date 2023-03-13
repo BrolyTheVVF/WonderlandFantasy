@@ -246,7 +246,7 @@
         "th":"",
         "id":""
     },
-    "event.BATTLEFIELD.score.team-ennemy":{
+    "event.BATTLEFIELD.score.team-enemy":{
         "en":"Enemy",
         "fr":"Ennemi",
         "es":"",
