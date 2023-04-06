@@ -15719,8 +15719,8 @@ locale["quest.198.name"] = {
 	"id": ""
 };
 locale["quest.198.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='93'>Wild Boar</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='93'>Sanglier Sauvage</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='93'>Wild Boar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='93'>Sanglier Sauvage</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15796,8 +15796,8 @@ locale["quest.199.name"] = {
 	"id": ""
 };
 locale["quest.199.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='92'>Poisoned Boar</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='92'>Sanglier Empoisonné</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='92'>Poisoned Boar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='92'>Sanglier Empoisonné</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15836,6 +15836,102 @@ locale["quest.199.texts.description"] = {
 locale["quest.199.texts.returnPopupMain"] = {
 	"en": "Well that was my bad, they are just as strong as the others, if not worst. Let's just keep going.",
 	"fr": "Et bien désolé, ils sont aussi forts que les autres, voire pires. Continuons.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
+locale["quest.200.name"] = {
+	"en": "Stemming Corruption (4)",
+	"fr": "Endiguer la Corruption (4)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.200.texts.objective"] = {
+	"en": "Get some Spore filled Mushroom, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Récupérer un Champignon remplis de Spores, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.200.texts.description"] = {
+	"en": "I'm gonna need you to get me a sample of one of those Spore filled Mushroom. I need to get a clean sample, so taker your time while getting it, also, if you break it, you might die, so... yeah, be extra careful ok?",
+	"fr": "Je vais avoir besoin que tu me trouves un échantillon d'un de ces Champignons remplis de Spores. J'ai besoin d'un échantillon propre, alors prenez votre temps. Ah, et si vous le cassez, vous risquez de mourir, alors... et bien, soyez très prudent, d'accord ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.200.texts.returnPopupMain"] = {
+	"en": "Wow, interesting. Just looking at it, without even looking closer into it, i can already see that it is way more infectious than the plants in the forest. And the infection has spread to the spores and degenerated the new fungi that have grown from it.",
+	"fr": "Wow, c'est intéressant. Rien qu'en le regardant, sans même y regarder de plus près, je vois déjà qu'il est bien plus infectieux que les plantes de la forêt. Et l'infection s'est propagée aux spores et a fait dégénérer les nouveaux champignons qui en sont issus.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.200.objective.0.name"] = {
+	"en": "Spore filled Mushroom",
+	"fr": "Champignon remplis de Spores",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
