@@ -5687,6 +5687,63 @@ locale["npc.100075.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100076.name"] = {
+	"en": "Letin Mercenary",
+	"fr": "Mercenaire de Letin",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100077.name"] = {
+	"en": "Bruce",
+	"fr": "Bruce",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100077.title"] = {
+	"en": "Dark Mage",
+	"fr": "Mage Noir",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -6378,6 +6435,25 @@ locale["npc.100075.interact.baseText"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi làm gì ở đây vậy? Nơi này nguy hiểm lắm đấy!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100076.interact.baseText"] = {
+	"en": "I never saw any monsters like that, but i'm not afraid of them, dealing with them is my job after all. Wait, there is no snakes here right?",
+	"fr": "Je n'ai jamais vu de monstres comme ça, mais je n'en ai pas peur, m'en occuper est mon travail après tout. Attendez, il n'y a pas de serpents ici, n'est-ce pas ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
