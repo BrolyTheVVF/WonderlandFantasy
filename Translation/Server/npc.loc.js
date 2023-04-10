@@ -7334,4 +7334,24 @@ locale["instance.INSTANCE_45.npc.20024.talk_3"] = {
 	"id": ""
 };
 
+locale["npc.portal.special_c4_event"] = {
+	"en": "<i>Some kind of power is preventing you from taking this portal. You might want to investigate in the Maeltrom</i>",
+	"fr": "<i>Une sorte de pouvoir vous empêche d'emprunter ce portail. Vous pourriez vouloir enquêter dans le Maeltrom</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
