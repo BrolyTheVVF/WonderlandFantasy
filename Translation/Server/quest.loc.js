@@ -15393,7 +15393,7 @@ locale["quest.194.name"] = {
 };
 locale["quest.194.texts.objective"] = {
 	"en": "Go put the antidote on Gaia's Altar in Uncharted Forest Floor 3, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
-	"fr": "Va mettre l'antidote sur l'Autel de Gaia dans la forêt d'Uncharted 3, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
+	"fr": "Va mettre l'antidote sur l'Autel de Gaia dans la Forêt Inexplorée Etage 3, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
