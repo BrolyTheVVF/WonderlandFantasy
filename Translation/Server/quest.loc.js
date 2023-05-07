@@ -19071,8 +19071,8 @@ locale["quest.35004.name"] = {
 	"id": ""
 };
 locale["quest.35004.texts.objective"] = {
-	"en": "Clear the elite monsters in the Elite Hall of Fiery Tower, and collect Telluric Water for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 69</i>",
-	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter de l'Eau Tellurique pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 69</i>",
+	"en": "Clear the elite monsters in the Elite Hall of Starry Town, and collect Telluric Water for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 69</i>",
+	"fr": "Nettoyez le Hall d'Élite de la Ville étoilée de ces monstres d'Élite pour collecter de l'Eau Tellurique pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 69</i>",
 	"es": "",
 	"zh-cn": "清除(未知地图)精英大殿中的精英怪物,并为<span class='text-link' data-target-type='npc' data-target-id='100044'>克鲁姆</span>收集 地下水.<br><br><i>此任务69级以前有效</i>",
 	"zh-tw":"",
