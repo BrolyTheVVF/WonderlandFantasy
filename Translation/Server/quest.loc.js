@@ -16431,8 +16431,8 @@ locale["quest.207.name"] = {
 	"id": ""
 };
 locale["quest.207.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='96'>Piranha</span> and some <span class='text-link' data-target-type='mob' data-target-id='97'>Strong Eyetail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='96'>Pirana</span> et des <span class='text-link' data-target-type='mob' data-target-id='97'>Manticore à Qued'Oeil Puissante</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='96'>Piranha</span> and some <span class='text-link' data-target-type='mob' data-target-id='97'>Strong Eyetail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the <i>Fungi Sanctuary</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='96'>Pirana</span> et des <span class='text-link' data-target-type='mob' data-target-id='97'>Manticore à Qued'Oeil Puissante</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans le <i>Sanctuaire Fungi</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16508,8 +16508,8 @@ locale["quest.208.name"] = {
 	"id": ""
 };
 locale["quest.208.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='99'>Vicious Fairy</span> to gather their essence, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='99'>Fée Vicieuse</span> pour en recueillir leur essence, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='99'>Vicious Fairy</span> to gather their essence, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the <i>Fungi Sanctuary</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='99'>Fée Vicieuse</span> pour en recueillir leur essence, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans le <i>Sanctuaire Fungi</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16604,8 +16604,8 @@ locale["quest.209.name"] = {
 	"id": ""
 };
 locale["quest.209.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> to gather their tails and get one of their staff, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> affin de rassembler leurs queues et d'obtenir l'un de leurs bâtons, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> to gather their tails and get one of their staff, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the <i>Fungi Sanctuary</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> affin de rassembler leurs queues et d'obtenir l'un de leurs bâtons, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans le <i>Sanctuaire Fungi</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16719,8 +16719,8 @@ locale["quest.210.name"] = {
 	"id": ""
 };
 locale["quest.210.texts.objective"] = {
-	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='103'>Marsh Maiden</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='103'>Demoiselle des Marais</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='103'>Marsh Maiden</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the <i>Fungi Sanctuary</i>.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='103'>Demoiselle des Marais</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans le <i>Sanctuaire Fungi</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
