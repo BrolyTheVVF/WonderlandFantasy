@@ -14912,7 +14912,7 @@ locale["quest.188.texts.objective"] = {
 };
 locale["quest.188.texts.description"] = {
 	"en": "I'm trying to go deeper in the woods, but I never could go really deep before i get overwhelmed by their number. I'm trying to find why this forest that was so peaceful a few decade ago turned out to be so full of evil. The trees themselves are trying to kill us. Can you help me clean the way to the deepest part of this forest?",
-	"fr": "J'essaie de m'enfoncer plus loins dans cette forêt, mais je fini toujours submergé par leur nombre. J'essaie de comprendre pourquoi cette forêt qui était si paisible il y a quelques décennies est devenue si maléfique. Les arbres eux-mêmes essaient de nous tuer. Pouvez-vous m'aider à nettoyer le chemin vers le coeur cette forêt ?",
+	"fr": "J'essaie de m'enfoncer plus loin dans cette forêt, mais je fini toujours submergé par leur nombre. J'essaie de comprendre pourquoi cette forêt qui était si paisible il y a quelques décennies est devenue si maléfique. Les arbres eux-mêmes essaient de nous tuer. Pouvez-vous m'aider à nettoyer le chemin vers le coeur cette forêt ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -14931,7 +14931,7 @@ locale["quest.188.texts.description"] = {
 };
 locale["quest.188.texts.returnPopupMain"] = {
 	"en": "Those Earthworm are hitting hard, but we seem to hit even harder! let's continue.",
-	"fr": "Ces Lombric frappent fort, mais nous semblons frapper encore plus fort ! continuons.",
+	"fr": "Ces Lombrics frappent fort, mais nous semblons frapper encore plus fort ! continuons.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15066,7 +15066,7 @@ locale["quest.190.texts.objective"] = {
 };
 locale["quest.190.texts.description"] = {
 	"en": "Okay, as strange as it sounds, these Treants seem to be coming out of these Tree Stum. I need a sample to see if there are any traces of poison or magic.<br>Maybe the disease that infects the fauna also affects the flora?",
-	"fr": "Ok, aussi étrange que cela puisse paraitre, ces Treants semblent sortir de ces Tree Stum. J'ai besoin d'un échantillon pour voir s'il y a des traces de poison ou de magie.<br>Peut être que la maladie qui infecte la faune touche aussi la flore?",
+	"fr": "Ok, aussi étrange que cela puisse paraitre, ces Tréants semblent sortir de ces Tree Stum. J'ai besoin d'un échantillon pour voir s'il y a des traces de poison ou de magie.<br>Peut être que la maladie qui infecte la faune touche aussi la flore?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15335,7 +15335,7 @@ locale["quest.193.texts.objective"] = {
 };
 locale["quest.193.texts.description"] = {
 	"en": "I need some sample from something that has been infected for a long time. I'm almost sure there was a fairy living to the south, from old mission logs I read.<br><br>Go and seek her. If she is not infected, seek her help. Is she is indeed infected, then, you know what to do. Either way, we have to find something to complete my work. We could cure this woods.",
-	"fr": "J'ai besoin d'un échantillon de quelque chose qui a été infecté depuis longtemps. Je suis presque sûr qu'il y avait une fée vivant au sud, d'après les vieux journaux de mission que j'ai lus.<br><br>Va la chercher. Si elle n'est pas infectée, demande-lui de l'aide. Si elle est infectée, alors vous savez quoi faire. De toute façon, nous devons trouver quelque chose pour terminer mon travail. Nous pourrions guérir ces bois.",
+	"fr": "J'ai besoin d'un échantillon de quelque chose qui a été infecté depuis longtemps. Je suis presque sûr qu'il y avait une fée vivant au sud, d'après les vieux journaux de mission que j'ai lu.<br><br>Va la chercher. Si elle n'est pas infectée, demande-lui de l'aide. Si elle est infectée, alors vous savez quoi faire. De toute façon, nous devons trouver quelque chose pour terminer mon travail. Nous pourrions guérir ces bois.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15489,7 +15489,7 @@ locale["quest.195.name"] = {
 };
 locale["quest.195.texts.objective"] = {
 	"en": "Go back to Letin Square and talk to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span>.",
-	"fr": "Retournez sur la Place de Letin et parlez a <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span>.",
+	"fr": "Retournez sur la Place de Letin et parlez à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15566,7 +15566,7 @@ locale["quest.196.name"] = {
 };
 locale["quest.196.texts.objective"] = {
 	"en": "Hit level 54, and talk to <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> in Letin Square.",
-	"fr": "Atteindre le niveau 52, et parlez a <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
+	"fr": "Atteindre le niveau 52, et parlez à <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> sur la Place de Letin.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15643,7 +15643,7 @@ locale["quest.197.name"] = {
 };
 locale["quest.197.texts.objective"] = {
 	"en": "Go to Thorny Post and talk to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span>.",
-	"fr": "Allez au Poste Épineux et parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span>.",
+	"fr": "Allez au Poste Épineux et parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15720,7 +15720,7 @@ locale["quest.198.name"] = {
 };
 locale["quest.198.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='93'>Wild Boar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='93'>Sanglier Sauvage</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='93'>Sanglier Sauvage</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15797,7 +15797,7 @@ locale["quest.199.name"] = {
 };
 locale["quest.199.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='92'>Poisoned Boar</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='92'>Sanglier Empoisonné</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='92'>Sanglier Empoisonné</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15835,7 +15835,7 @@ locale["quest.199.texts.description"] = {
 };
 locale["quest.199.texts.returnPopupMain"] = {
 	"en": "Well that was my bad, they are just as strong as the others, if not worst. Let's just keep going.",
-	"fr": "Et bien désolé, ils sont aussi forts que les autres, voire pires. Continuons.",
+	"fr": "Et bien désolé, ils sont aussi forts que les autres, voir pires. Continuons.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15874,7 +15874,7 @@ locale["quest.200.name"] = {
 };
 locale["quest.200.texts.objective"] = {
 	"en": "Get some Spore filled Mushroom, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Récupérer un Champignon remplis de Spores, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"fr": "Récupérez un Champignon rempli de Spores, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15893,7 +15893,7 @@ locale["quest.200.texts.objective"] = {
 };
 locale["quest.200.texts.description"] = {
 	"en": "I'm gonna need you to get me a sample of one of those Spore filled Mushroom. I need to get a clean sample, so taker your time while getting it, also, if you break it, you might die, so... yeah, be extra careful ok?",
-	"fr": "Je vais avoir besoin que tu me trouves un échantillon d'un de ces Champignons remplis de Spores. J'ai besoin d'un échantillon propre, alors prenez votre temps. Ah, et si vous le cassez, vous risquez de mourir, alors... et bien, soyez très prudent, d'accord ?",
+	"fr": "Je vais avoir besoin que tu me trouves un échantillon d'un de ces Champignons rempli de Spores. J'ai besoin d'un échantillon propre, alors prenez votre temps. Ah, et si vous le cassez, vous risquez de mourir, alors... eh bien, soyez très prudent, d'accord ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15931,7 +15931,7 @@ locale["quest.200.texts.returnPopupMain"] = {
 };
 locale["quest.200.objective.0.name"] = {
 	"en": "Spore filled Mushroom",
-	"fr": "Champignon remplis de Spores",
+	"fr": "Champignon rempli de Spores",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15970,7 +15970,7 @@ locale["quest.201.name"] = {
 };
 locale["quest.201.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='94'>Bewitched Treant</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='94'>Tréant Ensorcelé</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='94'>Tréant Ensorcelé</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16047,7 +16047,7 @@ locale["quest.202.name"] = {
 };
 locale["quest.202.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='95'>Cursed Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='95'>Guerrier Maudit</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='95'>Guerrier Maudit</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16124,7 +16124,7 @@ locale["quest.203.name"] = {
 };
 locale["quest.203.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='105'>Judge of Death</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='105'>Juge de la Mort</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='105'>Juge de la Mort</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16278,7 +16278,7 @@ locale["quest.205.name"] = {
 };
 locale["quest.205.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='97'>Strong Eyetail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100076'>Letin Mercenary</span> in the <i>Mutant Jungle</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='97'>Manticore à Qued'Oeil Puissante</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100076'>Mercenaire de Letin</span> dans la <i>Jungle Mutante</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='97'>Manticore à Qued'Oeil Puissante</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100076'>Mercenaire de Letin</span> dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16355,7 +16355,7 @@ locale["quest.206.name"] = {
 };
 locale["quest.206.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='96'>Piranha</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100076'>Letin Mercenary</span> in the <i>Mutant Jungle</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='96'>Pirana</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100076'>Mercenaire de Letin</span> dans la <i>Jungle Mutante</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='96'>Pirana</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100076'>Mercenaire de Letin</span> dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16374,7 +16374,7 @@ locale["quest.206.texts.objective"] = {
 };
 locale["quest.206.texts.description"] = {
 	"en": "I was about to go into battle, but suddenly this pain in my calf took over and I couldn't move a step. Can you take care of killing those Piranha for me? I won't be able to move from here.",
-	"fr": "J'allais partir au combat, mais soudain, cette douleur au mollet qui m'a subitement repris, je n'ai pas put bouger d'un metre. Pourrez-tu t'occuper de tuez ces Pirana a ma place? Je ne vais pas pouvoir bouger d'ici j'en ai bien peut.",
+	"fr": "J'allais partir au combat, mais soudain, cette douleur au mollet qui m'a subitement repris, je n'ai pas pu bouger d'un metre. Pourrais-tu t'occuper de tuez ces Pirana à ma place? Je ne vais pas pouvoir bouger d'ici j'en ai bien peur.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16432,7 +16432,7 @@ locale["quest.207.name"] = {
 };
 locale["quest.207.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='96'>Piranha</span> and some <span class='text-link' data-target-type='mob' data-target-id='97'>Strong Eyetail Manticore</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='96'>Pirana</span> et des <span class='text-link' data-target-type='mob' data-target-id='97'>Manticore à Qued'Oeil Puissante</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='96'>Pirana</span> et des <span class='text-link' data-target-type='mob' data-target-id='97'>Manticore à Qued'Oeil Puissante</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16509,7 +16509,7 @@ locale["quest.208.name"] = {
 };
 locale["quest.208.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='99'>Vicious Fairy</span> to gather their essence, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='99'>Fée Vicieuse</span> pour en recueillir leur essence, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='99'>Fée Vicieuse</span> pour en recueillir leur essence, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16605,7 +16605,7 @@ locale["quest.209.name"] = {
 };
 locale["quest.209.texts.objective"] = {
 	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> to gather their tails and get one of their staff, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> affin de rassembler leurs queues et d'obtenir l'un de leurs bâtons, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='98'>Basilic</span> affin de rassembler leurs queues et d'obtenir l'un de leurs bâtons, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16720,7 +16720,7 @@ locale["quest.210.name"] = {
 };
 locale["quest.210.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='103'>Marsh Maiden</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> in the Mutant Jungle.",
-	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='103'>Demoiselle des Marais</span>, puis parlez a <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
+	"fr": "Tuez la <span class='text-link' data-target-type='mob' data-target-id='103'>Demoiselle des Marais</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100077'>Bruce</span> dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
