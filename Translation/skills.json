@@ -1159,23 +1159,23 @@
         "id":"Panah Beruntun"
     },
     "skills.ranger.MULTI_ARROW.description":{
-        "en":"Shoots multiple arrows to attack all enemies in a certain range.",
-        "fr":"Tire plusieurs flèches, attaquant les ennemis à une certaine portée.",
+        "en":"Multiple arrows fall from the sky and deal damage over time in the targeted area for 3 seconds. On the last hit, apply a poison for 2 seconds.",
+        "fr":"Plusieurs flèches tombent du ciel et infligent des dégâts sur la durée dans la zone ciblée pendant 3 secondes. Au dernier coup, un poison est appliqué pendant 2 secondes.",
         "es":"",
-        "zh-cn":"发射箭矢攻击指定范围内的所有敌人并造成伤害.",
-        "zh-tw":"發射箭矢攻擊指定範圍內的所有敵人並造成傷害.",
+        "zh-cn":"",
+        "zh-tw":"",
         "kr":"",
-        "ru":"Стреляет множеством стрел, атакуя всех врагов в определённой области.",
+        "ru":"",
         "tr":"",
-        "de":"Schießt mehrere Pfeile ab, um alle Feinde in einer bestimmten Entfernung anzugreifen",
+        "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Bắn hàng loạt mũi tên để tấn công tất cả kẻ thù trong một phạm vi nhất định.",
+        "vi":"",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Menembakkan banyak anak panah untuk menyerang semua musuh dalam jarak tertentu."
+        "id":""
     },
     "skills.ranger.MULTI_ARROW.effect":{
         "en":"Inflicts {0}% more damage and an additional {1} Skill damage.",
