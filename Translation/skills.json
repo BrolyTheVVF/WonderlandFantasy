@@ -1159,8 +1159,8 @@
         "id":"Panah Beruntun"
     },
     "skills.ranger.MULTI_ARROW.description":{
-        "en":"Multiple arrows fall from the sky and deal damage over time in the targeted area for 3 seconds. On the last hit, apply a poison for 2 seconds.",
-        "fr":"Plusieurs flèches tombent du ciel et infligent des dégâts sur la durée dans la zone ciblée pendant 3 secondes. Au dernier coup, un poison est appliqué pendant 2 secondes.",
+        "en":"Multiple arrows fall from the sky and deal damage over time in the targeted area for 3 seconds. On the last hit, apply a poison for 5 seconds.",
+        "fr":"Plusieurs flèches tombent du ciel et infligent des dégâts sur la durée dans la zone ciblée pendant 3 secondes. Au dernier coup, un poison est appliqué pendant 5 secondes.",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
