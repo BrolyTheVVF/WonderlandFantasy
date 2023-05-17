@@ -15873,8 +15873,8 @@ locale["quest.200.name"] = {
 	"id": ""
 };
 locale["quest.200.texts.objective"] = {
-	"en": "Get some Spore filled Mushroom, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Récupérez un Champignon rempli de Spores, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"en": "Get some Spore filled Mushroom in Doomed Woods, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Récupérez un Champignon rempli de Spores dans les Bois Maudits, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -15969,8 +15969,8 @@ locale["quest.201.name"] = {
 	"id": ""
 };
 locale["quest.201.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='94'>Bewitched Treant</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='94'>Tréant Ensorcelé</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='94'>Bewitched Treant</span> in Doomed Woods, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='94'>Tréant Ensorcelé</span> dans les Bois Maudits, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16046,8 +16046,8 @@ locale["quest.202.name"] = {
 	"id": ""
 };
 locale["quest.202.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='95'>Cursed Warrior</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='95'>Guerrier Maudit</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='95'>Cursed Warrior</span> in Doomed Woods, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='95'>Guerrier Maudit</span> dans les Bois Maudits, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -16123,8 +16123,8 @@ locale["quest.203.name"] = {
 	"id": ""
 };
 locale["quest.203.texts.objective"] = {
-	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='105'>Judge of Death</span>, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
-	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='105'>Juge de la Mort</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='105'>Judge of Death</span> in Doomed Woods, then report to <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> at the <i>Thorny Post</i>.",
+	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='105'>Juge de la Mort</span> dans les Bois Maudits, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100017'>Monri</span> au <i>Poste Épineux</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
