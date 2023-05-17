@@ -2001,7 +2001,7 @@ locale["quest.24.name"] = {
 	"id": ""
 };
 locale["quest.24.texts.objective"] = {
-	"en": "You have helped <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Now go to Cain Kingdom and visit the <span class='text-link' data-target-type='npc' data-target-id='100024'>Old King</span>.",
+	"en": "You have helped <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Now go to the Cathedral in Cain Kingdom and visit the <span class='text-link' data-target-type='npc' data-target-id='100024'>Old King</span>.",
 	"fr": "Vous avez aidé <span class='text-link' data-target-type='npc' data-target-id='100021'>Froles</span>. Maintenant, allez à la Cathédrale et parlez au <span class='text-link' data-target-type='npc' data-target-id='100024'>Vieux Roi</span>.",
 	"es": "",
 	"zh-cn": "你帮助了<span class='text-link' data-target-type='npc' data-target-id='100021'>弗洛尔斯</span>. 现在去凯恩王国拜访<span class='text-link' data-target-type='npc' data-target-id='100024'>老国王</span>吧.",
