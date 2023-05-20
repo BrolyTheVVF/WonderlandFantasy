@@ -13934,7 +13934,7 @@
 		"id":""
 	},
 	
-	"item.7430.name":{
+	"item.7445.name":{
 		"en":"Titan Potion Lvl 1",
 		"fr":"Potion de Titan Nv 1",
 		"es":"",
@@ -13953,7 +13953,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7431.name":{
+	"item.7446.name":{
 		"en":"Titan Potion Lvl 2",
 		"fr":"Potion de Titan Nv 2",
 		"es":"",
@@ -13972,7 +13972,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7432.name":{
+	"item.7447.name":{
 		"en":"Titan Potion Lvl 3",
 		"fr":"Potion de Titan Nv 3",
 		"es":"",
@@ -13991,7 +13991,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7433.name":{
+	"item.7448.name":{
 		"en":"Titan Potion Lvl 4",
 		"fr":"Potion de Titan Nv 4",
 		"es":"",
@@ -14010,7 +14010,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7434.name":{
+	"item.7449.name":{
 		"en":"Titan Potion Lvl 5",
 		"fr":"Potion de Titan Nv 5",
 		"es":"",
@@ -14029,7 +14029,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7435.name":{
+	"item.7450.name":{
 		"en":"Titan Potion Lvl 6",
 		"fr":"Potion de Titan Nv 6",
 		"es":"",
@@ -14048,7 +14048,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7436.name":{
+	"item.7451.name":{
 		"en":"Titan Potion Lvl 7",
 		"fr":"Potion de Titan Nv 7",
 		"es":"",
@@ -14067,7 +14067,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7437.name":{
+	"item.7452.name":{
 		"en":"Titan Potion Lvl 8",
 		"fr":"Potion de Titan Nv 8",
 		"es":"",
@@ -14086,7 +14086,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7438.name":{
+	"item.7453.name":{
 		"en":"Titan Potion Lvl 9",
 		"fr":"Potion de Titan Nv 9",
 		"es":"",
@@ -14105,7 +14105,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7439.name":{
+	"item.7454.name":{
 		"en":"Titan Potion Lvl 10",
 		"fr":"Potion de Titan Nv 10",
 		"es":"",
@@ -14124,7 +14124,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7440.name":{
+	"item.7455.name":{
 		"en":"Titan Potion Lvl 11",
 		"fr":"Potion de Titan Nv 11",
 		"es":"",
@@ -14143,7 +14143,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7441.name":{
+	"item.7456.name":{
 		"en":"Titan Potion Lvl 12",
 		"fr":"Potion de Titan Nv 12",
 		"es":"",
@@ -14162,7 +14162,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7442.name":{
+	"item.7457.name":{
 		"en":"Titan Potion Lvl 13",
 		"fr":"Potion de Titan Nv 13",
 		"es":"",
@@ -14181,7 +14181,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7443.name":{
+	"item.7458.name":{
 		"en":"Titan Potion Lvl 14",
 		"fr":"Potion de Titan Nv 14",
 		"es":"",
@@ -14200,7 +14200,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7444.name":{
+	"item.7459.name":{
 		"en":"Titan Potion Lvl 15",
 		"fr":"Potion de Titan Nv 15",
 		"es":"",
@@ -22989,7 +22989,7 @@
 		"id":""
 	},
 	
-	"item.7430.description":{
+	"item.7445.description":{
 		"en":"A potion that strengthens your life force. HP +700.",
 		"fr":"Une potion qui renforce votre force vitale. PV +700.",
 		"es":"",
@@ -23008,7 +23008,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7431.description":{
+	"item.7446.description":{
 		"en":"A potion that strengthens your life force. HP +1100.",
 		"fr":"Une potion qui renforce votre force vitale. PV +1100.",
 		"es":"",
@@ -23027,7 +23027,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7432.description":{
+	"item.7447.description":{
 		"en":"A potion that strengthens your life force. HP +1600.",
 		"fr":"Une potion qui renforce votre force vitale. PV +1600.",
 		"es":"",
@@ -23046,7 +23046,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7433.description":{
+	"item.7448.description":{
 		"en":"A potion that strengthens your life force. HP +2100.",
 		"fr":"Une potion qui renforce votre force vitale. PV +2100.",
 		"es":"",
@@ -23065,7 +23065,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7434.description":{
+	"item.7449.description":{
 		"en":"A potion that strengthens your life force. HP +2700.",
 		"fr":"Une potion qui renforce votre force vitale. PV +2700.",
 		"es":"",
@@ -23084,7 +23084,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7435.description":{
+	"item.7450.description":{
 		"en":"A potion that strengthens your life force. HP +3300.",
 		"fr":"Une potion qui renforce votre force vitale. PV +3300.",
 		"es":"",
@@ -23103,7 +23103,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7436.description":{
+	"item.7451.description":{
 		"en":"A potion that strengthens your life force. HP +4100.",
 		"fr":"Une potion qui renforce votre force vitale. PV +4100.",
 		"es":"",
@@ -23122,7 +23122,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7437.description":{
+	"item.7452.description":{
 		"en":"A potion that strengthens your life force. HP +4900.",
 		"fr":"Une potion qui renforce votre force vitale. PV +4900.",
 		"es":"",
@@ -23141,7 +23141,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7438.description":{
+	"item.7453.description":{
 		"en":"A potion that strengthens your life force. HP +5800.",
 		"fr":"Une potion qui renforce votre force vitale. PV +5800.",
 		"es":"",
@@ -23160,7 +23160,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7439.description":{
+	"item.7454.description":{
 		"en":"A potion that strengthens your life force. HP +6700.",
 		"fr":"Une potion qui renforce votre force vitale. PV +6700.",
 		"es":"",
@@ -23179,7 +23179,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7440.description":{
+	"item.7455.description":{
 		"en":"A potion that strengthens your life force. HP +7700.",
 		"fr":"Une potion qui renforce votre force vitale. PV +7700.",
 		"es":"",
@@ -23198,7 +23198,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7441.description":{
+	"item.7456.description":{
 		"en":"A potion that strengthens your life force. HP +8800.",
 		"fr":"Une potion qui renforce votre force vitale. PV +8800.",
 		"es":"",
@@ -23217,7 +23217,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7442.description":{
+	"item.7457.description":{
 		"en":"A potion that strengthens your life force. HP +10 000.",
 		"fr":"Une potion qui renforce votre force vitale. PV +10 000.",
 		"es":"",
@@ -23236,7 +23236,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7443.description":{
+	"item.7458.description":{
 		"en":"A potion that strengthens your life force. HP +11 200.",
 		"fr":"Une potion qui renforce votre force vitale. PV +11 200.",
 		"es":"",
@@ -23255,7 +23255,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.7444.description":{
+	"item.7459.description":{
 		"en":"A potion that strengthens your life force. HP +12 500.",
 		"fr":"Une potion qui renforce votre force vitale. PV +12 500.",
 		"es":"",
