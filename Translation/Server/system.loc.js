@@ -1586,6 +1586,63 @@ locale["system.guild.alreadyMaxedOut"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.guild.shop.limit-reached"] = {
+	"en":"You already bought the maximum daily amount of this item.",
+	"fr":"Vous avez déjà acheté la quantité journalière maximale de cet article.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.shop.not-enough-score"] = {
+	"en":"You current guild score is too low to buy this item.",
+	"fr":"Votre score de guilde actuel est trop faible pour acheter cet objet.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.shop.cant-carry"] = {
+	"en": "Your inventory is full or you can't carry any more of this item.",
+	"fr": "Votre inventaire est plein ou vous ne pouvez pas transporter plus d'exemplaire de cet objet.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.events.notFound"] = {
 	"en":"This events was not found",
