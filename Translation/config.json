@@ -37,6 +37,25 @@
         "th":"",
         "id":"Grafik"
     },
+	"config.UI.title":{
+        "en":"User Interface",
+        "fr":"Interface Utilisateur",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "config.sound.volume.ambient":{
         "en":"Volume of ambience",
         "fr":"Volume des musiques d'ambiances",
@@ -74,5 +93,24 @@
         "pl":"",
         "th":"",
         "id":"Suara Efek"
+    },
+    "config.UI.logs.maxLines":{
+        "en":"Logs max saved lines",
+        "fr":"Nb max de lignes de logs",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
