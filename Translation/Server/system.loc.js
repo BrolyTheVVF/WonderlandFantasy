@@ -1724,4 +1724,24 @@ locale["system.events.cantRegister"] = {
 	"id": ""
 };
 
+locale["system.events.BATTLEFIELD.registration-started"] = {
+	"en":"A battlefield is starting in 15 minutes, you can now register.",
+	"fr":"Un champ de bataille démare dans 15 minutes, vous pouvez désormais vous inscrire.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
