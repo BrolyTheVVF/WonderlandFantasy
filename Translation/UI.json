@@ -2773,6 +2773,25 @@
         "th":"",
         "id":"Lelang"
     },
+    "UI.windows.fair.tab.token":{
+        "en":"Token",
+        "fr":"Token",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.consign.filter.levelMin":{
         "en":"Lv. Min",
         "fr":"Nv. Min",
