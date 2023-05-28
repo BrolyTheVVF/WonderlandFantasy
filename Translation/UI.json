@@ -3001,6 +3001,26 @@
         "th":"",
         "id":""
     },
+    
+    "UI.windows.fait.token-shop.btn.buy":{
+        "en":"{0} Token",
+        "fr":"{0} Token",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.title":{
         "en":"Skills",
         "fr":"Compétences",
