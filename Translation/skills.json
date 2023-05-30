@@ -11800,7 +11800,7 @@
     },
     "skills.TWP_FORTITUDE.effect.level20": {
         "en": "Physical Damage RD +10%",
-        "fr": "Dégâts Physique +10%",
+        "fr": "Réduction de dégâts Physique +10%",
         "es": "",
         "zh-cn": "物理伤害减免+10%",
         "zh-tw":"",
