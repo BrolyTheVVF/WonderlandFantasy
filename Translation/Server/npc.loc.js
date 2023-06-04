@@ -7224,6 +7224,64 @@ locale["npc.99999999.title"] = {
 	"id": ""
 };
 
+locale["npc.100029.interact.GOBACK_CONTINENT_1"] = {
+	"en": "Go back to to Cain Kingdom",
+	"fr": "Retourner au Royaume de Kane",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100029.interact.GOBACK_CONTINENT_3"] = {
+	"en": "Go back to Downtown Letin (Lv 50)",
+	"fr": "Retourner a la Ville basse de Letin (Nv 50)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100029.interact.GOBACK_CONTINENT_4"] = {
+	"en": "Go back to Siren City (Lv 60)",
+	"fr": "Retourner a la Cité des sirènes (Nv 60)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.100026.interact.GET_DAILY_BUR_QUEST"] = {
 	"en": "Get Blessing Quests",
 	"fr": "Obtenez les quêtes de Bénédiction",
