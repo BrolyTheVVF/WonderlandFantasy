@@ -7395,6 +7395,44 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.300002.interact.TELEPORT_CONTINENT_3"] = {
+	"en": "Teleport to Downtown Letin (Lv 50)",
+	"fr": "Se téléporter jusqu'a la Ville basse de Letin (Nv 50)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.300002.interact.TELEPORT_CONTINENT_4"] = {
+	"en": "Teleport to Siren City (Lv 60)",
+	"fr": "Se téléporter jusqu'a la Cité des sirènes (Nv 60)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.600000.interact.GAMBLE_500"] = {
 	"en": "Make a wish (500 Gold)",
