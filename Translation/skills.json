@@ -5624,7 +5624,7 @@
         "id": ""
     },
     "skills.TML_DIVINE_GUIDANCE.effect.level20": {
-        "en": "When Mage's Skill Attack hit, he has 20% chance to make the target suffer 25% more damage on the next attack. Effect lasts ap to 10 sec.",
+        "en": "When Mage's Skill Attack hit, he has 20% chance to make the target suffer 25% more damage on the next attack. Effect lasts up to 10 sec.",
         "fr": "Quand un sort touche, il a 20% de chance de faire \"subir\" la cible qui prendra 25% de dégâts supplémentaire sur la prochaine attaque. L'effet jusqu'à 10sec",
         "es": "",
         "zh-cn": "法师技能攻击命中时，有20%的几率在下次攻击时伤害+25%，持续10秒.",
