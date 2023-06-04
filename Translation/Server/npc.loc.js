@@ -7225,7 +7225,7 @@ locale["npc.99999999.title"] = {
 };
 
 locale["npc.100029.interact.GOBACK_CONTINENT_1"] = {
-	"en": "Go back to to Cain Kingdom",
+	"en": "Go back to Cain Kingdom",
 	"fr": "Retourner au Royaume de Kane",
 	"es": "",
 	"zh-cn": "",
