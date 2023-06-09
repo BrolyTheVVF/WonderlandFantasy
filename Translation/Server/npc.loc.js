@@ -7185,6 +7185,45 @@ locale["npc.241009.name"] = {
 };
 
 
+locale["npc.99999996.name"] = {
+	"en": "Nice Gluon",
+	"fr": "Gentil Gluon",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99999996.title"] = {
+	"en": "Event Manager",
+	"fr": "Gestionnaire d'événements",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.99999999.name"] = {
 	"en": "Test Dummy",
 	"fr": "Mannequin de Test",
