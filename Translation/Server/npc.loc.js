@@ -7551,6 +7551,26 @@ locale["npc.600000.interact.GAMBLE_500"] = {
 	"id": ""
 };
 
+locale["npc.99999996.interact.SPECIAL_EVENT_1"] = {
+	"en": "[Event] Lend me your power",
+	"fr": "[Evenement] Prête moi ta puissance",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": ")",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 //** **************************** **
 //** ****** SPECIAL EVENTS ****** **
