@@ -1880,6 +1880,25 @@
         "th":"",
         "id":"Elemen"
     },
+    "UI.windows.character.valor.title":{
+        "en":"Valor",
+        "fr":"Valeur",
+        "es":"",
+        "zh-cn":"战魂",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"Доблесть",
+        "tr":"",
+        "de":"Tapferkeit",
+        "jp":"",
+        "pt":"",
+        "vi":"Dũng Sĩ",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":"Keberanian"
+    },
     "UI.windows.bag.title":{
         "en":"Bag",
         "fr":"Sac à Dos",
