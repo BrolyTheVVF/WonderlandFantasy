@@ -1937,6 +1937,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.character.valor.refine-cost":{
+        "en":"Cost: {0} Valor Refine Crystal",
+        "fr":"Coût: {0} Crystal d'Affinage Valeureux",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.bag.title":{
         "en":"Bag",
         "fr":"Sac à Dos",
