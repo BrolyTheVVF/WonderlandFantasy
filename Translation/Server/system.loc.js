@@ -766,6 +766,45 @@ locale["system.elements.requires-exp"] = {
 	"id": ""
 };
 
+locale["system.valor.requires-n-blessing"] = {
+	"en":"You need {0} <i>Valor Crystal</i> to upgrade to the next level.",
+	"fr":"Vous avez besoin de {0} <i>Crystal de Valeur de Bur</i> pour passer au niveau suivant.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale[".system.valor.invalid-gear"] = {
+	"en":"This gear you selected seems to be invalid.",
+	"fr":"L'equipement sélectionné semble invalide.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["system.fortify.invalid-parameter"] = {
 	"en":"The item chosen or the gem quantity is invalid",
 	"fr":"L'objet choisi ou la quantité de gemme est invalide",
