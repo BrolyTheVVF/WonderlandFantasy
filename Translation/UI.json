@@ -1956,6 +1956,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.character.valor.btn.refine":{
+        "en":"Refine",
+        "fr":"Raffiner",
+        "es":"",
+        "zh-cn":"洗练",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Tẩy",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.bag.title":{
         "en":"Bag",
         "fr":"Sac à Dos",
