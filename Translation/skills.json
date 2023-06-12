@@ -11286,10 +11286,10 @@
         "id": ""
     },
     "skills.TWM_BLOODY_FIGHT.effect": {
-        "en": "If the target has evaded the attack, increases Warrior's Crit Enhance by 1%. Lasts 20 seconds. Can stack up to 20 times.",
-        "fr": "Si la cible évite l'attaque, augmente Amélioration Critique de 1%. Dure 20 sec. Peut s'accumuler 20 fois.",
+        "en": "If the target has evaded the attack, increases Warrior's Crit Enhance by {0}%. Lasts 20 seconds. Can stack up to 20 times.",
+        "fr": "Si la cible évite l'attaque, augmente Amélioration Critique de {0}%. Dure 20 sec. Peut s'accumuler 20 fois.",
         "es": "",
-        "zh-cn": "如果目标躲过了攻击，战士的暴击增强+1%，持续20秒，最多可叠加20次。",
+        "zh-cn": "如果目标躲过了攻击，战士的暴击增强+{0}%，持续20秒，最多可叠加20次。",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -11297,7 +11297,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Nếu mục tiêu né đòn đánh, cộng thêm 1% Tăng Bạo Kích của Chiến Sĩ. Có hiệu lực trong 20 giây. Cộng dồn tối đa 20 lần.",
+        "vi": "Nếu mục tiêu né đòn đánh, cộng thêm {0}% Tăng Bạo Kích của Chiến Sĩ. Có hiệu lực trong 20 giây. Cộng dồn tối đa 20 lần.",
         "ar": "",
         "it": "",
         "pl": "",
