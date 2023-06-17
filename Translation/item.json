@@ -19150,23 +19150,23 @@
         "id":"Skill Book [Penghancuran]"
     },
     "item.13014.name":{
-        "en":"Skill Book [Eagle Eye]",
-        "fr":"Livre de Sort [Oeil de Faucon]",
+        "en":"Skill Book [Evasion Skills]",
+        "fr":"Livre de Sort [Compétences d'Esquive]",
         "es":"",
-        "zh-cn":"技能书 [鹰眼]",
+        "zh-cn":"技能书 [闪避术]",
         "zh-tw":"",
         "kr":"",
-        "ru":"Книга Навыков [Орлиный Глаз]",
+        "ru":"",
         "tr":"",
-        "de":"Fähigkeitsbuch [Adlerauge]",
+        "de":"",
         "jp":"",
         "pt":"",
-        "vi":"Sách Kỹ Năng [Ưng Nhãn]",
+        "vi":"Sách Kỹ Năng [Kỹ Năng Né Tránh]",
         "ar":"",
         "it":"",
         "pl":"",
         "th":"",
-        "id":"Skill Book [Mata Elang]"
+        "id":""
     },
     "item.13015.name":{
         "en":"Skill Book [Charged Shot]",
