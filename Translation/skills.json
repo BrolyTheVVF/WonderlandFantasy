@@ -8949,8 +8949,8 @@
         "id": ""
     },
     "skills.TRM_MANA_BURN.effect": {
-        "en": "Normal attacks have a chance to burn target's MP, dealing an equal amoount of Holy damage. {0}% chance to burn target's MP by 10",
-        "fr": "Vos attaques normales ont une chance de brûler le mana de la cible infligeant un montant égal en Dégâts Sacrés. {0}% de chance de brûler le mana de la cible de 10",
+        "en": "Normal attacks have a chance to burn target's MP, dealing an equal amount of Holy damage. {0}% chance to burn target's MP by 1% of their max MP",
+        "fr": "Vos attaques normales ont une chance de brûler le mana de la cible infligeant un montant égal en Dégâts Sacrés. {0}% de chance de brûler le mana de la cible de 1% de son mana max",
         "es": "",
         "zh-cn": "普通攻击中有{0}% 的几率燃烧对手MP10点，并造成等额神圣伤害.",
         "zh-tw":"",
@@ -9405,8 +9405,8 @@
         "id": ""
     },
     "skills.TWB_ENHC_SLAM.effect.level20": {
-        "en": "Target takes 33% less healing effect from potions for 5 sec.",
-        "fr": "Les effets des potions sont réduits de 33% pendant 5 sec",
+        "en": "Target takes 33% less healing effect from any sources for 5 sec.",
+        "fr": "Tous les effets des soins sont réduits de 33% pendant 5 sec",
         "es": "",
         "zh-cn": "使目标在5秒内-33%的药剂治疗效果.",
         "zh-tw":"",
