@@ -7478,7 +7478,7 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 	"fr": "Se téléporter jusqu'au Marché de Muradin (Nv 30)",
 	"es": "Teletransportación al Mercado de Muradín (Nv 30)",
 	"zh-cn": "传送至穆拉丁集市（30级）",
-	"zh-tw":"",
+	"zh-tw": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
@@ -7495,7 +7495,7 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 locale["npc.300002.interact.TELEPORT_CONTINENT_3"] = {
 	"en": "Teleport to Downtown Letin (Lv 50)",
 	"fr": "Se téléporter jusqu'a la Ville basse de Letin (Nv 50)",
-	"es": "",
+	"es": "传送到莱丁城（50级）",
 	"zh-cn": "",
 	"zh-tw":"",
 	"kr": "",
