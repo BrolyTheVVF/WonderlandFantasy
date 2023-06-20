@@ -7477,7 +7477,7 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 	"en": "Teleport to Muradin Fair (Lv 30)",
 	"fr": "Se téléporter jusqu'au Marché de Muradin (Nv 30)",
 	"es": "Teletransportación al Mercado de Muradín (Nv 30)",
-	"zh-cn": "传送至穆拉丁集市（30级）",
+	"zh-cn": "传送至穆拉丁集市（Lv 30）",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
