@@ -7495,9 +7495,9 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_2"] = {
 locale["npc.300002.interact.TELEPORT_CONTINENT_3"] = {
 	"en": "Teleport to Downtown Letin (Lv 50)",
 	"fr": "Se téléporter jusqu'a la Ville basse de Letin (Nv 50)",
-	"es": "传送到莱丁城（50级）",
-	"zh-cn": "",
-	"zh-tw":"",
+	"es": "",
+	"zh-cn": "传送到莱丁城（Lv 50）",
+	"zh-tw": "傳送到萊丁城（Lv 50）",
 	"kr": "",
 	"ru": "",
 	"tr": "",
