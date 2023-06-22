@@ -912,7 +912,7 @@ locale["system.mail.consign.content"] = {
 	"de": "Das Item {0} wurde an {1} verkauft für {2} Gold.",
 	"jp": "",
 	"pt": "",
-	"vi": "Vật phẩm {0} đã được bán cho {1} với giá 2} Vàng",
+	"vi": "Vật phẩm {0} đã được bán cho {1} với giá {2} Vàng",
 	"ar": "",
 	"it": "",
 	"pl": "",
