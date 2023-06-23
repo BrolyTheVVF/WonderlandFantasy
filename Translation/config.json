@@ -189,6 +189,25 @@
         "th":"",
         "id":""
     },
+	"config.graphics.render-skills":{
+        "en":"Render skill's animations",
+        "fr":"Afficher les animations des compétences",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "config.sound.volume.ambient":{
         "en":"Volume of ambience",
         "fr":"Volume des musiques d'ambiances",
