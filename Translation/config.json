@@ -245,5 +245,24 @@
         "pl":"",
         "th":"",
         "id":""
+    },
+    "config.UI.chat.maxLines":{
+        "en":"Chat max saved lines",
+        "fr":"Nb max de lignes de chat",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     }
 }
