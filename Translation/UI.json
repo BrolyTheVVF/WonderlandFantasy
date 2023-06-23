@@ -5244,6 +5244,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.daily_recommended.type.daily_kuroom":{
+        "en":"Finish the kuroom daily quest 20 times",
+        "fr":"Finir la quête journalière de kuroom 20 fois",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.daily_recommended.type.devil_transport":{
         "en":"Complete one Devil's Transport",
         "fr":"Terminez un Transport du Démon",
