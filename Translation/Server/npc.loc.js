@@ -7333,7 +7333,7 @@ locale["npc.100026.interact.GET_DAILY_BUR_QUEST"] = {
 	"de": "Erhalte die Segenquests",
 	"jp": "",
 	"pt": "",
-	"vi": "Nhận Nhiệm Vụ Ban Phước",
+	"vi": "Nhận Nhiệm Vụ Chúc Phúc",
 	"ar": "",
 	"it": "",
 	"pl": "",
