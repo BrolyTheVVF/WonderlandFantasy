@@ -1821,5 +1821,24 @@ locale["system.spirit.refine.missing-required-item"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.spirit.refine.already-maxed-out"] = {
+	"en":"Your spirit already has all his aptitudes maxed out",
+	"fr":"Votre esprit a déjà toutes ses aptitues au maximum",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
