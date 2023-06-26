@@ -4826,6 +4826,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.spirit.refine.confirm":{
+        "en":"Refining your spirit's aptitude will consume a <i class='inline-item item-icon-41030'>Spirit Refining Stone</i> that will give 5 points to a random aptitude. Continue?",
+        "fr":"Raffiner les aptitudes de votre esprit consommera une <i class='inline-item item-icon-41030'>Gemme de rafinnage d'esprit</i> qui donneras 5 points a une aptitude aléatoire. Continuer?",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.daily-quest-list.title":{
         "en":"Get Daily Quest",
         "fr":"Obtenir les Quête Quotidienne",
