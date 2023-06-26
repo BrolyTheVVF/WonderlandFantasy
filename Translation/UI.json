@@ -4827,8 +4827,8 @@
         "id":""
     },
     "UI.windows.spirit.refine.confirm":{
-        "en":"Refining your spirit's aptitude will consume a <i class='inline-item item-icon-41030'>Spirit Refining Stone</i> that will give 5 points to a random aptitude. Continue?",
-        "fr":"Raffiner les aptitudes de votre esprit consommera une <i class='inline-item item-icon-41030'>Gemme de rafinnage d'esprit</i> qui donneras 5 points a une aptitude aléatoire. Continuer?",
+        "en":"Refining your spirit's aptitude will consume a <i class='inline-item item-icon-41030'></i> Spirit Refining Stone that will give 5 points to a random aptitude. Continue?",
+        "fr":"Raffiner les aptitudes de votre esprit consommera une <i class='inline-item item-icon-41030'></i> Gemme de rafinnage d'esprit qui donneras 5 points a une aptitude aléatoire. Continuer?",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
