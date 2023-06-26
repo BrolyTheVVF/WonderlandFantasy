@@ -1783,4 +1783,43 @@ locale["system.events.BATTLEFIELD.registration-started"] = {
 	"id": ""
 };
 
+locale["system.spirit.none-equiped"] = {
+	"en":"You have no spirit equiped",
+	"fr":"Vous n'avez pas d'esprit equipé",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.spirit.refine.missing-required-item"] = {
+	"en":"You don't have the required items te refine your spirit",
+	"fr":"Vous n'avez pas les objets requis pour rafiner votre esprit",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 exports.locale = locale;
