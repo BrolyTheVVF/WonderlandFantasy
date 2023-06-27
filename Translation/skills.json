@@ -4172,7 +4172,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Khi Kỹ Năng gây Sát Thương, thì Kỹ Năng đó có 60% khả năng gây thêm {0}% Sát Thương dựa trên Máu Tối Đa hiện tại của mục tiêu. Không thể lặp lại trong vòng 4 giây.",
+        "vi": "Khi Kỹ Năng gây Sát Thương, thì Kỹ Năng đó có 60% khả năng gây thêm {0}% Sát Thương dựa trên Máu Tối Đa hiện tại của mục tiêu. Không thể lặp lại trong vòng 4 giây. Sát thương gây ra không vượt quá Máu Tối Đa của bạn.",
         "ar": "",
         "it": "",
         "pl": "",
