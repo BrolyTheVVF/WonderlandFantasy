@@ -3211,6 +3211,25 @@
         "th":"",
         "id":"Keterampilan Bakat"
     },
+    "UI.windows.skills.talent.points.label":{
+        "en":"Points",
+        "fr":"Points",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.skills.btn.buyPoints":{
         "en":"Buy Points",
         "fr":"Acheter Pts",
