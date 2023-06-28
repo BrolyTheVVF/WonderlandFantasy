@@ -152,8 +152,8 @@
         "id":"Respawn rate Lava Core lebih cepat"
     },
     "event.LAVA_CORE.description-2":{
-        "en":"Time: 10:00-11:00 18:00-19:00 (GMT+0)",
-        "fr":"Horaires: 11:00-12:00 19:00-20:00 (GMT+1)",
+        "en":"Time: 10:00-11:00 18:00-19:00 (Server Time)",
+        "fr":"Horaires: 10:00-11:00 18:00-19:00 (Heure du Serveur)",
         "es":"Horarios: 11:00-12:00 19:00-20:00 (GMT+1)",
         "zh-cn":"18:00-19:00 02:00-03:00 (GMT+8)",
         "zh-tw":"",
