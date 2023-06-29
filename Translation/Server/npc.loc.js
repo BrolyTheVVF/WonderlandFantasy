@@ -7202,6 +7202,82 @@ locale["npc.241009.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.241010.name"] = {
+	"en": "Runic Potpent",
+	"fr": "Potpent Runique",
+	"es": "Potpent Rúnico",
+	"zh-cn":"鲁尼克-波特彭特",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Runische Potpent",
+	"jp": "",
+	"pt": "",
+	"vi": "Niêu Xà Cổ Ngữ",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241011.name"] = {
+	"en": "Giant Quicksand Beast",
+	"fr": "Bête géante des sables mouvants",
+	"es": "Bestia Gigante de las Arenas Movedizas",
+	"zh-cn":"巨型沙怪",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Riesige Treibsandbestie",
+	"jp": "",
+	"pt": "",
+	"vi": "Quái vật cát lún khổng lồ",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241012.name"] = {
+	"en": "Summoned Manticore",
+	"fr": "Manticore Invoqué",
+	"es": "Mantícora Conjurada",
+	"zh-cn":"应召沙蝎",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Beschworener Mantikor",
+	"jp": "",
+	"pt": "",
+	"vi": "Yết Sư Triệu Hồi",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.241013.name"] = {
+	"en": "Aberration",
+	"fr": "Aberration",
+	"es": "Aberración",
+	"zh-cn":"畸形",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Aberration",
+	"jp": "",
+	"pt": "",
+	"vi": "Hỗn Độn",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.99999996.name"] = {
