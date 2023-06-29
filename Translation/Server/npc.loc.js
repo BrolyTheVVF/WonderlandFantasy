@@ -6612,6 +6612,25 @@ locale["npc.100028.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100028.interact.OPEN_STASH"] = {
+	"en":"Stash",
+	"fr":"Réserve",
+	"es":"",
+	"zh-cn":"隐藏",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"Bunker",
+	"jp":"",
+	"pt":"",
+	"vi":"Kho",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 locale["npc.100029.interact.baseText"] = {
 	"en": "Fight for the glory of the guild!",
 	"fr": "Battez-vous pour la gloire de la guilde!",
