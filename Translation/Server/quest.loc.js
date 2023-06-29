@@ -6801,7 +6801,7 @@ locale["quest.85.texts.returnPopupMain"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Sử dụng Ngọc K.Nghiệm để nhận thêm K.Nghiệm một cách nhanh chóng.",
+	"vi": "Sử dụng Ngọc Kinh Nghiệm để nhận thêm Kinh Nghiệm một cách nhanh chóng.",
 	"ar": "",
 	"it": "",
 	"pl": "",
