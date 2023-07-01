@@ -76,5 +76,43 @@ locale["WAC.notice.ban.auto-detect.warning"] = {
 	"th": "",
 	"id": ""
 };
+locale["WAC.notice.event-ban.cant-register"] = {
+	"en": "WAC: You currently can't register to this event cause you are banned from doing events until {0} for the following reason : {1}",
+	"fr": "WAC: Vous ne pouvez pas vous enregistrer a cet évènement par ce que vous êtes bannis des évènements pendant encore {0} pour la raison suivante : {1}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["WAC.notice.event-ban.cant-enter"] = {
+	"en": "WAC: You currently can't enter in this event cause you are banned from doing events until {0} for the following reason : {1}",
+	"fr": "WAC: Vous ne pouvez pas entrer dans cet évènement par ce que vous êtes bannis des évènements pendant encore {0} pour la raison suivante : {1}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
