@@ -3466,6 +3466,25 @@ locale["npc.99001.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99001.notice.spawn"] = {
+	"en": "At the depth of Celebeam Cave, the power of another world is among Evil Kerr. The lors of witchcraft, the Wizardry Lors, has come into this world! It roared: Miserable humans, give me your souls!",
+	"fr": "Au fond de la grotte de Celebeam, le pouvoir d'un autre monde se trouve parmi Evil Kerr. Le Lors de la sorcellerie, le Lors de la magie, est venu dans ce monde ! Il a rugi : Humains misérables, donnez-moi vos âmes !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.99001.notice.death"] = {
 	"en": "Fearless warrior {0} offered the fatal blow against the Wizardry Lord. {0} and their comrades-in-arms are the heroes of Cain Kingdom!",
 	"fr": "L'intrépide guerrier {0} a porté le coup fatal au Seigneur de la Sorcellerie. {0} et ses compagnons d'armes sont les héros du Royaume de Kane!",
