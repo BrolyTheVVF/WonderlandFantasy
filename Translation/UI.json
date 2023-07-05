@@ -4162,7 +4162,7 @@
         "id":""
     },
     "UI.windows.guild.popup.donate.ressource.label":{
-        "en":"You are about to donate guild ressources to your guild.<br><b>Once you have donated ressources to a guild, you can't take it back.</b>",
+        "en":"You are about to donate guild resources to your guild.<br><b>Once you have donated resources to a guild, you can't take it back.</b>",
         "fr":"Vous allez donner des ressources à votre guilde.<br><b>Une fois donnée à la guilde, il est impossible de le récupérer.</b>",
         "es":"",
         "zh-cn":"你准备将公会资源捐赠给你的公会.<br><b>一旦你把资源捐给公会，就不能取回.</b>",
@@ -4200,7 +4200,7 @@
         "id":""
     },
     "UI.windows.guild.popup.upgrade.shop":{
-        "en":"Upgrading the guild shop will cost {0} ressources.<br>Continue ?",
+        "en":"Upgrading the guild shop will cost {0} resources.<br>Continue ?",
         "fr":"Augmenter le magasin de guilde d'un niveau va coûter {0} ressources.<br>Continuer ?",
         "es":"",
         "zh-cn":"即将花费{0}资源升级公会商店，继续吗？",
