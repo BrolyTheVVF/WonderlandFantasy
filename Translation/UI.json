@@ -6612,6 +6612,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.character.blessing.tooltip":{
+        "en":"{0}: Requires {1} Bur's blessing for the next level",
+        "fr":"{0}: Nécessite {2} Bénédiction de Bur pour le niveau suivant",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.fortify.title":{
         "en":"Fortify Gear",
         "fr":"Renforcer l'Équipement",
