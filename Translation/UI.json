@@ -6614,7 +6614,7 @@
     },
     "UI.windows.character.blessing.tooltip":{
         "en":"{0}: Requires {1} Bur's blessing for the next level",
-        "fr":"{0}: Nécessite {2} Bénédiction de Bur pour le niveau suivant",
+        "fr":"{0}: Nécessite {1} Bénédiction de Bur pour le niveau suivant",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
