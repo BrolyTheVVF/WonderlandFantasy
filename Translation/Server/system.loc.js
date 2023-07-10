@@ -1357,6 +1357,25 @@ locale["system.portal.notRequiredLevel"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.portal.need-wait"] = {
+	"en": "You have to wait {0} seconds before changing map again",
+	"fr": "Vous devez attendre {0} secondes avant de changer de carte de nouveau",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.guild.notFound"] = {
 	"en":"Guild not found",
@@ -1840,5 +1859,120 @@ locale["system.spirit.refine.already-maxed-out"] = {
 	"th": "",
 	"id": ""
 };
+
+locale["system.talent.learn.system-not-unlocked"] = {
+	"en":"You didn't unlock the talent system yet, you need to be level 25 at minimum.",
+	"fr":"Vous n'avez pas encore débloqué le système de talent, vous devez être niveau 25 au minimum.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.talent.learn.invalid"] = {
+	"en":"The talent you selected seems invalid",
+	"fr":"Le talent que vous avez choisit semble invalide",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.talent.learn.out-of-points"] = {
+	"en":"You have no point left to learn any talents",
+	"fr":"Vous n'avez plus aucun points disponible pour apprendre des talents",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.talent.learn.need-level"] = {
+	"en":"You need to be level {0} to learn this talent",
+	"fr":"Vous devez être niveau {0} pour apprendre ce talent",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.talent.learn.need-tree-points"] = {
+	"en":"You need {0} points in this talent tree to be able to learn this talent",
+	"fr":"Vous avez besoin de {0} points dans cet arbre de talent pour apprendre ce talent",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+//locale["system.talent.learn.maxed-out"] = {
+//	"en":"This talent is already maxed out",
+//	"fr":"Ce talent est déjà au niveau maximum",
+//	"es": "",
+//	"zh-cn": "",
+//	"zh-tw":"",
+//	"kr": "",
+//	"ru": "",
+//	"tr": "",
+//	"de": "",
+//	"jp": "",
+//	"pt": "",
+//	"vi": "",
+//	"ar": "",
+//	"it": "",
+//	"pl": "",
+//	"th": "",
+//	"id": ""
+//};
 
 exports.locale = locale;
