@@ -3478,7 +3478,7 @@ locale["npc.99001.notice.spawn"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Ở sâu bên trong Hang Celebeam, sức mạnh của thế giới khác tuôn trào đó là Evil Kerr. Chúa tể chế tạo ma pháp, Chúa Tể Phép Thuật, đã xuất hiện ở thế giới này! Nó hô lớn: Loài người thảm hại, đưa hết linh hồn cho ta ngay!",
 	"ar": "",
 	"it": "",
 	"pl": "",
