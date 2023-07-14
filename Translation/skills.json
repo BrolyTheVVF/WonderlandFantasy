@@ -3306,10 +3306,10 @@
         "id": ""
     },
     "skills.TMD_CHAIN_CASTING.effect": {
-        "en": "When casting Fire Bolt, Magic Bolt, Thunder or Devastate you have {0}% chance to cast the spell twice.",
-        "fr": "Quand vous lancez Boule de Feu, Missile Magique, Éclair ou Dévastation, vous avez {0}% de chance de lancer le sort 2 fois.",
+        "en": "When casting Fire Bolt, Magic Bolt, Thunder or Devastate you have {0}% chance to cast the spell twice. Cannot occur more that once every 6 seconds.",
+        "fr": "Quand vous lancez Boule de Feu, Missile Magique, Éclair ou Dévastation, vous avez {0}% de chance de lancer le sort 2 fois.  Ne peut se produire plus d'une fois toutes les 6 secondes.",
         "es": "",
-        "zh-cn": "是你的火球,魔法飞弹,雷电,毁灭一击有{0}%的几率连续释放2次.",
+        "zh-cn": "是你的火球,魔法飞弹,雷电,毁灭一击有{0}%的几率连续释放2次. Cannot occur more that once every 6 seconds.",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -3317,7 +3317,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Khi dùng Hỏa Cầu, Đạn Ma Pháp, Lôi Điện hoặc Tàn Phá sẽ có {0}% khả năng tái vận phép lần hai.",
+        "vi": "Khi dùng Hỏa Cầu, Đạn Ma Pháp, Lôi Điện hoặc Tàn Phá sẽ có {0}% khả năng tái vận phép lần hai. Cannot occur more that once every 6 seconds.",
         "ar": "",
         "it": "",
         "pl": "",
