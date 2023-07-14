@@ -2720,6 +2720,44 @@ locale["npc.142.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.143.name"] = {
+	"en":"Bahamut's Tentacle",
+	"fr":"Tentacule de Bahamut",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.144.name"] = {
+	"en":"Tentacle",
+	"fr":"Tentacule",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {
