@@ -1967,7 +1967,7 @@ locale["system.talent.learn.need-tree-points"] = {
 //	"de": "",
 //	"jp": "",
 //	"pt": "",
-//	"vi": "Thiên phú này đã mức tối đa",
+//	"vi": "Thiên phú này đã ở mức tối đa rồi",
 //	"ar": "",
 //	"it": "",
 //	"pl": "",
