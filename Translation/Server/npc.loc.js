@@ -3561,44 +3561,6 @@ locale["npc.99002.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.99002.notice.spawn"] = {
-	"en": "The conspirators activated the forbidden revival magic. Kadir, the Lord of Byron city revived! He roared: Death is the real destination!",
-	"fr": "Les conspirateurs ont activé la magie de renaissance interdite. Kadir, Le seigneur de la ville de Byron est ressuscité ! Il rugit : La mort est la vraie destination !",
-	"es": "",
-	"zh-cn": "",
-	"zh-tw": "",
-	"kr": "",
-	"ru": "",
-	"tr": "",
-	"de": "",
-	"jp": "",
-	"pt": "",
-	"vi": "",
-	"ar": "",
-	"it": "",
-	"pl": "",
-	"th": "",
-	"id": ""
-};
-locale["npc.99002.notice.death"] = {
-	"en": "Fearless warrior {0} offered the fatal blow against the Lord of Byron city Kadir. Thanks to {0} and their comrades-in-arms for bringing peace to Muradin city!",
-	"fr": "L'intrépide guerrier {0} a porté le coup fatal a Kadir, le Seigneur de Byron. Merci a {0} et ses compagnons d'armes pour avoir amené la paix dans la ville de Muradin!",
-	"es": "",
-	"zh-cn": "",
-	"zh-tw": "",
-	"kr": "",
-	"ru": "",
-	"tr": "",
-	"de": "",
-	"jp": "",
-	"pt": "",
-	"vi": "",
-	"ar": "",
-	"it": "",
-	"pl": "",
-	"th": "",
-	"id": ""
-};
 locale["npc.99002.title"] = {
 	"en": "Lord of Byron",
 	"fr": "Seigneur de Byron",
@@ -3612,6 +3574,25 @@ locale["npc.99002.title"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Chủ Thành Byron",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99002.notice.spawn"] = {
+	"en": "The conspirators activated the forbidden revival magic. Kadir, the Lord of Byron city revived! He roared: Death is the real destination!",
+	"fr": "Les conspirateurs ont activé la magie de renaissance interdite. Kadir, Le seigneur de la ville de Byron est ressuscité ! Il rugit : La mort est la vraie destination !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
