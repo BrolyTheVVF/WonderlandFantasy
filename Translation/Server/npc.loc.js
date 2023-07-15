@@ -3637,6 +3637,25 @@ locale["npc.99003.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99003.notice.spawn"] = {
+	"en": "Evrat, at the top of the Fiery Tower, has gathered his powers again. Fain's Desert is going to face a great menace as Evrat emerged! He went crazy: Hahaha! I'm filled with power again! Taste the burning of earth, stupid humans!",
+	"fr": "Evrat, au sommet de la Tour de Feu, a retrouvé ses pouvoirs. Le Désert de Fain va devoir faire face à une grande menace, car Evrat a émergé ! Il as sombré dans la folie : Hahaha ! Je suis à nouveau puissant ! Goûtez à la terre brûlée, stupides humains !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.99003.notice.death"] = {
 	"en": "Fearless warrior {0} offered the fatal blow against Fiery Everat. {0} and their comrades-in-arms are the friends of Fain Desert forever!",
 	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Fougueux Everat. {0} et ses compagnons d'armes sont les amis du désert de Fain pour toujours!",
@@ -7940,6 +7959,63 @@ locale["npc.99002.event.casting_skill_3"] = {
 locale["npc.99002.event.enrage"] = {
 	"en": "I call upon the power of all Byron's souls! Be the armed arm of my wrath!",
 	"fr": "J'en appelle à la puissance de toutes les âmes de Byron ! Soyez le bras armé de mon courroux !",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99003.event.casting_skill_2"] = {
+	"en": "Let the sky fall on your heads!",
+	"fr": "Que le ciel vous tombe sur la tête !",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99003.event.casting_skill_3"] = {
+	"en": "I will show you the power of fire!",
+	"fr": "Je vais vous montrer la puissance du feu !",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99003.event.enrage"] = {
+	"en": "I'm done playing around with you. You will now suffer until you beg me to kill you!",
+	"fr": "J'ai fini de jouer avec vous.  Vous allez maintenant souffrir jusqu'à ce que vous me suppliiez de vous tuer !",
 	"es": "",
 	"zh-cn":"",
 	"zh-tw":"",
