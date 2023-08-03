@@ -2222,6 +2222,25 @@
         "th":"",
         "id":"Penjualan Massal"
     },
+    "UI.windows.bag.button.sellCommonGear":{
+        "en":"Sell Common Gears",
+        "fr":"Vendre l'Equip. Commun",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.bag.button.vend":{
         "en":"Vend",
         "fr":"Vendre",
