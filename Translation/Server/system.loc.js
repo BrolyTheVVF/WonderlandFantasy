@@ -1739,6 +1739,44 @@ locale["system.guild.war.needMoreGold"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.guild.war.declaredFrom"] = {
+	"en": "The guild <i>{0}</i> started a war against you.",
+	"fr": "La guilde <i>{0}</i> à démarré une guerre contre vous.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.war.declaredTo"] = {
+	"en": "Your guild just started a war against the guild <i>{0}</i>.",
+	"fr": "Votre guilde à démarré une guerre contre la guild <i>{0}</i>",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.events.notFound"] = {
 	"en":"This events was not found",
