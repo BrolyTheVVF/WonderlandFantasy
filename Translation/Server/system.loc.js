@@ -1586,6 +1586,25 @@ locale["system.guild.noRights.disbandGuild"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.guild.noRights.declareWar"] = {
+	"en":"You don't have the rights to declare a war.",
+	"fr":"Vous n'avez pas les droits pour déclarer une guerre.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.guild.memberExpeled"] = {
 	"en":"The player <i>{0}</i> has been kicked out of the guild by <i>{1}</i>",
@@ -1695,6 +1714,25 @@ locale["system.guild.shop.cant-carry"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Túi đồ của bạn đã đầy hoặc bạn không thể mang thêm vật phẩm này nữa.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.war.needMoreGold"] = {
+	"en": "Your guild doesn't have enough gold to declare a war to this guild.",
+	"fr": "Votre guilde n'as pas assez d'or pour déclarer la guerre a cette guilde.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
