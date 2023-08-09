@@ -4485,7 +4485,7 @@
         "id":""
     },
     "UI.windows.guild.war.declare-question":{
-        "en":"Declaring a war to <i>{0}</i> will cost {1} gold the the guild. Warning, once a war is started, it can't be stopped. The war will go on for {2} days. Once you started a war, you have to wait {3} days before starting a new war against the same guild.",
+        "en":"Declaring a war to <i>{0}</i> will cost {1} gold to the guild. Warning, once a war is started, it can't be stopped. The war will go on for {2} days. Once you started a war, you have to wait {3} days before starting a new war against the same guild.",
         "fr":"Déclarer une guerre à <i>{0}</i> va couter {1} or a la guilde. Attention, une fois démarrée, elle ne pourra pas être arrêtée. La guerre durera {2} jours. Une fois la guerre déclanché, vous devrez attendre {3} jours avant de pouvoir en démarrer une nouvelle avec la même guilde.",
         "es":"",
         "zh-cn":"",
