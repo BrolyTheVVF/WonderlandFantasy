@@ -4598,6 +4598,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.guild.war.table.label-versus":{
+        "en":"vs",
+        "fr":"vs",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.spirit.title":{
         "en":"Spirit",
         "fr":"Esprit",
