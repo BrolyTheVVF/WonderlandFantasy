@@ -1935,6 +1935,63 @@ locale["system.spirit.refine.already-maxed-out"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.spirit.polymorph.already"] = {
+	"en":"You are already polymorphed",
+	"fr":"Vous êtes déjà transformé",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.spirit.polymorph.not-poly"] = {
+	"en":"You are not polymorphed",
+	"fr":"Vous n'êtes pas transformé",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.spirit.polymorph.on-cooldown"] = {
+	"en":"Polymorph is on cooldown",
+	"fr":"La transformation est en cours de rechargement",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.talent.learn.system-not-unlocked"] = {
 	"en":"You didn't unlock the talent system yet, you need to be level 25 at minimum.",
