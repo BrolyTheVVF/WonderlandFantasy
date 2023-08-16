@@ -1854,8 +1854,27 @@ locale["system.guild.alliance.canceled"] = {
 	"id": ""
 };
 locale["system.guild.alliance.rejected"] = {
-	"en": "The alliance requetst between your guild and the guild <i>{0}</i> has been rejected.",
+	"en": "The alliance request between your guild and the guild <i>{0}</i> has been rejected.",
 	"fr": "La demande d'alliance entre votre guilde et la guilde <i>{0}</i> à été rejetée.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.alliance.break"] = {
+	"en": "The alliance between your guild and the guild <i>{0}</i> is now over.",
+	"fr": "L'alliance entre votre guilde et la guilde <i>{0}</i> est désormais terminée.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
