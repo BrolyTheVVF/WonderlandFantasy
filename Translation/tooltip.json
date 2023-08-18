@@ -588,7 +588,7 @@
         "th":"",
         "id":""
     },
-    "tooltip.player-menu.remove-block":{
+    "tooltip.player-menu.remove-blocked":{
         "en":"Unblock",
         "fr":"Débloquer",
         "es":"Desbloquear",

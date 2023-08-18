@@ -11427,10 +11427,10 @@ locale["quest.143.name"] = {
 	"id": ""
 };
 locale["quest.143.texts.objective"] = {
-	"en": "Increase your level to 35, then report to <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
-	"fr": "Montez au niveau 35, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"en": "Increase your level to 36, then report to <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"fr": "Montez au niveau 36, puis faites votre rapport au <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
 	"es": "",
-	"zh-cn": "提升至35级,然后和<span class='text-link' data-target-type='npc' data-target-id='100058'>卡塔尔</span>交谈.",
+	"zh-cn": "提升至36级,然后和<span class='text-link' data-target-type='npc' data-target-id='100058'>卡塔尔</span>交谈.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -11438,7 +11438,7 @@ locale["quest.143.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Tăng cấp độ của bạn lên cấp 35, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
+	"vi": "Tăng cấp độ của bạn lên cấp 36, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100058'>Katar</span>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -15315,8 +15315,8 @@ locale["quest.193.name"] = {
 	"id": ""
 };
 locale["quest.193.texts.objective"] = {
-	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='108'>Butterfly Fairy</span> and bring back her <span class='text-link' data-target-type='item' data-target-id='10117'>Fairy's Wings</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
-	"fr": "Tuez l'<span class='text-link' data-target-type='mob' data-target-id='108'>Ésprit du Vent</span> et ramenez ses <span class='text-link' data-target-type='item' data-target-id='10117'>Ailes de Fée</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
+	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='108'>Butterfly Fairy</span> in the <i>Uncharted Forest Floor 3</i> and bring back her <span class='text-link' data-target-type='item' data-target-id='10117'>Fairy's Wings</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
+	"fr": "Tuez l'<span class='text-link' data-target-type='mob' data-target-id='108'>Ésprit du Vent</span> dans la <i>Forêt Inexplorée Étage 3</i> et ramenez ses <span class='text-link' data-target-type='item' data-target-id='10117'>Ailes de Fée</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
 	"es": "",
 	"zh-cn": "杀死<span class='text-link' data-target-type='mob' data-target-id='108'>蝴蝶仙子</span> 带回她的<span class='text-link' data-target-type='item' data-target-id='10117'>妖精羽翼</span>, 并向<i>不归之森2层</i>中的<span class='text-link' data-target-type='npc' data-target-id='100075'>雇佣兵</span>报告.",
 	"zh-tw": "",
@@ -15326,7 +15326,7 @@ locale["quest.193.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Tiêu diệt một <span class='text-link' data-target-type='mob' data-target-id='108'>Tiên Bướm</span> và đem về <span class='text-link' data-target-type='item' data-target-id='10117'>Cánh Tiên</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100075'>Linh Đánh Thuê</span> ở <i>Khu Rừng Thần Bí - Tầng 2</i>.",
+	"vi": "Tiêu diệt một <span class='text-link' data-target-type='mob' data-target-id='108'>Tiên Bướm</span> ở <i>Khu Rừng Thần Bí - Tầng 3</i> và đem về <span class='text-link' data-target-type='item' data-target-id='10117'>Cánh Tiên</span>, sau đó báo cáo lại cho <span class='text-link' data-target-type='npc' data-target-id='100075'>Linh Đánh Thuê</span> ở <i>Khu Rừng Thần Bí - Tầng 2</i>.",
 	"ar": "",
 	"it": "",
 	"pl": "",
