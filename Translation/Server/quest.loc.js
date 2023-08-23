@@ -15318,7 +15318,7 @@ locale["quest.193.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='108'>Butterfly Fairy</span> in the <i>Uncharted Forest Floor 3</i> and bring back her <span class='text-link' data-target-type='item' data-target-id='10117'>Fairy's Wings</span>, then report to the <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenary</span> in the <i>Uncharted Forest Floor 2</i>.",
 	"fr": "Tuez l'<span class='text-link' data-target-type='mob' data-target-id='108'>Ésprit du Vent</span> dans la <i>Forêt Inexplorée Étage 3</i> et ramenez ses <span class='text-link' data-target-type='item' data-target-id='10117'>Ailes de Fée</span>, puis parlez au <span class='text-link' data-target-type='npc' data-target-id='100075'>Mercenaire</span> dans la <i>Forêt Inexplorée Étage 2</i>.",
 	"es": "",
-	"zh-cn": "杀死<span class='text-link' data-target-type='mob' data-target-id='108'>蝴蝶仙子</span> 带回她的<span class='text-link' data-target-type='item' data-target-id='10117'>妖精羽翼</span>, 并向<i>不归之森2层</i>中的<span class='text-link' data-target-type='npc' data-target-id='100075'>雇佣兵</span>报告.",
+	"zh-cn": "在不归之森3层杀死<span class='text-link' data-target-type='mob' data-target-id='108'>蝴蝶仙子</span> 带回她的<span class='text-link' data-target-type='item' data-target-id='10117'>妖精羽翼</span>, 并向<i>不归之森2层</i>中的<span class='text-link' data-target-type='npc' data-target-id='100075'>雇佣兵</span>报告.",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
