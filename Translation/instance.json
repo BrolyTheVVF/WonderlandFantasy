@@ -398,7 +398,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_50.name":{
+    "instance.INSTANCE_50_OLD.name":{
         "en": "Ravaxi",
         "fr": "Ravaxi",
         "es": "Ravaxí",
@@ -417,7 +417,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_55.name":{
+    "instance.INSTANCE_55_OLD.name":{
         "en": "Thorny Heights",
         "fr": "Hauteurs Épineuses",
         "es": "Alturas Espinosas",
@@ -436,7 +436,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_60.name":{
+    "instance.INSTANCE_60_OLD.name":{
         "en": "Deep Blue City",
         "fr": "Ville Bleu Profond",
         "es": "Ciudad Azul Profundo",
@@ -455,7 +455,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_65.name":{
+    "instance.INSTANCE_65_OLD.name":{
         "en": "Letin Harbor",
         "fr": "Port de Letin",
         "es": "Puerto de Letin",
@@ -474,7 +474,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_70.name":{
+    "instance.INSTANCE_70_OLD.name":{
         "en": "Nordic Lands",
         "fr": "Terres Nordiques",
         "es": "Tierras Nórdicas",
@@ -493,7 +493,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_80.name":{
+    "instance.INSTANCE_80_OLD.name":{
         "en": "...",
         "fr": "...",
         "es": "...",
@@ -512,7 +512,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_90.name":{
+    "instance.INSTANCE_90_OLD.name":{
         "en": "Rat Crisis",
         "fr": "Crise des Rats",
         "es": "Crisis de Ratas",
@@ -531,7 +531,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_95A.name":{
+    "instance.INSTANCE_95A_OLD.name":{
         "en": "Opera House Conspiracy",
         "fr": "Complot de l'Opéra",
         "es": "Conspiración de la Ópera",
@@ -550,7 +550,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_95B.name":{
+    "instance.INSTANCE_95B_OLD.name":{
         "en": "Slime Opera House",
         "fr": "L'opéra Slime",
         "es": "Ópera de Limo",
@@ -569,7 +569,7 @@
         "th": "",
         "id": ""
     },
-    "instance.INSTANCE_95C.name":{
+    "instance.INSTANCE_95C_OLD.name":{
         "en": "Opera House Bandits",
         "fr": "Bandits de l'Opéra",
         "es": "Bandidos de la Ópera",
@@ -582,6 +582,63 @@
         "jp": "",
         "pt": "",
         "vi": "Đạo Tặc Nhà Hát Opera",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
+    },
+    "instance.INSTANCE_50.name":{
+        "en": "Infected Forest",
+        "fr": "Forêt Infectée",
+        "es": "",
+        "zh-cn": "",
+        "zh-tw": "",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "",
+        "jp": "",
+        "pt": "",
+        "vi": "",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
+    },
+    "instance.INSTANCE_50.description.reward.normal":{
+        "en": "Lv50 common materials, Costume sets and Runestones.",
+        "fr": "Materiel commun Nv50, Costumes et Pierres runiques.",
+        "es": "Materiales usuales Nv50, Conjuntos de vestuario y Piedras rúnicas.",
+        "zh-cn": "50级普通材料、套装符文石.",
+        "zh-tw":"",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "Gewöhnliches Material Lv50, Kostüme und Runensteine.",
+        "jp": "",
+        "pt": "",
+        "vi": "Nguyên liệu thường Cấp 50, Bộ Trang Phục và Đá Cổ Ngữ.",
+        "ar": "",
+        "it": "",
+        "pl": "",
+        "th": "",
+        "id": ""
+    },
+    "instance.INSTANCE_50.description.reward.special":{
+        "en": "Glory Gem",
+        "fr": "Gemme de Gloire",
+        "es": "Gema de Gloria",
+        "zh-cn": "荣誉宝石",
+        "zh-tw":"",
+        "kr": "",
+        "ru": "",
+        "tr": "",
+        "de": "Rumstein",
+        "jp": "",
+        "pt": "",
+        "vi": "Đá Vinh Quang",
         "ar": "",
         "it": "",
         "pl": "",
