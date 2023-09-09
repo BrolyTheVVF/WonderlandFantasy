@@ -5054,6 +5054,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.spirit.btn.reroll":{
+        "en":"Reroll",
+        "fr":"Regénérer",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.spirit.btn.feed":{
         "en":"Feed",
         "fr":"Nourrir",
