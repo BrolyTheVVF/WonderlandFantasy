@@ -3325,10 +3325,10 @@
         "id": ""
     },
     "skills.TMD_OVERDRIVE.effect": {
-        "en": "Increases Enhanced Damage by 120%. Lasts 5 sec.",
-        "fr": "Augmente les Dégâts Améliorés de 120%. Durée 5 sec.",
+        "en": "Increases Enhanced Damage by 60%. Lasts 5 sec.",
+        "fr": "Augmente les Dégâts Améliorés de 60%. Durée 5 sec.",
         "es": "",
-        "zh-cn": "伤害提升120%,持续5秒.",
+        "zh-cn": "伤害提升60%,持续5秒.",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -3336,7 +3336,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Cộng thêm 120% Tăng Kỹ Năng. Có hiệu lực trong 5 giây.",
+        "vi": "Cộng thêm 60% Tăng Kỹ Năng. Có hiệu lực trong 5 giây.",
         "ar": "",
         "it": "",
         "pl": "",
