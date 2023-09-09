@@ -5340,8 +5340,8 @@
         "id":""
     },
     "UI.windows.spirit.reroll.confirm":{
-        "en":"Rerolling this spirit's book will consume {0} <i class='inline-item item-icon-41031'></i> Spirit Book Refining Stone. Continue?",
-        "fr":"Le fait de relancer le livre de l'esprit consommera {0} <i class='inline-item item-icon-41031'></i> Gemme de rafinnage de livre d'esprit. Continuer?",
+        "en":"Rerolling this spirit's book will consume {0} <i class='inline-item item-icon-41031'></i> Spirit Gem. Continue?",
+        "fr":"Regénérer ce livre de l'esprit consommera {0} <i class='inline-item item-icon-41031'></i> Gemme d'Esprit. Continuer?",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
