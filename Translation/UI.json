@@ -5339,6 +5339,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.spirit.reroll.confirm":{
+        "en":"Rerolling this spirit's book will consume {0} <i class='inline-item item-icon-41031'></i> Spirit Book Refining Stone. Continue?",
+        "fr":"Le fait de relancer le livre de l'esprit consommera {0} <i class='inline-item item-icon-41031'></i> Gemme de rafinnage de livre d'esprit. Continuer?",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.spirit.combine.explaination":{
         "en":"To combine a spirit, you need to have both your equipped spirit and the selected spirit to be at max soul level. You can only combine with a lower level spirit. Combining will take 20% BASE stat in the selected spirit to your equipped one. Combinations can't be cumulated. The combined spirit will be deleted after the merge is done.",
         "fr":"Pour combiner un esprit, il faut que l'esprit équipé et l'esprit sélectionné soient tous deux au niveau d'âme maximum. Vous ne pouvez combiner qu'avec un esprit de niveau inférieur. En combinant un esprit, vous ajoutez 20% des stats de base de l'esprit sélectionné à celle de l'esprit équipé. Les combinaisons ne peuvent pas être cumulées. L'ésprit combiné seras supprimé une fois la combinaison terminée.",
