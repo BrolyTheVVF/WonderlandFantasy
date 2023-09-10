@@ -24731,8 +24731,8 @@ locale["quest.40059.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40059.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "It seems that some werewolf are leading little groups. They are probably their leaders or something like that, and you probably already know it, but we can't let them gather!<br><br>We already have so much trouble with missing citizens, we can't afford to have them all rally, they would destroy Letin in minutes. Can you lend us a hand once again?",
+	"fr": "Il semble que certains loups-garous dirigent des petits groupes. Ils sont probablement leurs chefs ou quelque chose comme ça, et vous le savez probablement déjà, mais nous ne pouvons pas les laisser se rassembler ! Nous avons déjà tellement de problèmes avec les citoyens disparus, nous ne pouvons pas nous permettre de les voir tous se rallier, ils détruiraient Letin en quelques minutes. Pouvez-vous nous donner un coup de main une fois de plus ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24750,8 +24750,8 @@ locale["quest.40059.texts.description"] = {
 	"id": ""
 };
 locale["quest.40059.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "So they where indeed trying to form some king of alliance. What could have caused them to go this far?",
+	"fr": "Ils ont donc bien essayé de former une sorte d'alliance. Qu'est-ce qui a pu les pousser à aller aussi loin ?*",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24808,8 +24808,8 @@ locale["quest.40060.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40060.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Those poisoned boar came back, i hoped the cure for the forest would have worked faster, but the citizen are at danger. Can you help Letin by reducing their number? They'll probably be scared and go back in the forest.",
+	"fr": "Ces sangliers empoisonnés sont revenus, j'espérais que le remède pour la forêt aurait fonctionné plus rapidement, mais les citoyens sont en danger. Pouvez-vous aider Letin en réduisant leur nombre ? Ils seront probablement effrayés et retourneront dans la forêt.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24827,8 +24827,8 @@ locale["quest.40060.texts.description"] = {
 	"id": ""
 };
 locale["quest.40060.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Thank you, if the path is clear, we migh see merchants going to <i>Siren City</i> again, that would be really good for <i>Letin</i>.",
+	"fr": "Merci, si la voie est libre, il se pourrait que les marchands se rendent à nouveau à la <i>Cité des sirènes</i>, ce serait vraiment bien pour <i>Letin</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24885,8 +24885,8 @@ locale["quest.40061.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40061.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Last time you helped us with poisoned boars, the few that left came back, but healed from their sickness. They still are wild though, and are a danger to Letin's economy. You know what I'm about to ask, can you take care of this?",
+	"fr": "La dernière fois que vous nous avez aidés avec des sangliers empoisonnés, les rares qui ont put partir sont revenus, mais guéri de leur maladie. Ils sont toujours sauvages et représentent un danger pour l'économie de Letin. Vous savez ce que je vais vous demander, pouvez-vous vous en occuper ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24904,8 +24904,8 @@ locale["quest.40061.texts.description"] = {
 	"id": ""
 };
 locale["quest.40061.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Thanks, I talked with some merchants, and they are willing to go to <i>Siren City</i>, it's really good for <i>Letin</i>'s citizen.",
+	"fr": "Merci, j'ai parlé à quelques commerçants, et ils sont prêts à aller à la <i>Cité des sirènes</i>, c'est vraiment bon pour les citoyens de <i>Letin</i>.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24962,8 +24962,8 @@ locale["quest.40062.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40062.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "The queen of the forest created many beatifull creatures, but now it seem they grown vampire fangs. No, no literally, but we need to push them back to where they came from.<br>You should try fire, it seem they burn well!",
+	"fr": "La reine de la forêt a créé de nombreuses créatures magnifiques, mais il semble qu'elles aient maintenant des crocs de vampire. Non, pas littéralement, mais nous devons les repousser là d'où ils viennent.<b>Vous devriez essayer le feu, on dirait qu'ils brûlent bien !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -24981,8 +24981,8 @@ locale["quest.40062.texts.description"] = {
 	"id": ""
 };
 locale["quest.40062.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "So, did they burn well?",
+	"fr": "Alors, ils brûlent bien ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25039,8 +25039,8 @@ locale["quest.40063.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40063.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Well, it seems the judge of death can't be killed! Who would have thought... He is summoning much more cursed warrior, please free them from his grip.",
+	"fr": "Eh bien, il semble que le juge de la mort ne puisse pas être tué ! Qui l'aurait cru... Il invoque enormement de guerriers maudits, s'il vous plaît, libérez-les de son emprise.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25058,8 +25058,8 @@ locale["quest.40063.texts.description"] = {
 	"id": ""
 };
 locale["quest.40063.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Well, thank you! You judged those cursed souls. I don't think he will ever be able to summon them, that's a good point at least.",
+	"fr": "Eh bien, merci ! Vous avez jugé ces âmes maudites. Je ne pense pas qu'il pourra un jour les invoquer, c'est déjà un bon point.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25116,8 +25116,8 @@ locale["quest.40064.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40064.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "The grass itself is gorged with this corruption, and will take years to recover. Time to mow, don't you think?",
+	"fr": "L'herbe elle même est gorgé de cette corruption, et mettra des années avant de s'en remetre. Il est temps d'aller tondre, vous ne pensez pas?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25135,8 +25135,8 @@ locale["quest.40064.texts.description"] = {
 	"id": ""
 };
 locale["quest.40064.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Ho hi again. You smell like freshly cut grass. It's a good sign, isn't it?",
+	"fr": "Ho, bon retour parmis nous. Vous sentez l'herbe fraîchement coupée. C'est bon signe, n'est-ce pas ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25193,8 +25193,8 @@ locale["quest.40065.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40065.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "The <i>Mutant Jungle</i> is probably one of the worst place currently. There are some manticores that grown so much stronger. But i'm more afraid of their big eye at the end of their tail, it gives me shivers.<br><br>What? Ho yeah the mission, they are causing trouble, we need to kick them out of the forest.",
+	"fr": "La <i>Jungle Mutante</i> est probablement l'un des pires endroits actuellement. Il y a des manticores qui sont devenus beaucoup plus forts. Mais ce qui me fait le plus peur, c'est leur gros œil au bout de leur queue, ça me donne des frissons.<br><br>Quoi ? Ha oui la mission, ils causent des problèmes, nous devons les expulser de la forêt.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25212,8 +25212,8 @@ locale["quest.40065.texts.description"] = {
 	"id": ""
 };
 locale["quest.40065.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Thanks, I couldn't stare to the request book while I had this sketch of them in it.",
+	"fr": "Merci, je ne pouvais pas fixer le livre de demande alors que j'avais ce croquis d'eux à l'intérieur.",
 	"es": "",
 	"zh-cn": "*NO_LC*",
 	"zh-tw":"",
@@ -25270,8 +25270,8 @@ locale["quest.40066.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40066.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Some more basilics came from the maelstrom. They are trying to undo the cure. We have to stop them at all cost!",
+	"fr": "D'autres basilics sont sortis du maelström. Ils essaient d'annuler le remède. Nous devons les arrêter à tout prix !",
 	"es": "",
 	"zh-cn": "*NO_LC*",
 	"zh-tw":"",
@@ -25289,8 +25289,8 @@ locale["quest.40066.texts.description"] = {
 	"id": ""
 };
 locale["quest.40066.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "I wonder what pushed them to leave the ocean. They must have been under a powerfull curse of some sort.",
+	"fr": "Je me demande ce qui les a poussés à quitter l'océan. Ils devaient être sous l'emprise d'une puissante malédiction.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25347,8 +25347,8 @@ locale["quest.40067.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40067.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Some fairies seem too far gone. I don't think the cure will ever bring them back, and if it doesn't, that mean they are a threat. Sadly, someone have to take care of this.",
+	"fr": "Certaines fées semblent perdues à jamais. Je ne pense pas que le remède les ramènera un jour, et si ce n'est pas le cas, cela signifie qu'elles sont une menace. Malheureusement, quelqu'un doit s'en occuper.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25366,8 +25366,8 @@ locale["quest.40067.texts.description"] = {
 	"id": ""
 };
 locale["quest.40067.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "I know they were no humanity in them left, but still...",
+	"fr": "Je sais qu'il n'y avait plus d'humanité en eux, mais quand même...",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25501,8 +25501,8 @@ locale["quest.40069.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40069.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "We just received a request from some merchant. It seem the rare flower you defeated is a great source of mana. They want to use them as ingredient for their potions. Could you gather some petals?",
+	"fr": "Nous venons de recevoir une demande d'un marchand. Il semblerait que la fleur rare que vous avez vaincue soit une grande source de mana. Ils veulent s'en servir comme ingrédient pour leurs potions. Pourriez-vous récolter quelques pétales ?",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25578,8 +25578,8 @@ locale["quest.40070.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40070.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "A spy just made his report, and it's now clear. A draconian beast is gathering all the werewolves and he's trying to make be their chief. We can't let that happen.",
+	"fr": "Un espion vient de faire son rapport, et c'est maintenant clair. Une bête draconique rassemble tous les loups-garous et essaie de devenir leur chef. Nous ne pouvons pas laisser cela se produire.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25597,8 +25597,8 @@ locale["quest.40070.texts.description"] = {
 	"id": ""
 };
 locale["quest.40070.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "They should now spread, or fight each other. Either we are in the clear now.",
+	"fr": "Ils devraient maintenant se disperser, ou se battre entre eux. Dans les deux cas, nous sommes tranquilles.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25655,8 +25655,8 @@ locale["quest.40071.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40071.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "This <i>March Maiden</i> seems to be brought back, she is not herself anymore, and will never be. I hope when the forest gets this toxicity out, she will finally rest in peace. For now, we will have to take care of it, before she ruins all our efforts.",
+	"fr": "Cette <i>Demoiselle des Marais</i> semble avoir été ramenée, elle n'est plus elle-même et ne le sera jamais. J'espère que lorsque la forêt aura éliminé cette toxicité, elle pourra enfin reposer en paix. Pour l'instant, nous devons nous en occuper avant qu'elle ne ruine tous nos efforts.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25674,8 +25674,8 @@ locale["quest.40071.texts.description"] = {
 	"id": ""
 };
 locale["quest.40071.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "She can now rest, Untill the next time I guess.",
+	"fr": "Elle peut maintenant se reposer, jusqu'à la prochaine fois, je suppose.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25732,8 +25732,8 @@ locale["quest.40072.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40072.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "This seem to be one of the fairies, but another rare kind. Event if she is stronger, her mind is also gone forever.",
+	"fr": "Il semble que ce soit l'une des fées, mais d'une espèce rare. Même si elle est plus forte, son esprit est également anéanti à jamais.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25751,8 +25751,8 @@ locale["quest.40072.texts.description"] = {
 	"id": ""
 };
 locale["quest.40072.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "May she rest in peace.",
+	"fr": "Qu'elle repose en paix.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25809,8 +25809,8 @@ locale["quest.40073.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40073.texts.description"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "Even if we can't kill it, we can slow its progress. It seems to take him a few days to come back when we defeat his physical form. Let's buy some time.",
+	"fr": "Même si nous ne pouvons pas le tuer, nous pouvons ralentir sa progression. Il semble qu'il lui faille quelques jours pour revenir lorsque nous avons vaincu sa forme physique. Allons gagner du temps.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
@@ -25828,8 +25828,8 @@ locale["quest.40073.texts.description"] = {
 	"id": ""
 };
 locale["quest.40073.texts.returnPopupMain"] = {
-	"en": "*NO_LC*",
-	"fr": "*NO_LC*",
+	"en": "See you in a few days!",
+	"fr": "Rendez-vous dans quelques jours !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw":"",
