@@ -6352,6 +6352,44 @@ locale["npc.100077.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100078.name"] = {
+	"en": "Shion",
+	"fr": "Shion",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Shion",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100078.title"] = {
+	"en": "Noble",
+	"fr": "Noble",
+	"es": "Noble",
+	"zh-cn":"贵族",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Nobel",
+	"jp": "",
+	"pt": "",
+	"vi": "Noble",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -7081,6 +7119,25 @@ locale["npc.100076.interact.baseText"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Ta chưa bao giờ nhìn thấy một con quái vật nào như thế cả, nhưng ta không sợ chúng đâu, chống lại chúng chính là công việc của ta mà. Đợi đã, không có con rắn nào đâu đấy chứ?",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100078.interact.baseText"] = {
+	"en": "Let the light shine where the hope left!",
+	"fr": "Que la lumière brille là où l'espoir a disparu !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
