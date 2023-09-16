@@ -15334,7 +15334,7 @@ locale["quest.193.texts.objective"] = {
 	"id": ""
 };
 locale["quest.193.texts.description"] = {
-	"en": "I need some sample from something that has been infected for a long time. I'm almost sure there was a fairy living to the south, from old mission logs I read.<br><br>Go and seek her. If she is not infected, seek her help. Is she is indeed infected, then, you know what to do. Either way, we have to find something to complete my work. We could cure this woods.",
+	"en": "I need some sample from something that has been infected for a long time. I'm almost sure there was a fairy living to the south, from old mission logs I read.<br><br>Go and seek her. If she is not infected, seek her help. If she is indeed infected, then, you know what to do. Either way, we have to find something to complete my work. We could cure this woods.",
 	"fr": "J'ai besoin d'un échantillon de quelque chose qui a été infecté depuis longtemps. Je suis presque sûr qu'il y avait une fée vivant au sud, d'après les vieux journaux de mission que j'ai lu.<br><br>Va la chercher. Si elle n'est pas infectée, demande-lui de l'aide. Si elle est infectée, alors vous savez quoi faire. De toute façon, nous devons trouver quelque chose pour terminer mon travail. Nous pourrions guérir ces bois.",
 	"es": "",
 	"zh-cn": "我需要一些被感染了很久的东西的样本。根据我读到的旧任务日志，我几乎可以肯定南边住着一位仙女。<br><br>去寻找她吧。如果她没有被感染，请寻求她的帮助。如果她确实被感染了，那么你知道该怎么做。无论如何，我们必须找到一些东西来完成我的工作。我们可以治愈这片树林。",
