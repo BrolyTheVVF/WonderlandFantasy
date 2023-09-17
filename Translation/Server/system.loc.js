@@ -1972,6 +1972,26 @@ locale["system.events.cantRegister"] = {
 	"id": ""
 };
 
+locale["system.events.another-character-registered"] = {
+	"en":"You already have a character registered for this event",
+	"fr":"Vous avez déjà un personnage enregistré pour cet événement",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["system.events.BATTLEFIELD.registration-started"] = {
 	"en":"A battlefield is starting in {0} minutes, you can now register.",
 	"fr":"Un champ de bataille démare dans {0} minutes, vous pouvez désormais vous inscrire.",
