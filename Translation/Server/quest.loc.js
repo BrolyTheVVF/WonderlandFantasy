@@ -18765,8 +18765,8 @@ locale["quest.35000.name"] = {
 	"id": ""
 };
 locale["quest.35000.texts.objective"] = {
-	"en": "Clear the elite monsters in the Elite Hall of Celebeam Caves, and collect Rockcord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 29</i>",
-	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Rochecorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 29</i>",
+	"en": "Clear the elite monsters in the Elite Hall of Celebeam Caves, and collect Telluric Rock for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 29</i>",
+	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Roche Tellurique pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 29</i>",
 	"es": "",
 	"zh-cn": "清除魔晶矿洞精英大厅中的精英怪物,并为<span class='text-link' data-target-type='npc' data-target-id='100044'>克鲁姆</span>收集岩髓.<br><br><i>此任务29级之前有效</i>",
 	"zh-tw":"",
@@ -18842,8 +18842,8 @@ locale["quest.35001.name"] = {
 	"id": ""
 };
 locale["quest.35001.texts.objective"] = {
-	"en": "Clear the elite monsters in the Elite Hall of Byron City, and collect Earthcord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 39</i>",
-	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Tercorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 39</i>",
+	"en": "Clear the elite monsters in the Elite Hall of Byron City, and collect Telluric Dirt for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 39</i>",
+	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Terre Tellurique pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 39</i>",
 	"es": "",
 	"zh-cn": "清除拜伦地下城精英大厅中的精英怪物,并为<span class='text-link' data-target-type='npc' data-target-id='100044'>克鲁姆</span>收集地髓.<br><br><i>此任务39级以前有效</i>",
 	"zh-tw":"",
@@ -18919,8 +18919,8 @@ locale["quest.35002.name"] = {
 	"id": ""
 };
 locale["quest.35002.texts.objective"] = {
-	"en": "Clear the elite monsters in the Elite Hall of Fiery Tower, and collect Firecord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 49</i>",
-	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Lavcorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 49</i>",
+	"en": "Clear the elite monsters in the Elite Hall of Fiery Tower, and collect Telluric Lava for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 49</i>",
+	"fr": "Nettoyez le Hall d'Élite de ces monstres d'Élite pour collecter des Lave Tellurique pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 49</i>",
 	"es": "",
 	"zh-cn": "清除炎魔之塔精英大殿中的精英怪物,并为<span class='text-link' data-target-type='npc' data-target-id='100044'>克鲁姆</span>收集炎髓.<br><br><i>此任务49级以前有效</i>",
 	"zh-tw":"",
@@ -18995,8 +18995,8 @@ locale["quest.35003.name"] = {
 	"id": ""
 };
 locale["quest.35003.texts.objective"] = {
-	"en": "Clear the elite monsters in the Elite Hall of the Uncharted Forest, and collect Woodcord for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 59</i>",
-	"fr": "Nettoyez le Hall d'Élite de la Forêt Inexplorée de ces monstres d'Élite pour collecter des Boiscorde pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 59</i>",
+	"en": "Clear the elite monsters in the Elite Hall of the Uncharted Forest, and collect Telluric Wood for <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>This quest is available until you reach level 59</i>",
+	"fr": "Nettoyez le Hall d'Élite de la Forêt Inexplorée de ces monstres d'Élite pour collecter des Bois Tellurique pour <span class='text-link' data-target-type='npc' data-target-id='100044'>Kuroom</span>.<br><br><i>Cette quête est disponible jusqu'au niveau 59</i>",
 	"es": "",
 	"zh-cn": "清除(未知地图)精英大殿中的精英怪物,并为<span class='text-link' data-target-type='npc' data-target-id='100044'>克鲁姆</span>收集木髓.<br><br><i>此任务59级以前有效</i>",
 	"zh-tw":"",

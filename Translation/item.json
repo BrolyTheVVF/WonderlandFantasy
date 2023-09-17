@@ -19930,8 +19930,8 @@
         "id":""
     },
     "item.20010.name":{
-        "en":"Rockcord",
-        "fr":"Rochecorde",
+        "en":"Telluric Rock",
+        "fr":"Roche Tellurique",
         "es":"",
         "zh-cn":"岩髓",
         "zh-tw":"",
@@ -20006,8 +20006,8 @@
         "id":""
     },
     "item.20014.name":{
-        "en":"Earthcord",
-        "fr":"Tercorde",
+        "en":"Telluric Dirt",
+        "fr":"Terre Tellurique",
         "es":"",
         "zh-cn":"地髓",
         "zh-tw":"",
@@ -20025,8 +20025,8 @@
         "id":""
     },
     "item.20015.name":{
-        "en":"Firecord",
-        "fr":"Lavcorde",
+        "en":"Telluric Lava",
+        "fr":"Lave Tellurique",
         "es":"",
         "zh-cn":"炎髓",
         "zh-tw":"",
@@ -20044,8 +20044,8 @@
         "id":""
     },
     "item.20016.name":{
-        "en":"Woodcord",
-        "fr":"Boiscorde",
+        "en":"Telluric Wood",
+        "fr":"Bois Tellurique",
         "es":"",
         "zh-cn":"木髓",
         "zh-tw":"",
