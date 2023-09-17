@@ -1973,10 +1973,10 @@ locale["system.events.cantRegister"] = {
 };
 
 locale["system.events.BATTLEFIELD.registration-started"] = {
-	"en":"A battlefield is starting in 15 minutes, you can now register.",
-	"fr":"Un champ de bataille démare dans 15 minutes, vous pouvez désormais vous inscrire.",
+	"en":"A battlefield is starting in {0} minutes, you can now register.",
+	"fr":"Un champ de bataille démare dans {0} minutes, vous pouvez désormais vous inscrire.",
 	"es": "",
-	"zh-cn": "战场将在15分钟后开始，您现在就可以报名。",
+	"zh-cn": "战场将在{0}分钟后开始，您现在就可以报名。",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -1984,7 +1984,7 @@ locale["system.events.BATTLEFIELD.registration-started"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Chiến trường sẽ bắt đầu sau 15 phút, bạn có thể đăng ký ngay từ bây giờ.",
+	"vi": "Chiến trường sẽ bắt đầu sau {0} phút, bạn có thể đăng ký ngay từ bây giờ.",
 	"ar": "",
 	"it": "",
 	"pl": "",
