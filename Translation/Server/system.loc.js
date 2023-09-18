@@ -2012,6 +2012,83 @@ locale["system.events.BATTLEFIELD.registration-started"] = {
 	"id": ""
 };
 
+locale["system.events.MASQUERADE.registration-started"] = {
+	"en":"A masquerade is starting in {0} minutes, you can now register.",
+	"fr":"Une Mascarade démare dans {0} minutes, vous pouvez désormais vous inscrire.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.events.MASQUERADE.notice-1"] = {
+	"en":"Attention participants, the masquerade is about to begin. In {0} seconds, I'll start revealing the items you'll be able to collect.",
+	"fr":"Attention, participants, la mascarade va débuter. Dans {0} secondes, je commencerais a dévoiler les objects que vous pourez alors collecter.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.events.MASQUERADE.notice-2"] = {
+	"en":"Attention participants, in {0} seconds, you will be able to use the items you collected to attack your opponents.",
+	"fr":"Attention, participants, dans {0} secondes, vous pourrez utiliser les objects que vous avez collecté pour attaquer vos opposants.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.events.MASQUERADE.notice-3"] = {
+	"en":"Attention participants, in {0} seconds, i'll unlock the golden chest. Be aware that only one of you will be able to collect it. Also, you will be kicked out of my manor's garden if you get killed.",
+	"fr":"Attention participants, dans {0} secondes, je vais déverrouiller le coffre d'or. Sachez qu'un seul d'entre vous pourra le récupérer. De plus, vous serez expulsés des jardin de mon manoir si vous êtes tués.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["system.spirit.none-equiped"] = {
 	"en":"You have no spirit equiped",
 	"fr":"Vous n'avez pas d'esprit equipé",
