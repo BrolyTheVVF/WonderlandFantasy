@@ -6608,7 +6608,7 @@ locale["npc.600008.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.600008.name"] = {
+locale["npc.600009.name"] = {
 	"en": "Shining Celebeam Chest",
 	"fr": "Coffre à Celebeam Scintillante",
 	"es": "",
@@ -6627,7 +6627,7 @@ locale["npc.600008.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.600008.name"] = {
+locale["npc.600010.name"] = {
 	"en": "Glorious Celebeam Chest",
 	"fr": "Coffre à Celebeam Glorieuse",
 	"es": "",
@@ -6646,7 +6646,7 @@ locale["npc.600008.name"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.600008.name"] = {
+locale["npc.600011.name"] = {
 	"en": "Golden Chest",
 	"fr": "Coffre Doré",
 	"es": "",
