@@ -38,6 +38,25 @@ locale["system.not-enough-gold"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.general.target-not-in-range"] = {
+	"en": "Target is not in range",
+	"fr": "La cible n'est pas a porté",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.chat.notInGuild"] = {
 	"en": "You must be in a guild to use this channel.",
 	"fr": "Vous devez être dans un guilde pour parler dans ce canal.",
@@ -1771,6 +1790,44 @@ locale["system.guild.war.declaredTo"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Công hội của bạn đã tuyến bố đại chiến với công hội <i>{0}</i>.",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.war.guildIsNew.self"] = {
+	"en": "You can't declare war yet, your have to wait {0} days after the guild's creation.",
+	"fr": "Vous ne pouvez pas encore déclarer de guerre, vous devez attendre {0} jours apres la création de la guilde.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.guild.war.guildIsNew.target"] = {
+	"en": "You can't declare war to this guild yet, your have to wait {0} days after this guild's creation.",
+	"fr": "Vous ne pouvez pas encore déclarer de guerre a cette guilde, vous devez attendre {0} jours apres la création de cette guilde.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
