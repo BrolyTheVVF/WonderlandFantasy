@@ -4218,7 +4218,7 @@
         "id": ""
     },
     "skills.TMB_LIFE_SAP.effect": {
-        "en": "When Skill deals damage, it has a 60% chance to deal an addiotional damage of {0}% of target's current HP. Cannot occur more than once in 4 sec. Damages cannot be higher than your max health.",
+        "en": "When Skill deals damage, it has a 60% chance to deal an additional damage of {0}% of target's current HP. Cannot occur more than once in 4 sec. Damages cannot be higher than your max health.",
         "fr": "Quand vous infligez des dégâts avec un sort, il a 60% de chance d'infliger des dégâts additionnels équivalent à {0}% des PV actuels de la cible. Ne peut s'activer qu'une fois par 4 sec. Les dégâts ne peuvent pas dépasser le montant de vos PV max.",
         "es": "",
         "zh-cn": "技能造成伤害时，又60%的机率造成目标当前生命值的{0}%的额外伤害，1秒触发不超过1次.",

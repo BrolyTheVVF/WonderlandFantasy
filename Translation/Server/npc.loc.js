@@ -3657,8 +3657,8 @@ locale["npc.99003.name"] = {
 	"id": ""
 };
 locale["npc.99003.notice.spawn"] = {
-	"en": "Evrat, at the top of the Fiery Tower, has gathered his powers again. Fain's Desert is going to face a great menace as Evrat emerged! He went crazy: Hahaha! I'm filled with power again! Taste the burning of earth, stupid humans!",
-	"fr": "Evrat, au sommet de la Tour de Feu, a retrouvé ses pouvoirs. Le Désert de Fain va devoir faire face à une grande menace, car Evrat a émergé ! Il as sombré dans la folie : Hahaha ! Je suis à nouveau puissant ! Goûtez à la terre brûlée, stupides humains !",
+	"en": "Everat, at the top of the Fiery Tower, has gathered his powers again. Fain's Desert is going to face a great menace as Everat emerged! He went crazy: Hahaha! I'm filled with power again! Taste the burning of earth, stupid humans!",
+	"fr": "Everat, au sommet de la Tour de Feu, a retrouvé ses pouvoirs. Le Désert de Fain va devoir faire face à une grande menace, car Everat a émergé ! Il as sombré dans la folie : Hahaha ! Je suis à nouveau puissant ! Goûtez à la terre brûlée, stupides humains !",
 	"es": "",
 	"zh-cn": "位于火塔顶端的伊夫利特再次聚集了他的力量。随着伊夫利特的出现，费恩沙漠将面临巨大的威胁！他疯了：哈哈哈！我又充满了力量！尝尝大地燃烧的滋味吧，愚蠢的人类！",
 	"zh-tw": "",
@@ -3668,7 +3668,7 @@ locale["npc.99003.notice.spawn"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Evrat, ở trên đỉnh Tháp Viêm Ma, đã lấy lại sức mạnh một lần nữa. Sa Mạc Fain sẽ phải đối mặt với mối đe dọa lớn khi mà Evrat vực dậy! Hắn điên cuồng cười nói: Hahaha! Sức mạnh đã trở về với ta! Hãy nếm mùi mặt đất bốc cháy hết đi, lũ người ngu ngốc!",
+	"vi": "Everat, ở trên đỉnh Tháp Viêm Ma, đã lấy lại sức mạnh một lần nữa. Sa Mạc Fain sẽ phải đối mặt với mối đe dọa lớn khi mà Everat vực dậy! Hắn điên cuồng cười nói: Hahaha! Sức mạnh đã trở về với ta! Hãy nếm mùi mặt đất bốc cháy hết đi, lũ người ngu ngốc!",
 	"ar": "",
 	"it": "",
 	"pl": "",
