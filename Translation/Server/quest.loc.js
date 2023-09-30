@@ -27333,8 +27333,7 @@ locale["quest.40093.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='127'>Red Crab</span> at the Starfish Castle, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='127'>Crabe Rouge</span> au Château de l'étoile de mer, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在海星之城杀死一些 <span class='text-link' data-target-type='mob' data-target-id='127'>红蟹</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "在海星之城杀死一些 <span class='text-link' data-target-type='mob' data-target-id='127'>红蟹</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -27488,8 +27487,7 @@ locale["quest.40095.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='129'>Mutated Clam</span> at the Crystal Ocean, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='129'>Palourde Mutante</span> a l'Océan Cristallin, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在水晶之海杀死一些 <span class='text-link' data-target-type='mob' data-target-id='129'>变异蛤蜊</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "在水晶之海杀死一些 <span class='text-link' data-target-type='mob' data-target-id='129'>变异蛤蜊</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -28182,8 +28180,7 @@ locale["quest.40104.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='138'>Nagar Zealot</span> in Starry Town, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='138'>Fanatique Nagar</span> à la Ville étoilée, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在星海之城杀死一些 <span class='text-link' data-target-type='mob' data-target-id='138'>纳加尔狂热者</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "在星海之城杀死一些 <span class='text-link' data-target-type='mob' data-target-id='138'>纳加尔狂热者</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
