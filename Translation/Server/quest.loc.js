@@ -27025,8 +27025,7 @@ locale["quest.40089.texts.objective"] = {
 	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='123'>Ghost Sailor</span> at the Mystical Sea, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "Tuez quelques <span class='text-link' data-target-type='mob' data-target-id='123'>Marin Fantôme</span> a la Mer Mystique, puis faites votre rapport à l'<span class='text-link' data-target-type='npc' data-target-id='100036'>Agent de Quête</span>.",
 	"es": "",
-	"zh-cn": "在神秘海城杀死一些 <span class='text-link' data-target-type='mob' data-target-id='123'>幽灵水手</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.
-",
+	"zh-cn": "在神秘海城杀死一些 <span class='text-link' data-target-type='mob' data-target-id='123'>幽灵水手</span> , 然后向<span class='text-link' data-target-type='npc' data-target-id='100036'>任务代理人</span>报告.",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
