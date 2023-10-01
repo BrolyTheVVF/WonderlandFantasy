@@ -18496,10 +18496,10 @@ locale["quest.14000.name"] = {
 	"id": ""
 };
 locale["quest.14000.texts.objective"] = {
-	"en": "Go talk to <span class='text-link' data-target-type='npc' data-target-id='666666666'>666666666</span> in the Twister's Manor Floor 1",
-	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='666666666'>666666666</span> au Manoir Méphitique Étage 1",
+	"en": "Go talk to <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> in the Twister's Manor Floor 1",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> au Manoir Méphitique Étage 1",
 	"es": "",
-	"zh-cn": "到扭曲者庄园1层与<span class='text-link' data-target-type='npc' data-target-id='666666666'>666666666</span>交谈",
+	"zh-cn": "到扭曲者庄园1层与<span class='text-link' data-target-type='npc' data-target-id='100078'>希恩</span>交谈",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -18507,7 +18507,7 @@ locale["quest.14000.texts.objective"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "Nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='666666666'>666666666</span> ở Trang Viên Xảo Quyệt - Tầng 1",
+	"vi": "Nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> ở Trang Viên Xảo Quyệt - Tầng 1",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -18515,30 +18515,11 @@ locale["quest.14000.texts.objective"] = {
 	"id": ""
 };
 locale["quest.14000.texts.description"] = {
-	"en": "...",
-	"fr": "...",
+	"en": "You have done a great work, but I have to ask your help once again. This is a great service I'm gonna ask you, and I don't even know if we can achieve my goal...<br><br>I'm trying to get my family mansion back. I'm no really the fighting type, but my sister, she is the tough one. Now that you have cleaned the way, she got to the entrance of the manor. Can you join her and help us get our manor back?",
+	"fr": "Vous avez fait un excellent travail, mais je dois vous demander de l'aide une fois de plus. C'est un grand service que je vais vous demander, et je ne sais même pas si nous pourrons atteindre mon objectif...<br><br>J'essaie de récupérer mon manoir familial. Je ne suis pas vraiment du genre à me battre, mais ma sœur, elle, est une dure à cuire. Maintenant que vous avez nettoyé le chemin, elle est arrivée à l'entrée du manoir. Pouvez-vous la rejoindre et nous aider à récupérer notre manoir ?",
 	"es": "",
-	"zh-cn": "...",
-	"zh-tw":"",
-	"kr": "",
-	"ru": "",
-	"tr": "",
-	"de": "",
-	"jp": "",
-	"pt": "",
-	"vi": "...",
-	"ar": "",
-	"it": "",
-	"pl": "",
-	"th": "",
-	"id": ""
-};
-locale["quest.14000.texts.returnPopupMain"] = {
-	"en": "...",
-	"fr": "...",
-	"es": "",
-	"zh-cn": "...",
-	"zh-tw":"",
+	"zh-cn": "",
+	"zh-tw": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
@@ -18552,7 +18533,7 @@ locale["quest.14000.texts.returnPopupMain"] = {
 	"th": "",
 	"id": ""
 };
-locale["quest.14000.triggers.0.text"] = {
+locale["quest.14000.texts.returnPopupMain"] = {
 	"en": "Now that we cleared the Doomed Woods, Kovu hired an expedition to get back his family's mansion. He would like you to join it of course. If you are willing to help him, join the expedition's leader in the <i>Twister's Manor Floor 1</i>, at least if you feel strong enough to take on those dangerous monsters.",
 	"fr": "Maintenant que nous avons nettoyé les bois condamnés, Kovu a engagé une expédition pour récupérer le manoir de sa famille.  Il aimerait que vous vous joigniez à l'expédition, bien sûr. Si vous voulez l'aider, rejoignez le chef de l'expédition au <i>Manoir Méphitique Étage 1</i>, du moins si vous vous sentez assez fort pour affronter ces dangereux monstres.",
 	"es": "",
