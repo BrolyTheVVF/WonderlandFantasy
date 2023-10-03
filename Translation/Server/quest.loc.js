@@ -18669,7 +18669,7 @@ locale["quest.14002.texts.objective"] = {
 	"id": ""
 };
 locale["quest.14002.texts.description"] = {
-	"en": "There are so many of them! But that wont stop me, i can't affort to give up this close!",
+	"en": "There are so many of them! But that wont stop me, i can't Afford to give up this close!",
 	"fr": "Il y en a tellement ! Mais cela ne m'arrêtera pas, je ne peux pas me permettre d'abandonner si près du but !",
 	"es": "",
 	"zh-cn": "",
