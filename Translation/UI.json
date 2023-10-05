@@ -3134,7 +3134,6 @@
         "th":"",
         "id":""
     },
-    
     "UI.windows.fait.token-shop.btn.buy":{
         "en":"{0} Token",
         "fr":"{0} Token",
@@ -5586,7 +5585,7 @@
         "th":"",
         "id":""
     },
-    "UI.windows.shop.title":{
+    "UI.windows.item_shop.title":{
         "en":"Item Shop",
         "fr":"Item Shop",
         "es":"",
@@ -5599,6 +5598,25 @@
         "jp":"",
         "pt":"",
         "vi":"Cửa Hàng Vật Phẩm",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "UI.windows.item_shop.btn.buy":{
+        "en":"{0} Coupon",
+        "fr":"{0} Coupon",
+        "es":"",
+        "zh-cn":"{0} 代金券",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"{0} Lễ Kim",
         "ar":"",
         "it":"",
         "pl":"",
