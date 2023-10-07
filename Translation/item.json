@@ -417,6 +417,25 @@
         "th":"",
         "id":""
     },
+    "item.type.use":{
+        "en":"Consumable",
+        "fr":"Consommable",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.1.name":{
         "en":"Gold Pile",
         "fr":"Pile d'Or",
@@ -24934,11 +24953,11 @@
 		"th": "",
 		"id": ""
 	},
-	"item.72001.name": {
-		"en": "Nothing (placeholde) - I",
-		"fr": "Rien (tempo) - I",
+	"item.74000.name": {
+		"en": "Abel - I",
+		"fr": "Abel - I",
 		"es": "",
-		"zh-cn": "仍然没有（占位符）-I",
+		"zh-cn": "Abel-I",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -24953,11 +24972,11 @@
 		"th": "",
 		"id": ""
 	},
-	"item.72002.name": {
-		"en": "Realy Nothing (placeholde) - II",
-		"fr": "Vraiment Rien (tempo) - II",
+	"item.74001.name": {
+		"en": "Abel - II",
+		"fr": "Abel - II",
 		"es": "",
-		"zh-cn": "仍然没有（占位符）-II",
+		"zh-cn": "Abel-II",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -24972,11 +24991,11 @@
 		"th": "",
 		"id": ""
 	},
-	"item.72003.name": {
-		"en": "Still Nothing (placeholde) - III",
-		"fr": "Toujours Rien (tempo) - III",
+	"item.74002.name": {
+		"en": "Abel - III",
+		"fr": "Abel - III",
 		"es": "",
-		"zh-cn": "仍然没有（占位符）-III",
+		"zh-cn": "Abel-III",
 		"zh-tw": "",
 		"kr": "",
 		"ru": "",
@@ -24991,7 +25010,7 @@
 		"th": "",
 		"id": ""
 	},
-	"item.73001.name": {
+	"item.75001.name": {
 		"en": "Gender Transmutation",
 		"fr": "Transmutation de Genre",
 		"es": "",
@@ -25010,7 +25029,7 @@
 		"th": "",
 		"id": ""
 	},
-	"item.73001.use.gender.error": {
+	"item.75001.use.gender.error": {
 		"en": "Error, You have an item equipped that is tied to specific gender. You must unequip it before using this item.",
 		"fr": "Erreur, vous avez un objet équipé qui est lié à un genre spécifique. Vous devez le déséquiper avant d'utiliser cet objet.",
 		"es": "",
