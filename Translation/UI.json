@@ -3438,6 +3438,25 @@
         "th":"",
         "id":"Lain"
     },
+    "UI.windows.events.weekly-token":{
+        "en":"Weekly Token",
+        "fr":"Token Hebdomadaire",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.map.title.worldmap":{
         "en":"World Map",
         "fr":"Carte du Monde",
