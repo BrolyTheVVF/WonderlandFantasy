@@ -18804,8 +18804,8 @@ locale["quest.14004.name"] = {
 	"id": ""
 };
 locale["quest.14004.texts.objective"] = {
-	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='111'>Lizardman</span> and <span class='text-link' data-target-type='mob' data-target-id='112'>Earthworm Shaman</span>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> in the Twister's Manor Floor 3",
-	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='111'>Homme Lézard</span> et des <span class='text-link' data-target-type='mob' data-target-id='112'>Lombric Chaman</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> au Manoir Méphitique Étage 3",
+	"en": "Kill some <span class='text-link' data-target-type='mob' data-target-id='111'>Lizardman</span> and <span class='text-link' data-target-type='mob' data-target-id='112'>Earthworm Shaman</span>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> in the Twister's Manor Floor 4",
+	"fr": "Tuez des <span class='text-link' data-target-type='mob' data-target-id='111'>Homme Lézard</span> et des <span class='text-link' data-target-type='mob' data-target-id='112'>Lombric Chaman</span>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> au Manoir Méphitique Étage 4",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
