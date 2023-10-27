@@ -2069,6 +2069,26 @@ locale["system.events.BATTLEFIELD.registration-started"] = {
 	"id": ""
 };
 
+locale["system.events.WEREWOLF_HUNT.registration-started"] = {
+	"en":"The wherewolf hunt is starting in {0} minutes, you can now register.",
+	"fr":"La chasse des Loup-garou démare dans {0} minutes, vous pouvez désormais vous inscrire.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["system.events.MASQUERADE.registration-started"] = {
 	"en":"A masquerade is starting in {0} minutes, you can now register.",
 	"fr":"Une Mascarade démare dans {0} minutes, vous pouvez désormais vous inscrire.",
