@@ -2298,6 +2298,25 @@
         "th":"",
         "id":"[Terkunci]"
     },
+    "UI.windows.bag.button.sell-protection":{
+        "en":"Anti Sell Protection",
+        "fr":"Protection Anti Vente",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.bag.split.title":{
         "en":"Split",
         "fr":"Séparer",
