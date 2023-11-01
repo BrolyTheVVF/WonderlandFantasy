@@ -1185,6 +1185,25 @@ locale["system.item.split.invalid-qty"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.item.sell.cant-protected"] = {
+	"en": "Selling has been disabled on this item (Anti Sell Protection)",
+	"fr": "La vente as été désactivé sur cet objet (Protection Anti Vente)",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["system.consign.add.undefined-item"] = {
 	"en":"The item you are trying to add to your consign can't be found.",
 	"fr":"L'objet que vous voulez ajouter à vos ventes est introuvable.",
