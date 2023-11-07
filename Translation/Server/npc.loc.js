@@ -6409,6 +6409,44 @@ locale["npc.100079.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100080.name"] = {
+	"en": "Dasaswa",
+	"fr": "Dasaswa",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Dasaswa",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100081.name"] = {
+	"en": "Vika",
+	"fr": "Vika",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Vika",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -7284,6 +7322,44 @@ locale["npc.100078.interact.baseText"] = {
 	"es": "",
 	"zh-cn": "让希望之光照亮希望之所！",
 	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100080.interact.baseText"] = {
+	"en": "Greetings, stranger!",
+	"fr": "Salutations, étranger !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100080.interact.QUEST_212_A"] = {
+	"en": "Explain that you saved the forest",
+	"fr": "Expliquez que vous avez sauvé la forêt",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
