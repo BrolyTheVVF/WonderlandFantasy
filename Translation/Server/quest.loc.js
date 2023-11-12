@@ -15353,7 +15353,7 @@ locale["quest.193.texts.description"] = {
 	"id": ""
 };
 locale["quest.193.texts.returnPopupMain"] = {
-	"en": "Hummm, you brought back her wings? I guess that mean she was infected...",
+	"en": "Hummm, you brought back her wings? I guess that means she was infected...",
 	"fr": "Hummm, tu as ramené ses ailes ? Je suppose que ça veut dire qu'elle était infectée...",
 	"es": "",
 	"zh-cn": "你把她的翅膀带回来了？我想这意味着她被感染了...",
@@ -15507,7 +15507,7 @@ locale["quest.195.texts.objective"] = {
 	"id": ""
 };
 locale["quest.195.texts.description"] = {
-	"en": "Thanks a lot for the help! I never though I'd see this forest at peace in my lifetime. Please go back tell Kovu what we acomplished, I'll stay here to protect the altar from the corruption until this forest it completly healed.",
+	"en": "Thanks a lot for the help! I never thought I'd see this forest at peace in my lifetime. Please go back tell Kovu what we accomplished, I'll stay here to protect the altar from the corruption until this forest is completely healed.",
 	"fr": "Merci beaucoup pour votre aide ! Je n'aurais jamais cru voir cette forêt en paix de mon vivant. Retournez prévenir à Kovu ce que nous avons accompli, je resterai ici pour protéger l'autel de la corruption jusqu'à ce que cette forêt soit complètement guérie.",
 	"es": "",
 	"zh-cn": "感谢您的帮助！我从没想过能在有生之年看到这片森林恢复平静. 请回去告诉高孚我们的成果，我会留在这里保护祭坛，直到这片森林痊愈。",
@@ -15757,7 +15757,7 @@ locale["quest.198.texts.description"] = {
 	"id": ""
 };
 locale["quest.198.texts.returnPopupMain"] = {
-	"en": "Well, it wasn't easy, but at least we dealed with the worst part of this area.",
+	"en": "Well, it wasn't easy, but at least we dealt with the worst part of this area.",
 	"fr": "Et bien, ce n'etait pas facile, mais au moins, nous en avons fini avec la partie la plus dure de cette zone.",
 	"es": "",
 	"zh-cn": "好吧，这并不容易，但至少我们处理了这一地区最糟糕的部分。",
@@ -16065,7 +16065,7 @@ locale["quest.202.texts.objective"] = {
 	"id": ""
 };
 locale["quest.202.texts.description"] = {
-	"en": "I hear the sound of a creature i hoped i never saw again from here. It was a Judge of Death wasn't it? Ok, with the knowledge I gathered on them along time, i can tell they will be weaker if we free the souls the are near him, and there are some, of couse, or it wouldn't stay here, come on, that's common knowledge. ",
+	"en": "I hear the sound of a creature i hoped i never saw again from here. It was a Judge of Death wasn't it? Ok, with the knowledge I gathered on them along time, i can tell they will be weaker if we free the souls that are near him, and there are some, of couse, or it wouldn't stay here, come on, that's common knowledge. ",
 	"fr": "J'entends le bruit d'une créature que j'espérais ne jamais revoir d'ici. C'était un juge de la mort, n'est-ce pas ? Ok, avec les connaissances que j'ai accumulées sur eux au fil du temps, je peux dire qu'ils seront plus faibles si nous libérons les âmes qui sont près de lui, et il y en a, bien sûr, sinon il ne resterait pas ici, allez, c'est de notoriété publique.",
 	"es": "",
 	"zh-cn": "我听到了一个生物的声音，我希望从此再也见不到它。这是一个死亡审判者，不是吗？好吧，根据我一段时间以来收集到的关于他们的知识，我可以看出，如果我们释放他附近的灵魂，他们会更弱，还有一些，或者它不会留在这里，来吧，这是常识。",
@@ -16219,7 +16219,7 @@ locale["quest.204.texts.objective"] = {
 	"id": ""
 };
 locale["quest.204.texts.description"] = {
-	"en": "Ok, I'm staying here, I'll make sure the corruption never gets passed me. You know, in case you fail. But judging by your performance here, I doubt it. I paid some mercenary from letting yo help you on your mission to eradicate the source of this corruption. Meet him in the <i>Mutant Jungle</i>.",
+	"en": "Ok, I'm staying here, I'll make sure the corruption never gets passed me. You know, in case you fail. But judging by your performance here, I doubt it. I paid some mercenary from lettin to help you on your mission to eradicate the source of this corruption. Meet him in the <i>Mutant Jungle</i>.",
 	"fr": "Ok, je reste ici, je m'assurerai que la corruption ne me dépasse jamais. Vous savez, au cas où vous échoueriez. Mais à en juger par votre performance ici, j'en doute. J'ai payé un mercenaire pour qu'il vous aide à éradiquer la source de cette corruption. Retrouvez le dans la <i>Jungle Mutante</i>.",
 	"es": "",
 	"zh-cn": "好吧，我留在这里，我会确保腐蚀永远不会越过我。你知道，万一你失败了。但从你在这里的表现来看，我很怀疑。我付钱给一个雇佣兵，让他帮你完成消灭腐败源头的任务。去<i>变异之林</i>见他。",
@@ -19900,7 +19900,7 @@ locale["quest.14007.texts.description"] = {
 	"id": ""
 };
 locale["quest.14007.texts.returnPopupMain"] = {
-	"en": "Ho, your back! I was worried, after I sent you, I thought about it and after reflexion, I think it was a bad idea. Wait, you already did? I can't believe what I'm hearing! Yes, yes I'm gonna start packing my things and hire some more mercenaries to protect the roads. We will be ready for the fight!",
+	"en": "Ho, your back! I was worried, after I sent you, I thought about it and after reflection, I think it was a bad idea. Wait, you already did? I can't believe what I'm hearing! Yes, yes I'm gonna start packing my things and hire some more mercenaries to protect the roads. We will be ready for the fight!",
 	"fr": "Ho, tu es de retour ! J'étais inquiet, après t'avoir envoyé, j'ai réfléchi et après réflexion, je pense que c'était une mauvaise idée. Attends, tu l'as déjà fait ? Je n'arrive pas à croire ce que j'entends ! Oui, oui, je vais commencer à préparer mes affaires et engager d'autres mercenaires pour protéger les routes. Nous serons prêts pour le combat !",
 	"es": "",
 	"zh-cn": "",

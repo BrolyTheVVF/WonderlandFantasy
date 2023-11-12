@@ -7317,7 +7317,7 @@ locale["npc.100075.interact.baseText"] = {
 	"id": ""
 };
 locale["npc.100076.interact.baseText"] = {
-	"en": "I never saw any monsters like that, but i'm not afraid of them, dealing with them is my job after all. Wait, there is no snakes here right?",
+	"en": "I never saw any monsters like that, but i'm not afraid of them, dealing with them is my job after all. Wait, there are no snakes here right?",
 	"fr": "Je n'ai jamais vu de monstres comme ça, mais je n'en ai pas peur, m'en occuper est mon travail après tout. Attendez, il n'y a pas de serpents ici, n'est-ce pas ?",
 	"es": "",
 	"zh-cn": "我从没见过这样的怪物，但我不怕它们，毕竟对付它们是我的工作。等等，这里没有蛇吧？",
