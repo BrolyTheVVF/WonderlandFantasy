@@ -17200,7 +17200,7 @@ locale["quest.215.texts.returnPopupMain"] = {
 };
 locale["quest.215.objective.0.name"] = {
 	"en": "Shark's Fin",
-	"fr": "Aileron de requinr",
+	"fr": "Aileron de requin",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -17314,7 +17314,7 @@ locale["quest.216.objective.0.name"] = {
 	"id": ""
 };
 locale["quest.216.line.local.0"] = {
-	"en": "Thank you for your help. I need some time to mourn my freind. Seek vika and make her your report.",
+	"en": "Thank you for your help. I need some time to mourn my friend. Seek Vika and make her your report.",
 	"fr": "Merci pour votre aide. J'ai besoin de temps pour faire le deuil de mon ami. Allez voir Vika et faites-lui votre rapport.",
 	"es": "",
 	"zh-cn": "",
@@ -19785,8 +19785,8 @@ locale["quest.14006.name"] = {
 	"id": ""
 };
 locale["quest.14006.texts.objective"] = {
-	"en": "Kill everything in Twister's Manor Hall of Elite, then talk to <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> in the Twister's Manor Floor 3",
-	"fr": "Tuez tout au Manoir Méphitique Hall d'Élite, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> au Manoir Méphitique Étage 3",
+	"en": "Kill everything in Twister's Manor Hall of Elite, then talk to <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> in the Twister's Manor Floor 1",
+	"fr": "Tuez tout au Manoir Méphitique Hall d'Élite, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100078'>Shion</span> au Manoir Méphitique Étage 1",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
