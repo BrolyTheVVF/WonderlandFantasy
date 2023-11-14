@@ -17372,7 +17372,7 @@ locale["quest.217.texts.objective"] = {
 	"id": ""
 };
 locale["quest.217.texts.description"] = {
-	"en": "We have make more progress now that you are here than we could ever hope to accomplish in 10 years. Go make a report to Vika, she will be happy to see you back this soon.",
+	"en": "We made in a few hours more progress, now that you are here, than we could ever hope to accomplish in 10 years. Go make a report to Vika, she will be happy to see you back this soon.",
 	"fr": "Nous avons fait plus de progrès depuis votre arrivée que nous n'aurions pu espérer en faire en dix ans. Allez faire un rapport à Vika, elle sera heureuse de vous voir revenir si vite.",
 	"es": "",
 	"zh-cn": "",
