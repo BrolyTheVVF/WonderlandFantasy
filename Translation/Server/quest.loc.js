@@ -17410,6 +17410,83 @@ locale["quest.217.texts.returnPopupMain"] = {
 	"id": ""
 };
 
+locale["quest.217.name"] = {
+	"en": "Scouting the sea (1)",
+	"fr": "Repérage en mer (1)",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.217.texts.objective"] = {
+	"en": "Talk to <span class='text-link' data-target-type='npc' data-target-id='100083'>Kshahyas</span> in the <i>Bewildering Sea</i>.",
+	"fr": "Parlez à <span class='text-link' data-target-type='npc' data-target-id='100083'>Kshahyas</span> dans la <i>Mer Déconcertante</i>.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.217.texts.description"] = {
+	"en": "Well, we won't be able to fight with you, it would break our oaths, but we can help you get prepared. Could you go speak to Kshahyas in the Bewildering Sea? She is our alchemist. She will prepare potions for all your warriors. I will add my mark on the magic seal Dasawa applied on you, she will then see you are trust worthy.",
+	"fr": "Nous ne pourrons pas nous battre avec vous, ce serait contraire à nos serments, mais nous pouvons vous aider à vous préparer. Pourriez-vous aller parler à Kshahyas dans la Mer Déconcertante ? C'est notre alchimiste. Elle préparera des potions pour tous vos guerriers. J'apposerai ma marque sur le sceau magique que Dasawa a apposé sur vous, elle verra ainsi que vous êtes digne de confiance.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["quest.217.texts.returnPopupMain"] = {
+	"en": "Hey you, stop right there!",
+	"fr": "Hé vous, arrêtez-vous là !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 
 //locale["quest.2??.name"] = {
 //	"en": "aaaaaaaaaaaaa (4)",
