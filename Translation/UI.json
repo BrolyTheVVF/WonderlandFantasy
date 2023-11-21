@@ -9290,6 +9290,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.social.button.add":{
+        "en":"Add",
+        "fr":"Ajouter",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.abyss.title":{
         "en":"Abyss",
         "fr":"Abysse",
