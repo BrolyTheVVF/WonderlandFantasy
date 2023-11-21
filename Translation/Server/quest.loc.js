@@ -17642,7 +17642,7 @@ locale["quest.220.texts.description"] = {
 };
 locale["quest.220.texts.returnPopupMain"] = {
 	"en": "That's a bit sad, but it was nessessary...",
-	"fr": "That's a bit sad, but it was nessessary...",
+	"fr": "C'est un peu triste, mais c'était nécessaire...",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
