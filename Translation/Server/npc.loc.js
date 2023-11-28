@@ -6504,6 +6504,44 @@ locale["npc.100083.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100084.name"] = {
+	"en": "James",
+	"fr": "James",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "James",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100084.title"] = {
+	"en": "King's Alchemist",
+	"fr": "Alchimiste du Roi",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
