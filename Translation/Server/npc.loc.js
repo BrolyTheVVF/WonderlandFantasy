@@ -7487,6 +7487,82 @@ locale["npc.100081.interact.baseText"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100081.interact.INSTANCE_60"] = {
+	"en": "Ho, you came back here?",
+	"fr": "Ho, vous êtes revenu ici ?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100081.interact.INSTANCE_60.answer.1"] = {
+	"en": "Yes! I sensed something was off, so I started searching around. It lead me here...",
+	"fr": "Oui ! J'ai senti que quelque chose n'allait pas, alors j'ai commencé à chercher. Cela m'a conduit ici...",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100081.interact.INSTANCE_60.answer.2"] = {
+	"en": "I was afraid something terrible was happening, and with what Shion brought, thanks to you, my fears are now reality...",
+	"fr": "Je craignais que quelque chose de terrible ne se produise, et avec ce que Shion a apporté, grâce à vous, mes craintes sont maintenant devenues réalité...",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100081.interact.INSTANCE_60.answer.3"] = {
+	"en": "She is doing it! She is summoning a terrible monster, and we can't let that happend!",
+	"fr": "Elle est en train de le faire ! Elle invoque un terrible monstre, et nous ne pouvons pas laisser cela se produire !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.300002.interact.baseText"] = {
 	"en": "This is a teleport crystal. It can teleport you in many places, if you are powerful enough.",
 	"fr": "Ceci est un cristal de téléportation. Il peut vous enmener dans plein d'endrois, si vous êtes assez puissant.",
