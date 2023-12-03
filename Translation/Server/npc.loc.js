@@ -7468,6 +7468,25 @@ locale["npc.100080.interact.QUEST_212_A"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100081.interact.baseText"] = {
+	"en": "May the queen forgive us...",
+	"fr": "Puisse la reine nous pardonner...",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.300002.interact.baseText"] = {
 	"en": "This is a teleport crystal. It can teleport you in many places, if you are powerful enough.",
 	"fr": "Ceci est un cristal de téléportation. Il peut vous enmener dans plein d'endrois, si vous êtes assez puissant.",
