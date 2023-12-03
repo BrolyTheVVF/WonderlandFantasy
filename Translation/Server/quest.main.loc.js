@@ -19621,8 +19621,8 @@ locale["quest.241.objective.0.name"] = {
 	"id": ""
 };
 locale["quest.241.line.local.0"] = {
-	"en": "Annotated map",
-	"fr": "Carte annotée",
+	"en": "Do you think i'll let you take that? Come here!",
+	"fr": "Tu crois que je vais te laisser prendre ça ? Viens ici !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
