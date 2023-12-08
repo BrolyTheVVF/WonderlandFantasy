@@ -18932,8 +18932,7 @@ locale["quest.234.texts.objective"] = {
 	"en": "Kill the <span class='text-link' data-target-type='mob' data-target-id='140'>[Octo-Invoker] Abatton</span> in the <i>Mystical Sea</i>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100081'>Vika</span> in the <i>Starry Town Floor 1</i>.",
 	"fr": "Tuez le <span class='text-link' data-target-type='mob' data-target-id='140'>[Octo-Invocateur] Abatton</span> dans la <i>Mer Mystique</i>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100081'>Vika</span> dans la <i>Ville étoilée Etage 1</i>.",
 	"es": "",
-	"zh-cn": "在<i>神秘海城</i> 杀死 <span class='text-link' data-target-type='mob' data-target-id='140'>[章鱼-召唤者]阿巴顿</span>, 然后去<i>星海之城1层</i>报告给 <span class='text-link' data-target-type='npc' data-target-id='100081'>维卡</span>.
-",
+	"zh-cn": "在<i>神秘海城</i> 杀死 <span class='text-link' data-target-type='mob' data-target-id='140'>[章鱼-召唤者]阿巴顿</span>, 然后去<i>星海之城1层</i>报告给 <span class='text-link' data-target-type='npc' data-target-id='100081'>维卡</span>.",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
