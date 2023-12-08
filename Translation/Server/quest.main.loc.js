@@ -16760,7 +16760,7 @@ locale["quest.210.texts.returnPopupMain"] = {
 	"en": "The path is clear! I guess now we have to go into the Maelstrom, and by we, I mean you of course.",
 	"fr": "Le voie est dégagée! Je suppose qu'il ne nous reste plus qu'à aller dans le Maelstrom, et par nous, je veut bien évidamment dire vous.",
 	"es": "",
-	"zh-cn": "道路已经畅通无阻 我想现在我们必须进入漩涡了，当然，我说的 "我们 "是指你。",
+	"zh-cn": "道路已经畅通无阻 我想现在我们必须进入漩涡了，当然，我说的 我们 是指你。",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
