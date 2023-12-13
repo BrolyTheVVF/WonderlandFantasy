@@ -212,7 +212,7 @@ locale["quest.35000.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35000.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -289,7 +289,7 @@ locale["quest.35001.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35001.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underground city. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir sa propre ville souterraine. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -366,7 +366,7 @@ locale["quest.35002.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35002.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own lava nest. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own lava nest. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir son propre nid de lave. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -442,7 +442,7 @@ locale["quest.35003.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35003.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own creepy woods. This Elite Hall would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own creepy woods. This Elite Hall would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir sa propre fôret sinistre. Ce Hall d'Élite serait bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -518,7 +518,7 @@ locale["quest.35004.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35004.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underwater city. This Elite Hall would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own underwater city. This Elite Hall would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir sa propre cité sous-marine. Ce Hall d'Élite serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -594,7 +594,7 @@ locale["quest.35005.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35005.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own ice nest. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own ice nest. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir son propre nid de glace. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -670,7 +670,7 @@ locale["quest.35006.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35006.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own machinery factory to produce hiw army. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own machinery factory to produce hiw army. Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir sa propre usine de machines pour produire son armée. Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -746,7 +746,7 @@ locale["quest.35007.texts.objective"] = {
 	"id": ""
 };
 locale["quest.35007.texts.description"] = {
-	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own sewer. A demon boss can't be the boss without a proper sewer! Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, i can grant a continent to you after i become the lord of the world!",
+	"en": "Kuroom want to be the utimate BOSS in Mirelia! Before that, Kuroom wants to have his own sewer. A demon boss can't be the boss without a proper sewer! Such as the rubbish monster dump, Elite Hall, it would be awesome if we rebuilt it as Kuroom's evil hall!<br><br>If you'd like to help, I can grant a continent to you after I become the lord of the world!",
 	"fr": "Kuroom veut devenir le BOSS ultime de Mirelia! Avant ca, Kuroom veut avoir son propre égout. Un boss démon ne peut pas être le boss sans un égout décent! Comme ce dépotoir de monstres, le Hall d'Élite, ce serais bien si on le reconstruisait comme mon Hall Maléfique!<br><br>Si vous voulez bien aider, je peut vous donner un continent apres que je soit devenue le Seigneur du monde!",
 	"es": "",
 	"zh-cn": "克鲁姆想成为米雷利亚的最终之主!在此之前,克鲁姆想拥有自己的地下城.像废弃怪物垃圾场,精英大厅,如果我们把它重建成克鲁姆的恶魔殿堂,那就太棒了!<br><br>如果你愿意帮忙,在我成为世界之主后,我可以给你一块大陆!",
@@ -4465,7 +4465,7 @@ locale["quest.40037.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40037.texts.description"] = {
-	"en": "One day, a giant dragon crossed this land and lay some eggs. They were hidden, but the warrior at the time mannage to push the dragon out of their land. Now we have plenty of baby dragon all over the place. It seems some dark magic got them back to life or something? i don't know. Just get rid of them.",
+	"en": "One day, a giant dragon crossed this land and lay some eggs. They were hidden, but the warrior at the time mannage to push the dragon out of their land. Now we have plenty of baby dragon all over the place. It seems some dark magic got them back to life or something? I don't know. Just get rid of them.",
 	"fr": "Un jour, un dragon géant traversa cette terre et y pondit des œufs. Ils étaient cachés, mais le guerrier à l'époque réussit à pousser le dragon hors de leur terre. Maintenant, nous avons beaucoup de bébés dragons partout. Il semble qu'une magie noire les ait ramenés à la vie ou quoi ? je ne sais pas. Débarrassez-vous d'eux.",
 	"es": "",
 	"zh-cn": "一天,一条巨龙经过这片土地,产了一些蛋.他们藏在那里,但当时的武士却试图把龙赶出他们的土地.现在我们到处都有很多宝宝龙.似乎是什么黑魔法让他们复活了,还是什么？我不知道.去干掉它们吧.",
@@ -4542,7 +4542,7 @@ locale["quest.40038.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40038.texts.description"] = {
-	"en": "You remember when i told you to burn thoses mummies in Byron City? Well, it didn't work. At all. And they are stronger now. Can you fix this situation please?",
+	"en": "You remember when I told you to burn thoses mummies in Byron City? Well, it didn't work. At all. And they are stronger now. Can you fix this situation please?",
 	"fr": "Vous vous rappellez quand je vous ai dit de brûler ces momies dans la Ville de Byron? Eh bien, ça n'a pas marché. Du tout. Et elles sont plus fortes maintenant. Pouvez-vous régler cette situation s'il vous plait ?",
 	"es": "",
 	"zh-cn": "你还记得我叫你在拜伦城烧掉这些木乃伊吗？嗯,完全没用.他们现在更强大了.你能解决这个问题吗？",
@@ -5543,7 +5543,7 @@ locale["quest.40051.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40051.texts.description"] = {
-	"en": "I never liked this kind of monsters, not that i really likes any at one point, i really don't like those. Just looking them in their eyes, you see there is only evil in their minds.",
+	"en": "I never liked this kind of monsters, not that I really likes any at one point, I really don't like those. Just looking them in their eyes, you see there is only evil in their minds.",
 	"fr": "Je n'ai jamais aimé ce genre de monstres, pas que j'en aime vraiment à un moment donné, je n'aime vraiment pas ceux-là. Rien qu'en les regardant dans les yeux, vous voyez qu'il n'y a que du mal dans leur esprit.",
 	"es": "",
 	"zh-cn": "我从不喜欢这种怪物,一点也不喜欢,我是真的不喜欢那些.只看他们的眼睛,你就能发现他们心中只有邪恶.",
@@ -6236,7 +6236,7 @@ locale["quest.40060.texts.objective"] = {
 	"id": ""
 };
 locale["quest.40060.texts.description"] = {
-	"en": "Those poisoned boar came back, i hoped the cure for the forest would have worked faster, but the citizen are at danger. Can you help Letin by reducing their number? They'll probably be scared and go back in the forest.",
+	"en": "Those poisoned boar came back, I hoped the cure for the forest would have worked faster, but the citizen are at danger. Can you help Letin by reducing their number? They'll probably be scared and go back in the forest.",
 	"fr": "Ces sangliers empoisonnés sont revenus, j'espérais que le remède pour la forêt aurait fonctionné plus rapidement, mais les citoyens sont en danger. Pouvez-vous aider Letin en réduisant leur nombre ? Ils seront probablement effrayés et retourneront dans la forêt.",
 	"es": "",
 	"zh-cn": "那些中毒的野猪回来了，我希望森林的治疗能更快，但市民处于危险之中。你能帮莱丁减少它们的数量吗？他们可能会被吓跑，回到森林里去。",
@@ -12415,7 +12415,7 @@ locale["quest.45019.texts.description"] = {
 	"id": ""
 };
 locale["quest.45019.texts.returnPopupMain"] = {
-	"en": "I reassured the citizens, and i hope the ones you killed will be enough to prevent any attack before we found the source of this evil.",
+	"en": "I reassured the citizens, and I hope the ones you killed will be enough to prevent any attack before we found the source of this evil.",
 	"fr": "J'ai rassuré les citoyens, et j'espère que ceux que vous avez tués seront suffisants pour empêcher toute attaque avant que nous ayons trouvé la source de ce mal.",
 	"es": "",
 	"zh-cn": "我向市民们保证，我希望你们杀死的人足以在我们找到这一罪恶的根源之前阻止任何袭击。",

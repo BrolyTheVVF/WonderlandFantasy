@@ -6937,7 +6937,7 @@ locale["npc.100001.interact.baseText"] = {
 	"id": ""
 };
 locale["npc.100002.interact.baseText"] = {
-	"en": "I was an adventurer, then i took an arrow in my knee.",
+	"en": "I was an adventurer, then I took an arrow in my knee.",
 	"fr": "J'étais un aventurier, puis j'ai pris une flèche dans le genou.",
 	"es": "Era un aventurero, luego tomé una flecha en mi rodilla.",
 	"zh-cn": "我曾经是一名冒险者, 直到我的膝盖中了一箭.",
@@ -7538,6 +7538,82 @@ locale["npc.100078.interact.baseText"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Hãy để tia sáng chiếu rọi nơi hy vọng đã mất!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100078.interact.INSTANCE_60"] = {
+	"en": "Do you have a plan?",
+	"fr": "Vous avez un plan?",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100078.interact.INSTANCE_60.answer.1"] = {
+	"en": "I can feel some strong power flowing out of this crystal near us, and not a good kind of power.",
+	"fr": "Je sens une forte puissance sortir de ce cristal près de nous, et ce n'est pas une bonne puissance.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100078.interact.INSTANCE_60.answer.2"] = {
+	"en": "I don't know how yet, but I'm pretty sure they are stronger as long as those crystals are in this city.",
+	"fr": "Je ne sais pas encore comment, mais je suis presque sûr qu'ils seront plus forts tant que ces cristaux seront dans cette ville.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100078.interact.INSTANCE_60.answer.3"] = {
+	"en": "I think it would be good to start by destroying those crystals.",
+	"fr": "Je pense qu'il serait bon de commencer par détruire ces cristaux.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
@@ -8725,7 +8801,7 @@ locale["instance.INSTANCE_45.npc.20020.p1_talk_2"] = {
 	"id": ""
 };
 locale["instance.INSTANCE_45.npc.20020.p1_talk_3"] = {
-	"en": "Defeat all his pathetic minions, and i will gather their power. I will show him no to mess with us!",
+	"en": "Defeat all his pathetic minions, and I will gather their power. I will show him no to mess with us!",
 	"fr": "Battez tous ses sbires pathétiques et je rassemblerai leur pouvoir. Je vais lui montrer qu'il ne faut pas nous déranger !",
 	"es": "Derrota a todos sus patéticos criados, y reuniré su poder. Le mostraré que no se meta con nosotros!",
 	"zh-cn": "击败他所有可怜的爪牙，我会收集他们的力量。我会让他知道我们惹不起！",

@@ -487,7 +487,7 @@ locale["quest.1005.texts.returnPopupMain"] = {
 
 //Lvl 10 part 1
 locale["quest.1006.texts.returnPopupMain"] = {
-	"en": "Another kid spoiled by Garnias? I am not like her. i don't fancy kids. Be ready for what's coming next.",
+	"en": "Another kid spoiled by Garnias? I am not like her. I don't fancy kids. Be ready for what's coming next.",
 	"fr": "Un autre gamin gâté par Garnias? Je ne suis pas comme elle. je n'aime pas les enfants. Soyez prêt pour ce qui va suivre.",
 	"es": "",
 	"zh-cn": "又一个被嘉烈娜斯宠坏的孩子？我不像她.我不喜欢孩子.你要为未来做好准备吧.",
@@ -506,7 +506,7 @@ locale["quest.1006.texts.returnPopupMain"] = {
 	"id": ""
 };
 locale["quest.1007.texts.returnPopupMain"] = {
-	"en": "Another kid spoiled by Garnias? I am not like her. i don't fancy kids. Be ready for what's coming next.",
+	"en": "Another kid spoiled by Garnias? I am not like her. I don't fancy kids. Be ready for what's coming next.",
 	"fr": "Un autre gamin gâté par Garnias? Je ne suis pas comme elle. je n'aime pas les enfants. Soyez prêt pour ce qui va suivre.",
 	"es": "",
 	"zh-cn": "又一个被嘉烈娜斯宠坏的孩子？我不像她.我不喜欢孩子.你要为未来做好准备吧.",
@@ -525,7 +525,7 @@ locale["quest.1007.texts.returnPopupMain"] = {
 	"id": ""
 };
 locale["quest.1008.texts.returnPopupMain"] = {
-	"en": "Another kid spoiled by Garnias? I am not like her. i don't fancy kids. Be ready for what's coming next.",
+	"en": "Another kid spoiled by Garnias? I am not like her. I don't fancy kids. Be ready for what's coming next.",
 	"fr": "Un autre gamin gâté par Garnias? Je ne suis pas comme elle. je n'aime pas les enfants. Soyez prêt pour ce qui va suivre.",
 	"es": "",
 	"zh-cn": "又一个被嘉烈娜斯宠坏的孩子？我不像她.我不喜欢孩子.你要为未来做好准备吧.",
@@ -1006,7 +1006,7 @@ locale["quest.1017.texts.objective"] = {
 };
 
 locale["quest.1015.texts.description"] = {
-	"en": "Although Schlein recommended you, I will not take you as my student until i see your true strength. You must pass the test.<br><br>You must kill the powerfull monster in the Sacred Wilderness to prove your value.",
+	"en": "Although Schlein recommended you, I will not take you as my student until I see your true strength. You must pass the test.<br><br>You must kill the powerfull monster in the Sacred Wilderness to prove your value.",
 	"fr": "Bien que Schlein vous ait recommandé, je ne vous prendrai pas comme élève tant que je n'aurai pas vu votre vraie force. Vous devez réussir le test.<br><br>Vous devez tuer les monstres puissants dans la Jungle Sacré pour prouver votre valeur.",
 	"es": "",
 	"zh-cn": "虽然施莱因推荐了你,但在我看到你真实能力之前,我不会把你当成我的学生.你必须通过考验.<br><br>为了证明自己的价值,你必须在圣墓原野中杀死强大的怪物.",
@@ -1025,7 +1025,7 @@ locale["quest.1015.texts.description"] = {
 	"id": ""
 };
 locale["quest.1016.texts.description"] = {
-	"en": "Although Schlein recommended you, I will not take you as my student until i see your true strength. You must pass the test.<br><br>You must kill the powerfull monster in the Sacred Wilderness to prove your value.",
+	"en": "Although Schlein recommended you, I will not take you as my student until I see your true strength. You must pass the test.<br><br>You must kill the powerfull monster in the Sacred Wilderness to prove your value.",
 	"fr": "Bien que Schlein vous ait recommandé, je ne vous prendrai pas comme élève tant que je n'aurai pas vu votre vraie force. Vous devez réussir le test.<br><br>Vous devez tuer les monstres puissants dans la Jungle Sacré pour prouver votre valeur.",
 	"es": "",
 	"zh-cn": "虽然施莱因推荐了你,但在我看到你真实能力之前,我不会把你当成我的学生.你必须通过考验.<br><br>为了证明自己的价值,你必须在圣墓原野中杀死强大的怪物.",
@@ -1044,7 +1044,7 @@ locale["quest.1016.texts.description"] = {
 	"id": ""
 };
 locale["quest.1017.texts.description"] = {
-	"en": "Although Schlein recommended you, I will not take you as my student until i see your true strength. You must pass the test.<br><br>You must kill the powerfull monster in the Sacred Wilderness to prove your value.",
+	"en": "Although Schlein recommended you, I will not take you as my student until I see your true strength. You must pass the test.<br><br>You must kill the powerfull monster in the Sacred Wilderness to prove your value.",
 	"fr": "Bien que Schlein vous ait recommandé, je ne vous prendrai pas comme élève tant que je n'aurai pas vu votre vraie force. Vous devez réussir le test.<br><br>Vous devez tuer les monstres puissants dans la Jungle Sacré pour prouver votre valeur.",
 	"es": "",
 	"zh-cn": "虽然施莱因推荐了你,但在我看到你真实能力之前,我不会把你当成我的学生.你必须通过考验.<br><br>为了证明自己的价值,你必须在圣墓原野中杀死强大的怪物.",
@@ -1893,7 +1893,7 @@ locale["quest.14002.texts.objective"] = {
 	"id": ""
 };
 locale["quest.14002.texts.description"] = {
-	"en": "There are so many of them! But that wont stop me, i can't Afford to give up this close!",
+	"en": "There are so many of them! But that wont stop me, I can't Afford to give up this close!",
 	"fr": "Il y en a tellement ! Mais cela ne m'arrêtera pas, je ne peux pas me permettre d'abandonner si près du but !",
 	"es": "",
 	"zh-cn": "他们太多了！但这不会阻止我，我不能放弃,这么近的距离!",
@@ -1912,7 +1912,7 @@ locale["quest.14002.texts.description"] = {
 	"id": ""
 };
 locale["quest.14002.texts.returnPopupMain"] = {
-	"en": "The further we go, the darker it gets... You don't see it? Something is lurking deep in the twisted woods, i can feel it!",
+	"en": "The further we go, the darker it gets... You don't see it? Something is lurking deep in the twisted woods, I can feel it!",
 	"fr": "Plus nous avançons, plus il fait sombre... Tu ne le vois pas ? Quelque chose se cache au fond des bois tordus, je le sens !",
 	"es": "",
 	"zh-cn": "我们走得越远，天就越黑... 你没看到吗？有东西潜伏在树林深处,我能感觉到!",
@@ -1989,7 +1989,7 @@ locale["quest.14003.texts.description"] = {
 	"id": ""
 };
 locale["quest.14003.texts.returnPopupMain"] = {
-	"en": "We are almost at the end of the court, but i fear we won't be able to defeat what's comming deep in the woods...",
+	"en": "We are almost at the end of the court, but I fear we won't be able to defeat what's comming deep in the woods...",
 	"fr": "Nous sommes presque au bout de la cour, mais je crains que nous ne soyons pas en mesure de vaincre ce qui se prépare au fond des bois...",
 	"es": "",
 	"zh-cn": "我们即将到达宫廷的尽头，但我担心我们无法战胜森林深处即将到来的敌人...",
@@ -2066,7 +2066,7 @@ locale["quest.14004.texts.description"] = {
 	"id": ""
 };
 locale["quest.14004.texts.returnPopupMain"] = {
-	"en": "I can't, it's too much, i must leave! Retreat! Retreat! Let's go back to the entrance!",
+	"en": "I can't, it's too much, I must leave! Retreat! Retreat! Let's go back to the entrance!",
 	"fr": "Je ne peux pas, c'est trop, je dois partir ! Retraite ! Retraite ! Retournons à l'entrée !",
 	"es": "",
 	"zh-cn": "我不能，这太过分了，我必须离开！撤退！撤退！我们回入口去!",
