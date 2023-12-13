@@ -366,7 +366,7 @@ locale["quest.4.texts.objective"] = {
 	"id": ""
 };
 locale["quest.4.texts.description"] = {
-	"en": "Good. Now i think you are good enough to challenge stronger monsters.</br></br>Those Baby Boars in Slime Plain always attack passengers. You need to teach them a lesson.",
+	"en": "Good. Now I think you are good enough to challenge stronger monsters.</br></br>Those Baby Boars in Slime Plain always attack passengers. You need to teach them a lesson.",
 	"fr": "Bien, maintenant je suis rassuré que tu puisses défier des monstres plus puissants.<br><br>Ces petits sangliers de la Plaine des Silmes attaquent toujours les passants. Vous devez leur apprendre une leçon.",
 	"es": "",
 	"zh-cn": "很好.现在我认为你有能力挑战更强的怪物了.</br></br>史莱姆平原上的小野猪总是攻击旅客.你需要给他们一个教训.",
@@ -385,7 +385,7 @@ locale["quest.4.texts.description"] = {
 	"id": ""
 };
 locale["quest.4.texts.returnPopupMain"] = {
-	"en": "Ah! What's about that wound! I am so sorry i shouldn't let you go alone. It is my fault.</br>Put this on, it will protect you.",
+	"en": "Ah! What's about that wound! I am so sorry I shouldn't let you go alone. It is my fault.</br>Put this on, it will protect you.",
 	"fr": "Oh! Comment t'es-tu fait cette blessure ? Je suis désolé, je n'aurais pas dû te laisser partir seul, c'est ma faute.<br>Met cette armure, elle te protègera.",
 	"es": "",
 	"zh-cn": "啊!你受伤了! 很抱歉,我不该让你独自前去.这是我的错.</br>带上这个,它会保护你的.",
@@ -1289,7 +1289,7 @@ locale["quest.15.texts.objective"] = {
 	"id": ""
 };
 locale["quest.15.texts.description"] = {
-	"en": "Don't ask me where do those damn fish come from. I don't care! What i really want to do is to kick them back into the water.",
+	"en": "Don't ask me where do those damn fish come from. I don't care! What I really want to do is to kick them back into the water.",
 	"fr": "Ne me demandez pas d'où viennent ces satanés poissons. Je m'en fiche! Ce que je veux vraiment faire, c'est de les repousser dans l'eau.",
 	"es": "",
 	"zh-cn": "别问我那些该死的鱼来自哪里.我不在乎!我真正想做的是把它们踢回水里.",
@@ -1770,7 +1770,7 @@ locale["quest.21.texts.objective"] = {
 	"id": ""
 };
 locale["quest.21.texts.description"] = {
-	"en": "The more powerful you are, the more duties you need to take. Now we have a dangerous task for you to complete. Why you? because everyone i sent before you is dead. I am pretty sure you have better luck than others.",
+	"en": "The more powerful you are, the more duties you need to take. Now we have a dangerous task for you to complete. Why you? because everyone I sent before you is dead. I am pretty sure you have better luck than others.",
 	"fr": "Plus vous êtes puissant, plus vous devez assumer de tâches. Maintenant, nous avons une tâche dangereuse à vous faire accomplir. Pourquoi vous? Parce que chaque personne que j'ai envoyé avant vous est morte. Je suis sûr que vous aurez plus de chances que les autres.",
 	"es": "",
 	"zh-cn": "能力越大责任越大. 现在有一件危险的任务需要你去完成. 为什么是你? 因为之前的人都死了. 我敢肯定你的运气比别人好.",
@@ -1789,7 +1789,7 @@ locale["quest.21.texts.description"] = {
 	"id": ""
 };
 locale["quest.21.texts.returnPopupMain"] = {
-	"en": "Like i told you, you have better luck than others.",
+	"en": "Like I told you, you have better luck than others.",
 	"fr": "Comme je te l'ai dit, tu as plus de chances que les autres.",
 	"es": "",
 	"zh-cn": "就像我说的,你的运气比别人好.",
@@ -2943,7 +2943,7 @@ locale["quest.37.texts.objective"] = {
 	"id": ""
 };
 locale["quest.37.texts.description"] = {
-	"en": "Everything is prepared, and i will start my ritual. Go to the altar and pray. It can bring James back.",
+	"en": "Everything is prepared, and I will start my ritual. Go to the altar and pray. It can bring James back.",
 	"fr": "Tout est prêt, je vais démarrer le rituel. Allez à l'autel et priez. Cela pourrait ramener James à la vie.",
 	"es": "",
 	"zh-cn": "一切都准备就绪,即将开始我的仪式.到祭坛前去祈祷吧.它可以把杰姆斯带回来.",
@@ -3558,7 +3558,7 @@ locale["quest.45.texts.objective"] = {
 	"id": ""
 };
 locale["quest.45.texts.description"] = {
-	"en": "I'm the quest agent, people in the city often come to me if they need something, then i find the risk-takers who need spare cash to deal with these requests. Do you want to have a try?",
+	"en": "I'm the quest agent, people in the city often come to me if they need something, then I find the risk-takers who need spare cash to deal with these requests. Do you want to have a try?",
 	"fr": "Je suis l'agent de quête, les gens de la ville viennent souvent me voir s'ils ont besoin de quelque chose, alors je trouve les preneurs de risques qui ont besoin d'argent pour faire face à ces demandes. Tu veux essayer?",
 	"es": "",
 	"zh-cn": "我是任务代理人,城里的人如果需要什么东西都会来找我,然后我会找到缺钱的冒险者来处理这些请求.你想试试吗？",
@@ -3654,7 +3654,7 @@ locale["quest.46.texts.objective"] = {
 	"id": ""
 };
 locale["quest.46.texts.description"] = {
-	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Mirelia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but i don't trust them, that's why i'm asking you.",
+	"en": "Do you know the organization of <i>Monster Hunters</i>? It does not belong to any particular country, but it is an organization that spans the entire Mirelia continent. They are mercenaries specializing in hunting demons. In order to resist demons from Harlan, the King has hired some Monster Hunters, but I don't trust them, that's why i'm asking you.",
 	"fr": "Connaissez-vous l'organisation de <i>Chasseurs de Monstres</i>? Il n'appartient à aucun pays en particulier, mais c'est une organisation qui s'étend sur tout le continent Mirelia. Ce sont des mercenaires spécialisés dans la chasse aux démons. Afin de résister aux démons d'Harlan, le Roi a engagé des chasseurs de monstres, mais je ne leur fais pas confiance, c'est pourquoi je vous le demande.",
 	"es": "",
 	"zh-cn": "你知道<i>猎魔</i>组织吗？它不属于任何国家,但它是一个横跨整个米雷利亚大陆的组织.他们是专门猎杀恶魔的雇佣兵.为了抵抗来自哈兰的恶魔,国王雇佣了一些猎魔人,但我不信任他们,这就是为什么我要问你的原因.",
@@ -3885,7 +3885,7 @@ locale["quest.49.texts.objective"] = {
 	"id": ""
 };
 locale["quest.49.texts.description"] = {
-	"en": "We have found weird creatures in the caves, a wax monsters. We are not sure if they are part of the demon legion. Now, i wish you can go scout a bit. Found out what those monsters are!",
+	"en": "We have found weird creatures in the caves, a wax monsters. We are not sure if they are part of the demon legion. Now, I wish you can go scout a bit. Found out what those monsters are!",
 	"fr": "Nous avons trouvé des créatures étranges dans les grottes, des monstres de cire. Nous ne savons pas s'ils font partie de la légion des démons. Maintenant, j'aimerais que vous puissiez faire un peu de repérage. Découvrez ce que sont ces monstres !",
 	"es": "",
 	"zh-cn": "我们在矿洞中发现了奇怪的生物,一种蜡状怪物.我们不确定他们是不是恶魔军团的一员.现在,我希望你能去侦察一下.找出那些怪物是什么!",
@@ -4654,7 +4654,7 @@ locale["quest.58.texts.objective"] = {
 	"id": ""
 };
 locale["quest.58.texts.description"] = {
-	"en": "Thank you for bringing back my purse! There were too many of them, or I wouldn't have lost it! Anyway, i must teach them a lesson! I would appreciate if you can help me beat the bandits. I think Quinsto also wants to to that.",
+	"en": "Thank you for bringing back my purse! There were too many of them, or I wouldn't have lost it! Anyway, I must teach them a lesson! I would appreciate if you can help me beat the bandits. I think Quinsto also wants to to that.",
 	"fr": "Merci de m'avoir rapporté mon porte-monnaie! Il y en avait trop, je ne l'aurais pas perdu autrement! Enfin bref, je dois leur apprendre une leçon! J'apprécierais si vous pouviez m'aider à battre les bandits. Je crois que Quinsto veut faire la même chose.",
 	"es": "",
 	"zh-cn": "谢谢你带回我的钱包!强盗太多了,否则我也不会丢失它!无论如何,我必须给他们一个教训!如果你能帮我打败强盗,我将不胜感激.我想昆斯托也想这么做.",
@@ -5058,7 +5058,7 @@ locale["quest.63.texts.objective"] = {
 	"id": ""
 };
 locale["quest.63.texts.description"] = {
-	"en": "According to your performance here, i don't agree with Horay at all, you're a young man with real strength! I think Horay just thought you're a little young and wanted to make you have more training. Now you can go back, and I'll tell Horay my thoughts.",
+	"en": "According to your performance here, I don't agree with Horay at all, you're a young man with real strength! I think Horay just thought you're a little young and wanted to make you have more training. Now you can go back, and I'll tell Horay my thoughts.",
 	"fr": "D'après ta performance ici, je ne suis pas du tout d'accord avec Horay, tu es un jeune homme avec une vraie force ! Je pense que Horay pensait juste que tu étais un peu jeune et voulait que tu t'entraînes davantage. Maintenant, vous pouvez revenir en arrière, et je dirai à Horay mes pensées.",
 	"es": "",
 	"zh-cn": "以你在这的表现来看,我完全不同意荷瑞的观点,你是一个有实力的年轻人!我想荷瑞只是觉得你有点年轻,想让你得到更多的锻炼.现在你可以回去了,我会告诉荷瑞我的观点.",
@@ -5924,7 +5924,7 @@ locale["quest.74.texts.objective"] = {
 	"id": ""
 };
 locale["quest.74.texts.description"] = {
-	"en": "I have been so busy with all the new orders that i only just noticed that the Celebeam has just run out. Could you help me get some? I need to get back to work as soon as possible.",
+	"en": "I have been so busy with all the new orders that I only just noticed that the Celebeam has just run out. Could you help me get some? I need to get back to work as soon as possible.",
 	"fr": "J'ai été tellement occupé avec toutes ces nouvelles commandes que je viens tout juste de remarquer que mon stock de Celebeam va être épuisé. Pourriez-vous m'aider à en récupérer un peu? Je dois reprendre le travail aussi vite que possible.",
 	"es": "",
 	"zh-cn": "我一直忙于所有新订单,才注意到魔晶已经用完了.你能帮我买一些吗？我需要尽快回去工作.",
@@ -6078,7 +6078,7 @@ locale["quest.76.texts.objective"] = {
 	"id": ""
 };
 locale["quest.76.texts.description"] = {
-	"en": "It's been getting cold recently. James is working as the apprentice of Master Kugarn. Nani was worried about him and ask me to make him a cloak. I've collected a lots of materials, but i need a base to work on. Can you bring me a rainbow cloak please?",
+	"en": "It's been getting cold recently. James is working as the apprentice of Master Kugarn. Nani was worried about him and ask me to make him a cloak. I've collected a lots of materials, but I need a base to work on. Can you bring me a rainbow cloak please?",
 	"fr": "Il fait froid depuis peu. James travaille comme apprenti de Maître Kugarn. Nani s'est inquiétée pour lui et m'a demandé de lui faire une cape. J'ai rassemblé beaucoup de matériaux, mais j'ai besoin d'une base sur laquelle travailler. Pouvez-vous m'apporter une horloge arc-en-ciel s'il vous plaît?",
 	"es": "",
 	"zh-cn": "最近天气变冷了.杰姆斯是库加恩大师的学徒.娜尼很担心他,于是让我给他做一件斗篷.我已经收集了很多材料,但需要一个基础.你能给我带来一件彩虹披肩吗？",
@@ -6309,7 +6309,7 @@ locale["quest.79.texts.objective"] = {
 	"id": ""
 };
 locale["quest.79.texts.description"] = {
-	"en": "All my work did not help these workmates, but i Still want to thank you for your help! I want to think about which part is wrong. Maybe Master Kugarn knows the problem. You can go back now, thanks again.",
+	"en": "All my work did not help these workmates, but I Still want to thank you for your help! I want to think about which part is wrong. Maybe Master Kugarn knows the problem. You can go back now, thanks again.",
 	"fr": "Tout mon travail n'a pas aidé ces collègues de travail, mais je tiens quand même à vous remercier pour votre aide! Je veux réfléchir à la partie qui ne va pas. Peut-être que Maître Kugarn connaît le problème. Vous pouvez partir maintenant, encore merci.",
 	"es": "",
 	"zh-cn": "我所有的工作都没有帮助到这些同事,但我还是要感谢你们的帮助!我要想想什么地方错了.也许库加恩大师知道这个问题.你现在可以回去了,再次感谢.",
@@ -7002,7 +7002,7 @@ locale["quest.88.texts.objective"] = {
 	"id": ""
 };
 locale["quest.88.texts.description"] = {
-	"en": "The priest in church wants to study the Zombie's flu's impact on the brain.<br><br>Cut the Zombie's head for me and i will find someone to take some sample back to Cain city for the priest.",
+	"en": "The priest in church wants to study the Zombie's flu's impact on the brain.<br><br>Cut the Zombie's head for me and I will find someone to take some sample back to Cain city for the priest.",
 	"fr": "Le prêtre de l'église veut étudier l'impact de la grippe zombie sur le cerveau.<br><br>Coupez la tête des zombies pour moi et je trouverai quelqu'un pour ramener un échantillon à la ville de Kane pour le prêtre.",
 	"es": "",
 	"zh-cn": "教堂的牧师想研究僵尸病毒对大脑的影响.<br><br>帮我割下僵尸的头,我会找人带一些样本回凯恩王城交给牧师.",
@@ -7464,7 +7464,7 @@ locale["quest.94.texts.objective"] = {
 	"id": ""
 };
 locale["quest.94.texts.description"] = {
-	"en": "Good morning, warrior! Puchius said that you're helping us build the outpost. You're a good man. Anyway, i don't think i can waste your kindness, can you help me get some Bear meat? I haven't had a good piece of meat for a few days!",
+	"en": "Good morning, warrior! Puchius said that you're helping us build the outpost. You're a good man. Anyway, I don't think I can waste your kindness, can you help me get some Bear meat? I haven't had a good piece of meat for a few days!",
 	"fr": "Bonjour, guerrier! Puchius a dit que vous nous aidiez à construire l'avant-poste. Tu es un homme bon. Quoi qu'il en soit, je ne pense pas que je puisse gaspiller votre gentillesse, pouvez-vous m'aider à obtenir de la viande d'ours? Je n'ai pas mangé un bon morceau de viande depuis quelques jours!",
 	"es": "",
 	"zh-cn": "早上好,勇士!普丘斯说你在帮我们建造前哨.你是个好人.不管怎样,我觉得不能浪费你的好意,你能帮我弄点熊肉吗？我已经好几天没吃肉了!",
@@ -7483,7 +7483,7 @@ locale["quest.94.texts.description"] = {
 	"id": ""
 };
 locale["quest.94.texts.returnPopupMain"] = {
-	"en": "That's just what i need!",
+	"en": "That's just what I need!",
 	"fr": "C'est exactement ce dont j'avais besoin!",
 	"es": "",
 	"zh-cn": "这正是我需要的!",
@@ -7637,7 +7637,7 @@ locale["quest.96.texts.objective"] = {
 	"id": ""
 };
 locale["quest.96.texts.description"] = {
-	"en": "Do not get in my way, I am very busy. If you have free time, please help me take care of the snakes that have the body of a chicken... No matter what it is, i do not like snakes ! ! !",
+	"en": "Do not get in my way, I am very busy. If you have free time, please help me take care of the snakes that have the body of a chicken... No matter what it is, I do not like snakes ! ! !",
 	"fr": "Ne me gêne pas, je suis très occupé. Si vous avez du temps libre, aide-moi à m'occuper des serpents qui ont un corps de poulet... Peu importe la forme qu'ils ont, je déteste les serpents ! ! !",
 	"es": "",
 	"zh-cn": "别妨碍我,我很忙.如果你有空的话,请帮我照顾那些有鸡身体的蛇... 不管是什么,我都不喜欢蛇!",
@@ -7656,7 +7656,7 @@ locale["quest.96.texts.description"] = {
 	"id": ""
 };
 locale["quest.96.texts.returnPopupMain"] = {
-	"en": "My efficiency can be improved if i do not bother with these snakes!",
+	"en": "My efficiency can be improved if I do not bother with these snakes!",
 	"fr": "Mon efficacité peut être améliorée si je ne me préoccupe pas de ces serpents!",
 	"es": "",
 	"zh-cn": "如果我不管这些蛇,我的效率是可以提高的!",
@@ -7733,7 +7733,7 @@ locale["quest.97.texts.description"] = {
 	"id": ""
 };
 locale["quest.97.texts.returnPopupMain"] = {
-	"en": "Nakro said it? Then i don't worry about it now, but there's another matter...",
+	"en": "Nakro said it? Then I don't worry about it now, but there's another matter...",
 	"fr": "Nakro l'a dit? Alors je n'aie plus à m'en soucier, mais il y a un autre problème...",
 	"es": "",
 	"zh-cn": "那克罗说的？那我不担心了,但还有一件事..",
@@ -8560,7 +8560,7 @@ locale["quest.107.texts.objective"] = {
 	"id": ""
 };
 locale["quest.107.texts.description"] = {
-	"en": "Err, I like chocolate sauce, and I need Mucus of Chocolate Slime. But i cannot beat them. If you help me stun them, it'll be easy for me to collect their sticky delicious Mucus.",
+	"en": "Err, I like chocolate sauce, and I need Mucus of Chocolate Slime. But I cannot beat them. If you help me stun them, it'll be easy for me to collect their sticky delicious Mucus.",
 	"fr": "Err, j'aime la sauce au chocolat, et j'ai besoin de Mucus of Chocolate Slime. Mais je ne peux pas les battre. Si vous m'aidez à les étourdir, il me sera facile de récupérer leur délicieux mucus collant.",
 	"es": "",
 	"zh-cn": "呃,我喜欢巧克力酱,我需要巧克力史莱姆的黏液.但我无法打败他们.如果你帮我把它们打晕,我就能很容易的收集到它们的粘液.",
@@ -8733,7 +8733,7 @@ locale["quest.109.texts.description"] = {
 	"id": ""
 };
 locale["quest.109.texts.returnPopupMain"] = {
-	"en": "After i remove the feather, who could know whose leg it is? Haha, i'll let them eat it!",
+	"en": "After I remove the feather, who could know whose leg it is? Haha, i'll let them eat it!",
 	"fr": "Après avoir retiré les plumes, qui pourront savoir à qui sont ces jambes? haha, je les laisserais les manger!",
 	"es": "",
 	"zh-cn": "退毛后,谁知道这是谁的腿呢？哈哈,我会让他们吃的!",
@@ -9137,7 +9137,7 @@ locale["quest.114.texts.objective"] = {
 	"id": ""
 };
 locale["quest.114.texts.description"] = {
-	"en": "<i>[These pirates are so ignorant. They even blocked my way out. I think i need to teach them some manners.]</i>",
+	"en": "<i>[These pirates are so ignorant. They even blocked my way out. I think I need to teach them some manners.]</i>",
 	"fr": "<i>[Ces pirates sont si ignorants. Ils m'ont même bloqué la sortie. Je pense que je dois leur apprendre quelques manières.]</i>",
 	"es": "",
 	"zh-cn": "<i>[这些海盗太无礼了.他们甚至挡住了我出去的路.我想我需要教他们一些礼仪.]</i>",
@@ -9637,7 +9637,7 @@ locale["quest.120.texts.description"] = {
 	"id": ""
 };
 locale["quest.120.texts.returnPopupMain"] = {
-	"en": "<b>{0}</b>, you are awesome. I want to be like you when i grow up.",
+	"en": "<b>{0}</b>, you are awesome. I want to be like you when I grow up.",
 	"fr": "<b>{0}</b>, tu es génial. Je veux devenir comme toi quand je serais plus grand.",
 	"es": "",
 	"zh-cn": "<b>{0}</b>, 你太棒了.我想长大后像你一样.",
@@ -9810,7 +9810,7 @@ locale["quest.122.texts.description"] = {
 	"id": ""
 };
 locale["quest.122.texts.returnPopupMain"] = {
-	"en": "Yes, i tried to find you.",
+	"en": "Yes, I tried to find you.",
 	"fr": "Oui, je vous cherchais.",
 	"es": "",
 	"zh-cn": "是的,我试着找过你.",
@@ -11523,7 +11523,7 @@ locale["quest.144.texts.objective"] = {
 	"id": ""
 };
 locale["quest.144.texts.description"] = {
-	"en": "You want to enter the city? Be careful, it's not safe there. Muradin was built on the ruins of the Ancient Byron City. It's usually safe, but i don't know what happened, someone said the dead underground was awakened by a mysterious strength!",
+	"en": "You want to enter the city? Be careful, it's not safe there. Muradin was built on the ruins of the Ancient Byron City. It's usually safe, but I don't know what happened, someone said the dead underground was awakened by a mysterious strength!",
 	"fr": "Vous voulez entrer dans la ville? Attention, ce n'est pas sûr là-bas. Muradin a été construit sur les ruines de l'ancienne ville de Byron. C'est sûr en temps normal, mais je ne sais pas ce qui s'est passé, quelqu'un a dit que les morts avaient été réveillés par une force mystérieuse!",
 	"es": "",
 	"zh-cn": "你想进城吗？小心,那里不安全.穆拉丁建在拜伦古城的废墟上.通常是安全的,但我不知道发生了什么,有人说地下的死人被一种神秘的力量唤醒了!",
@@ -11831,7 +11831,7 @@ locale["quest.148.texts.objective"] = {
 	"id": ""
 };
 locale["quest.148.texts.description"] = {
-	"en": "We have to go deeper. From now on, none of the archeologists has ever gone this far. Pray to <i>Bur</i>, adventurer, i hope we won't get cursed.",
+	"en": "We have to go deeper. From now on, none of the archeologists has ever gone this far. Pray to <i>Bur</i>, adventurer, I hope we won't get cursed.",
 	"fr": "Nous devons aller plus loin. Désormais, aucun des archéologues n'est jamais allé aussi loin. Priez <i>Bur</i>, aventurier, j'espère que nous ne serons pas maudits.",
 	"es": "",
 	"zh-cn": "我们必须更深入.现在起,从未有考古学家走得这么远.向<i>瓦恩</i>祈祷,冒险者,我希望我们不会被诅咒.",
@@ -13390,7 +13390,7 @@ locale["quest.168.texts.description"] = {
 	"id": ""
 };
 locale["quest.168.texts.returnPopupMain"] = {
-	"en": "You're way tougher than i could ever have expected. A surprise to be sure, but a welcome one!",
+	"en": "You're way tougher than I could ever have expected. A surprise to be sure, but a welcome one!",
 	"fr": "Tu es bien plus coriace que je ne l'aurais jamais imaginé. Une surprise certes, mais bienvenue!",
 	"es": "",
 	"zh-cn": "你比我想象的要坚强的多。这的确是一个惊喜，但也是一个值得欢迎的惊喜!",
@@ -14141,7 +14141,7 @@ locale["quest.178.texts.objective"] = {
 	"id": ""
 };
 locale["quest.178.texts.description"] = {
-	"en": "This is our last target, then we got to get out before we anger the master of this place. Believe me, i already saw him once, you don't want to meet him.",
+	"en": "This is our last target, then we got to get out before we anger the master of this place. Believe me, I already saw him once, you don't want to meet him.",
 	"fr": "C'est notre dernière cible, après on devra partir avant de mettre en colère le maître de ces lieux. Crois-moi, je l'ai déjà vu une fois, tu ne veut pas le rencontrer.",
 	"es": "",
 	"zh-cn": "这是我们的最后一个目标，我们必须在激怒这个地方的主人之前离开。相信我，我已经见过他一次了，你不会想见他的。",
@@ -14526,7 +14526,7 @@ locale["quest.183.texts.objective"] = {
 	"id": ""
 };
 locale["quest.183.texts.description"] = {
-	"en": "So it was true. I am terrified of the implications this news has. Some guard reported minutes ago that a strong creature got out of the Uncharted Forest. He said a plant came to life and almost killed him. I didn't want to believe it, but now, i have no choice but to face the truth. Please go and take care of this while I take some precautions for the city's sake.",
+	"en": "So it was true. I am terrified of the implications this news has. Some guard reported minutes ago that a strong creature got out of the Uncharted Forest. He said a plant came to life and almost killed him. I didn't want to believe it, but now, I have no choice but to face the truth. Please go and take care of this while I take some precautions for the city's sake.",
 	"fr": "C'était donc vrai. Je suis terrifié par les implications de cette nouvelle. Un garde a rapporté il y a quelques minutes avoir rencontré une créature terrifiante sortants de la Forêt Inexplorée. Il a dit qu'une plante s'est animée et a failli le tuer. Je ne voulais pas le croire, mais maintenant, je n'ai pas d'autre choix que de faire face à la vérité. S'il vous plaît, allez-y et occupez-vous de ça pendant que je prends des précautions pour le bien de la ville.",
 	"es": "",
 	"zh-cn": "原来是真的。我很害怕这个消息的影响。几分钟前，一个卫兵报告说，有一个强大的生物从未知森林里出来了。他说一株植物活了过来，差点要了他的命。我本不想相信，但现在，我别无选择，只能面对现实。请你去处理这件事，同时为了这个城市我会采取一些预防措施。",
@@ -14911,7 +14911,7 @@ locale["quest.188.texts.objective"] = {
 	"id": ""
 };
 locale["quest.188.texts.description"] = {
-	"en": "I'm trying to go deeper in the woods, but I never could go really deep before i get overwhelmed by their number. I'm trying to find why this forest that was so peaceful a few decade ago turned out to be so full of evil. The trees themselves are trying to kill us. Can you help me clean the way to the deepest part of this forest?",
+	"en": "I'm trying to go deeper in the woods, but I never could go really deep before I get overwhelmed by their number. I'm trying to find why this forest that was so peaceful a few decade ago turned out to be so full of evil. The trees themselves are trying to kill us. Can you help me clean the way to the deepest part of this forest?",
 	"fr": "J'essaie de m'enfoncer plus loin dans cette forêt, mais je fini toujours submergé par leur nombre. J'essaie de comprendre pourquoi cette forêt qui était si paisible il y a quelques décennies est devenue si maléfique. Les arbres eux-mêmes essaient de nous tuer. Pouvez-vous m'aider à nettoyer le chemin vers le coeur cette forêt ?",
 	"es": "",
 	"zh-cn": "我试图深入森林，但在被它们的数量所淹没之前，我从未真正深入过。我试图找到为什么这片十年前还如此宁静的森林会变得如此充满邪恶。树本身就想杀死我们。你能帮我找到通往森林深处的路吗？",
@@ -15257,7 +15257,7 @@ locale["quest.192.texts.objective"] = {
 	"id": ""
 };
 locale["quest.192.texts.description"] = {
-	"en": "While i try to find a solution for this whole situation, please continue to clean the place of this corruption. It will both keep us safe, and it will help containing the plague!<br><br>Go deeper in the forest, toward north east and kill everything that comes to you!",
+	"en": "While I try to find a solution for this whole situation, please continue to clean the place of this corruption. It will both keep us safe, and it will help containing the plague!<br><br>Go deeper in the forest, toward north east and kill everything that comes to you!",
 	"fr": "Pendant que j'essaie de trouver une solution à cette situation, continuez à nettoyer la place de cette corruption. Cela nous gardera en sécurité, et aidera à contenir la peste !<br><br>Allez plus loin dans la forêt, vers le nord-est et tuez tout ce qui vous tombe dessus !",
 	"es": "",
 	"zh-cn": "当我试图找到解决整个情况的办法时，请继续清理这个地方的腐蚀。这既能保证我们的安全，也能帮助控制瘟疫！<br><br>往森林深处走，往东北方向走，杀光所有来找你的人！",
@@ -15276,7 +15276,7 @@ locale["quest.192.texts.description"] = {
 	"id": ""
 };
 locale["quest.192.texts.returnPopupMain"] = {
-	"en": "Thanks for the help, but i feel like something is missing.",
+	"en": "Thanks for the help, but I feel like something is missing.",
 	"fr": "Merci, mais j'ai l'impression que quelque chose manque.",
 	"es": "",
 	"zh-cn": "感谢您的帮助，但我感觉还缺少了一些东西。",
@@ -15430,7 +15430,7 @@ locale["quest.194.texts.description"] = {
 	"id": ""
 };
 locale["quest.194.texts.returnPopupMain"] = {
-	"en": "We made it! Already i can see some trees near the altar looking more alive! it will take time to propagate to all the forest, but this gives me hope! Thank you a lot!",
+	"en": "We made it! Already I can see some trees near the altar looking more alive! it will take time to propagate to all the forest, but this gives me hope! Thank you a lot!",
 	"fr": "Nous avons réussi ! Je peux déjà voir certains arbres près de l'autel qui semblent plus vivants ! Cela prendra du temps pour se propager à toute la forêt, mais cela me donne de l'espoir ! Merci beaucoup !",
 	"es": "",
 	"zh-cn": "我们成功了！我已经看到祭坛附近的一些树木变得更有生机了！向整个森林传播还需要时间，但这给了我希望！非常感谢！",
@@ -15911,7 +15911,7 @@ locale["quest.200.texts.description"] = {
 	"id": ""
 };
 locale["quest.200.texts.returnPopupMain"] = {
-	"en": "Wow, interesting. Just looking at it, without even looking closer into it, i can already see that it is way more infectious than the plants in the forest. And the infection has spread to the spores and degenerated the new fungi that have grown from it.",
+	"en": "Wow, interesting. Just looking at it, without even looking closer into it, I can already see that it is way more infectious than the plants in the forest. And the infection has spread to the spores and degenerated the new fungi that have grown from it.",
 	"fr": "Wow, c'est intéressant. Rien qu'en le regardant, sans même y regarder de plus près, je vois déjà qu'il est bien plus infectieux que les plantes de la forêt. Et l'infection s'est propagée aux spores et a fait dégénérer les nouveaux champignons qui en sont issus.",
 	"es": "",
 	"zh-cn": "哇，有意思。仅仅看了一眼，甚至没有仔细观察，我就已经看出它比森林里的植物更具传染性。感染已经扩散到孢子上，并使从它身上生长出来的新真菌退化。",
@@ -16065,7 +16065,7 @@ locale["quest.202.texts.objective"] = {
 	"id": ""
 };
 locale["quest.202.texts.description"] = {
-	"en": "I hear the sound of a creature i hoped i never saw again from here. It was a Judge of Death wasn't it? Ok, with the knowledge I gathered on them along time, i can tell they will be weaker if we free the souls that are near him, and there are some, of couse, or it wouldn't stay here, come on, that's common knowledge. ",
+	"en": "I hear the sound of a creature I hoped I never saw again from here. It was a Judge of Death wasn't it? Ok, with the knowledge I gathered on them along time, I can tell they will be weaker if we free the souls that are near him, and there are some, of couse, or it wouldn't stay here, come on, that's common knowledge. ",
 	"fr": "J'entends le bruit d'une créature que j'espérais ne jamais revoir d'ici. C'était un juge de la mort, n'est-ce pas ? Ok, avec les connaissances que j'ai accumulées sur eux au fil du temps, je peux dire qu'ils seront plus faibles si nous libérons les âmes qui sont près de lui, et il y en a, bien sûr, sinon il ne resterait pas ici, allez, c'est de notoriété publique.",
 	"es": "",
 	"zh-cn": "我听到了一个生物的声音，我希望从此再也见不到它。这是一个死亡审判者，不是吗？好吧，根据我一段时间以来收集到的关于他们的知识，我可以看出，如果我们释放他附近的灵魂，他们会更弱，还有一些，或者它不会留在这里，来吧，这是常识。",
@@ -16296,7 +16296,7 @@ locale["quest.205.texts.objective"] = {
 	"id": ""
 };
 locale["quest.205.texts.description"] = {
-	"en": "The deal is simple, I got paid to clear this zone up until the maelstrom, but i hurt myself. My calf hurt a lot. If you wanna help me, go on and kill some Strong Eyetail Manticore while I take care of the weaker one. And thanks!",
+	"en": "The deal is simple, I got paid to clear this zone up until the maelstrom, but I hurt myself. My calf hurt a lot. If you wanna help me, go on and kill some Strong Eyetail Manticore while I take care of the weaker one. And thanks!",
 	"fr": "Le problème est simple, j'ai été payé pour nettoyer cette zone jusqu'au maelström, mais je me suis blessé. Mon mollet me fait très mal. Si vous voulez m'aider, allez-y et tuez quelques Strong Eyetail Manticore pendant que je m'occupe du plus faible. Et merci !",
 	"es": "",
 	"zh-cn": "交易很简单，我拿钱来清理这个区域直到大漩涡，但我伤到了自己。我的小腿伤得很重。如果你想帮我，就去杀几只强眼尾沙蝎，我来对付那些弱小的。谢谢！",
@@ -16450,7 +16450,7 @@ locale["quest.207.texts.objective"] = {
 	"id": ""
 };
 locale["quest.207.texts.description"] = {
-	"en": "Ho, I almost forgot, Bruce sent a letter. He hired a specialist with the wise advice of Monri. He is already in the <i>Mutant Jungle</i>.<br><br>Ho and while you are at it, can you clean some more of those monsters? Just to be sure the deal is done, i didn't take any note when i got hired.",
+	"en": "Ho, I almost forgot, Bruce sent a letter. He hired a specialist with the wise advice of Monri. He is already in the <i>Mutant Jungle</i>.<br><br>Ho and while you are at it, can you clean some more of those monsters? Just to be sure the deal is done, I didn't take any note when I got hired.",
 	"fr": "Ho, j'allais oublier, Bruce a envoyé une lettre. Il a engagé un spécialiste avec les conseils avisés de Monri. Il est déjà dans la <i>Jungle Mutante</i>.<br><br>Et pendant que vous y êtes, pouvez-vous nettoyer un peu plus ces monstres ? Juste pour être sûr que l'affaire soit bien cloturé, je n'ai pris aucune note quand j'ai été embauché.",
 	"es": "",
 	"zh-cn": "哦，我差点忘了，布鲁斯寄来了一封信。他在莫里的建议下雇了一个专家。他已经在 <i>变异之林</i>里了。<br><br>哦，当你在这的时候，你能再清理一些那些怪物吗？为了确保交易完成，我被雇佣时没有做任何记录。",
@@ -18429,7 +18429,7 @@ locale["quest.228.texts.objective"] = {
 	"id": ""
 };
 locale["quest.228.texts.description"] = {
-	"en": "I know we have some starfishes that invaded a bit the shores of letin, but thos ones seem to be much stronger. They are maybe infused with more mana? I don't know. But i want to try them in some potions for sure!",
+	"en": "I know we have some starfishes that invaded a bit the shores of letin, but thos ones seem to be much stronger. They are maybe infused with more mana? I don't know. But I want to try them in some potions for sure!",
 	"fr": "En plus de l’offrande, nous devons également rassembler des matériaux pour notre alchimiste. C'est lui qui fabrique toutes nos potions, et rassembler les matériaux commence à être trop difficile pour nous. Si vous pouvez nous aider à rassembler des ressources tout en récoltant des cadeaux pour la reine, nous aurons peut-être une chance de survivre.",
 	"es": "",
 	"zh-cn": "我知道我们有一些星鱼入侵了莱丁海岸，但这些星鱼似乎要强大得多。它们可能注入了更多的法力？我不知道。但我肯定想在一些药剂中试试！",
@@ -19410,7 +19410,7 @@ locale["quest.240.texts.objective"] = {
 	"id": ""
 };
 locale["quest.240.texts.description"] = {
-	"en": "I never saw grey shark in this city. I'm sure they've been bewitched by these octopuses! We have to go further, we are almost at the queen's throne! This city will soon be ours again, i can feel it!",
+	"en": "I never saw grey shark in this city. I'm sure they've been bewitched by these octopuses! We have to go further, we are almost at the queen's throne! This city will soon be ours again, I can feel it!",
 	"fr": "Je n'ai jamais vu de requin gris dans cette ville. Je suis sûr que ces pieuvres les ont ensorcelés ! Il faut aller plus loin, nous sommes presque au trône de la reine ! Cette ville sera bientôt à nouveau la nôtre, je le sens !",
 	"es": "",
 	"zh-cn": "我从没在这座城市里见过灰鲨。我肯定它们被这些章鱼迷住了！我们得再往前走，就快到女王的宝座了!这座城市很快又会属于我们了，我能感觉到!",
