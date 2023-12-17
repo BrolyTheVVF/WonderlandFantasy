@@ -19583,8 +19583,8 @@ locale["quest.242.name"] = {
 	"id": ""
 };
 locale["quest.242.texts.objective"] = {
-	"en": "Finish the instance 60 <i>INSTANCE NAME</i>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100081'>Vika</span> in the <i>Siren City</i>.",
-	"fr": "Finir l'instance 60 <i>NOM INSTANCE</i>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100081'>Vika</span> dans la <i>Cité des sirènes</i>.",
+	"en": "Finish the instance 60 <i>God of the drowned</i>, then talk to <span class='text-link' data-target-type='npc' data-target-id='100081'>Vika</span> in the <i>Siren City</i>.",
+	"fr": "Finir l'instance 60 <i>Dieu des noyé</i>, puis parlez à <span class='text-link' data-target-type='npc' data-target-id='100081'>Vika</span> dans la <i>Cité des sirènes</i>.",
 	"es": "",
 	"zh-cn": "完成60副本 <i>[副本] 接近女王</i>, 然后去 <i>海妖之城</i>向 <span class='text-link' data-target-type='npc' data-target-id='100081'>维卡</span>汇报.",
 	"zh-tw": "",
