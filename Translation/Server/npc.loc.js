@@ -7753,6 +7753,44 @@ locale["npc.100081.interact.INSTANCE_60.answer.3"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100081.interact.INSTANCE_60.end.1"] = {
+	"en": "Well, we were too late, but at least, now they know we are not fooling around...",
+	"fr": "Nous sommes arrivés trop tard, mais au moins, ils savent maintenant que nous ne plaisantons pas...",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100081.interact.INSTANCE_60.end.2"] = {
+	"en": "This is really terrible. Bahamut is back! Join me back to Siren City, and we will figure out what to do next.",
+	"fr": "C'est vraiment terrible. Bahamut est de retour ! Rejoignez-moi à la Cité des sirènes, et nous verrons ce qu'il faut faire ensuite.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.300002.interact.baseText"] = {
 	"en": "This is a teleport crystal. It can teleport you in many places, if you are powerful enough.",
 	"fr": "Ceci est un cristal de téléportation. Il peut vous enmener dans plein d'endrois, si vous êtes assez puissant.",
