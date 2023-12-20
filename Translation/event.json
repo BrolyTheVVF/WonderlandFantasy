@@ -113,25 +113,6 @@
         "th":"",
         "id":"Intro"
     },
-    "system.events.enter-timeout":{
-        "en":"You have been kicked out of the event because you didn't join in time",
-        "fr":"Vous avez été éjecté de l'événement parce que vous ne l'avez pas rejoint à temps.",
-        "es":"",
-        "zh-cn":"",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
     "event.LAVA_CORE.title":{
         "en":"Lava Core X 10",
         "fr":"Coeur de lave X 10",
