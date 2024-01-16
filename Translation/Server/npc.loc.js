@@ -2761,7 +2761,7 @@ locale["npc.144.name"] = {
 
 locale["npc.145.name"] = {
 	"en": "Ice Slime",
-	"fr":"",
+	"fr":"Slime Gelé",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2780,7 +2780,7 @@ locale["npc.145.name"] = {
 };
 locale["npc.146.name"] = {
 	"en": "Ice Crab",
-	"fr":"",
+	"fr":"Crabe Gelé",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2799,7 +2799,7 @@ locale["npc.146.name"] = {
 };
 locale["npc.147.name"] = {
 	"en": "Snow Pirate",
-	"fr":"",
+	"fr":"Pirate des Neige",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2818,7 +2818,7 @@ locale["npc.147.name"] = {
 };
 locale["npc.148.name"] = {
 	"en": "Tundra Bear",
-	"fr":"",
+	"fr":"Ours de la Toundra",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2837,7 +2837,7 @@ locale["npc.148.name"] = {
 };
 locale["npc.149.name"] = {
 	"en": "Tundra Wolf",
-	"fr":"",
+	"fr":"Loup de la Toundra",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2856,7 +2856,7 @@ locale["npc.149.name"] = {
 };
 locale["npc.150.name"] = {
 	"en": "Snowman",
-	"fr":"",
+	"fr":"Bonhomme de neige",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2875,7 +2875,7 @@ locale["npc.150.name"] = {
 };
 locale["npc.151.name"] = {
 	"en": "Ice Bat",
-	"fr":"",
+	"fr":"Chauve-souris Gelé",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2894,7 +2894,7 @@ locale["npc.151.name"] = {
 };
 locale["npc.152.name"] = {
 	"en": "Ice Hartland",
-	"fr":"",
+	"fr":"Hartland Gelé",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2913,7 +2913,7 @@ locale["npc.152.name"] = {
 };
 locale["npc.153.name"] = {
 	"en": "Ice Spider",
-	"fr":"",
+	"fr":"Araignée Gelée",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2932,7 +2932,7 @@ locale["npc.153.name"] = {
 };
 locale["npc.154.name"] = {
 	"en": "Goliath",
-	"fr":"",
+	"fr":"Goliath",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2951,7 +2951,7 @@ locale["npc.154.name"] = {
 };
 locale["npc.155.name"] = {
 	"en": "Steel Apeman",
-	"fr":"",
+	"fr":"Singe d'Acier",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2970,7 +2970,7 @@ locale["npc.155.name"] = {
 };
 locale["npc.156.name"] = {
 	"en": "Ice Golem",
-	"fr":"",
+	"fr":"Golem Gelé",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -2989,7 +2989,7 @@ locale["npc.156.name"] = {
 };
 locale["npc.157.name"] = {
 	"en": "Snow Dragon",
-	"fr":"",
+	"fr":"Dragon des Neige",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3008,7 +3008,7 @@ locale["npc.157.name"] = {
 };
 locale["npc.158.name"] = {
 	"en": "Demoniac Guard",
-	"fr":"",
+	"fr":"Garde Démoniaque",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3027,7 +3027,7 @@ locale["npc.158.name"] = {
 };
 locale["npc.159.name"] = {
 	"en": "Demoniac Ranger",
-	"fr":"",
+	"fr":"Archer Démoniaque",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3046,7 +3046,7 @@ locale["npc.159.name"] = {
 };
 locale["npc.160.name"] = {
 	"en": "Skeleton Marksman",
-	"fr":"",
+	"fr":"Tireur d'élite Squelette",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3065,7 +3065,7 @@ locale["npc.160.name"] = {
 };
 locale["npc.161.name"] = {
 	"en": "Skeleton Soldier",
-	"fr":"",
+	"fr":"Soldat Squelette",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3084,7 +3084,7 @@ locale["npc.161.name"] = {
 };
 locale["npc.162.name"] = {
 	"en": "Skeleton Rider",
-	"fr":"",
+	"fr":"Cavalier Squelette",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3103,7 +3103,7 @@ locale["npc.162.name"] = {
 };
 locale["npc.163.name"] = {
 	"en": "Skeleton Wizard",
-	"fr":"",
+	"fr":"Sorcier Squelette",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3122,7 +3122,7 @@ locale["npc.163.name"] = {
 };
 locale["npc.164.name"] = {
 	"en": "Lesser Flesh Pincer",
-	"fr":"",
+	"fr":"Petit Pinceur de Chair",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3141,7 +3141,7 @@ locale["npc.164.name"] = {
 };
 locale["npc.165.name"] = {
 	"en": "Disgusting Bat",
-	"fr":"",
+	"fr":"Chauve-souris Dégoûtante",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
@@ -3160,7 +3160,7 @@ locale["npc.165.name"] = {
 };
 locale["npc.166.name"] = {
 	"en": "Tourmented Spirit",
-	"fr":"",
+	"fr":"Esprit Tourmenté",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
