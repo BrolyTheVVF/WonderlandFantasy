@@ -8767,6 +8767,25 @@ locale["npc.100047.interact.GOTO_CONTINENT_3"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100047.interact.GOTO_CONTINENT_5"] = {
+	"en": "Sail to Ice Shard Port (Lv 70)",
+	"fr": "Naviguer jusqu'au Port d'Éclats de Glace (Nv 70)",
+	"es": "Navega hacia el ??????????? (Nv 70)",
+	"zh-cn": "?????????(Lv 70)",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "Segel zum Hafen von ?????? (Lv 70)",
+	"jp": "",
+	"pt": "",
+	"vi": "Đi Thuyền Đến Cảng ?????? (Cấp 70)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100048.interact.QUEST_100_RECUIT_SAILOR"] = {
 	"en": "Recruit Sailor",
 	"fr": "Recruter le Marin",
