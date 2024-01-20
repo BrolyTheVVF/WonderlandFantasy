@@ -3177,6 +3177,120 @@ locale["npc.166.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.167.name"] = {
+	"en":"Renowned Engineer",
+	"fr":"Ingénieur de renom",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.168.name"] = {
+	"en":"Snowland Unicorn",
+	"fr":"Licorne des Terres Enneigées",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.169.name"] = {
+	"en":"Adult Frost Dragon",
+	"fr":"Dragon de Givre Adulte",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.170.name"] = {
+	"en":"Roland Spellsword",
+	"fr":"Roland Spellsword",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.171.name"] = {
+	"en":"Demoniac Leader",
+	"fr":"Leader démoniaque",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.172.name"] = {
+	"en":"Halo City Guard Captain",
+	"fr":"Capitaine de la garde de Halo",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {
