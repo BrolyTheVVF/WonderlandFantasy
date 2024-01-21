@@ -3291,6 +3291,25 @@ locale["npc.172.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.173.name"] = {
+	"en":"Gravekeeper",
+	"fr":"Gardien du Tombeau",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.10000.name"] = {
