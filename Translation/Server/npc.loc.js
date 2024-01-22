@@ -9135,6 +9135,25 @@ locale["npc.84.event.casting_skill_2"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.173.event.casting_skill_1"] = {
+	"en": "This is no place for mortals! Be gone, idiot!",
+	"fr": "Ce n'est pas un endroit pour les mortels ! Partez, idiots !",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.99001.event.casting_skill_1"] = {
 	"en": "Freeze your soul",
