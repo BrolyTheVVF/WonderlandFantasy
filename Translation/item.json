@@ -4737,7 +4737,7 @@
 	},
 	"item.2073.name": {
 		"en": "Virtue - Helmet",
-		"fr": "",
+		"fr": "Vertu - Casque",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4756,7 +4756,7 @@
 	},
 	"item.2074.name": {
 		"en": "Virtue - Armor",
-		"fr": "",
+		"fr": "Vertu - Armure",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4775,7 +4775,7 @@
 	},
 	"item.2075.name": {
 		"en": "Virtue - Boots",
-		"fr": "",
+		"fr": "Vertu - Bottes",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4794,7 +4794,7 @@
 	},
 	"item.2076.name": {
 		"en": "Virtue - Belt",
-		"fr": "",
+		"fr": "Vertu - Ceinture",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4813,7 +4813,7 @@
 	},
 	"item.2077.name": {
 		"en": "Virtue - Cape",
-		"fr": "",
+		"fr": "Vertu - Cape",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4832,7 +4832,7 @@
 	},
 	"item.2078.name": {
 		"en": "Vice - Weapon",
-		"fr": "",
+		"fr": "Vice - Arme",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4851,7 +4851,7 @@
 	},
 	"item.2079.name": {
 		"en": "Vice - Gauntlets",
-		"fr": "",
+		"fr": "Vice - Gants",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4870,7 +4870,7 @@
 	},
 	"item.2080.name": {
 		"en": "Vice - Ring",
-		"fr": "",
+		"fr": "Vice - Anneau",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4889,7 +4889,7 @@
 	},
 	"item.2081.name": {
 		"en": "Vice - Necklace",
-		"fr": "",
+		"fr": "Vice - Collier",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4908,7 +4908,7 @@
 	},
 	"item.2082.name": {
 		"en": "Sphinx - Necklace",
-		"fr": "",
+		"fr": "Sphinx - Collier",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4927,7 +4927,7 @@
 	},
 	"item.2083.name": {
 		"en": "Sphinx - Belt",
-		"fr": "",
+		"fr": "Sphinx - Ceinture",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4945,8 +4945,8 @@
 		"id": ""
 	},
 	"item.2084.name": {
-		"en": "Sphinx - Head",
-		"fr": "",
+		"en": "Sphinx - Helmet",
+		"fr": "Sphinx - Casque",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4965,7 +4965,7 @@
 	},
 	"item.2085.name": {
 		"en": "Marauder - Cape",
-		"fr": "",
+		"fr": "Maraudeur - Cape",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -4984,7 +4984,7 @@
 	},
 	"item.2086.name": {
 		"en": "Marauder - Armor",
-		"fr": "",
+		"fr": "Maraudeur - Armure",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5004,7 +5004,7 @@
 	
 	"item.2087.name": {
 		"en": "Spirit - Weapon",
-		"fr": "",
+		"fr": "Esprit - Arme",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5023,7 +5023,7 @@
 	},
 	"item.2088.name": {
 		"en": "Spirit - Gauntlets",
-		"fr": "",
+		"fr": "Esprit - Gants",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5042,7 +5042,7 @@
 	},
 	"item.2089.name": {
 		"en": "Spirit - Boots",
-		"fr": "",
+		"fr": "Esprit - Bottes",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5061,7 +5061,7 @@
 	},
 	"item.2090.name": {
 		"en": "Spirit - Necklace",
-		"fr": "",
+		"fr": "Esprit - Collier",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5080,7 +5080,7 @@
 	},
 	"item.2091.name": {
 		"en": "Spirit - Cape",
-		"fr": "",
+		"fr": "Esprit - Cape",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5099,7 +5099,7 @@
 	},
 	"item.2092.name": {
 		"en": "Spirit - Helmet",
-		"fr": "",
+		"fr": "Esprit - Casque",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5118,7 +5118,7 @@
 	},
 	"item.2093.name": {
 		"en": "Spirit - Armor",
-		"fr": "",
+		"fr": "Esprit - Armure",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5137,7 +5137,7 @@
 	},
 	"item.2094.name": {
 		"en": "Spirit - Belt",
-		"fr": "",
+		"fr": "Esprit - Ceinture",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5156,7 +5156,7 @@
 	},
 	"item.2095.name": {
 		"en": "Spirit - Ring",
-		"fr": "",
+		"fr": "Esprit - Anneau",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5176,7 +5176,7 @@
 	
 	"item.2096.name": {
 		"en": "Doomsday - Weapon",
-		"fr": "",
+		"fr": "Apocalypse - Arme",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5195,7 +5195,7 @@
 	},
 	"item.2097.name": {
 		"en": "Doomsday - Gauntlets",
-		"fr": "",
+		"fr": "Apocalypse - Gants",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5214,7 +5214,7 @@
 	},
 	"item.2098.name": {
 		"en": "Doomsday - Boots",
-		"fr": "",
+		"fr": "Apocalypse - Bottes",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5233,7 +5233,7 @@
 	},
 	"item.2099.name": {
 		"en": "Doomsday - Necklace",
-		"fr": "",
+		"fr": "Apocalypse - Collier",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5252,7 +5252,7 @@
 	},
 	"item.2100.name": {
 		"en": "Doomsday - Cape",
-		"fr": "",
+		"fr": "Apocalypse - Cape",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5271,7 +5271,7 @@
 	},
 	"item.2101.name": {
 		"en": "Doomsday - Helmet",
-		"fr": "",
+		"fr": "Apocalypse - Casque",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5290,7 +5290,7 @@
 	},
 	"item.2102.name": {
 		"en": "Doomsday - Armor",
-		"fr": "",
+		"fr": "Apocalypse - Armure",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5309,7 +5309,7 @@
 	},
 	"item.2103.name": {
 		"en": "Doomsday - Belt",
-		"fr": "",
+		"fr": "Apocalypse - Ceinture",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5328,7 +5328,7 @@
 	},
 	"item.2104.name": {
 		"en": "Doomsday - Ring",
-		"fr": "",
+		"fr": "Apocalypse - Anneau",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5348,7 +5348,7 @@
 	
 	"item.2105.name": {
 		"en": "Shalim - Weapon",
-		"fr": "",
+		"fr": "Shalim - Arme",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5367,7 +5367,7 @@
 	},
 	"item.2106.name": {
 		"en": "Shalim - Gauntlets",
-		"fr": "",
+		"fr": "Shalim - Gants",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5386,7 +5386,7 @@
 	},
 	"item.2107.name": {
 		"en": "Shalim - Boots",
-		"fr": "",
+		"fr": "Shalim - Bottes",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5405,7 +5405,7 @@
 	},
 	"item.2108.name": {
 		"en": "Shalim - Necklace",
-		"fr": "",
+		"fr": "Shalim - Collier",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5424,7 +5424,7 @@
 	},
 	"item.2109.name": {
 		"en": "Shalim - Cape",
-		"fr": "",
+		"fr": "Shalim - Cape",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5443,7 +5443,7 @@
 	},
 	"item.2110.name": {
 		"en": "Shalim - Helmet",
-		"fr": "",
+		"fr": "Shalim - Casque",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5462,7 +5462,7 @@
 	},
 	"item.2111.name": {
 		"en": "Shalim - Armor",
-		"fr": "",
+		"fr": "Shalim - Armure",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5481,7 +5481,7 @@
 	},
 	"item.2112.name": {
 		"en": "Shalim - Belt",
-		"fr": "",
+		"fr": "Shalim - Ceinture",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
@@ -5500,7 +5500,7 @@
 	},
 	"item.2113.name": {
 		"en": "Shalim - Ring",
-		"fr": "",
+		"fr": "Shalim - Anneau",
 		"es": "",
 		"zh-cn": "",
 		"zh-tw": "",
