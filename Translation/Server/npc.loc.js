@@ -9383,6 +9383,25 @@ locale["npc.99003.event.enrage"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99004.event.enrage"] = {
+	"en":"It's too late for you now, he lend me his power!",
+	"fr":"Il est trop tard pour vous, il m'a prêté son pouvoir !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 
