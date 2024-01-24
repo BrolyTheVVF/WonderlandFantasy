@@ -4436,6 +4436,25 @@ locale["npc.99004.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99004.notice.spawn"] = {
+	"en": "Kuroom calls for help! Gaia is about to be corrupted. She shouts: her power will soon be mine. You will all perish!",
+	"fr": "Kuroom lance un appel à l'aide! Gaia est sur le point de se faire corrompre. Elle s'écrie: sa puissance sera bientôt mienne. Vous périrez tous!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.99004.notice.death"] = {
 	"en": "Fearless warrior {0} offered the fatal blow against Gaia. Thank for their great contribution to Sufer Kingdom!",
 	"fr": "L'intrépide guerrier {0} à porté le coup fatal a Gaia. Merci pour leur grande contribution au Royaume de Sufer!",
@@ -9377,6 +9396,44 @@ locale["npc.99003.event.enrage"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "Ta quá mệt mỏi chơi đùa với ngươi rồi. Ngươi sẽ bị hành hạ đến khi ngươi cầu xin tha ta thứ thì thôi!",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99004.event.casting_skill_1"] = {
+	"en": "This is my favorite part, call me queen, and die!!!",
+	"fr": "C'est ma partie préférée, appelez-moi reine, et mourez !!!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99004.event.casting_skill_3"] = {
+	"en": "I call upon the power of the ethers! Be the armed arm of my anger! Let the cataclysm be unleashed!",
+	"fr": "Je fais appel à la puissance des éthers ! Soyez le bras armé de ma colère ! Que le cataclysme se déchaîne !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
 	"ar": "",
 	"it": "",
 	"pl": "",
