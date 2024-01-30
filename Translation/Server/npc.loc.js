@@ -4493,6 +4493,45 @@ locale["npc.99005.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99004.notice.spawn"] = {
+	"en": "Cain's bishop is ringing the city's bell, he sensed a corrupted aura emerged from the emperor's grave. He calls for your help!",
+	"fr": "L'évêque de Kane fait sonner la cloche de la ville, il a senti une aura corrompue émerger de la tombe de l'empereur. Il vous appelle à l'aide !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99004.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against the Soul of the Soul of the Corrupted Emperor. Cain's bishop will be forever in your debt!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal a l'Âme de l'Empereur Corrompu. L'évêque de Cain vous seras a jamais redevable !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.99006.name"] = {
 	"en": "Queen Nagar",
 	"fr": "Reine Nagar",
