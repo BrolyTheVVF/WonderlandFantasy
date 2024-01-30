@@ -4588,6 +4588,25 @@ locale["npc.99010.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99502.name"] = {
+	"en": "Corrupted General",
+	"fr": "Général corrompu",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
