@@ -9517,6 +9517,25 @@ locale["npc.99004.event.enrage"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.99005.event.enrage"] = {
+	"en":"The power of the thousands of souls killed here is now mine! Fear me, mortals!",
+	"fr":"Le pouvoir des milliers d'âmes tuées ici est maintenant mien ! Craignez-moi, mortels !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 
