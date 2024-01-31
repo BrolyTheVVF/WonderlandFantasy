@@ -9517,6 +9517,44 @@ locale["npc.99004.event.enrage"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.99005.event.starting_talk"] = {
+	"en":"Don't you fear death? Great, because I'm much worst!",
+	"fr":"Tu n'as pas peur de la mort ? Parfait, parce que je suis bien pire !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.99005.event.casting_skill_1"] = {
+	"en":"Go like the wind, faithful steed!",
+	"fr":"Va comme le vent, fidèle destrier !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 locale["npc.99005.event.enrage"] = {
 	"en":"The power of the thousands of souls killed here is now mine! Fear me, mortals!",
 	"fr":"Le pouvoir des milliers d'âmes tuées ici est maintenant mien ! Craignez-moi, mortels !",
