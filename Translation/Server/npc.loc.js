@@ -7584,6 +7584,44 @@ locale["npc.600011.name"] = {
 //** ***************************** **
 //** ****** NPC INTERACTION ****** **
 //** ***************************** **
+locale["npc.20041.interact.INSTANCE_70.end.1"] = {
+	"en": "I tried to become a strong adventurer like you, but I think this place was just too much for me...",
+	"fr": "J'ai essayé de devenir un aventurier aussi fort que vous, mais je crois que cet endroit est trop dangereux pour moi...",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20041.interact.INSTANCE_70.end.2"] = {
+	"en": "Thanks for saving me! I know you had more important things to do, but one day I'll be able to help you, I promise!",
+	"fr": "Merci de m'avoir sauvé ! Je sais que vous aviez des choses plus importantes à faire, mais un jour, je serais en mesure de vous aider, je vous le promets!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100001.interact.baseText"] = {
 	"en": "Greetings!",
 	"fr": "Bienvenue!",
