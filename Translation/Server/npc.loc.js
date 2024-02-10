@@ -7627,6 +7627,26 @@ locale["npc.100092.title"] = {
 	"th": "",
 	"id": ""
 };
+//Shouldn't be visible in game if the event is properly working
+locale["npc.100093.name"] = {
+	"en": "Chocobo",
+	"fr": "Chocobo",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Chocobo",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
