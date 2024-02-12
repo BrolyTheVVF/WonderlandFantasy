@@ -6782,6 +6782,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.challenges.DEVIL_TRANSPORT.description":{
+        "en":"Help Kuroom and his followers to bring goods in his new self declared territory.",
+        "fr":"Aidez Kuroom et ses partisans à apporter des marchandises dans son nouveau territoire autoproclamé.",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.ranking.title":{
         "en":"Ranking",
         "fr":"Classement",
