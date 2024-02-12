@@ -2527,6 +2527,63 @@ locale["system.events.RIGHTEOUS_ROBBER.mail.content"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.events.DEVIL_TRANSPORT.on.start"] = {
+	"en":"{0} Has started to transport goods at {1}",
+	"fr":"{0} A commencé à transporter des marchandises à {1}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.events.DEVIL_TRANSPORT.on.change_map"] = {
+	"en":"{0}'s goods convoy has arrived at {1}",
+	"fr":"Le convoi de marchandise de {0} est arrivé à {1}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["system.events.DEVIL_TRANSPORT.on.end"] = {
+	"en":"{0} successfully escorted its goods convoy",
+	"fr":"{0} a escorté avec succès son convoi de marchandises",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.spirit.none-equiped"] = {
 	"en":"You have no spirit equiped",
