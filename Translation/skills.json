@@ -4769,10 +4769,10 @@
         "id": ""
     },
     "skills.TMB_MURKY_RUSH.effect": {
-        "en": "Deploy an arcane seed at the targeted place. After 5 sec. inflicts damage to all targets within 72 yards, causing 200% damage and an additional 500 Skill damage. Also Silences targets in the next 2 sec. and deals 60 Holy damage.",
-        "fr": "Déploie une graine arcanique a l'endroit ciblé. Après 5sec, inflige des dégâts à toutes les cibles dans un rayon de 72 mètres, causant 200% de dégâts et 500 dégâts supplémentaires. Réduit les cibles au silence pendant 2 sec et inflige 60 de Dégâts Sacrée",
+        "en": "Deploy an arcane seed at the targeted place. After 5 sec. inflicts damage to all targets within 12 yards, causing 200% damage and an additional 500 Skill damage. Also Silences targets in the next 2 sec. and deals 60 Holy damage.",
+        "fr": "Déploie une graine arcanique a l'endroit ciblé. Après 5sec, inflige des dégâts à toutes les cibles dans un rayon de 12 mètres, causant 200% de dégâts et 500 dégâts supplémentaires. Réduit les cibles au silence pendant 2 sec et inflige 60 de Dégâts Sacrée",
         "es": "",
-        "zh-cn": "在目标位置部署一颗魔法种子，5秒后对72码范围内的所有目标造成200%的伤害并额外附加500点技能伤害.且接下来的2秒内使目标沉默，并造成60点神圣伤害. ",
+        "zh-cn": "在目标位置部署一颗魔法种子，5秒后对12码范围内的所有目标造成200%的伤害并额外附加500点技能伤害.且接下来的2秒内使目标沉默，并造成60点神圣伤害. ",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -4780,7 +4780,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Triển khai một hạt giống bí thuật ở nơi được chỉ định. Sau 5 giây. Gây Sát Thương lên tất cả các mục tiêu trong phạm vi 72 mét, gây ra 200% Sát Thương và 500 Sát Thương Kỹ Năng cộng thêm. Đồng thời Câm Lặng các mục tiêu trong 2 giây tiếp theo và gây 60 Công Kích Thần Thánh.",
+        "vi": "Triển khai một hạt giống bí thuật ở nơi được chỉ định. Sau 5 giây. Gây Sát Thương lên tất cả các mục tiêu trong phạm vi 12 mét, gây ra 200% Sát Thương và 500 Sát Thương Kỹ Năng cộng thêm. Đồng thời Câm Lặng các mục tiêu trong 2 giây tiếp theo và gây 60 Công Kích Thần Thánh.",
         "ar": "",
         "it": "",
         "pl": "",
