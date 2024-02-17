@@ -3730,6 +3730,101 @@ locale["npc.10020.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.10021.name"] = {
+	"en": "Feral Jellyfish",
+	"fr": "Méduse Sauvage",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10022.name"] = {
+	"en": "Bloody Shark",
+	"fr": "Requin Sanglant",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.10023.name"] = {
+	"en":"Octopus Spellcaster",
+	"fr":"Pieuvre Ensorceleuse",
+	"es":"",
+	"zh-cn":"章鱼施法者",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"Bạch Tuộc Phép Thuật",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10024.name"] = {
+	"en":"Battle Priestess",
+	"fr":"Prêtresse de Guerre",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10025.name"] = {
+	"en":"Nagar Champion",
+	"fr": "Champion Nagar",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Quán Quân Hải Yêu",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.20000.name"] = {
