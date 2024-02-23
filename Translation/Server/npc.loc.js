@@ -9681,6 +9681,25 @@ locale["npc.300002.interact.TELEPORT_CONTINENT_4"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.300002.interact.TELEPORT_CONTINENT_5"] = {
+	"en": "Teleport to Ice Shard Port (Lv 70)",
+	"fr": "Se téléporter jusqu'au Port d'Éclats de Glace (Nv 70)",
+	"es": "",
+	"zh-cn": "（70级）",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": " (Cấp 70)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.600000.interact.GAMBLE_500"] = {
 	"en": "Make a wish (500 Gold)",
