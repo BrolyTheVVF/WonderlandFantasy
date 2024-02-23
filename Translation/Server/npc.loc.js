@@ -9452,6 +9452,25 @@ locale["npc.100029.interact.GOBACK_CONTINENT_4"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100029.interact.GOBACK_CONTINENT_5"] = {
+	"en": "Go back to Remote Village (Lv 70)",
+	"fr": "Retourner au Village Isolé (Nv 70)",
+	"es": "",
+	"zh-cn": "???? (Lv 70)",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "???? (Cấp 70)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.100026.interact.GET_DAILY_BUR_QUEST"] = {
 	"en": "Get Blessing Quests",
