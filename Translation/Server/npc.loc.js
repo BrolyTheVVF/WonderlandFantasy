@@ -7533,10 +7533,10 @@ locale["npc.100087.title"] = {
 	"id": ""
 };
 locale["npc.100088.name"] = {
-	"en": "",
-	"fr": "",
+	"en": "Kras",
+	"fr": "Kras",
 	"es": "",
-	"zh-cn":"",
+	"zh-cn":"Kras",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -7544,7 +7544,7 @@ locale["npc.100088.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Kras",
 	"ar": "",
 	"it": "",
 	"pl": "",
