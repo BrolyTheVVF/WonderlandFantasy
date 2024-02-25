@@ -7495,10 +7495,10 @@ locale["npc.100086.title"] = {
 	"id": ""
 };
 locale["npc.100087.name"] = {
-	"en": "",
-	"fr": "",
+	"en": "Aviez",
+	"fr": "Aviez",
 	"es": "",
-	"zh-cn":"",
+	"zh-cn":"Aviez",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
@@ -7506,7 +7506,7 @@ locale["npc.100087.name"] = {
 	"de": "",
 	"jp": "",
 	"pt": "",
-	"vi": "",
+	"vi": "Aviez",
 	"ar": "",
 	"it": "",
 	"pl": "",
