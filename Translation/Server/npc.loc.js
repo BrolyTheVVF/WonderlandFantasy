@@ -4303,6 +4303,45 @@ locale["npc.20038.name"] = {
 	"id": ""
 };
 
+locale["npc.30020.name"] = {
+	"en": "Hozen Brutz",
+	"fr": "Hozen Brutz",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.30020.title"] = {
+	"en": "Great Thief",
+	"fr": "Grand Voleur",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.99001.name"] = {
 	"en": "Wizardry Lord",
 	"fr": "Seigneur de la Sorcellerie",
