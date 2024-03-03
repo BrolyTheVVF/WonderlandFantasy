@@ -4342,6 +4342,26 @@ locale["npc.30020.title"] = {
 	"id": ""
 };
 
+locale["npc.30501.title"] = {
+	"en": "Infant Unicorn Wolf",
+	"fr": "Bébé Licorne Loup",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.99001.name"] = {
 	"en": "Wizardry Lord",
 	"fr": "Seigneur de la Sorcellerie",
