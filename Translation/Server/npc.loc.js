@@ -9376,6 +9376,25 @@ locale["npc.241013.name"] = {
 };
 
 
+locale["npc.99999993.name"] = {
+	"en": "",
+	"fr": "",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.99999996.name"] = {
 	"en": "Nice Gluon",
 	"fr": "Gentil Gluon",
@@ -9799,6 +9818,25 @@ locale["npc.600000.interact.GAMBLE_500"] = {
 	"id": ""
 };
 
+locale["npc.99999993.interact.baseText"] = {
+	"en": "Here lies the very first hero that saved Mirelia: Akira Toriyama.<br>He stood up against great dangers to save Mirelia and have been an inspiration for most adventurers, may he rest in peace.",
+	"fr": "Ici repose le tout premier héros qui a sauvé Mirelia : Akira Toriyama.<br>Il a affronté de grands dangers pour sauver Mirelia et a été une source d'inspiration pour la plupart des aventuriers, puisse-t-il reposer en paix.",
+	"es": "",
+	"zh-cn": "这里躺着第一位拯救米瑞莉娅的英雄：鸟山明： 鸟山明<br>他不畏艰险，拯救了米瑞莉娅，激励了大多数冒险家，愿他安息。",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.99999996.interact.SPECIAL_EVENT_1"] = {
 	"en": "[Event] Lend me your power",
 	"fr": "[Evenement] Prête moi ta puissance",
