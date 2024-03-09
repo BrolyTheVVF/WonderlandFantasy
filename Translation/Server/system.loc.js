@@ -2584,6 +2584,25 @@ locale["system.events.DEVIL_TRANSPORT.on.end"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.events.DEVIL_TRANSPORT.on.fail"] = {
+	"en":"{0} failed to escort its goods convoy",
+	"fr":"{0} n'a pas réussi à escorter son convoi de marchandises",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.spirit.none-equiped"] = {
 	"en":"You have no spirit equiped",
