@@ -2833,5 +2833,24 @@ locale["system.talent.learn.need-tree-points"] = {
 //	"th": "",
 //	"id": ""
 //};
+locale["system.abyss.error.noMoreDailyTry"] = {
+	"en":"You have already participated in this challenge today",
+	"fr":"Vous avez déjà participé a ce challenge aujourd'hui",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
