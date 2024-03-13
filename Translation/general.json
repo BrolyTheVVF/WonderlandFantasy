@@ -1215,6 +1215,25 @@
         "th":"",
         "id":""
     },
+    "general.label.weekly":{
+        "en":"Weekly",
+        "fr":"Hebdomadaire",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.label.second":{
         "en":"Second",
         "fr":"Seconde",
