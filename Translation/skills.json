@@ -9823,10 +9823,10 @@
         "id": ""
     },
     "skills.TWB_WILD_ROAR.effect": {
-        "en": "Increases party's Physical Attack, Ranged Attack, and Magic Attack by 150. Lasts 30 sec.",
-        "fr": "Augmente les Dégâts Physiques, la Portée d'Attaque et les Dégâts Magique du groupe de 150. Dure 30 sec.",
+        "en": "Increases party's Enhanced Damage by 15%. Lasts 30 sec.",
+        "fr": "Augmente la stat 'Dégâts Améliorés' du groupe de 15%. Dure 30 sec.",
         "es": "",
-        "zh-cn": "团队的物理攻击、远程攻击和魔法攻击+150，持续30秒。",
+        "zh-cn": "团队的物理攻击、远程攻击和魔法攻击+15%，持续30秒。",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -9834,7 +9834,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng 150 Sát Thương Vật Lý, Tấn Công Tầm Xa, và Đòn Phép Thuật của tổ đội. Có hiệu lực trong 30 giây.",
+        "vi": "Tăng 15% Sát Thương Vật Lý, Tấn Công Tầm Xa, và Đòn Phép Thuật của tổ đội. Có hiệu lực trong 30 giây.",
         "ar": "",
         "it": "",
         "pl": "",
