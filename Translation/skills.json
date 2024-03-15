@@ -3325,8 +3325,8 @@
         "id": ""
     },
     "skills.TMD_OVERDRIVE.effect": {
-        "en": "Increases Enhanced Damage by 60%. Lasts 5 sec.",
-        "fr": "Augmente les Dégâts Améliorés de 60%. Durée 5 sec.",
+        "en": "Increases Enhanced Damage by 40%. Lasts 5 sec.",
+        "fr": "Augmente les Dégâts Améliorés de 40%. Durée 5 sec.",
         "es": "",
         "zh-cn": "伤害提升60%,持续5秒.",
         "zh-tw":"",
