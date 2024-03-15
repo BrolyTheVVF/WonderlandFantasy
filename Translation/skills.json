@@ -10678,10 +10678,10 @@
         "id": ""
     },
     "skills.TWM_SHOCKING_SMASH.effect": {
-        "en": "Enhances Slow effect by 20%. Increases duration by 10 sec.",
-        "fr": "Augmente l'effet de ralentissement de 20%. Augmente la durée de 10 sec",
+        "en": "Enhances Slow effect by 20%. Increases duration by 5 sec.",
+        "fr": "Augmente l'effet de ralentissement de 20%. Augmente la durée de 5 sec",
         "es": "",
-        "zh-cn": "提高20%的减速效果，延长持续时间10秒.",
+        "zh-cn": "提高20%的减速效果，延长持续时间5秒.",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -10689,7 +10689,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng 20% hiệu ứng Làm Chậm. Tăng thời gian thêm 10 giây.",
+        "vi": "Tăng 20% hiệu ứng Làm Chậm. Tăng thời gian thêm 5 giây.",
         "ar": "",
         "it": "",
         "pl": "",
