@@ -10507,63 +10507,6 @@
         "id":""
     },
 	"UI.title.ABYSS_FLOOR_155.name":{
-        "en":"Messenger of Panic",
-        "fr":"Messager de Panique",
-        "es":"",
-        "zh-cn":"",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
-	"UI.title.ABYSS_FLOOR_160.name":{
-        "en":"Dominator of Panic",
-        "fr":"Dominateur de Panique",
-        "es":"",
-        "zh-cn":"",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
-	"UI.title.ABYSS_FLOOR_165.name":{
-        "en":"Fight of Panic",
-        "fr":"Combat de Panique",
-        "es":"",
-        "zh-cn":"",
-        "zh-tw":"",
-        "kr":"",
-        "ru":"",
-        "tr":"",
-        "de":"",
-        "jp":"",
-        "pt":"",
-        "vi":"",
-        "ar":"",
-        "it":"",
-        "pl":"",
-        "th":"",
-        "id":""
-    },
-	"UI.title.ABYSS_FLOOR_170.name":{
         "en":"Eye of Fear",
         "fr":"Œil de Peur",
         "es":"",
@@ -10582,7 +10525,7 @@
         "th":"",
         "id":""
     },
-	"UI.title.ABYSS_FLOOR_175.name":{
+	"UI.title.ABYSS_FLOOR_160.name":{
         "en":"Hands of Fear",
         "fr":"Mains de Peur",
         "es":"",
@@ -10601,7 +10544,7 @@
         "th":"",
         "id":""
     },
-	"UI.title.ABYSS_FLOOR_180.name":{
+	"UI.title.ABYSS_FLOOR_165.name":{
         "en":"Head of Fear",
         "fr":"Tête de Peur",
         "es":"",
@@ -10620,7 +10563,7 @@
         "th":"",
         "id":""
     },
-	"UI.title.ABYSS_FLOOR_185.name":{
+	"UI.title.ABYSS_FLOOR_170.name":{
         "en":"Spirit of Fear",
         "fr":"Esprit de Peur",
         "es":"",
@@ -10639,7 +10582,7 @@
         "th":"",
         "id":""
     },
-	"UI.title.ABYSS_FLOOR_190.name":{
+	"UI.title.ABYSS_FLOOR_175.name":{
         "en":"Soul of Fear",
         "fr":"Âme de Peur",
         "es":"",
@@ -10658,7 +10601,7 @@
         "th":"",
         "id":""
     },
-	"UI.title.ABYSS_FLOOR_195.name":{
+	"UI.title.ABYSS_FLOOR_180.name":{
         "en":"Messenger of Fear",
         "fr":"Messager de Peur",
         "es":"",
@@ -10677,9 +10620,66 @@
         "th":"",
         "id":""
     },
+	"UI.title.ABYSS_FLOOR_185.name":{
+        "en":"Fear Fighter",
+        "fr":"Combatant de la Peur",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+	"UI.title.ABYSS_FLOOR_190.name":{
+        "en":"Fearless",
+        "fr":"Sans Peur",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+	"UI.title.ABYSS_FLOOR_195.name":{
+        "en":"Master of Fear",
+        "fr":"Maitre de la Peur",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
 	"UI.title.ABYSS_FLOOR_200.name":{
-        "en":"Dominator of Fear",
-        "fr":"Dominateur de Peur",
+        "en":"Fearless King",
+        "fr":"Roi sans Peur",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
