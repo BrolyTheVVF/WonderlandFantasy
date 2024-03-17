@@ -4361,6 +4361,25 @@ locale["npc.30501.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.30503.title"] = {
+	"en": "Frost Dragon Egg",
+	"fr": "Oeuf de Dragon de Givre",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.99001.name"] = {
 	"en": "Wizardry Lord",
