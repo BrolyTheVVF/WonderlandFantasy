@@ -702,7 +702,26 @@
         "th":"",
         "id":"Konfirmasi penjualan {0} untuk mendapatkan {1} Emas?"
     },
-   "general.buy":{
+    "general.item.sell.confirm.coupon":{
+        "en":"Confirm sale {0} to get {1} Coupon ?",
+        "fr":"Confirmer vendre {0} pour obtenir {1} Coupon ?",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"П",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
+    "general.buy":{
         "en":"Buy",
         "fr":"Acheter",
         "es":"Comprar",
