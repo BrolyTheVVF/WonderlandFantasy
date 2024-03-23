@@ -4342,7 +4342,7 @@ locale["npc.30020.title"] = {
 	"id": ""
 };
 
-locale["npc.30501.title"] = {
+locale["npc.30501.name"] = {
 	"en": "Infant Unicorn Wolf",
 	"fr": "Bébé Licorne Loup",
 	"es": "",
@@ -4361,7 +4361,7 @@ locale["npc.30501.title"] = {
 	"th": "",
 	"id": ""
 };
-locale["npc.30503.title"] = {
+locale["npc.30503.name"] = {
 	"en": "Frost Dragon Egg",
 	"fr": "Oeuf de Dragon de Givre",
 	"es": "",
