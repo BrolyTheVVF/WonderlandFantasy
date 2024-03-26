@@ -8417,10 +8417,10 @@
         "id": ""
     },
     "skills.TRM_QUICK_REFLEXES.effect": {
-        "en": "Increases Skill Evasion by {0}%",
-        "fr": "Augmente Esquive Compétence de {0}%",
+        "en": "Increases Skill Evasion by ({0}% x Character Lv.)",
+        "fr": "Augmente Esquive Compétence de ({0}% x Nv. Personnage)",
         "es": "",
-        "zh-cn": "技能闪避+ {0}%",
+        "zh-cn": "技能闪避+ ({0}% x Character Lv.)",
         "zh-tw":"",
         "kr": "",
         "ru": "",
@@ -8428,7 +8428,7 @@
         "de": "",
         "jp": "",
         "pt": "",
-        "vi": "Tăng {0}% Né Tránh Kỹ Năng.",
+        "vi": "Tăng ({0}% x Character Lv.) Né Tránh Kỹ Năng.",
         "ar": "",
         "it": "",
         "pl": "",
