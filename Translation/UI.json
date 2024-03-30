@@ -6915,6 +6915,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.group.btn.setLeader":{
+        "en":"Set Leader",
+        "fr":"Définir Leader",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.auto.title":{
         "en":"Auto Mode",
         "fr":"Mode Auto",

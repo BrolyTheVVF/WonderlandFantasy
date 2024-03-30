@@ -37,6 +37,25 @@
         "th":"",
         "id":"Grup"
     },
+    "general.label.raid":{
+        "en":"Raid",
+        "fr":"Raid",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "general.group.receive-request":{
         "en":"Player [{0}] has sent you a group request.",
         "fr":"Le joueur [{0}] vous a envoyé une demande de groupe.",

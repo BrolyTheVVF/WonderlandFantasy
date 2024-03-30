@@ -419,6 +419,44 @@ locale["group.request.groupIsFull"] = {
 	"th": "",
 	"id": "Grup ini sudah penuh."
 };
+locale["group.notice.changedToGroup"] = {
+	"en":"The raid party has been changed to normal party",
+	"fr":"Le groupe est désormais un groupe de normal",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["group.notice.changedToRaid"] = {
+	"en":"The party has been changed to raid party",
+	"fr":"Le groupe est désormais un groupe de raid",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["guild.creation.mustBeLevel"] = {
 	"en":"You must be level {0} to create a guild.",
 	"fr":"Vous devez être niveau {0} pour créer une guilde.",
