@@ -17077,8 +17077,8 @@
 	},
 
 	"item.8006.name":{
-		"en":"Lvl 1 DEF Gem",
-		"fr":"Nv 1 Gemme de DEF",
+		"en":"Lvl 1 Defense Gem",
+		"fr":"Nv 1 Gemme de Défense",
 		"es":"",
 		"zh-cn":"1级防御宝石",
 		"zh-tw":"",
@@ -17096,8 +17096,8 @@
 		"id":""
 	},
 	"item.8007.name":{
-		"en":"Lvl 2 DEF Gem",
-		"fr":"Nv 2 Gemme de DEF",
+		"en":"Lvl 2 Defense Gem",
+		"fr":"Nv 2 Gemme de Défense",
 		"es":"",
 		"zh-cn":"2级防御宝石",
 		"zh-tw":"",
@@ -17115,8 +17115,8 @@
 		"id":""
 	},
 	"item.8008.name":{
-		"en":"Lvl 3 DEF Gem",
-		"fr":"Nv 3 Gemme de DEF",
+		"en":"Lvl 3 Defense Gem",
+		"fr":"Nv 3 Gemme de Défense",
 		"es":"",
 		"zh-cn":"3级防御宝石",
 		"zh-tw":"",
@@ -17134,8 +17134,8 @@
 		"id":""
 	},
 	"item.8009.name":{
-		"en":"Lvl 4 DEF Gem",
-		"fr":"Nv 4 Gemme de DEF",
+		"en":"Lvl 4 Defense Gem",
+		"fr":"Nv 4 Gemme de Défense",
 		"es":"",
 		"zh-cn":"4级防御宝石",
 		"zh-tw":"",
@@ -17153,8 +17153,8 @@
 		"id":""
 	},
 	"item.8010.name":{
-		"en":"Lvl 5 DEF Gem",
-		"fr":"Nv 5 Gemme de DEF",
+		"en":"Lvl 5 Defense Gem",
+		"fr":"Nv 5 Gemme de Défense",
 		"es":"",
 		"zh-cn":"5级防御宝石",
 		"zh-tw":"",
@@ -17173,8 +17173,8 @@
 	},
 
 	"item.8011.name":{
-		"en":"Lvl 1 HOLY_ATK Gem",
-		"fr":"Nv 1 Gemme HOLY_ATK",
+		"en":"Lvl 1 Power Gem",
+		"fr":"Nv 1 Gemme de Puissance",
 		"es":"",
 		"zh-cn":"1级神圣攻击宝石",
 		"zh-tw":"",
@@ -17192,8 +17192,8 @@
 		"id":""
 	},
 	"item.8012.name":{
-		"en":"Lvl 2 HOLY_ATK Gem",
-		"fr":"Nv 2 Gemme HOLY_ATK",
+		"en":"Lvl 2 Power Gem",
+		"fr":"Nv 2 Gemme de Puissance",
 		"es":"",
 		"zh-cn":"2级神圣攻击宝石",
 		"zh-tw":"",
@@ -17211,8 +17211,8 @@
 		"id":""
 	},
 	"item.8013.name":{
-		"en":"Lvl 3 HOLY_ATK Gem",
-		"fr":"Nv 3 Gemme HOLY_ATK",
+		"en":"Lvl 3 Power Gem",
+		"fr":"Nv 3 Gemme de Puissance",
 		"es":"",
 		"zh-cn":"3级神圣攻击宝石",
 		"zh-tw":"",
@@ -17230,8 +17230,8 @@
 		"id":""
 	},
 	"item.8014.name":{
-		"en":"Lvl 4 HOLY_ATK Gem",
-		"fr":"Nv 4 Gemme HOLY_ATK",
+		"en":"Lvl 4 Power Gem",
+		"fr":"Nv 4 Gemme de Puissance",
 		"es":"",
 		"zh-cn":"4级神圣攻击宝石",
 		"zh-tw":"",
@@ -17249,8 +17249,8 @@
 		"id":""
 	},
 	"item.8015.name":{
-		"en":"Lvl 5 HOLY_ATK Gem",
-		"fr":"Nv 5 Gemme HOLY_ATK",
+		"en":"Lvl 5 Power Gem",
+		"fr":"Nv 5 Gemme de Puissance",
 		"es":"",
 		"zh-cn":"5级神圣攻击宝石",
 		"zh-tw":"",
@@ -17269,8 +17269,8 @@
 	},
 
 	"item.8016.name":{
-		"en":"Lvl 1 MP Gem",
-		"fr":"Nv 1 Gemme MP",
+		"en":"Lvl 1 Influx Gem",
+		"fr":"Nv 1 Gemme d'Afflux",
 		"es":"",
 		"zh-cn":"1级MP宝石",
 		"zh-tw":"",
@@ -17288,8 +17288,8 @@
 		"id":""
 	},
 	"item.8017.name":{
-		"en":"Lvl 2 MP Gem",
-		"fr":"Nv 2 Gemme MP",
+		"en":"Lvl 2 Influx Gem",
+		"fr":"Nv 2 Gemme d'Afflux",
 		"es":"",
 		"zh-cn":"2级MP宝石",
 		"zh-tw":"",
@@ -17307,8 +17307,8 @@
 		"id":""
 	},
 	"item.8018.name":{
-		"en":"Lvl 3 MP Gem",
-		"fr":"Nv 3 Gemme MP",
+		"en":"Lvl 3 Influx Gem",
+		"fr":"Nv 3 Gemme d'Afflux",
 		"es":"",
 		"zh-cn":"3级MP宝石",
 		"zh-tw":"",
@@ -17326,8 +17326,8 @@
 		"id":""
 	},
 	"item.8019.name":{
-		"en":"Lvl 4 MP Gem",
-		"fr":"Nv 4 Gemme MP",
+		"en":"Lvl 4 Influx Gem",
+		"fr":"Nv 4 Gemme d'Afflux",
 		"es":"",
 		"zh-cn":"4级MP宝石",
 		"zh-tw":"",
@@ -17345,8 +17345,8 @@
 		"id":""
 	},
 	"item.8020.name":{
-		"en":"Lvl 5 MP Gem",
-		"fr":"Nv 5 Gemme MP",
+		"en":"Lvl 5 Influx Gem",
+		"fr":"Nv 5 Gemme d'Afflux",
 		"es":"",
 		"zh-cn":"5级MP宝石",
 		"zh-tw":"",
@@ -19572,8 +19572,8 @@
 	},
 
 	"item.8126.name":{
-		"en":"Lvl 1 GEM_ANTI_POISON Gem",
-		"fr":"Nv 1 Gemme de GEM_ANTI_POISON",
+		"en":"Lvl 1 Antidote Gem",
+		"fr":"Nv 1 Gemme d'Antidote",
 		"es":"",
 		"zh-cn":"1级解毒宝石",
 		"zh-tw":"",
@@ -19591,8 +19591,8 @@
 		"id":""
 	},
 	"item.8127.name":{
-		"en":"Lvl 2 GEM_ANTI_POISON Gem",
-		"fr":"Nv 2 Gemme de GEM_ANTI_POISON",
+		"en":"Lvl 2 Antidote Gem",
+		"fr":"Nv 2 Gemme d'Antidote",
 		"es":"",
 		"zh-cn":"2级解毒宝石",
 		"zh-tw":"",
@@ -19610,8 +19610,8 @@
 		"id":""
 	},
 	"item.8128.name":{
-		"en":"Lvl 3 GEM_ANTI_POISON Gem",
-		"fr":"Nv 3 Gemme de GEM_ANTI_POISON",
+		"en":"Lvl 3 Antidote Gem",
+		"fr":"Nv 3 Gemme d'Antidote",
 		"es":"",
 		"zh-cn":"3级解毒宝石",
 		"zh-tw":"",
@@ -19629,8 +19629,8 @@
 		"id":""
 	},
 	"item.8129.name":{
-		"en":"Lvl 4 GEM_ANTI_POISON Gem",
-		"fr":"Nv 4 Gemme de GEM_ANTI_POISON",
+		"en":"Lvl 4 Antidote Gem",
+		"fr":"Nv 4 Gemme d'Antidote",
 		"es":"",
 		"zh-cn":"4级解毒宝石",
 		"zh-tw":"",
@@ -19648,8 +19648,8 @@
 		"id":""
 	},
 	"item.8130.name":{
-		"en":"Lvl 5 GEM_ANTI_POISON Gem",
-		"fr":"Nv 5 Gemme de GEM_ANTI_POISON",
+		"en":"Lvl 5 Antidote Gem",
+		"fr":"Nv 5 Gemme d'Antidote",
 		"es":"",
 		"zh-cn":"5级解毒宝石",
 		"zh-tw":"",
@@ -19668,8 +19668,8 @@
 	},
 
 	"item.8131.name":{
-		"en":"Lvl 1 GEM_ANTI_SLOW Gem",
-		"fr":"Nv 1 Gemme de GEM_ANTI_SLOW",
+		"en":"Lvl 1 Energy Gem",
+		"fr":"Nv 1 Gemme d'Energie",
 		"es":"",
 		"zh-cn":"1级防缓慢宝石",
 		"zh-tw":"",
@@ -19687,8 +19687,8 @@
 		"id":""
 	},
 	"item.8132.name":{
-		"en":"Lvl 2 GEM_ANTI_SLOW Gem",
-		"fr":"Nv 2 Gemme de GEM_ANTI_SLOW",
+		"en":"Lvl 2 Energy Gem",
+		"fr":"Nv 2 Gemme d'Energie",
 		"es":"",
 		"zh-cn":"2级防缓慢宝石",
 		"zh-tw":"",
@@ -19706,8 +19706,8 @@
 		"id":""
 	},
 	"item.8133.name":{
-		"en":"Lvl 3 GEM_ANTI_SLOW Gem",
-		"fr":"Nv 3 Gemme de GEM_ANTI_SLOW",
+		"en":"Lvl 3 Energy Gem",
+		"fr":"Nv 3 Gemme d'Energie",
 		"es":"",
 		"zh-cn":"3级防缓慢宝石",
 		"zh-tw":"",
@@ -19725,8 +19725,8 @@
 		"id":""
 	},
 	"item.8134.name":{
-		"en":"Lvl 4 GEM_ANTI_SLOW Gem",
-		"fr":"Nv 4 Gemme de GEM_ANTI_SLOW",
+		"en":"Lvl 4 Energy Gem",
+		"fr":"Nv 4 Gemme d'Energie",
 		"es":"",
 		"zh-cn":"4级防缓慢宝石",
 		"zh-tw":"",
@@ -19744,8 +19744,8 @@
 		"id":""
 	},
 	"item.8135.name":{
-		"en":"Lvl 5 GEM_ANTI_SLOW Gem",
-		"fr":"Nv 5 Gemme de GEM_ANTI_SLOW",
+		"en":"Lvl 5 Energy Gem",
+		"fr":"Nv 5 Gemme d'Energie",
 		"es":"",
 		"zh-cn":"5级防缓慢宝石",
 		"zh-tw":"",
