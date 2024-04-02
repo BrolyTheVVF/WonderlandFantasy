@@ -18708,7 +18708,7 @@
 		"id":""
 	},
 
-	"item.8081.name":{
+	"item.8091.name":{
 		"en":"Lvl 1 Protection Gem",
 		"fr":"Nv 1 Gemme de Protection",
 		"es":"",
@@ -18727,7 +18727,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8082.name":{
+	"item.8092.name":{
 		"en":"Lvl 2 Protection Gem",
 		"fr":"Nv 2 Gemme de Protection",
 		"es":"",
@@ -18746,7 +18746,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8083.name":{
+	"item.8093.name":{
 		"en":"Lvl 3 Protection Gem",
 		"fr":"Nv 3 Gemme de Protection",
 		"es":"",
@@ -18765,7 +18765,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8084.name":{
+	"item.8094.name":{
 		"en":"Lvl 4 Protection Gem",
 		"fr":"Nv 4 Gemme de Protection",
 		"es":"",
@@ -18784,7 +18784,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8085.name":{
+	"item.8095.name":{
 		"en":"Lvl 5 Protection Gem",
 		"fr":"Nv 5 Gemme de Protection",
 		"es":"",
@@ -18804,7 +18804,7 @@
 		"id":""
 	},
 
-	"item.8086.name":{
+	"item.8096.name":{
 		"en":"Lvl 1 Cranel Gem",
 		"fr":"Nv 1 Gemme de Cranel",
 		"es":"",
@@ -18823,7 +18823,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8087.name":{
+	"item.8097.name":{
 		"en":"Lvl 2 Cranel Gem",
 		"fr":"Nv 2 Gemme de Cranel",
 		"es":"",
@@ -18842,7 +18842,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8088.name":{
+	"item.8098.name":{
 		"en":"Lvl 3 Cranel Gem",
 		"fr":"Nv 3 Gemme de Cranel",
 		"es":"",
@@ -18861,7 +18861,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8089.name":{
+	"item.8099.name":{
 		"en":"Lvl 4 Cranel Gem",
 		"fr":"Nv 4 Gemme de Cranel",
 		"es":"",
@@ -18880,7 +18880,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8090.name":{
+	"item.8100.name":{
 		"en":"Lvl 5 Cranel Gem",
 		"fr":"Nv 5 Gemme de Cranel",
 		"es":"",
@@ -18899,7 +18899,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8091.name":{
+	"item.8101.name":{
 		"en":"Lvl 1 Stun Gem",
 		"fr":"Nv 1 Gemme d'Étourdissement",
 		"es":"",
@@ -18918,7 +18918,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8092.name":{
+	"item.8102.name":{
 		"en":"Lvl 2 Stun Gem",
 		"fr":"Nv 2 Gemme d'Étourdissement",
 		"es":"",
@@ -18937,7 +18937,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8093.name":{
+	"item.8103.name":{
 		"en":"Lvl 3 Stun Gem",
 		"fr":"Nv 3 Gemme d'Étourdissement",
 		"es":"",
@@ -18956,7 +18956,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8094.name":{
+	"item.8104.name":{
 		"en":"Lvl 4 Stun Gem",
 		"fr":"Nv 4 Gemme d'Étourdissement",
 		"es":"",
@@ -18975,7 +18975,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8095.name":{
+	"item.8105.name":{
 		"en":"Lvl 5 Stun Gem",
 		"fr":"Nv 5 Gemme d'Étourdissement",
 		"es":"",
@@ -18995,7 +18995,7 @@
 		"id":""
 	},
 
-	"item.8096.name":{
+	"item.8106.name":{
 		"en":"Lvl 1 Paralyze Gem",
 		"fr":"Nv 1 Gemme de Paralysie",
 		"es":"",
@@ -19014,7 +19014,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8097.name":{
+	"item.8107.name":{
 		"en":"Lvl 2 Paralyze Gem",
 		"fr":"Nv 2 Gemme de Paralysie",
 		"es":"",
@@ -19033,7 +19033,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8098.name":{
+	"item.8108.name":{
 		"en":"Lvl 3 Paralyze Gem",
 		"fr":"Nv 3 Gemme de Paralysie",
 		"es":"",
@@ -19052,7 +19052,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8099.name":{
+	"item.8109.name":{
 		"en":"Lvl 4 Paralyze Gem",
 		"fr":"Nv 4 Gemme de Paralysie",
 		"es":"",
@@ -19071,7 +19071,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8100.name":{
+	"item.8110.name":{
 		"en":"Lvl 5 Paralyze Gem",
 		"fr":"Nv 5 Gemme de Paralysie",
 		"es":"",
@@ -19091,7 +19091,7 @@
 		"id":""
 	},
 
-	"item.8101.name":{
+	"item.8111.name":{
 		"en":"Lvl 1 Venom Gem",
 		"fr":"Nv 1 Gemme de Venin",
 		"es":"",
@@ -19110,7 +19110,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8102.name":{
+	"item.8112.name":{
 		"en":"Lvl 2 Venom Gem",
 		"fr":"Nv 2 Gemme de Venin",
 		"es":"",
@@ -19129,7 +19129,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8103.name":{
+	"item.8113.name":{
 		"en":"Lvl 3 Venom Gem",
 		"fr":"Nv 3 Gemme de Venin",
 		"es":"",
@@ -19148,7 +19148,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8104.name":{
+	"item.8114.name":{
 		"en":"Lvl 4 Venom Gem",
 		"fr":"Nv 4 Gemme de Venin",
 		"es":"",
@@ -19167,7 +19167,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8105.name":{
+	"item.8115.name":{
 		"en":"Lvl 5 Venom Gem",
 		"fr":"Nv 5 Gemme de Venin",
 		"es":"",
@@ -19187,7 +19187,7 @@
 		"id":""
 	},
 
-	"item.8106.name":{
+	"item.8116.name":{
 		"en":"Lvl 1 Slow Gem",
 		"fr":"Nv 1 Gemme de Ralentissement",
 		"es":"",
@@ -19206,7 +19206,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8107.name":{
+	"item.8117.name":{
 		"en":"Lvl 2 Slow Gem",
 		"fr":"Nv 2 Gemme de Ralentissement",
 		"es":"",
@@ -19225,7 +19225,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8108.name":{
+	"item.8118.name":{
 		"en":"Lvl 3 Slow Gem",
 		"fr":"Nv 3 Gemme de Ralentissement",
 		"es":"",
@@ -19244,7 +19244,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8109.name":{
+	"item.8119.name":{
 		"en":"Lvl 4 Slow Gem",
 		"fr":"Nv 4 Gemme de Ralentissement",
 		"es":"",
@@ -19263,7 +19263,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8110.name":{
+	"item.8120.name":{
 		"en":"Lvl 5 Slow Gem",
 		"fr":"Nv 5 Gemme de Ralentissement",
 		"es":"",
@@ -19283,7 +19283,7 @@
 		"id":""
 	},
 
-	"item.8111.name":{
+	"item.8121.name":{
 		"en":"Lvl 1 Silence Gem",
 		"fr":"Nv 1 Gemme de Silence",
 		"es":"",
@@ -19302,7 +19302,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8112.name":{
+	"item.8122.name":{
 		"en":"Lvl 2 Silence Gem",
 		"fr":"Nv 2 Gemme de Silence",
 		"es":"",
@@ -19321,7 +19321,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8113.name":{
+	"item.8123.name":{
 		"en":"Lvl 3 Silence Gem",
 		"fr":"Nv 3 Gemme de Silence",
 		"es":"",
@@ -19340,7 +19340,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8114.name":{
+	"item.8124.name":{
 		"en":"Lvl 4 Silence Gem",
 		"fr":"Nv 4 Gemme de Silence",
 		"es":"",
@@ -19359,7 +19359,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8115.name":{
+	"item.8125.name":{
 		"en":"Lvl 5 Silence Gem",
 		"fr":"Nv 5 Gemme de Silence",
 		"es":"",
@@ -19379,7 +19379,7 @@
 		"id":""
 	},
 
-	"item.8116.name":{
+	"item.8126.name":{
 		"en":"Lvl 1 Sober Gem",
 		"fr":"Nv 1 Gemme de sobriété",
 		"es":"",
@@ -19398,7 +19398,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8117.name":{
+	"item.8127.name":{
 		"en":"Lvl 2 Sober Gem",
 		"fr":"Nv 2 Gemme de sobriété",
 		"es":"",
@@ -19417,7 +19417,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8118.name":{
+	"item.8128.name":{
 		"en":"Lvl 3 Sober Gem",
 		"fr":"Nv 3 Gemme de sobriété",
 		"es":"",
@@ -19436,7 +19436,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8119.name":{
+	"item.8129.name":{
 		"en":"Lvl 4 Sober Gem",
 		"fr":"Nv 4 Gemme de sobriété",
 		"es":"",
@@ -19455,7 +19455,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8120.name":{
+	"item.8130.name":{
 		"en":"Lvl 5 Sober Gem",
 		"fr":"Nv 5 Gemme de sobriété",
 		"es":"",
@@ -19475,7 +19475,7 @@
 		"id":""
 	},
 
-	"item.8121.name":{
+	"item.8131.name":{
 		"en":"Lvl 1 Dynamics Gem",
 		"fr":"Nv 1 Gemme de Dynamisme",
 		"es":"",
@@ -19494,7 +19494,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8122.name":{
+	"item.8132.name":{
 		"en":"Lvl 2 Dynamics Gem",
 		"fr":"Nv 2 Gemme de Dynamisme",
 		"es":"",
@@ -19513,7 +19513,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8123.name":{
+	"item.8133.name":{
 		"en":"Lvl 3 Dynamics Gem",
 		"fr":"Nv 3 Gemme de Dynamisme",
 		"es":"",
@@ -19532,7 +19532,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8124.name":{
+	"item.8134.name":{
 		"en":"Lvl 4 Dynamics Gem",
 		"fr":"Nv 4 Gemme de Dynamisme",
 		"es":"",
@@ -19551,7 +19551,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8125.name":{
+	"item.8135.name":{
 		"en":"Lvl 5 Dynamics Gem",
 		"fr":"Nv 5 Gemme de Dynamisme",
 		"es":"",
@@ -19571,7 +19571,7 @@
 		"id":""
 	},
 
-	"item.8126.name":{
+	"item.8136.name":{
 		"en":"Lvl 1 Antidote Gem",
 		"fr":"Nv 1 Gemme d'Antidote",
 		"es":"",
@@ -19590,7 +19590,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8127.name":{
+	"item.8137.name":{
 		"en":"Lvl 2 Antidote Gem",
 		"fr":"Nv 2 Gemme d'Antidote",
 		"es":"",
@@ -19609,7 +19609,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8128.name":{
+	"item.8138.name":{
 		"en":"Lvl 3 Antidote Gem",
 		"fr":"Nv 3 Gemme d'Antidote",
 		"es":"",
@@ -19628,7 +19628,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8129.name":{
+	"item.8139.name":{
 		"en":"Lvl 4 Antidote Gem",
 		"fr":"Nv 4 Gemme d'Antidote",
 		"es":"",
@@ -19647,7 +19647,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8130.name":{
+	"item.8140.name":{
 		"en":"Lvl 5 Antidote Gem",
 		"fr":"Nv 5 Gemme d'Antidote",
 		"es":"",
@@ -19667,7 +19667,7 @@
 		"id":""
 	},
 
-	"item.8131.name":{
+	"item.8141.name":{
 		"en":"Lvl 1 Energy Gem",
 		"fr":"Nv 1 Gemme d'Energie",
 		"es":"",
@@ -19686,7 +19686,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8132.name":{
+	"item.8142.name":{
 		"en":"Lvl 2 Energy Gem",
 		"fr":"Nv 2 Gemme d'Energie",
 		"es":"",
@@ -19705,7 +19705,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8133.name":{
+	"item.8143.name":{
 		"en":"Lvl 3 Energy Gem",
 		"fr":"Nv 3 Gemme d'Energie",
 		"es":"",
@@ -19724,7 +19724,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8134.name":{
+	"item.8144.name":{
 		"en":"Lvl 4 Energy Gem",
 		"fr":"Nv 4 Gemme d'Energie",
 		"es":"",
@@ -19743,7 +19743,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8135.name":{
+	"item.8145.name":{
 		"en":"Lvl 5 Energy Gem",
 		"fr":"Nv 5 Gemme d'Energie",
 		"es":"",
@@ -19763,7 +19763,7 @@
 		"id":""
 	},
 
-	"item.8136.name":{
+	"item.8146.name":{
 		"en":"Lvl 1 Bable Gem",
 		"fr":"Nv 1 Gemme de Bable",
 		"es":"",
@@ -19782,7 +19782,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8137.name":{
+	"item.8147.name":{
 		"en":"Lvl 2 Bable Gem",
 		"fr":"Nv 2 Gemme de Bable",
 		"es":"",
@@ -19801,7 +19801,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8138.name":{
+	"item.8148.name":{
 		"en":"Lvl 3 Bable Gem",
 		"fr":"Nv 3 Gemme de Bable",
 		"es":"",
@@ -19820,7 +19820,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8139.name":{
+	"item.8149.name":{
 		"en":"Lvl 4 Bable Gem",
 		"fr":"Nv 4 Gemme de Bable",
 		"es":"",
@@ -19839,7 +19839,7 @@
 		"th":"",
 		"id":""
 	},
-	"item.8140.name":{
+	"item.8150.name":{
 		"en":"Lvl 5 Bable Gem",
 		"fr":"Nv 5 Gemme de Bable",
 		"es":"",
