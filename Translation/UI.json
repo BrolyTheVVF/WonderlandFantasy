@@ -7694,6 +7694,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.fortify.btn.combine":{
+        "en":"Combine",
+        "fr":"Combiner",
+        "es":"",
+        "zh-cn":"合成",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Dung Hợp",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.mails.title":{
         "en":"Mail",
         "fr":"Courrier",
