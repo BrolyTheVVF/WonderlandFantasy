@@ -6004,8 +6004,8 @@
         "id":""
     },
     "UI.windows.daily_recommended.type.daily_exp.popup_text":{
-        "en":"Buying EXP will grant you 10% EXP of your current level. You can do it only once a day and it will cost {0} Gold.",
-        "fr":"Acheter de l'EXP vous donnera 10% d'EXP de votre niveau actuel. Vous ne pouvez le faire qu'une fois par jour et cela vous coûtera {0} d'or.",
+        "en":"Buying EXP will grant you {1}% EXP of your current level. You can do it only once a day and it will cost {0} Gold.",
+        "fr":"Acheter de l'EXP vous donnera {1}% d'EXP de votre niveau actuel. Vous ne pouvez le faire qu'une fois par jour et cela vous coûtera {0} d'or.",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
