@@ -3825,6 +3825,101 @@ locale["npc.10025.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.10026.name"] = {
+	"en":"Miserable Bunny",
+	"fr":"Lapin Misérable",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10027.name"] = {
+	"en":"Chicken Run",
+	"fr": "Poule Mouillée",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10028.name"] = {
+	"en":"Dumb Boar",
+	"fr":"Sanglier Stupide",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10029.name"] = {
+	"en":"Stinger Rooster",
+	"fr": "Coq à dard",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10030.name"] = {
+	"en":"Mushrooman",
+	"fr": "Champihomme",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.20000.name"] = {
