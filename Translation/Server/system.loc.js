@@ -2147,7 +2147,7 @@ locale["system.events.BATTLEFIELD.registration-started"] = {
 };
 
 locale["system.events.WEREWOLF_HUNT.registration-started"] = {
-	"en":"The wherewolf hunt is starting in {0} minutes, you can now register.",
+	"en":"The werewolf hunt is starting in {0} minutes, you can now register.",
 	"fr":"La chasse des Loup-garou démare dans {0} minutes, vous pouvez désormais vous inscrire.",
 	"es": "",
 	"zh-cn": "狼人狩猎将于 {0} 分钟后开始，您现在就可以报名。",
