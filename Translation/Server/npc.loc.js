@@ -8266,6 +8266,25 @@ locale["npc.600011.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.600013.name"] = {
+	"en": "Surprise Chest",
+	"fr": "Coffre Surprise",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 //** ***************************** **
