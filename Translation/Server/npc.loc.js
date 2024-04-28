@@ -8010,6 +8010,44 @@ locale["npc.100096.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100097.name"] = {
+	"en": "Baruch",
+	"fr": "Baruch",
+	"es": "",
+	"zh-cn":"Baruch",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "Baruch",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100097.title"] = {
+	"en": "Air Force Officer",
+	"fr": "Officier de l'Armée de l'Air",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -9189,6 +9227,63 @@ locale["npc.100081.interact.INSTANCE_60.end.2"] = {
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100097.interact.baseText"] = {
+	"en": "Hi! I'm in charge of crossings to the celestial lands.",
+	"fr": "Salut! C'est moi qui suis responsable des traversé vers les contrées célestes.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100097.interact.GOTO_C6"] = {
+	"en": "Go to Dabura Airport",
+	"fr": "Aller à l'Aéroport de Dabura",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100097.interact.GOTO_C1"] = {
+	"en": "Go to Cain Airport",
+	"fr": "Aller à l'Aéroport de Kane",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
 	"kr": "",
 	"ru": "",
 	"tr": "",
