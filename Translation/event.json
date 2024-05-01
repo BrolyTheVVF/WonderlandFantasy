@@ -113,6 +113,25 @@
         "th":"",
         "id":"Intro"
     },
+    "event.timing":{
+        "en":"Time",
+        "fr":"Horaires",
+        "es":"Horarios",
+        "zh-cn":"时间",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"Zeiten",
+        "jp":"",
+        "pt":"",
+        "vi":"Thời Gian",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "event.LAVA_CORE.title":{
         "en":"Lava Core X 10",
         "fr":"Coeur de lave X 10",
