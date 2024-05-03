@@ -170,6 +170,25 @@
         "th":"",
         "id":""
     },
+    "tooltip.item.spirit.hatch-rate":{
+        "en":"Hatch Rate",
+        "fr":"Taux d'Éclosion",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "tooltip.item.mod-stats":{
         "en":"Mod Stats",
         "fr":"Mod Stats",
