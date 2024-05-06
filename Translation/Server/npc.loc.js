@@ -4781,7 +4781,7 @@ locale["npc.99005.notice.spawn"] = {
 	"id": ""
 };
 locale["npc.99005.notice.death"] = {
-	"en": "Fearless warrior {0} offered the fatal blow against the Soul of the Soul of the Corrupted Emperor. Cain's bishop will be forever in your debt!",
+	"en": "Fearless warrior {0} offered the fatal blow against the Soul of the Corrupted Emperor. Cain's bishop will be forever in your debt!",
 	"fr": "L'intrépide guerrier {0} à porté le coup fatal a l'Âme de l'Empereur Corrompu. L'évêque de Cain vous seras a jamais redevable !",
 	"es": "",
 	"zh-cn": "",
