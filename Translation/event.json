@@ -570,8 +570,8 @@
         "id":""
     },
     "event.MASQUERADE.info.bombs.gaz":{
-        "en":"<b>Gaz Bomb: </b>Deal damages over time equal to {0} percent of the player's per second for {1} seconds",
-        "fr":"<b>Bombe Gaz : </b>Inflige des dégâts sur la durée égaux à {0} pour cent de la valeur du joueur par seconde pendant {1} secondes",
+        "en":"<b>Gaz Bomb: </b>Deal damages over time equal to {0} percent of the player's health per second for {1} seconds",
+        "fr":"<b>Bombe Gaz : </b>Inflige des dégâts sur la durée égaux à {0} pour cent des points de vie du joueur par seconde pendant {1} secondes",
         "es":"",
         "zh-cn":"",
         "zh-tw":"",
