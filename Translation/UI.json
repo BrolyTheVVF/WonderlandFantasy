@@ -11437,6 +11437,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.artifact.title":{
+        "en":"Logs",
+        "fr":"Logs",
+        "es":"",
+        "zh-cn":"日志",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Logs",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.character-selection.create-character":{
         "en":"Create a character",
         "fr":"Créer un personnage",
