@@ -2145,6 +2145,25 @@ locale["system.events.BATTLEFIELD.registration-started"] = {
 	"th": "",
 	"id": ""
 };
+locale["system.events.BATTLEFIELD.uneven"] = {
+	"en":"The registration list was uneven, and you were not added onto a lobby. In compensation, you still got the winning reward.",
+	"fr":"La liste d'inscription était inégale et vous n'avez pas été ajouté à un lobby. En contrepartie, vous avez tout de même reçu la récompense gagnante.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["system.events.WEREWOLF_HUNT.registration-started"] = {
 	"en":"The werewolf hunt is starting in {0} minutes, you can now register.",
