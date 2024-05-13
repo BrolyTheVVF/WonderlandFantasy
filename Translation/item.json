@@ -15,7 +15,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"หมวก",
         "id":"Helm"
     },
     "item.type.body":{
@@ -34,7 +34,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"เกาะ",
         "id":"Zirah"
     },
     "item.type.costume":{
@@ -53,7 +53,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"ชุด",
         "id":""
     },
     "item.type.hand":{
@@ -72,7 +72,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"ถุงมือ",
         "id":"Sarung tangan"
     },
     "item.type.weapon":{
@@ -91,7 +91,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"อาวุธ",
         "id":"Senjata"
     },
     "item.type.foot":{
@@ -110,7 +110,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"รองเท้า",
         "id":"Kaki"
     },
     "item.type.neck":{
@@ -129,7 +129,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"สร้อยคอ",
         "id":"Kalung"
     },
     "item.type.ring":{
@@ -148,7 +148,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"แหวน",
         "id":"Cincin"
     },
     "item.type.belt":{
@@ -167,7 +167,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"เข็มขัด",
         "id":"Sabuk"
     },
     "item.type.back":{
@@ -186,7 +186,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"ผ้าคลุม",
         "id":"Mantel"
     },
     "item.type.mount":{
@@ -205,7 +205,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"สัตว์ขี่",
         "id":"Tunggangan"
     },
     "item.type.spirit":{
@@ -224,7 +224,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"วิญญาณ",
         "id":"Roh"
     },
     "item.type.book":{
@@ -243,7 +243,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"หนังสือ",
         "id":"Buku"
     },
     "item.type.spirit-book":{
@@ -262,7 +262,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"หนังสือวิญญาณ",
         "id":"Roh Buku"
     },
     "item.type.potion":{
@@ -281,7 +281,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"ยา",
         "id":"Ramuan"
     },
     "item.type.essence":{
@@ -319,7 +319,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"ปีก",
         "id":"Sayap"
     },
     "item.type.hair":{
@@ -338,7 +338,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"ผม",
         "id":"Rambut"
     },
     "item.type.quest":{
@@ -395,7 +395,7 @@
         "ar":"",
         "it":"",
         "pl":"",
-        "th":"",
+        "th":"รูน",
         "id":""
     },
     "item.type.material":{
