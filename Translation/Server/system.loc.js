@@ -2086,6 +2086,26 @@ locale["system.events.cantRegister"] = {
 	"id": ""
 };
 
+locale["system.events.registered-in-another"] = {
+	"en":"You already are registered for another event",
+	"fr":"Vous êtes déjà enregistré pour un autre événement",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["system.events.another-character-registered"] = {
 	"en":"You already have a character registered for this event",
 	"fr":"Vous avez déjà un personnage enregistré pour cet événement",
