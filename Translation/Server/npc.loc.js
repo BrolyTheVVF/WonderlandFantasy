@@ -3844,7 +3844,7 @@ locale["npc.201.name"] = {
 	"id": ""
 };
 locale["npc.202.name"] = {
-	"en": "Undead Pharao",
+	"en": "Undead Pharaoh",
 	"fr": "Pharaon mort-vivant",
 	"es": "",
 	"zh-cn": "",
