@@ -815,7 +815,7 @@ locale["system.elements.requires-exp"] = {
 	"de": "Sie brauchen {0} Element-Exp, um das nächste Level zu erreichen.",
 	"jp": "",
 	"pt": "",
-	"vi": "Bạn cần {0} điểm kinh nghiệm nguyên tố để nâng lên cấp tiếp thep.",
+	"vi": "Bạn cần {0} EXP nguyên tố để nâng lên cấp tiếp thep.",
 	"ar": "",
 	"it": "",
 	"pl": "",
