@@ -16943,6 +16943,25 @@
         "th":"",
         "id":"Ramuan Mana Besar"
     },
+    "item.7103.name":{
+        "en":"Endless Magic Potion",
+        "fr":"Potion de Mana Infinie",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "item.7150.name":{
         "en":"Instant Magic Flask",
         "fr":"Flacon de Mana Instantané",
