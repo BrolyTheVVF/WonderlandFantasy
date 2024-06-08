@@ -3958,6 +3958,25 @@ locale["npc.207.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.208.name"] = {
+	"en": "Buffed Mechanical Manticore",
+	"fr": "Manticore Mécanique Renforcée",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.10000.name"] = {
