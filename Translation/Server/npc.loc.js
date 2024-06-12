@@ -5448,6 +5448,45 @@ locale["npc.99006.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99006.notice.spawn"] = {
+	"en": "Les éclaireurs de Kane ont trouvé la Reine Nagar, elle est retourné siéger sur son throne! L'évêque de Kane appelle à l'aide, il est temps de mettre un terme à sa folie !",
+	"fr": "Cane's scouts have found the Nagar Queen, she's returned to sit on her throne! Kane's bishop calls for help, it's time to put an end to her madness!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99006.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against the Queen Nagar. The Nagars are finally free of her tyranny!",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal a l'Âme de l'Empereur Corrompu. Les Nagars sont enfin libérés de sa tyrannie !",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.99007.name"] = {
 	"en": "Subject Seurat",
 	"fr": "Sujet Seurat",
