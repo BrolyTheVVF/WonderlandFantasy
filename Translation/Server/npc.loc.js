@@ -11157,6 +11157,82 @@ locale["npc.99005.event.enrage"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.99006.event.starting_talk"] = {
+	"en":"Who dares enter the throne room without an invitation? Flee, poor planktons!",
+	"fr":"Qui ose pénétrer dans la salle du trône sans invitation ? Fuyez, pauvres planctons!",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.99006.event.casting_skill_1"] = {
+	"en":"Wind of Hellen, take away the enemy soul!",
+	"fr":"Vent d'Hellen, emporte l'âme de l'ennemi !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.99006.event.casting_skill_2"] = {
+	"en":"Brave Nagar warriors, it’s time to take revenge!",
+	"fr":"Braves guerriers Nagar, il est temps de prendre votre revanche !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.99006.event.enrage"] = {
+	"en":"You're on my territory, and I'm going to show you the true power of the ocean!",
+	"fr":"Vous êtes sur mon territoire, et je vais vous montrer ce qu'est la vraie puissance de l'océan!",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 
