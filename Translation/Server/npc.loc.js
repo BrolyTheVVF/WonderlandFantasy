@@ -5582,6 +5582,25 @@ locale["npc.99502.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99503.name"] = {
+	"en": "Queen's Servant",
+	"fr": "Servante Royale",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 
 locale["npc.100001.name"] = {
