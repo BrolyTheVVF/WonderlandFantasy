@@ -5449,8 +5449,8 @@ locale["npc.99006.name"] = {
 	"id": ""
 };
 locale["npc.99006.notice.spawn"] = {
-	"en": "Les éclaireurs de Kane ont trouvé la Reine Nagar, elle est retourné siéger sur son throne! L'évêque de Kane appelle à l'aide, il est temps de mettre un terme à sa folie !",
-	"fr": "Cane's scouts have found the Nagar Queen, she's returned to sit on her throne! Kane's bishop calls for help, it's time to put an end to her madness!",
+	"en": "Cane's scouts have found the Nagar Queen, she's returned to sit on her throne! Kane's bishop calls for help, it's time to put an end to her madness!",
+	"fr": "Les éclaireurs de Kane ont trouvé la Reine Nagar, elle est retourné siéger sur son throne! L'évêque de Kane appelle à l'aide, il est temps de mettre un terme à sa folie !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
