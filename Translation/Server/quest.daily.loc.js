@@ -12551,7 +12551,7 @@ locale["quest.40137.name"] = {
 	"id": ""
 };
 locale["quest.40137.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='177'>Katrul Archer</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='177'>Katrul Archer</span> at Border Town, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -12628,7 +12628,7 @@ locale["quest.40138.name"] = {
 	"id": ""
 };
 locale["quest.40138.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='178'>Sky Slime</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='178'>Sky Slime</span> at the Plain of Clouds, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -12705,7 +12705,7 @@ locale["quest.40139.name"] = {
 	"id": ""
 };
 locale["quest.40139.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='179'>Golden Dragon's Offspring</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='179'>Golden Dragon's Offspring</span> at the Plain of Clouds, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -12782,7 +12782,7 @@ locale["quest.40140.name"] = {
 	"id": ""
 };
 locale["quest.40140.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='180'>Agile Hornwolf</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='180'>Agile Hornwolf</span> at the Ancient Woodland, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -12859,7 +12859,7 @@ locale["quest.40141.name"] = {
 	"id": ""
 };
 locale["quest.40141.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='181'>Rafflesia</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='181'>Rafflesia</span> at Ancient Woodland, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -12936,7 +12936,7 @@ locale["quest.40142.name"] = {
 	"id": ""
 };
 locale["quest.40142.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='182'>Steel Gorilla</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='182'>Steel Gorilla</span> at the Railway, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13013,7 +13013,7 @@ locale["quest.40143.name"] = {
 	"id": ""
 };
 locale["quest.40143.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='183'>Katrul Knight</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='183'>Katrul Knight</span> at the Railway, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13090,7 +13090,7 @@ locale["quest.40144.name"] = {
 	"id": ""
 };
 locale["quest.40144.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='184'>Golden Dragon</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='184'>Golden Dragon</span> at the Fairy Prairie, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13167,7 +13167,7 @@ locale["quest.40145.name"] = {
 	"id": ""
 };
 locale["quest.40145.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='185'>Brown Steel Gorilla</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='185'>Brown Steel Gorilla</span> at the Fairy Prairie, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13244,7 +13244,7 @@ locale["quest.40146.name"] = {
 	"id": ""
 };
 locale["quest.40146.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='186'>Fairy Moth</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='186'>Fairy Moth</span> at the Fairy Prairie, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13321,7 +13321,7 @@ locale["quest.40147.name"] = {
 	"id": ""
 };
 locale["quest.40147.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='187'>Flying Bomb</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='187'>Flying Bomb</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13398,7 +13398,7 @@ locale["quest.40148.name"] = {
 	"id": ""
 };
 locale["quest.40148.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='188'>Steel Gorilla Ultima</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='188'>Steel Gorilla Ultima</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13475,7 +13475,7 @@ locale["quest.40149.name"] = {
 	"id": ""
 };
 locale["quest.40149.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='189'>Castle Defender</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='189'>Castle Defender</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13552,7 +13552,7 @@ locale["quest.40150.name"] = {
 	"id": ""
 };
 locale["quest.40150.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='190'>Toy Slime</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='190'>Toy Slime</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13629,7 +13629,7 @@ locale["quest.40151.name"] = {
 	"id": ""
 };
 locale["quest.40151.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='191'>Iron Soldier</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='191'>Iron Soldier</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13706,7 +13706,7 @@ locale["quest.40152.name"] = {
 	"id": ""
 };
 locale["quest.40152.texts.objective"] = {
-	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='192'>Explosive Beetle</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat some <span class='text-link' data-target-type='mob' data-target-id='192'>Explosive Beetle</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13783,7 +13783,7 @@ locale["quest.40153.name"] = {
 	"id": ""
 };
 locale["quest.40153.texts.objective"] = {
-	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='199'>King Assault Captain</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='199'>King Assault Captain</span> at the Border Town, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13860,7 +13860,7 @@ locale["quest.40154.name"] = {
 	"id": ""
 };
 locale["quest.40154.texts.objective"] = {
-	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='200'>Mechanical Manticore</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='200'>Mechanical Manticore</span> at the Railway, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -13937,7 +13937,7 @@ locale["quest.40155.name"] = {
 	"id": ""
 };
 locale["quest.40155.texts.objective"] = {
-	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='201'>Scythie</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='201'>Scythie</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
@@ -14014,7 +14014,7 @@ locale["quest.40156.name"] = {
 	"id": ""
 };
 locale["quest.40156.texts.objective"] = {
-	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='202'>Undead Pharaoh</span> at Halo Township, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
+	"en": "Defeat the <span class='text-link' data-target-type='mob' data-target-id='202'>Undead Pharaoh</span> at the Machinery Factory, then report to the <span class='text-link' data-target-type='npc' data-target-id='100036'>Quest Agent</span>.",
 	"fr": "",
 	"es": "",
 	"zh-cn": "",
