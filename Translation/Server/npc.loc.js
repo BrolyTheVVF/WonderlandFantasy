@@ -11233,6 +11233,25 @@ locale["npc.99006.event.casting_skill_2"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.99006.event.casting_skill_3"] = {
+	"en":"May the tide take you away!",
+	"fr":"Que la marée vous emporte !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 locale["npc.99006.event.enrage"] = {
 	"en":"You're on my territory, and I'm going to show you the true power of the ocean!",
 	"fr":"Vous êtes sur mon territoire, et je vais vous montrer ce qu'est la vraie puissance de l'océan!",
