@@ -10542,6 +10542,25 @@ locale["npc.100029.interact.GOTO_SLIME_KGDM"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100029.interact.GOTO_STORM_ARRAY"] = {
+	"en": "Enter Storm Array",
+	"fr": "Entrer dans L'œil du cyclone",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 locale["npc.100036.interact.GET_DAILY_QUEST"] = {
 	"en": "Get Daily Quests",
 	"fr": "Obtenez les quêtes quotidiennes",
