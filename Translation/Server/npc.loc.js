@@ -5469,7 +5469,7 @@ locale["npc.99006.notice.spawn"] = {
 };
 locale["npc.99006.notice.death"] = {
 	"en": "Fearless warrior {0} offered the fatal blow against the Queen Nagar. The Nagars are finally free of her tyranny!",
-	"fr": "L'intrépide guerrier {0} à porté le coup fatal a l'Âme de l'Empereur Corrompu. Les Nagars sont enfin libérés de sa tyrannie !",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal a la Reine Nagar. Les Nagars sont enfin libérés de sa tyrannie !",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
@@ -5506,6 +5506,45 @@ locale["npc.99007.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.99007.notice.spawn"] = {
+	"en": "Seurat in the Ice House Basement is waking up. Wicked Variant goes mad again! He woke up and roared: Ah!!!",
+	"fr": "Seurat dans le sous-sol de la Maison de Glace se réveille. Le variant pervertis redevient fou ! Il se réveille et rugit : Ah !!!",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.99007.notice.death"] = {
+	"en": "Fearless warrior {0} offered the fatal blow against the Subject Seurat. Silence reigns once again in the Ice House.",
+	"fr": "L'intrépide guerrier {0} à porté le coup fatal au Sujet Seurat. Le silence reigne de nouveau dans la Maison de Glace.",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw": "",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+
 locale["npc.99008.name"] = {
 	"en": "Earth Dragon Anglas",
 	"fr": "Dragon de Terre Anglas",
@@ -11255,6 +11294,64 @@ locale["npc.99006.event.casting_skill_3"] = {
 locale["npc.99006.event.enrage"] = {
 	"en":"You're on my territory, and I'm going to show you the true power of the ocean!",
 	"fr":"Vous êtes sur mon territoire, et je vais vous montrer ce qu'est la vraie puissance de l'océan!",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+
+locale["npc.99007.event.starting_talk"] = {
+	"en":"Who dares come before me without being invited! You shall all die!",
+	"fr":"Qui ose se présenter devant moi sans y être invité ! Vous mourrez tous !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.99007.event.casting_skill_1"] = {
+	"en":"Smash !",
+	"fr":"Démolition !",
+	"es":"",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr":"",
+	"ru":"",
+	"tr":"",
+	"de":"",
+	"jp":"",
+	"pt":"",
+	"vi":"",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.99007.event.enrage"] = {
+	"en":"You woke me up once again, master, lend me some more power!",
+	"fr":"Vous m'avez réveillé une fois de plus, maître, donnez-moi un peu plus de puissance !",
 	"es":"",
 	"zh-cn":"",
 	"zh-tw":"",
