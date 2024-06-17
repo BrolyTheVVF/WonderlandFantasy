@@ -1804,6 +1804,25 @@
         "th":"",
         "id":""
     },
+    "map.C3_Anglas_Hideout.name":{
+        "en":"Anglas Hideout",
+        "fr":"Cachette d'Anglas",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "map.C4_Maelstorm.name":{
         "en":"Maelstrom",
         "fr":"Maelstrom",
@@ -3779,6 +3798,25 @@
         "pl":"",
         "th":"",
         "id":"Molten Arena"
+    },
+    "map.S_Storm_Array.name":{
+        "en":"Storm Array",
+        "fr":"Chaîne de Tempêtes",
+        "es":"",
+        "zh-cn":"",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
     },
     "map.SE_Battlefield_SpawnA.name":{
         "en":"Battlefield - Blue Team",
