@@ -4549,6 +4549,101 @@ locale["npc.10030.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.10031.name"] = {
+	"en": "Halo Gladiator",
+	"fr": "Gladiateur de Halo",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10032.name"] = {
+	"en": "Puppet Gladiator",
+	"fr": "Marionnette Gladiateur",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10033.name"] = {
+	"en": "Halo Guard Captain",
+	"fr": "Capitaine de la garde de Halo",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10034.name"] = {
+	"en": "Dark Knight",
+	"fr": "Chevalier Noir",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10035.name"] = {
+	"en": "Cursed Champion",
+	"fr": "Champion Maudit",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.20000.name"] = {
@@ -8774,6 +8869,25 @@ locale["npc.100097.title"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.100098.name"] = {
+	"en": "Arena Referee",
+	"fr": "Arbitre de l'arène",
+	"es": "",
+	"zh-cn":"",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.300001.name"] = {"en": "","fr": "","es": "","zh-cn":"","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "","ar": "","it": "","pl": "","th": "","id": ""};
 
@@ -10497,6 +10611,25 @@ locale["npc.100029.interact.GOBACK_CONTINENT_5"] = {
 	"jp": "",
 	"pt": "",
 	"vi": "???? (Cấp 70)",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.100029.interact.GOBACK_CONTINENT_6"] = {
+	"en": "Go back to Rebel Camp (Lv 80)",
+	"fr": "Retourner au Camp des Rebeles (Nv 80)",
+	"es": "",
+	"zh-cn": "???? (Lv 80)",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "???? (Cấp 80)",
 	"ar": "",
 	"it": "",
 	"pl": "",
