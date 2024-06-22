@@ -5121,6 +5121,63 @@ locale["npc.20038.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20050.name"] = {
+	"en": "Guard Bomb",
+	"fr": "Bombe Guardienne",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20051.name"] = {
+	"en": "Armored Guard Slime",
+	"fr": "Slime Guarde en Armure",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20053.name"] = {
+	"en": "Katrul Marksman Captain",
+	"fr": "Capitaine Tireur d'Élite Katrul",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.30020.name"] = {
 	"en": "Hozen Brutz",
