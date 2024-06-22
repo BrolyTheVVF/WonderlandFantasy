@@ -4644,6 +4644,44 @@ locale["npc.10035.name"] = {
 	"th":"",
 	"id":""
 };
+locale["npc.10037.name"] = {
+	"en": "Storm Lord",
+	"fr": "Seigneur des Tempêtes",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
+locale["npc.10038.name"] = {
+	"en": "Thunder King",
+	"fr": "Roi du Tonnerre",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar":"",
+	"it":"",
+	"pl":"",
+	"th":"",
+	"id":""
+};
 
 
 locale["npc.20000.name"] = {
