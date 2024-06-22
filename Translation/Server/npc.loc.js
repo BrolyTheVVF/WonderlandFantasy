@@ -5178,6 +5178,63 @@ locale["npc.20053.name"] = {
 	"th": "",
 	"id": ""
 };
+locale["npc.20054.name"] = {
+	"en": "Multipurpose Alarm",
+	"fr": "Alarme Multifonction",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20055.name"] = {
+	"en": "Automated Guard Manticore",
+	"fr": "Garde Manticore Automatron",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["npc.20056.name"] = {
+	"en": "Bionic Feral Ape",
+	"fr": "Singe Sauvage Bionique",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 locale["npc.30020.name"] = {
 	"en": "Hozen Brutz",
