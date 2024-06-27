@@ -7333,6 +7333,25 @@
         "th":"",
         "id":""
     },
+    "UI.windows.rankings.btn.servant":{
+        "en":"Servant",
+        "fr":"Serviteur",
+        "es":"",
+        "zh-cn":"仆人",
+        "zh-tw":"",
+        "kr":"",
+        "ru":"",
+        "tr":"",
+        "de":"",
+        "jp":"",
+        "pt":"",
+        "vi":"Đầy Tớ",
+        "ar":"",
+        "it":"",
+        "pl":"",
+        "th":"",
+        "id":""
+    },
     "UI.windows.rankings.rules.title":{
         "en":"Ranking Rules",
         "fr":"Règles",
