@@ -114,5 +114,43 @@ locale["WAC.notice.event-ban.cant-enter"] = {
 	"th": "",
 	"id": ""
 };
+locale["WAC.notice.chat-ban.temporary-ban"] = {
+	"en": "WAC: You have been banned from using the chat and mail system until {0} for the following reason : {1}",
+	"fr": "WAC: Vous avez été interdit d'utiliser le système de chat et de courrier jusqu'au {0} pour la raison suivante : {1}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
+locale["WAC.notice.chat-ban.permanent-ban"] = {
+	"en": "WAC: You have been banned from using the chat and mail system permanently for the following reason : {1}",
+	"fr": "WAC: Vous avez été interdit d'utiliser le système de chat et de courrier de manière permanente pour la raison suivante : {1}",
+	"es": "",
+	"zh-cn": "",
+	"zh-tw":"",
+	"kr": "",
+	"ru": "",
+	"tr": "",
+	"de": "",
+	"jp": "",
+	"pt": "",
+	"vi": "",
+	"ar": "",
+	"it": "",
+	"pl": "",
+	"th": "",
+	"id": ""
+};
 
 exports.locale = locale;
